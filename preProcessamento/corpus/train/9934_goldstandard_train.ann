@@ -18,7 +18,7 @@ T17	Tratamento 707 717	salbutamol
 T18	Tratamento 720 730	budesonida
 T19	Tratamento 737 756	outros medicamentos
 T20	Problema 764 823	mal estar com café, chas, chocolates, refrigerantes de cola
-T21	Problema 837 848;852 865;868 891	palpitações inicio súbito desaparecimento gradual
+T21	Problema 837 848;852 865	palpitações inicio súbito
 T22	Problema 899 919	paracoccidioiomicose
 T23	Tratamento 559 567	dipirona
 T24	Tratamento 954 968	amigdalectomia
