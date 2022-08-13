@@ -1,0 +1,44 @@
+T1	Tratamento 62 94	Troca de valva aórtica biológica
+T2	Problema 99 102	EAo
+T3	Problema 114 128	FA paroxística
+T4	Problema 132 135	HAS
+T5	Problema 139 148	DM tipo 2
+T6	Problema 152 164	Ex-tabagista
+T7	Tratamento 221 236	Carvedilol 25mg
+T8	Tratamento 248 262	Omeprazol 20mg
+T9	Tratamento 269 287	Atorvastatina 40mg
+T10	Tratamento 294 305	Maraven 5mg
+T11	Tratamento 312 328	Metformina 850mg
+T12	Tratamento 340 355	Gliclazida 30mg
+T13	Teste 365 377	Ecocardio TT
+T14	Problema 390 429	VE com hipetrofia excentrica importante
+T15	Problema 471 498	disfunção diastólica grau I
+T16	Problema 524 553	Insuficiência mitral discreta
+T17	Problema 611 619	estenose
+T18	Teste 623 626	ECG
+T19	Problema 639 675	eixo de QRS desviado para a esquerda
+T20	Problema 677 680	BRD
+T21	Problema 682 701	bradicardia sinusal
+T23	Tratamento 885 894	medicação
+T24	Teste 953 955	PA
+T25	Teste 965 967	FC
+T26	Teste 973 975	FR
+T27	Teste 981 986	SatO2
+T28	Problema 1047 1049	RA
+T29	Problema 1071 1106	sopro sistólico em foco Ao de 2+/6+
+T30	Problema 1108 1114;1155 1171	Abdome massas palpáveis
+T31	Problema 1173 1177;1183 1188	MMII edema
+T32	Tratamento 1219 1244	Válvula aórtica biológica
+T33	Problema 1247 1261	FA paroxística
+T34	Problema 1359 1370	bradicardia
+T35	Tratamento 1303 1323	carvedilol para 25mg
+T36	Anatomia 71 84	valva aórtica
+T37	Anatomia 390 392	VE
+T38	Anatomia 538 544	mitral
+T39	Anatomia 500 502	AE
+T40	Anatomia 505 514	câmeras D
+T41	Anatomia 1090 1097	foco Ao
+T42	Anatomia 1108 1114	Abdome
+T43	Anatomia 1173 1177	MMII
+T44	Anatomia 1227 1234	aórtica
+T22	Problema 771 795	tontura ao fazer esforço

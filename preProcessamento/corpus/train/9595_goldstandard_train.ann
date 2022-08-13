@@ -1,0 +1,35 @@
+T1	Problema 60 63	HAS
+T2	Problema 66 95	ABLAÇÃO DE TAQUICARDIA ATRIAL
+T3	Teste 123 134	CATETERISMO
+T4	Problema 151 165	CORONARIOPATIA
+T5	Tratamento 193 207	ATENOLOL 100MG
+T6	Tratamento 216 230	DILTIAZEN 60MG
+T7	Tratamento 237 251	ENALAPRIL 10MG
+T8	Tratamento 260 269	HCTZ 25MG
+T9	Tratamento 271 284	MAREVAN 7,5MG
+T10	Teste 351 357	exames
+T11	Teste 359 362	Lab
+T12	Teste 372 374	PU
+T13	Teste 380 382	HG
+T14	Teste 388 393	Hb1AC
+T15	Teste 399 401	Cr
+T16	Teste 408 411	HDL
+T17	Teste 417 419	Ur
+T18	Teste 425 427	TG
+T19	Teste 433 436	LDL
+T20	Teste 443 447	Glic
+T21	Teste 453 455	CT
+T22	Teste 462 464	AU
+T23	Teste 471 474	T4l
+T24	Teste 482 485	TSH
+T25	Teste 493 502	PSA total
+T26	Teste 508 514	Holter
+T27	Teste 532 535	ETT
+T28	Problema 562 589	Disfunção diastólica grau I
+T29	Teste 624 626	FC
+T30	Teste 631 633	PA
+T31	Problema 648 650	ss
+T32	Tratamento 706 713	marevan
+T33	Tratamento 715 734	demais medicamentos
+T35	Anatomia 545 547	AE
+T34	Anatomia 89 95	ATRIAL

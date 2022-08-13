@@ -1,0 +1,48 @@
+T1	Problema 74 81	queixas
+T2	Problema 95 103	dispneia
+T3	Problema 105 116	palpitações
+T4	Problema 118 130	dor toracica
+T5	Problema 161 174	Edema matinal
+T6	Problema 205 239	cardiomiopatia dilatada idiopatica
+T7	Problema 242 259	fibrilação atrial
+T8	Problema 262 274	Comorbidades
+T9	Problema 276 279	HAS
+T10	Problema 281 283	DM
+T11	Problema 286 290	gota
+T12	Tratamento 310 325	furosemida 40mg
+T13	Tratamento 339 354	digoxina 0,25mg
+T14	Tratamento 365 380	carvedilol 25mg
+T15	Tratamento 391 406	monocordil 20mg
+T16	Tratamento 417 433	hidralazina 25mg
+T17	Tratamento 444 460	alopurinol 300mg
+T18	Tratamento 471 487	colchicina 0,5mg
+T19	Problema 492 495	dor
+T20	Tratamento 497 508	marevan 5mg
+T21	Tratamento 553 569	metformina 850mg
+T22	Tratamento 618 629	transplante
+T23	Teste 663 667	CATE
+T24	Problema 703 721	doença coronariana
+T25	Problema 737 756	insuficiência renal
+T26	Tratamento 776 808	Herniorrafia de parede abdominal
+T27	Problema 810 837	sangramento retroperitoneal
+T28	Problema 842 861	discrasia sanguinea
+T29	Problema 885 894	tabagismo
+T30	Problema 897 905	etilismo
+T31	Problema 907 917	sedentário
+T32	Teste 1022 1028	Exames
+T33	Problema 1030 1050	Leucocitose discreta
+T34	Teste 1062 1073	segmentados
+T35	Teste 1080 1085	Ureia
+T36	Teste 1091 1093	Cr
+T37	Teste 1100 1111	Acido urico
+T38	Teste 1118 1123	Sodio
+T39	Teste 1130 1131	K
+T40	Teste 1139 1152	TFG (CKD-EPI)
+T41	Problema 134 159	outros sintomas cardíacos
+T42	Anatomia 792 808	parede abdominal
+T43	Anatomia 122 130	toracica
+T44	Anatomia 150 159	cardíacos
+T45	Anatomia 253 259	atrial
+T46	Anatomia 710 721	coronariana
+T47	Anatomia 751 756	renal
+T48	Anatomia 822 837	retroperitoneal

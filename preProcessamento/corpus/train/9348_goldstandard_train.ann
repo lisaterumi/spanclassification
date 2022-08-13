@@ -1,0 +1,24 @@
+T1	Tratamento 43 57	Plastia Mitral
+T2	Problema 60 73	Insuficiencia
+T3	Tratamento 77 80	CRM
+T4	Tratamento 120 127	AAS 100
+T5	Tratamento 135 149	Metoprolol  25
+T6	Tratamento 156 159	FSM
+T7	Tratamento 167 183	Levotiroxina 175
+T8	Tratamento 191 199	Sinva 40
+T9	Tratamento 206 219	Fluoxetina 20
+T10	Problema 244 252;283 306	dispneia mdoeardos-leves esforço
+T11	Tratamento 263 265	cx
+T12	Problema 308 344	Discreto edema mmii pricn a esquerda
+T13	Problema 350 360	palpitação
+T14	Problema 361 388	Dor a movimentação do torax
+T15	Problema 408 418	ruidos adv
+T16	Problema 439 445	sopros
+T17	Teste 447 449	PA
+T18	Teste 463 464	P
+T19	Teste 474 476	Fr
+T20	Teste 501 510	Ecocardio
+T21	Teste 513 516	lab
+T22	Anatomia 51 57	Mitral
+T23	Anatomia 323 327	mmii
+T24	Anatomia 383 388	torax

@@ -1,0 +1,20 @@
+T1	Tratamento 69 103	valvuloplastia mitral e tricúspide
+T2	Problema 118 121	IRC
+T3	Tratamento 128 135	diálise
+T4	Tratamento 159 176	transplante renal
+T5	Teste 201 223	avaliação cardiológica
+T6	Tratamento 229 246	transplante renal
+T7	Problema 247 259	Comorbidades
+T8	Problema 261 286	Dopença renal policística
+T9	Problema 300 303	HAS
+T10	Problema 305 313	diabetes
+T11	Tratamento 315 327	Medicamentos
+T12	Tratamento 329 343	Renagel 800 mg
+T13	Tratamento 351 376	Cabornato de cálcio 500mg
+T14	Teste 405 408	ECO
+T15	Anatomia 84 90	mitral
+T16	Anatomia 93 103	tricúspide
+T17	Anatomia 171 176	renal
+T18	Anatomia 241 246	renal
+T19	Anatomia 269 274	renal
+T20	Anatomia 211 223	cardiológica

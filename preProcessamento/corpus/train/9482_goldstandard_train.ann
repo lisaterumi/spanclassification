@@ -1,0 +1,56 @@
+T1	Teste 200 206	exames
+T2	Problema 246 266	mudança nos sintomas
+T3	Problema 285 314	dispneia aos mínimos esforços
+T4	Problema 316 319	ICC
+T5	Problema 345 347	TB
+T6	Tratamento 362 372	tratamento
+T7	Tratamento 396 423	cirurgia de ponte de safena
+T8	Problema 460 479	infecção hospitalar
+T9	Tratamento 499 519	transfusão de sangue
+T10	Tratamento 525 538	3 cateterismo
+T11	Tratamento 569 595	cirurgia de apendicectomia
+T12	Tratamento 620 640	ressecção intestinal
+T13	Problema 677 698	disturbio do potassio
+T14	Problema 732 761	DM TIPO 2 INSULINO-DEPENDENTE
+T15	Problema 764 767	IAM
+T16	Tratamento 770 773	RVM
+T17	Problema 788 799	EX-ETILISTA
+T18	Problema 825 837	EX-TABAGISTA
+T19	Tratamento 889 901	Medicamentos
+T20	Tratamento 903 918	Enalapril 2.5mg
+T21	Tratamento 926 935	AAS 100mg
+T22	Tratamento 936 951	Furosemida 40mg
+T23	Tratamento 957 972	Carvedilol 25mg
+T24	Tratamento 980 998	Rosuvastatina 10mg
+T25	Tratamento 999 1014	Doxasozinha 2mg
+T26	Tratamento 1015 1029	Omeprazol 20mg
+T27	Tratamento 1031 1049	Insulina NPH - 20U
+T28	Teste 1052 1063	Laboratório
+T29	Teste 1075 1086	Eritrócitos
+T30	Teste 1092 1103	Hemoglobina
+T31	Teste 1109 1120	Hematocrito
+T32	Teste 1127 1137	Leucocitos
+T33	Teste 1144 1155	Eosinofilos
+T35	Teste 1176 1187	Acido Urico
+T36	Teste 1193 1196	TAP
+T37	Teste 1202 1207	Sodio
+T38	Teste 1212 1220	Potassio
+T39	Teste 1225 1235	Creatinina
+T40	Teste 1241 1252	TFG CKD EPI
+T41	Teste 1273 1280	Glicose
+T42	Teste 1285 1290	Ureia
+T43	Teste 1295 1297	BT
+T44	Teste 1304 1306	BD
+T45	Teste 1313 1315	BI
+T46	Teste 1321 1325	Peso
+T47	Teste 1331 1333	PA
+T48	Teste 1340 1342	FC
+T49	Teste 1346 1350	SpO2
+T50	Tratamento 1385 1400	apresolina 25mg
+T51	Teste 1417 1432	perfil de ferro
+T52	Tratamento 1443 1449	Annita
+T53	Problema 713 721	alergias
+T58	Anatomia 630 640	intestinal
+T34	Teste 1160 1169	Basofilos
+T54	Anatomia 1365 1368	cpp
+T55	Anatomia 1355 1358	acv

@@ -1,0 +1,64 @@
+T1	Problema 106 108	FA
+T2	Tratamento 117 128	marevan 5mg
+T3	Problema 142 154	Comorbidades
+T4	Problema 156 158	DM
+T5	Tratamento 180 196	metformina 850mg
+T6	Tratamento 207 215	acarbose
+T7	Tratamento 227 241	glicazida 60mg
+T8	Tratamento 253 261	insulina
+T9	Problema 277 280	HAS
+T10	Tratamento 302 316	losartana 50mg
+T11	Tratamento 324 332	digoxina
+T12	Tratamento 346 359	carvedilol 25
+T13	Tratamento 367 371	HCTZ
+T14	Problema 373 377	DSLP
+T15	Tratamento 388 400	sinvastatina
+T16	Tratamento 402 409	marevan
+T17	Problema 472 480	dispnéia
+T18	Problema 482 485	DPN
+T19	Problema 488 497	ortopneia
+T20	Problema 499 510	palpitações
+T21	Problema 513 520	sincope
+T22	Problema 551 558	afebril
+T23	Teste 560 562	fc
+T24	Teste 567 570	so2
+T25	Teste 576 578	pa
+T26	Problema 615 617	RA
+T27	Problema 619 632	BC arritmicas
+T28	Problema 637 639	SS
+T29	Problema 690 693	VCM
+T30	Problema 695 699;704 709	MMII edema
+T31	Teste 733 739	Exames
+T32	Teste 743 749	Holter
+T33	Teste 776 778	Cr
+T34	Teste 787 791	glic
+T35	Teste 801 806	ureia
+T36	Teste 814 817	CPK
+T37	Teste 825 837	Triglerideos
+T38	Teste 847 850	HDL
+T39	Teste 859 861	CT
+T40	Teste 871 874	LDL
+T41	Teste 883 884	K
+T42	Teste 892 895	RNI
+T43	Teste 906 922	Microalbuminúria
+T44	Teste 934 948	Ecocardiograma
+T45	Problema 951 1015	ventrículo esquerdo com hipertrofia concentrica de grau discreto
+T46	Problema 1047 1081	aumento moderado de átrio esquerdo
+T47	Problema 1083 1129	calcificação mitral e aórtica com refluxo leve
+T48	Problema 1137 1139	FA
+T49	Teste 1142 1144	PA
+T50	Teste 1155 1156	P
+T51	Problema 1163 1181	bulhas arritimicas
+T52	Problema 1203 1209	sopros
+T53	Problema 1242 1257	visceromegalias
+T54	Problema 1263 1282	alterações nos MMII
+T55	Tratamento 1300 1322	sinvastatina para 40mg
+T56	Anatomia 1212 1219	Abdomen
+T57	Anatomia 644 647	Abd
+T58	Anatomia 695 699	MMII
+T59	Anatomia 711 723	panturrilhas
+T60	Anatomia 951 970	ventrículo esquerdo
+T61	Anatomia 1067 1081	átrio esquerdo
+T62	Anatomia 1096 1102	mitral
+T63	Anatomia 1105 1112	aórtica
+T64	Anatomia 1278 1282	MMII

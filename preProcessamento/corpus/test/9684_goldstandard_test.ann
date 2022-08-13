@@ -1,0 +1,35 @@
+T1	Problema 99 102	IAM
+T2	Tratamento 144 162	carvediol 6, 25 mg
+T3	Tratamento 165 175	AAS 100 mg
+T4	Tratamento 178 194	furosemida 40 mg
+T5	Tratamento 197 213	losartana 100 mg
+T6	Tratamento 215 233	atorvstatina 20 mg
+T7	Tratamento 236 251	omeprazol 20 mg
+T8	Problema 269 277	dispnéia
+T9	Problema 280 308	cansaço aos minimos esforços
+T10	Problema 326 351	parestesias em pé direito
+T11	Problema 354 385	dores musculares na panturrilha
+T12	Problema 387 399	Comorbidades
+T13	Problema 402 405	HAS
+T14	Problema 407 410	ICC
+T15	Problema 413 425	dislipidemia
+T16	Teste 436 442	2 CATs
+T17	Tratamento 493 505	sinvastatina
+T18	Tratamento 558 570	sinvastatina
+T19	Tratamento 510 523	atorvastatina
+T20	Teste 591 597	exames
+T21	Teste 599 601	EF
+T22	Teste 603 605	PA
+T23	Tratamento 692 704	sinvastatina
+T24	Tratamento 709 722	atorvastatina
+T25	Teste 734 750	exames de sangue
+T26	Teste 753 755	CT
+T27	Teste 757 760	LDL
+T28	Teste 762 765	HDL
+T29	Teste 767 769	TG
+T30	Tratamento 785 802	demais medicações
+T31	Tratamento 445 460	3 angioplastias
+T33	Anatomia 744 750	sangue
+T32	Anatomia 341 351	pé direito
+T34	Anatomia 374 385	panturrilha
+T36	Anatomia 633 654;657 664	MMII pedioso poplíteo femoral

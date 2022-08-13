@@ -1,0 +1,40 @@
+T1	Problema 43 46	HAS
+T2	Tratamento 53 62	Atenol 50
+T3	Tratamento 70 81	Enalapril 5
+T4	Problema 96 120	queixas cardiovasculares
+T5	Teste 155 164	ecocardio
+T6	Problema 178 203	estenose aortica discreta
+T7	Problema 214 241	cardiomiopatia hipertensiva
+T8	Teste 243 252	Ecocardio
+T9	Problema 325 328;331 350	VMi folhetos espessados
+T10	Problema 325 328;373 389	VMi refluxo discreto
+T11	Problema 424 427;430 451	VAo cúspides calcificadas
+T12	Problema 424 427;457 468	VAo dupla lesão
+T13	Problema 513 517;520 539	Vtri folhetos espessados
+T14	Problema 591 593;596 609	VE hipertrofiado
+T15	Problema 591 593;663 681	VE alt de relaxamento
+T16	Problema 742 752	edema mmii
+T17	Teste 754 756	PA
+T18	Teste 783 784	P
+T19	Teste 796 798	Fr
+T20	Problema 826 832	ruidos
+T21	Problema 858 921	ss ++/6+, crsec / decres, FAO, irradiação para todo o precórdio
+T22	Problema 844 856	taquicardico
+T23	Problema 938 945	ansioso
+T24	Teste 974 976	PA
+T25	Teste 1036 1045	ecocardio
+T26	Anatomia 104 120	cardiovasculares
+T27	Anatomia 187 194	aortica
+T28	Anatomia 265 267	AE
+T29	Anatomia 274 277	SIV
+T30	Anatomia 280 284	PPVE
+T31	Anatomia 325 328	VMi
+T32	Anatomia 504 506	VP
+T33	Anatomia 591 593	VE
+T34	Anatomia 683 685	AD
+T35	Anatomia 513 517	Vtri
+T36	Anatomia 424 427	VAo
+T37	Anatomia 748 752	mmii
+T38	Anatomia 884 887	FAO
+T39	Problema 683 685;688 697	AD aumentado
+T40	Anatomia 912 921	precórdio

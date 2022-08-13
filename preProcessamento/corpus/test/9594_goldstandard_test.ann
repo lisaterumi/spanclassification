@@ -1,0 +1,22 @@
+T1	Problema 59 71	Comorbidades
+T2	Problema 73 76	HAS
+T3	Tratamento 78 90	Medicamentos
+T4	Tratamento 91 105	atenolol 100mg
+T5	Tratamento 117 131	diltiazen 60mg
+T6	Tratamento 143 157	Enalapril 10mg
+T7	Tratamento 169 178	HCTZ 25mg
+T8	Tratamento 182 193	Marevan 5mg
+T9	Tratamento 204 215	02 ablações
+T10	Problema 234 245	PALPITAÇÕES
+T11	Problema 250 268	taquicardia atrial
+T12	Problema 287 326	palpitações quando faz grandes esforços
+T13	Problema 329 342;347 375	dor de cabeça melhora com analgésico comum
+T14	Tratamento 359 375	analgésico comum
+T15	Teste 399 406	pressão
+T16	Teste 443 445	FC
+T17	Problema 451 469	Edema discreto mmi
+T18	Anatomia 336 342	cabeça
+T20	Anatomia 466 469	mmi
+T21	Anatomia 480 488	pulmonar
+T22	Anatomia 491 499	cardiaca
+T19	Anatomia 262 268	atrial

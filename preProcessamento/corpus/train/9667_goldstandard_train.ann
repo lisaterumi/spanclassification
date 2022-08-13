@@ -1,0 +1,53 @@
+T1	Problema 45 48	IAM
+T2	Tratamento 56 59	ATC
+T3	Problema 62 65	HAS
+T4	Problema 68 70	DM
+T5	Problema 73 82	TBG ATIVA
+T6	Problema 99 133	dispneia a medios/grandes esforços
+T7	Problema 142 169;175 196	edema de membros inferiores piora no final do dia
+T8	Problema 205 228	palpitaçoes esporádicas
+T9	Problema 236 245	ortopneia
+T10	Problema 249 269	dispneia paroxistica
+T11	Problema 276 288	dor toracica
+T12	Teste 343 352	ECOCARDIO
+T13	Problema 363 365;390 440	VE função sistólica global diminuída de grau moderado
+T14	Problema 459 496	Alteração de contratilidade segmentar
+T15	Problema 498 525	Disfunção diastólica grau I
+T16	Problema 570 593	Refluxo mitral discreto
+T17	Teste 598 605	CINTILO
+T18	Problema 606 676	FIBROSE PERSISTENTE APICE E MEDIO APICAL DA P ANTERIOR E ANTERO SEPTAL
+T19	Problema 677 694	DISCRETA ISQUEMIA
+T20	Teste 718 731	CINTILOGRAFIA
+T21	Problema 742 837	HIPOPERFUSÃO ACENTUADA E PERSISTENTE NO APICE E MEDIO APICAL PAREDE ANTERIOR E ANTERO SEPTAL VE
+T22	Problema 839 894	HIPOCINESIA DIFUSA DAS PAREDES DO VE, ANTERIOR E APICAL
+T23	Teste 911 924	TESTE ESFORÇO
+T24	Problema 996 1015	ISQUEMIA MIOCARDICA
+T25	Tratamento 1030 1039	AAS 100MG
+T26	Tratamento 1045 1061	CARVEDILOL 12,5G
+T27	Tratamento 1070 1084	ENALAPRIL 10MG
+T28	Tratamento 1099 1115	METFORMINA 850MG
+T29	Tratamento 1128 1145	SINVASTATINA 80MG
+T30	Tratamento 1155 1175	ESPIRONOLACTONA 25MG
+T31	Problema 1221 1229	cefaleia
+T32	Teste 1236 1237	P
+T33	Teste 1242 1244	PA
+T34	Problema 1293 1295	SS
+T35	Problema 1318 1320	RA
+T36	Problema 1322 1357	MMII edema +/++++ em membro direito
+T37	Tratamento 1373 1388	furosemida 40mg
+T38	Tratamento 1398 1416	carvedilol para 25
+T39	Tratamento 1438 1450	sinvastatina
+T40	Tratamento 1455 1473	atorvastatina 80mg
+T41	Teste 1475 1478	LDL
+T42	Anatomia 527 541	àtrio esquerdo
+T43	Anatomia 151 169	membros inferiores
+T44	Anatomia 280 288	toracica
+T45	Anatomia 363 365	VE
+T46	Anatomia 544 560	Câmaras direitas
+T47	Anatomia 578 584	mitral
+T48	Anatomia 626 676	APICE E MEDIO APICAL DA P ANTERIOR E ANTERO SEPTAL
+T49	Anatomia 782 837	APICE E MEDIO APICAL PAREDE ANTERIOR E ANTERO SEPTAL VE
+T50	Anatomia 862 894	PAREDES DO VE, ANTERIOR E APICAL
+T51	Anatomia 1005 1015	MIOCARDICA
+T52	Anatomia 1322 1326	MMII
+T53	Anatomia 1343 1357	membro direito

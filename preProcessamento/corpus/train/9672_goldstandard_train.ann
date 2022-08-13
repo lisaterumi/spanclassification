@@ -1,0 +1,25 @@
+T1	Problema 91 94	IAM
+T2	Problema 148 159	dor em MMII
+T3	Problema 164 176	edema em pés
+T4	Problema 200 213	dor em ombros
+T5	Problema 220 228	dispneia
+T6	Problema 230 243	precordialgia
+T7	Problema 245 254	ortopneia
+T8	Problema 258 261	DPN
+T9	Tratamento 272 282	AAS 100 mg
+T10	Tratamento 284 307	Hidroclorotiazida 25 mg
+T11	Tratamento 309 327	Sinvastatina 20 mg
+T12	Tratamento 329 345	Carvedilol 25 mg
+T13	Tratamento 364 381	Clopidogrel 75 mg
+T14	Tratamento 391 407	Cilostazol 50 mg
+T15	Teste 426 441	Exame de sangue
+T16	Teste 443 457	ecocardiograma
+T17	Teste 516 519	CAT
+T18	Tratamento 533 545	angioplastia
+T19	Problema 558 594	lesão de 80% em grande ramo marginal
+T20	Problema 597 600	HAS
+T21	Problema 602 605	DAC
+T22	Anatomia 155 159	MMII
+T23	Anatomia 173 176	pés
+T24	Anatomia 207 213	ombros
+T25	Anatomia 574 594	grande ramo marginal

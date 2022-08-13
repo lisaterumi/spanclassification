@@ -1,0 +1,28 @@
+T1	Problema 43 46	HAS
+T2	Problema 49 52	DLP
+T3	Problema 54 63	Bronquite
+T4	Problema 65 74	Obesidade
+T5	Problema 78 83	Tosse
+T6	Tratamento 88 97	captopril
+T7	Tratamento 102 115	Losartana 100
+T8	Tratamento 122 134	anlodipino 5
+T9	Tratamento 137 144	HCTZ 25
+T10	Tratamento 146 152	Alenia
+T11	Problema 173 185	dor torácica
+T12	Problema 187 208	Dispnéia aos esforços
+T13	Teste 230 232	TE
+T14	Teste 259 261	EF
+T15	Problema 325 340	sopro carotideo
+T16	Problema 350 370	sibilos expiratorios
+T17	Problema 380 386	sopros
+T18	Problema 388 395;413 419	membors edemas
+T19	Problema 421 435	dermatite ocre
+T20	Teste 440 447	Glicose
+T21	Teste 453 463	Hb glicada
+T22	Teste 470 472	PA
+T23	Problema 488 511	Glicemia de JJ alterada
+T24	Tratamento 518 521	MEV
+T25	Tratamento 523 528	dieta
+T26	Anatomia 177 185	torácica
+T27	Anatomia 331 340	carotideo
+T28	Anatomia 388 395	membors

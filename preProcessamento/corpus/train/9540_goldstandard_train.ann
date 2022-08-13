@@ -1,0 +1,51 @@
+T1	Problema 109 126;75 104	piora progressiva dispneia aos mínimos esforços
+T2	Problema 128 137	ortopneia
+T3	Problema 139 154	roncos noturnos
+T4	Problema 156 169	edema de MMII
+T5	Problema 196 202;229 249	angina aos mínimos esforços
+T6	Tratamento 251 264	Cx bariátrica
+T7	Problema 314 335	edema agudo de pulmão
+T8	Problema 378 388	hipertenso
+T9	Problema 402 405	ICC
+T10	Problema 407 422	hérnia de hiato
+T11	Tratamento 434 448	enalapril 10mg
+T12	Tratamento 457 474	carvedilol 12,5mg
+T13	Tratamento 483 498	furosemida 40mg
+T14	Tratamento 507 527	espironolactona 25mg
+T15	Tratamento 536 551	apresolina 25mg
+T16	Tratamento 561 576	monocordil 20mg
+T17	Tratamento 585 599	warfarina 50mg
+T18	Problema 622 632	Ex fumante
+T19	Teste 683 689	Eletro
+T20	Problema 702 719	fibrilação atrial
+T21	Problema 721 753	hipertrofia ventricular esquerda
+T22	Problema 755 802	alterações difusas de repolarização ventricular
+T23	Teste 804 818	Ecocardiograma
+T24	Problema 905 940	disfunção sistolica global moderada
+T25	Problema 945 963	hipocinesia difusa
+T26	Problema 976 1025	Aumento das dimensões do atrio direito e esquerdo
+T27	Problema 1027 1056	estenose aortica de grau leve
+T28	Problema 1058 1092	insuficiencia aortica de grau leve
+T29	Problema 1094 1119	insuf mitral de grau leve
+T30	Teste 1159 1170	Cateterismo
+T31	Problema 1185 1214	doença coronariana importante
+T32	Problema 830 885	importante aumento das dimensões do ventriculo esquerdo
+T33	Teste 1215 1226	Laboratorio
+T34	Teste 1238 1248	Creatinina
+T35	Teste 1254 1264	Glic jejum
+T36	Teste 1268 1271	PCR
+T37	Teste 1281 1284	TAP
+T38	Tratamento 1331 1349	compensação da ICC
+T39	Anatomia 1001 1014	atrio direito
+T40	Anatomia 165 169	MMII
+T41	Anatomia 329 335	pulmão
+T42	Anatomia 713 719	atrial
+T44	Anatomia 791 802	ventricular
+T43	Anatomia 866 885	ventriculo esquerdo
+T45	Anatomia 733 753	ventricular esquerda
+T46	Anatomia 1036 1043	aortica
+T47	Anatomia 1072 1079	aortica
+T48	Anatomia 1100 1106	mitral
+T49	Anatomia 1139 1147	pulmonar
+T50	Anatomia 1192 1203	coronariana
+T51	Anatomia 1001 1006;1017 1025	atrio esquerdo

@@ -1,0 +1,42 @@
+T1	Problema 61 64	IAM
+T2	Tratamento 72 75	ATC
+T3	Problema 79 92	CA de Laringe
+T4	Tratamento 98 100	QT
+T5	Tratamento 103 105	RT
+T6	Tratamento 116 119	TTO
+T7	Problema 128 131	HAS
+T8	Problema 135 138	HPB
+T9	Problema 142 145	DLP
+T10	Problema 149 167	ARTRITE REUMATÓIDE
+T11	Tratamento 188 203	Enalapril 20 mg
+T12	Tratamento 225 242	CARVEDILOL 12,5MG
+T13	Tratamento 264 274	AAS 100 mg
+T14	Tratamento 285 302	Sinvastatina 20mg
+T15	Tratamento 321 334	Omeprazol 20m
+T16	Tratamento 358 373	PREDNISONA 5 MG
+T17	Tratamento 377 386	COMBODART
+T18	Teste 392 408	Teste de esforço
+T19	Problema 442 452	alterações
+T20	Teste 633 642	ECOCARDIO
+T21	Problema 742 792	DISFUNÇÃO DIASTOLICA TIPO ALTERAÇÃO DE RELAXAMENTO
+T22	Problema 847 891	ANORMALIDADES MORFOFUNCIONAIS SIGNIFICATIVAS
+T23	Problema 942 949	QUEIXAS
+T24	Problema 956 964	DISPNEIA
+T25	Problema 967 979	DOR NO PEITO
+T26	Teste 1036 1038	PA
+T27	Teste 1047 1049	FC
+T28	Problema 1089 1091	RA
+T29	Problema 1118 1121	DAC
+T30	Teste 1151 1153	EX
+T31	Anatomia 85 92	Laringe
+T32	Anatomia 500 510	miocardica
+T33	Anatomia 655 657	VE
+T34	Anatomia 696 706	MIOCARDICA
+T35	Anatomia 794 796	AE
+T36	Anatomia 799 817	CAVIDADES DIREITAS
+T37	Anatomia 893 895	AE
+T38	Anatomia 974 979	PEITO
+T39	Anatomia 1093 1096	ABD
+T40	Anatomia 1102 1106	MMII
+T41	Problema 490 510	iesquemia miocardica
+T42	Problema 576 586;597 599	Decréscimo FC

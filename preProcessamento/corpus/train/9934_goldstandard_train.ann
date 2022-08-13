@@ -1,0 +1,53 @@
+T1	Problema 155 163	arritmia
+T2	Tratamento 202 210	atenolol
+T3	Tratamento 252 261	medicação
+T4	Problema 269 285	leve falta de ar
+T5	Problema 287 299	dor no peito
+T6	Problema 300 308	fraqueza
+T7	Problema 310 317	tontura
+T8	Problema 319 328	rouquidão
+T9	Problema 331 344	dor de cabeça
+T10	Problema 355 384	dispneia aos grandes esforços
+T11	Problema 394 430	dor torácica ventilatorio dependente
+T12	Problema 451 467	vertigem noturna
+T13	Problema 505 542;547 567	cefaléia em regiao parietal bilateral melhora com dipirona
+T14	Problema 588 596	fraqueza
+T15	Tratamento 665 681	amiodarona 200mg
+T16	Problema 688 696	asmatica
+T17	Tratamento 707 717	salbutamol
+T18	Tratamento 720 730	budesonida
+T19	Tratamento 737 756	outros medicamentos
+T20	Problema 764 823	mal estar com café, chas, chocolates, refrigerantes de cola
+T21	Problema 837 848;852 865;868 891	palpitações inicio súbito desaparecimento gradual
+T22	Problema 899 919	paracoccidioiomicose
+T23	Tratamento 559 567	dipirona
+T24	Tratamento 954 968	amigdalectomia
+T25	Tratamento 970 991	herniorrafia inguinal
+T26	Problema 1052 1061	tabagismo
+T27	Problema 1064 1072	etilismo
+T28	Teste 1205 1219	ecocardiograma
+T29	Problema 1226 1259	discreto prolapso de valva mitral
+T30	Teste 1294 1297	EEF
+T31	Teste 1305 1307	FC
+T32	Problema 1334 1350	hipofonese de B1
+T33	Problema 1352 1391	discreto sopro sistólico em foco mitral
+T34	Problema 1392 1396;1401 1406	MMII edema
+T35	Teste 1458 1464	holter
+T36	Problema 1527 1551	exacerbação dos sintomas
+T37	Teste 1563 1566	ECG
+T38	Teste 1576 1579	ECG
+T39	Teste 1589 1603	ecocardiograma
+T40	Tratamento 1611 1621	amiodarona
+T41	Tratamento 942 952	2 cesárias
+T42	Problema 1023 1046	alergias a medicamentos
+T43	Problema 1078 1097	outras comorbidades
+T44	Anatomia 338 344	cabeça
+T46	Anatomia 1247 1259	valva mitral
+T47	Anatomia 294 299	peito
+T48	Anatomia 398 406	torácica
+T49	Anatomia 517 542	regiao parietal bilateral
+T50	Anatomia 1260 1277	camaras cardiacas
+T51	Anatomia 1320 1328	cardiaca
+T52	Anatomia 1380 1391	foco mitral
+T53	Anatomia 1392 1396	MMII
+T54	Problema 607 641	cansada mesmo sem grandes esforços

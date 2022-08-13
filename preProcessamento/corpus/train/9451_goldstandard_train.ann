@@ -1,0 +1,49 @@
+T1	Tratamento 55 65	tratamento
+T2	Problema 71 85	ICC diastólica
+T3	Problema 174 205	dispneia aos moderados esforços
+T4	Problema 212 240	disnpneía paroxística notrna
+T5	Problema 279 315	precordialgia aos moderados esforços
+T6	Problema 322 341	episódios anginosos
+T7	Problema 348 362	outras queixas
+T10	Teste 449 451	EF
+T11	Teste 453 455	PA
+T12	Teste 475 477	PA
+T13	Teste 521 523	FC
+T14	Problema 541 543	RA
+T15	Problema 564 570	sopros
+T16	Problema 576 596	hipofonese de bulhas
+T17	Problema 601 607;649 655	abdome massas
+T18	Problema 659 674	visceromegalias
+T19	Teste 675 683	Giordano
+T20	Problema 686 690;695 700	MMII edema
+T21	Teste 702 708	ex lab
+T22	Teste 723 725	Cr
+T23	Teste 733 735	Ur
+T24	Teste 742 744	Na
+T25	Teste 753 754	K
+T26	Teste 761 766	HBa1C
+T27	Teste 775 787	Clearence Cr
+T28	Teste 794 801	CKD-EPI
+T29	Teste 808 812	MDRD
+T30	Problema 822 845	ICC diastólica classe I
+T31	Problema 848 851	HAS
+T32	Problema 854 858	DMII
+T33	Problema 861 873	Dislipidemia
+T34	Tratamento 891 900	medicação
+T35	Teste 934 943	Ecocardio
+T36	Teste 957 962	exame
+T37	Problema 965 982	ICC classe I NYHA
+T38	Problema 983 986	HAS
+T39	Tratamento 998 1012	atenolol 100mg
+T40	Tratamento 1020 1029	AAS 100mg
+T41	Tratamento 1037 1052	furosemida 40mg
+T42	Tratamento 1064 1078	losartana 50mg
+T43	Tratamento 1092 1108	metformina 850mg
+T44	Problema 1119 1131	Dislipidemia
+T45	Tratamento 1144 1161	sinvastatina 20mg
+T46	Tratamento 150 160	tratamento
+T47	Anatomia 395 407	supra púbica
+T48	Anatomia 601 607	abdome
+T49	Anatomia 686 690	MMII
+T8	Problema 371 378	disúria
+T9	Problema 391 407	dor supra púbica

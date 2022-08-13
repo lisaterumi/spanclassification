@@ -1,0 +1,52 @@
+T1	Tratamento 47 59	angioplastia
+T2	Tratamento 73 83	marcapasso
+T3	Teste 106 120	ecg de repouso
+T4	Problema 125 147	bav de 2 grau mobitz 2
+T5	Teste 150 153	cat
+T6	Problema 206 208	DM
+T7	Problema 210 213	HAS
+T8	Problema 215 218	DAC
+T9	Tratamento 220 223	rvm
+T10	Problema 236 248	dislipidemia
+T11	Tratamento 260 272	insulina nph
+T12	Tratamento 274 284	metformina
+T13	Tratamento 286 303	sinvastatina 40mg
+T14	Tratamento 310 327	carvedilol 6,25mg
+T15	Tratamento 329 343	losartana 50mg
+T16	Tratamento 353 362	AAS 100mg
+T17	Tratamento 364 380	clopidogrel 75mg
+T18	Problema 382 391	Tabagista
+T19	Problema 470 477	queixas
+T20	Teste 484 496	LAboratorial
+T21	Teste 509 511	HB
+T22	Teste 519 530	Hematocrito
+T23	Teste 537 545	glicemia
+T24	Teste 552 568	microalbuminuria
+T25	Teste 582 618	Cintilografia de perfusao miocardica
+T26	Problema 648 667	isquemia miocardica
+T27	Problema 693 711	hipocinesia septal
+T28	Problema 713 728	DIlatação do VE
+T29	Teste 778 781	CAt
+T30	Problema 795 824	reestenose de stent 70% em cd
+T31	Problema 826 867	Oclusao total de stent em ramo diagonalis
+T32	Tratamento 870 882;901 918	angioplastia cornoaria direita
+T33	Teste 986 988	PA
+T34	Teste 1031 1037	exames
+T35	Tratamento 1049 1059	anlodipino
+T36	Tratamento 1062 1071	enalapril
+T37	Teste 1084 1100	microalbuminuria
+T38	Teste 935 958	EF cardiaco e abdominal
+T39	Anatomia 608 618	miocardica
+T40	Anatomia 657 667	miocardica
+T41	Anatomia 705 711	septal
+T42	Anatomia 675 677	VE
+T43	Anatomia 822 824	cd
+T44	Anatomia 852 867	ramo diagonalis
+T45	Anatomia 901 918	cornoaria direita
+T46	Anatomia 726 728	VE
+T47	Anatomia 733 735	VE
+T48	Anatomia 755 757	VE
+T49	Anatomia 938 946	cardiaco
+T50	Anatomia 949 958	abdominal
+T51	Anatomia 963 971	Pulmonar
+T52	Anatomia 978 984	base E

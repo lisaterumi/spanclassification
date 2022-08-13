@@ -1,0 +1,34 @@
+T1	Problema 43 46	HAS
+T2	Problema 49 52	DLP
+T3	Tratamento 80 119	retirada de 'Tumor' em regtião cervical
+T4	Problema 148 157	Bronquite
+T5	Problema 159 168	Obesidade
+T6	Problema 172 177;178 191	Tosse com captopril
+T7	Tratamento 196 208	Losartana 50
+T8	Tratamento 215 227	anlodipino 5
+T9	Tratamento 229 236	HCTZ 25
+T10	Tratamento 238 244	Alenia
+T11	Tratamento 251 258	AAS 100
+T13	Problema 289 335	dor em MSE e irradiação para região precordial
+T14	Problema 395 416	Dispnéia aos esforços
+T15	Teste 439 441	PA
+T16	Teste 450 452	EF
+T17	Problema 516 531	sopro carotideo
+T18	Problema 541 561	sibilos expiratorios
+T19	Problema 571 577	sopros
+T20	Problema 579 586;604 610	membors edemas
+T22	Teste 633 636	LAb
+T23	Teste 640 651	Ergometrico
+T24	Teste 654 657	ETT
+T26	Tratamento 667 677	anlodipina
+T27	Tratamento 684 691	aradois
+T28	Tratamento 697 706	losartana
+T30	Tratamento 182 191	captopril
+T31	Anatomia 103 119	regtião cervical
+T32	Anatomia 296 299	MSE
+T33	Anatomia 318 335	região precordial
+T34	Anatomia 388 393	braço
+T35	Anatomia 522 531	carotideo
+T36	Anatomia 579 586	membors
+T21	Problema 612 626	dermatite ocre
+T37	Problema 363 393	dificuldade para mexer o braço

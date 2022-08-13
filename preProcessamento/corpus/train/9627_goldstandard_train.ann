@@ -1,0 +1,41 @@
+T1	Problema 55 58	HAS
+T2	Problema 61 63	FA
+T3	Tratamento 67 81	Anticoagulação
+T4	Problema 84 99	Hipotireoidismo
+T5	Problema 102 114	Dislipidemia
+T6	Problema 117 126	Obesidade
+T7	Problema 153 162	tabagismo
+T8	Problema 163 171	etilismo
+T9	Problema 178 186	alergias
+T10	Tratamento 189 192	Med
+T11	Tratamento 201 214	Atenolol 50mg
+T12	Tratamento 223 238	enalapril  10mg
+T13	Tratamento 247 256	marevan 1
+T14	Tratamento 311 320	LT4 50mcg
+T15	Tratamento 323 331	SVT 20mg
+T16	Teste 340 350	exames lab
+T17	Teste 358 372	Triglicerídeos
+T18	Teste 383 385	Cr
+T19	Teste 391 392	U
+T20	Teste 397 399	CT
+T21	Teste 405 408	HDL
+T22	Teste 413 416	HMG
+T23	Teste 425 428	TGO
+T24	Teste 431 434	TGp
+T25	Problema 452 459	queixas
+T26	Problema 466 474	dispnéia
+T27	Problema 478 488	palpitação
+T28	Teste 509 511	FC
+T29	Teste 516 520	Sp02
+T30	Problema 529 542	B  Arrítmicas
+T31	Problema 566 570;575 580	MMII edema
+T32	Teste 582 583	P
+T33	Teste 590 593	IMC
+T34	Tratamento 612 628	atividade física
+T35	Teste 645 651	exames
+T36	Teste 663 677	Triglicerídeos
+T37	Teste 719 728	Ecocardio
+T38	Tratamento 770 782	medicamentos
+T39	Anatomia 566 570	MMII
+T40	Anatomia 547 550	CPP
+T41	Anatomia 559 562	abd

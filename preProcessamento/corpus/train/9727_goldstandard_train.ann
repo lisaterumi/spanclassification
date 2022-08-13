@@ -1,0 +1,25 @@
+T1	Teste 76 82	exames
+T2	Problema 85 88	HAS
+T3	Problema 90 104	hipotiroidismo
+T4	Problema 106 118	dislipidemia
+T5	Problema 120 130	síndrome X
+T6	Tratamento 143 158	enalapril 20 mg
+T7	Tratamento 166 176	AAS 100 mg
+T8	Tratamento 178 196	carvedilol 6,25 mg
+T9	Tratamento 208 231	hidroclorotiazida 25 mg
+T10	Tratamento 234 253	rosuvastatina 10 mg
+T11	Tratamento 255 270	ezetinibe 10 mg
+T12	Tratamento 272 287	sustrate 100 mg
+T13	Problema 291 297	angina
+T14	Tratamento 299 311	puran 25 mcg
+T15	Teste 335 358	ecocardio transtorácico
+T16	Problema 360 391	remodelamento concêntrico do VE
+T17	Problema 393 427	disfunção diastólica grau II do VE
+T18	Teste 429 449	exames laboratoriais
+T19	Teste 460 463	LDL
+T20	Teste 521 523	PA
+T21	Teste 533 535	FC
+T22	Teste 585 606	exames labopratoriais
+T23	Anatomia 389 391	VE
+T24	Anatomia 425 427	VE
+T25	Anatomia 549 557	cardiaca

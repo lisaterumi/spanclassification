@@ -1,0 +1,75 @@
+T1	Problema 63 66	HAS
+T2	Problema 70 74	Gota
+T3	Problema 78 81	DAC
+T4	Problema 84 87	IAM
+T5	Tratamento 90 93	ATC
+T6	Problema 103 118	angina instavel
+T7	Teste 123 137	Ecocardiograma
+T8	Problema 155 197	comprometimento difuso do VE grau moderado
+T9	Problema 199 216	insuf Mi discreta
+T10	Problema 218 236	insuf Tri discreta
+T11	Problema 238 266	hipetensao pulmonar discreta
+T12	Problema 285 314	fraqueza intermitente em MMII
+T13	Problema 328 335	tontura
+T14	Problema 337 352	turvação visual
+T15	Problema 355 368	epigastralgia
+T16	Problema 375 387	dor toracica
+T17	Problema 401 409	dispneia
+T18	Problema 417 420	DPN
+T19	Problema 427 434	sincope
+T20	Problema 442 455	edema de MMII
+T21	Problema 479 516	queixas urinarias e gastrointestinais
+T22	Teste 556 567	Laboratorio
+T23	Teste 568 570	Cr
+T24	Teste 577 584	glicose
+T25	Teste 590 595	ureia
+T26	Teste 601 604	CPK
+T27	Teste 611 622	acido urico
+T28	Teste 629 631	TG
+T29	Teste 638 641	TGP
+T30	Teste 647 650	HDL
+T31	Teste 656 658	Na
+T32	Teste 665 668	TGO
+T33	Teste 674 676	CT
+T34	Teste 683 686	LDL
+T35	Teste 692 693	K
+T36	Teste 700 702	HB
+T37	Teste 710 720	leucocitos
+T38	Teste 728 737	plaquetas
+T39	Teste 749 768	Albumina/Cr isolada
+T40	Teste 781 784	CKD
+T41	Tratamento 866 882	alopurinol 150mg
+T42	Tratamento 889 903	anlodipino 5mg
+T43	Tratamento 912 926	enalapril 10mg
+T44	Tratamento 936 949	selozok 100mg
+T45	Tratamento 956 965	AAS 100mg
+T46	Tratamento 972 988	clopidogrel 75mg
+T47	Tratamento 995 1012	sinvastatina 40mg
+T48	Tratamento 1019 1033	colecalciferol
+T49	Teste 1056 1061	exame
+T50	Teste 1063 1065	PA
+T51	Teste 1080 1082	FC
+T52	Problema 1098 1100	SS
+T53	Problema 1127 1129	RA
+T54	Problema 1131 1156	MMII edema +/IV bilateral
+T55	Tratamento 1173 1183	anlodipino
+T56	Tratamento 1213 1224	clopidogrel
+T57	Tratamento 1235 1252	demais medicações
+T58	Teste 1297 1303	exames
+T59	Problema 1358 1361	HAS
+T60	Problema 1364 1368	Gota
+T61	Problema 1371 1374	DAC
+T62	Problema 1377 1380	IAM
+T63	Tratamento 1383 1386	ATC
+T64	Problema 1396 1411	angina instavel
+T65	Problema 524 533	tabagismo
+T68	Anatomia 181 183	VE
+T69	Anatomia 205 207	Mi
+T70	Anatomia 224 227	Tri
+T71	Anatomia 249 257	pulmonar
+T72	Anatomia 310 314	MMII
+T73	Anatomia 379 387	toracica
+T74	Anatomia 451 455	MMII
+T75	Anatomia 487 496	urinarias
+T76	Anatomia 499 516	gastrointestinais
+T66	Anatomia 1131 1135	MMII

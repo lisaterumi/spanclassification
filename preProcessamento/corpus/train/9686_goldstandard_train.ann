@@ -1,0 +1,28 @@
+T1	Problema 81 88	cansaço
+T4	Problema 124 132	dispneia
+T5	Problema 134 143	ortopneia
+T6	Problema 146 149	DNP
+T7	Problema 200 205	gripe
+T8	Problema 207 210	HAS
+T9	Problema 212 215	ICC
+T10	Problema 222 224	DM
+T11	Tratamento 226 236	carvedilol
+T12	Tratamento 249 264	furosemida 20mg
+T13	Tratamento 280 292	sinvastatina
+T14	Tratamento 306 315	AAS 100mg
+T15	Tratamento 330 344	Omeprazol 20mg
+T16	Tratamento 375 389	4 angioplastia
+T17	Problema 413 422	tabagista
+T18	Problema 454 462	etilista
+T19	Problema 508 515	cansaço
+T20	Problema 550 557	afebril
+T21	Teste 573 575	FC
+T22	Problema 599 603;609 614	MMII edema
+T23	Problema 599 603;621 633	MMII empastamento
+T24	Teste 682 702	exames laboratoriais
+T25	Anatomia 94 104	precordial
+T26	Anatomia 559 567	Cardiaco
+T27	Anatomia 585 593	Pulmonar
+T28	Anatomia 599 603	MMII
+T29	Anatomia 635 641	Abdome
+T2	Problema 90 117	dor precordial quando tosse

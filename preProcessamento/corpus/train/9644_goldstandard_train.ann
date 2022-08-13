@@ -1,0 +1,51 @@
+T1	Problema 60 85	MCP dilatada - IDIOPÁTICA
+T2	Problema 86 105	CF II-III OSCILANTE
+T3	Teste 137 152	INDICE CARDIACO
+T4	Tratamento 176 190	Omeprazol 20mg
+T5	Tratamento 196 205	AAS 100mg
+T6	Tratamento 211 224	Losartan 50mg
+T7	Tratamento 234 254	Espironolactona 25mg
+T8	Tratamento 260 276	Hidralazina 50mg
+T9	Tratamento 286 303	Carvedilol 12,5mg
+T10	Teste 314 320	Exames
+T11	Teste 322 325	CAT
+T12	Problema 350 383	coronariopatia obstrutiva crítica
+T13	Teste 384 386	IC
+T14	Teste 409 421	RVP em woods
+T15	Teste 460 473	laboratoriais
+T16	Problema 523 535;548 585;611 652	dor torácica retroesternal e em MSE, em queimação, pior de acordo com movimentação do tronco
+T18	Problema 731 740	ortopneia
+T19	Problema 761 807	dor torácica associada à caminhada mais rápida
+T20	Problema 814 821	sincope
+T21	Problema 824 835	palpitações
+T22	Problema 837 866	Edema de MMII esporadicamente
+T23	Teste 912 914	PA
+T24	Teste 922 924	FC
+T25	Problema 932 949	TURGÊNCIA JUGULAR
+T26	Problema 950 953;972 999	CPP CREPITANTES EM BASE DIREITA
+T27	Problema 1005 1021	BC HIPOFONETICAS
+T28	Problema 1027 1033	SOPROS
+T29	Problema 1035 1049	ICTUS DESVIADO
+T30	Problema 1063 1066	VCM
+T31	Problema 1068 1098	DOR A PALPAÇÃO DE FLANCO E FIE
+T32	Problema 1099 1103;1110 1115	MMII EDEMA
+T33	Problema 1120 1144	MCP dilatada CF II / III
+T34	Tratamento 1149 1159	MEDICAÇÕES
+T35	Teste 1198 1201	LAB
+T36	Anatomia 1050 1056	ABDOME
+T37	Anatomia 126 134	CARDIACO
+T38	Anatomia 144 152	CARDIACO
+T39	Anatomia 527 535	torácica
+T40	Anatomia 765 773	torácica
+T41	Anatomia 846 850	MMII
+T42	Anatomia 942 949	JUGULAR
+T43	Anatomia 950 953	CPP
+T44	Anatomia 987 999	BASE DIREITA
+T45	Anatomia 1035 1040	ICTUS
+T46	Anatomia 1086 1092	FLANCO
+T47	Anatomia 1095 1098	FIE
+T48	Anatomia 1099 1103	MMII
+T49	Anatomia 548 561	retroesternal
+T50	Anatomia 567 570	MSE
+T51	Anatomia 646 652	tronco
+T17	Problema 654 725	Dispneia para moderados esforços CF II, às vezes para pequenos esforços

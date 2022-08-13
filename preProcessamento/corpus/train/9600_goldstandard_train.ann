@@ -1,0 +1,49 @@
+T1	Tratamento 57 76	Homoenxerto aortico
+T2	Problema 83 86	EAo
+T3	Problema 129 139	Hipertenso
+T4	Tratamento 152 162	AAS 100 mg
+T5	Tratamento 168 184	losartana 100 mg
+T6	Tratamento 190 208	atovastatina 20 mg
+T7	Tratamento 323 336	atenolol 25mg
+T8	Tratamento 344 359	furosemida 40mg
+T9	Tratamento 367 382	omeoprazol 40mg
+T10	Tratamento 391 406	ezatimibe 10 mg
+T11	Tratamento 408 422	Hidantal 100mg
+T12	Problema 429 441	cisticercose
+T13	Tratamento 443 479	Penicilina G benzatina 1,200,000U IM
+T14	Teste 514 520	Exames
+T15	Teste 522 536	Ecocardiograma
+T16	Tratamento 551 581	Homoenxerto em posição aórtica
+T17	Problema 600 616	VE hipertrofiado
+T18	Problema 670 700	ALteração do relaxamento do VE
+T19	Problema 702 713	AE dilatado
+T20	Tratamento 715 726	Homoenxerto
+T21	Teste 763 766	Lab
+T22	Teste 779 781	Cr
+T23	Teste 788 790	CT
+T24	Teste 796 799	TGC
+T25	Teste 805 808	HDL
+T26	Teste 813 814	K
+T27	Teste 820 823	LDL
+T28	Teste 828 832	Glic
+T29	Problema 854 890;892 922;965 998	dor em ponto específico paraesternal sem relação com esforço físico desde a cx, sem piora desde então
+T30	Problema 1005 1019	dor precordial
+T31	Teste 1025 1030	exame
+T32	Teste 1073 1075	FC
+T33	Teste 1081 1083	PA
+T34	Problema 1101 1115	estase jugular
+T35	Problema 1131 1137	sopros
+T36	Problema 1175 1177	RA
+T37	Problema 1183 1194	ICO crônica
+T38	Teste 1223 1226	eco
+T39	Teste 1229 1232	lab
+T40	Teste 1246 1250	TTOG
+T41	Teste 1253 1263	Hb glicada
+T42	Tratamento 1275 1278	MEV
+T43	Tratamento 973 975	cx
+T44	Anatomia 600 602	VE
+T45	Anatomia 698 700	VE
+T46	Anatomia 702 704	AE
+T47	Anatomia 878 890	paraesternal
+T48	Anatomia 1009 1019	precordial
+T49	Anatomia 1108 1115	jugular

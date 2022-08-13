@@ -1,0 +1,34 @@
+T1	Tratamento 63 74	Tx cardíaco
+T2	Problema 88 112	Miocardiopatia chagásica
+T3	Problema 115 118	IRC
+T4	Tratamento 166 168	HD
+T5	Teste 190 214	Cateterismo hemodinamico
+T6	Tratamento 240 251	Marca-passo
+T7	Problema 265 268	HAS
+T8	Problema 272 284	Dislipidemia
+T9	Problema 288 300	Ex-tabagista
+T10	Problema 337 340	IRC
+T11	Tratamento 343 355	Medicamentos
+T12	Tratamento 357 372	furosemida 40mg
+T13	Tratamento 383 399	azatioprina 50mg
+T14	Tratamento 408 423	prednisona 20mg
+T15	Tratamento 426 443	everolimus 0,75mg
+T16	Problema 458 465	QUEIXAS
+T17	Problema 477 495	hipocorado 2+ / 4+
+T18	Problema 507 514	afebril
+T19	Teste 515 517	PA
+T20	Teste 529 531	FC
+T21	Problema 547 549	SS
+T22	Problema 550 553;555 587	CPP MV+ bilateral, REDUZIDO EM BASES
+T23	Problema 615 618	VCM
+T24	Problema 588 591;622 638	ABD massas palpáveis
+T25	Problema 639 643;645 658	MMII edema 2+ / 4+
+T26	Tratamento 670 681	TX CARDIACO
+T27	Teste 695 707	ECOCARDIO TT
+T28	Tratamento 715 728	PDN PARA 10MG
+T29	Tratamento 743 757	CILOSPORINA 50
+T30	Anatomia 66 74	cardíaco
+T31	Anatomia 588 591	ABD
+T32	Anatomia 639 643	MMII
+T33	Anatomia 673 681	CARDIACO
+T34	Anatomia 550 553	CPP

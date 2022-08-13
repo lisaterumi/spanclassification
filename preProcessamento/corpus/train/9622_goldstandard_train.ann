@@ -1,0 +1,25 @@
+T1	Problema 62 74	Comorbidades
+T2	Problema 76 79	HAS
+T3	Problema 81 93	Dislipidemia
+T4	Problema 126 143	IAM ST - Killip I
+T5	Tratamento 178 181	ATC
+T6	Tratamento 186 197	stent em DA
+T7	Tratamento 223 233	AAS 100 mg
+T8	Tratamento 247 262	Enalapril 10 mg
+T9	Tratamento 280 294	Brilinta 90 mg
+T10	Tratamento 312 325	Selozok 50 mg
+T11	Tratamento 340 358	Sinvastatina 40 mg
+T12	Tratamento 373 394	Espironolactona 25 mg
+T13	Problema 413 441	dispneia paroxística noturna
+T14	Problema 444 452	dispneia
+T15	Problema 475 486	angina leve
+T16	Teste 492 493	P
+T17	Teste 503 505	PA
+T18	Problema 520 535	Estetores finos
+T19	Problema 554 557	IAM
+T20	Problema 570 598	dispneia paroxística noturna
+T21	Tratamento 604 620	Furosemida 40 mg
+T22	Problema 95 104	Tabagismo
+T23	Teste 642 670	Ecocardiograma transtorácico
+T24	Teste 678 690	Espirometria
+T25	Anatomia 195 197	DA

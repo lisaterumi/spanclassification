@@ -1,0 +1,40 @@
+T1	Tratamento 59 66	Cx Ross
+T2	Tratamento 80 125	Valva aórtica biscúspide com refluxo moderado
+T3	Tratamento 134 141	AAS 100
+T4	Tratamento 149 159	selozok 25
+T5	Tratamento 161 173	Enalapril 10
+T6	Problema 194 201	queixas
+T7	Teste 212 227	eco de controle
+T8	Problema 234 242	dispneia
+T11	Problema 271 281	edema mmii
+T12	Problema 294 304	palpitação
+T13	Problema 306 316	Tosee seca
+T14	Teste 325 331	exames
+T15	Teste 332 334	Hb
+T16	Teste 342 346	Leuc
+T17	Teste 355 358	Pla
+T18	Teste 367 369	cr
+T19	Teste 376 378	Ur
+T20	Teste 382 383	K
+T21	Teste 388 401	Haptoglobiina
+T22	Teste 408 426	Cont reticulocitos
+T23	Teste 433 436	LDH
+T24	Problema 495 505	edema mmii
+T25	Teste 508 510	PA
+T26	Teste 525 526	P
+T27	Teste 537 539	FR
+T28	Problema 567 578	ruidosd adv
+T30	Problema 614 631	Ferida operatorio
+T31	Problema 649 654;668 677	torax creptação
+T32	Tratamento 686 693	Cx Ross
+T33	Tratamento 703 713	medicações
+T34	Teste 738 741	lbs
+T35	Teste 751 760	ecocardio
+T37	Anatomia 649 654	torax
+T38	Anatomia 80 93	Valva aórtica
+T39	Anatomia 248 256	toracica
+T40	Anatomia 277 281	mmii
+T36	Anatomia 501 505	mmii
+T41	Anatomia 604 612	FA o e P
+T9	Problema 244 266	dor toracica qdo tosse
+T10	Problema 593 612	ss + / 6 + FA o e P

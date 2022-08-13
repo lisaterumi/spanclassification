@@ -1,0 +1,45 @@
+T1	Problema 60 85	MCP dilatada - IDIOPÁTICA
+T2	Problema 86 105	CF II-III OSCILANTE
+T3	Teste 137 152	INDICE CARDIACO
+T4	Tratamento 176 190	Omeprazol 20mg
+T5	Tratamento 196 205	AAS 100mg
+T6	Tratamento 211 224	Losartan 50mg
+T7	Tratamento 234 254	Espironolactona 25mg
+T8	Tratamento 260 277	Hidralazina 100mg
+T9	Tratamento 287 304	Carvedilol 12,5mg
+T10	Teste 315 321	Exames
+T11	Teste 323 326	CAT
+T12	Problema 351 384	coronariopatia obstrutiva crítica
+T13	Teste 385 387	IC
+T14	Teste 410 422	RVP em woods
+T15	Problema 449 463	Dispnéia CF II
+T16	Problema 470 482	dor torácica
+T17	Problema 489 499	palpitação
+T18	Problema 502 509	síncope
+T19	Tratamento 543 551	losartan
+T20	Problema 556 578	hipotensão sintomática
+T21	Teste 580 583	PAS
+T22	Problema 615 625	tosse seca
+T23	Problema 628 664;684 714	dor torácica precordial em queimação sem relação com esforço físico
+T24	Teste 717 720	ECG
+T25	Problema 721 724	BRE
+T26	Teste 726 731	tropo
+T27	Teste 748 753	exame
+T28	Teste 795 797	PA
+T29	Problema 810 839	discreta estase jugular a 45º
+T30	Problema 858 860	RA
+T31	Problema 868 870	SS
+T32	Problema 871 885	ictus desviado
+T33	Problema 891 894	VCM
+T34	Problema 899 909	edema MMII
+T35	Problema 938 958	MCP dilatada - CF II
+T36	Tratamento 983 991	losartan
+T37	Tratamento 1001 1015	hidralazina 50
+T38	Teste 1037 1040	lab
+T39	Anatomia 144 152	CARDIACO
+T40	Anatomia 126 134	CARDIACO
+T41	Anatomia 474 482	torácica
+T42	Anatomia 632 651	torácica precordial
+T43	Anatomia 826 833	jugular
+T44	Anatomia 871 876	ictus
+T45	Anatomia 905 909	MMII

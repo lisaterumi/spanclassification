@@ -1,0 +1,70 @@
+T1	Tratamento 115 125	Medicações
+T2	Tratamento 137 152	losartana 50 mg
+T3	Tratamento 163 173	AAS 100 mg
+T4	Tratamento 176 185	captopril
+T5	Tratamento 200 223	hidroclorotiazida 25 mg
+T6	Tratamento 236 252	flutamida 250 mg
+T7	Problema 261 273	Comorbidades
+T8	Problema 276 279	HAS
+T9	Problema 281 295	Ca de Prostata
+T10	Teste 342 348	exames
+T11	Problema 392 412	hipertensão arterial
+T12	Problema 457 464	tontura
+T13	Problema 466 474	dispneia
+T14	Problema 476 488	dor no peito
+T15	Problema 490 497	cansaço
+T16	Problema 544 553	Tabagista
+T17	Problema 611 619	etilismo
+T18	Tratamento 658 663	Dieta
+T19	Teste 672 692	Exames laboratoriais
+T20	Teste 703 713	Creatinina
+T21	Teste 728 731	TFG
+T22	Problema 748 765	estádio II de DRC
+T23	Teste 770 786	Glicose em jejum
+T24	Teste 956 968	Glicose TOTG
+T25	Teste 983 994	Eritrocitos
+T26	Teste 1011 1021	Hb glicada
+T27	Teste 1031 1060	Microalbuminuria / creatinina
+T28	Teste 1073 1083	creatinina
+T29	Teste 1087 1090	ETT
+T31	Problema 1218 1238	disfunção diastólica
+T32	Teste 1300 1302	EF
+T33	Teste 1305 1311	Altura
+T34	Teste 1321 1325	Peso
+T35	Teste 1333 1336	IMC
+T36	Teste 1367 1372	Pulso
+T37	Teste 1382 1384	FR
+T38	Problema 1450 1458;1460 1494	pulmonar crepitação em região interscapular
+T39	Teste 1496 1516	Exame cardiovascular
+T40	Problema 1502 1516;1518 1537	cardiovascular Bulhas não audíveis
+T41	Problema 1539 1571	ictus não palpável e não visível
+T42	Problema 1649 1664	visceromegalias
+T43	Problema 1671 1685	HAS controlada
+T44	Tratamento 1690 1699	medicação
+T45	Problema 1700 1719	Síndrome metabólica
+T46	Problema 1721 1724	HAS
+T47	Problema 1725 1738	sd metabolica
+T48	Problema 1739 1750	ca prostata
+T49	Teste 801 806	Ureia
+T50	Teste 819 833	Triglicerideos
+T51	Teste 847 850	HDL
+T52	Teste 864 866	Na
+T53	Teste 882 883	K
+T54	Teste 897 913	Colesterol Total
+T55	Teste 928 942	Colesterol LDL
+T56	Problema 502 516	outras queixas
+T57	Teste 1350 1352	PA
+T59	Anatomia 287 295	Prostata
+T60	Anatomia 1271 1287	Valvas cardíacas
+T58	Anatomia 483 488	peito
+T61	Anatomia 1093 1095	VE
+T62	Anatomia 1502 1516	cardiovascular
+T63	Anatomia 1450 1458	pulmonar
+T64	Anatomia 1481 1494	interscapular
+T65	Anatomia 1573 1582	Abdominal
+T66	Anatomia 1584 1591	Abdomen
+T67	Anatomia 1742 1750	prostata
+T30	Problema 1119 1151	hipertrofia concentrica discreta
+T68	Anatomia 1539 1544	ictus
+T69	Anatomia 404 412	arterial
+T70	Anatomia 1240 1242	AE

@@ -1,0 +1,31 @@
+T1	Problema 144 201	Dor retroesternal, em repouso, em pontada, sem irradiação
+T2	Problema 264 267	dor
+T3	Tratamento 277 289	angioplastia
+T4	Teste 306 312	um ECG
+T5	Tratamento 332 352	cirurgia de catarata
+T6	Teste 373 390	teste ergométrico
+T7	Problema 428 434	um IAM
+T8	Tratamento 463 474	angioplasta
+T9	Problema 503 510	infarto
+T10	Teste 547 576	cateterismo cardíaco esquerdo
+T11	Teste 578 623	coronariografia com ventriculografia esquerda
+T12	Problema 624 639	Hipotireoidismo
+T13	Problema 754 762	etilismo
+T14	Problema 765 774	tabagismo
+T15	Problema 800 810	Obstipação
+T16	Problema 864 879	Amnésia recente
+T17	Problema 892 900	desânimo
+T18	Problema 902 910	angústia
+T19	Problema 912 927	humor deprimido
+T20	Problema 928 944	Insônia terminal
+T21	Problema 945 958	Muito cansaço
+T22	Tratamento 959 968	Medicação
+T23	Tratamento 969 985	Clopidogrel 75mg
+T24	Tratamento 987 996	AAs 100mg
+T25	Tratamento 998 1012	Enalapril 10mg
+T26	Tratamento 1014 1028	Omeprazol 20mg
+T27	Tratamento 1030 1045	Levotiroxina 50
+T28	Tratamento 1059 1076	Sinvastatina 40mg
+T30	Anatomia 148 161	retroesternal
+T29	Anatomia 714 724	próstata  
+T31	Problema 704 722	câncer de próstata

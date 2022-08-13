@@ -1,0 +1,54 @@
+T1	Tratamento 55 65	tratamento
+T2	Problema 106 163;71 85	melhora importante dos sintomas após início do tratamento ICC diastólica
+T3	Problema 177 208	dispneia aos moderados esforços
+T4	Problema 215 243	disnpneía paroxística notrna
+T5	Problema 282 318	precordialgia aos moderados esforços
+T6	Problema 325 344	episódios anginosos
+T7	Problema 351 365	outras queixas
+T8	Teste 380 386	exames
+T9	Teste 392 408	Microalbuminúria
+T10	Teste 429 439	creatinina
+T11	Teste 443 458	US abdome total
+T12	Problema 461 489	rins com alterações tróficas
+T13	Teste 493 496	ECG
+T14	Problema 507 538	isquemia subepicárdica anterior
+T15	Problema 540 593	alteração de repolarização ventricular infero-lateral
+T16	Teste 597 610	Laboratoriais
+T17	Teste 621 622	K
+T18	Teste 629 649	clearence creatinina
+T19	Teste 657 659	EF
+T20	Teste 661 663	PA
+T21	Teste 684 686	PA
+T22	Teste 730 732	FC
+T23	Problema 750 752	RA
+T24	Problema 773 779	sopros
+T25	Problema 785 805	hipofonese de bulhas
+T26	Problema 810 816;858 864	abdome massas
+T27	Problema 868 883	visceromegalias
+T28	Problema 884 888;893 898	MMII edema
+T29	Problema 908 933	ICC diastólica classe III
+T30	Problema 936 939	HAS
+T31	Problema 942 946	DMII
+T32	Problema 949 961	Dislipidemia
+T33	Tratamento 979 988	medicação
+T34	Teste 1010 1030	exames laboratoriais
+T35	Teste 1033 1036	ECG
+T36	Problema 1038 1052	ICC classe III
+T37	Problema 1053 1056	HAS
+T38	Tratamento 1068 1082	atenolol 100mg
+T39	Tratamento 1090 1093	AAS
+T40	Tratamento 1108 1123	furosemida 40mg
+T41	Tratamento 1135 1149	anlodipino 5mg
+T42	Tratamento 1166 1180	losartana 50mg
+T43	Problema 1188 1192	DMII
+T44	Tratamento 1194 1210	metformina 850mg
+T45	Problema 1218 1230	Dislipidemia
+T46	Tratamento 1243 1260	sinvastatina 20mg
+T47	Tratamento 153 163	tratamento
+T48	Anatomia 446 452	abdome
+T49	Anatomia 810 816	abdome
+T50	Anatomia 461 465	rins
+T51	Anatomia 516 538	subepicárdica anterior
+T52	Anatomia 884 888	MMII
+T53	Anatomia 567 593	ventricular infero-lateral
+T54	Anatomia 753 756	ACV

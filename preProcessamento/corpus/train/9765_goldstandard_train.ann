@@ -1,0 +1,61 @@
+T1	Problema 43 46	HAS
+T2	Problema 49 52	DLP
+T3	Problema 54 63	Bronquite
+T4	Problema 65 74	Obesidade
+T5	Problema 79 84	Tosse
+T6	Tratamento 89 98	captopril
+T7	Tratamento 102 115	Losartana 100
+T8	Tratamento 122 134	anlodipino 5
+T9	Tratamento 143 150	HCTZ 25
+T10	Tratamento 152 158	Alenia
+T11	Problema 177 223	dor em MSE e irradiação para região precordial
+T12	Problema 251 281	dificuldade para mexer o braço
+T13	Problema 283 304	Dispnéia aos esforços
+T14	Teste 326 328	EF
+T15	Problema 392 407	sopro carotideo
+T16	Problema 417 437	sibilos expiratorios
+T17	Problema 447 453	sopros
+T18	Problema 455 462;480 486	membors edemas
+T19	Problema 488 502	dermatite ocre
+T20	Teste 507 510	ECO
+T21	Problema 569 594	remodelamento concentrioc
+T22	Teste 609 611	Hb
+T23	Teste 618 620	Ht
+T24	Teste 627 632	Leuco
+T25	Teste 639 641	Eo
+T26	Teste 645 647	Lf
+T27	Teste 652 654	Mo
+T28	Teste 659 661	Sg
+T29	Teste 666 668	Cr
+T30	Teste 674 681	Glicose
+T31	Teste 688 689	U
+T32	Teste 694 696	Mg
+T33	Teste 702 704	FA
+T34	Teste 710 713	GGT
+T35	Teste 719 727	Ác úrico
+T36	Teste 733 735	Na
+T37	Teste 741 743	PK
+T38	Teste 751 753	CT
+T39	Teste 759 762	LDL
+T40	Teste 767 770	HDL
+T41	Teste 776 778	Tg
+T42	Teste 784 787	TSH
+T43	Teste 795 797	PA
+T44	Teste 808 810	EF
+T45	Problema 878 880	Ra
+T46	Problema 894 900	sopros
+T47	Problema 927 934;953 959	membros edenas
+T48	Teste 981 983	TE
+T49	Teste 1028 1036	glicemia
+T50	Teste 1037 1047	Hb glicada
+T51	Anatomia 927 934	membros
+T52	Anatomia 184 187	MSE
+T53	Anatomia 206 223	região precordial
+T54	Anatomia 276 281	braço
+T55	Anatomia 398 407	carotideo
+T56	Anatomia 455 462	membors
+T57	Anatomia 531 533	AE
+T58	Anatomia 539 541	Vd
+T59	Anatomia 546 547	S
+T60	Anatomia 552 554	PP
+T61	Anatomia 902 905	abd

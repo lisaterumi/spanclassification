@@ -1,0 +1,60 @@
+T1	Problema 60 63	EAo
+T2	Problema 67 70	HAS
+T3	Tratamento 78 87	Atenol 50
+T4	Tratamento 95 106	Enalapril 5
+T5	Problema 123 147	queixas cardiovasculares
+T6	Teste 149 158	Ecocardio
+T7	Problema 231 234;237 256	VMi folhetos espessados
+T8	Problema 231 234;279 295	VMi refluxo discreto
+T9	Problema 330 333;336 357	VAo cúspides calcificadas
+T10	Problema 330 333;363 374	VAo dupla lesão
+T11	Problema 419 423;426 445	Vtri folhetos espessados
+T12	Problema 497 499;502 515	VE hipertrofiado
+T13	Problema 497 499;568 586	VE alt de relaxamento
+T14	Teste 604 607	Eco
+T15	Problema 675 677;679 700	AO CUSPIDES CALCIFICADAS
+T16	Problema 675 677;706 717	AO DUPLA LESAO
+T17	Problema 744 764	INSUF TRICU DISCRETA
+T18	Problema 777 800	REFLUXO MITRAL DISCRETO
+T19	Problema 824 832	dispneia
+T20	Problema 834 846	dor toracica
+T21	Problema 848 855	sincope
+T22	Problema 862 875	edema de MMII
+T23	Problema 954 968	elevação de PA
+T24	Problema 970 986	Sd Jaleco Branco
+T25	Teste 1028 1030	PA
+T26	Teste 1046 1047	P
+T27	Problema 1074 1080	ruidos
+T28	Problema 1093 1105	taquicardico
+T29	Problema 1107 1170	ss ++/6+, crsec / decres, FAO, irradiação para todo o precórdio
+T30	Problema 1176 1220	DUPLA LESAO AO ESTENOSE MOD + INSUF DISCRETA
+T31	Tratamento 1233 1247	Enalapril 20mg
+T32	Tratamento 1262 1271	HCTZ 25mg
+T33	Teste 1306 1309	eco
+T34	Problema 419 423;468 480	Vtri insuficiente
+T35	Problema 588 590;593 602	AD aumentado
+T36	Anatomia 131 147	cardiovasculares
+T37	Anatomia 171 173	AE
+T38	Anatomia 180 183	SIV
+T39	Anatomia 186 190	PPVE
+T40	Anatomia 231 234	VMi
+T41	Anatomia 410 412	VP
+T42	Anatomia 419 423	Vtri
+T43	Anatomia 497 499	VE
+T44	Anatomia 588 590	AD
+T45	Anatomia 330 333	VAo
+T46	Anatomia 619 621	RA
+T47	Anatomia 626 628	AE
+T48	Anatomia 634 636	VD
+T49	Anatomia 641 642	S
+T50	Anatomia 647 649	PP
+T51	Anatomia 654 656	VE
+T52	Anatomia 675 677	AO
+T53	Anatomia 750 755	TRICU
+T54	Anatomia 785 791	MITRAL
+T55	Anatomia 838 846	toracica
+T56	Anatomia 871 875	MMII
+T57	Anatomia 1133 1136	FAO
+T58	Anatomia 1161 1170	precórdio
+T59	Anatomia 1188 1190	AO
+T60	Anatomia 803 809	AO ASC

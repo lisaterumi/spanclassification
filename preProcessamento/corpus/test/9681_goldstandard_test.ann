@@ -1,0 +1,35 @@
+T1	Tratamento 94 107	Diclin  (ACO)
+T2	Problema 127 134;153 169	síncope mais com o calor
+T3	Problema 182 189	tontura
+T4	Problema 192 200	sudorese
+T5	Problema 203 223	escurecimento visual
+T6	Problema 232 271	exacerbação dos sintomas com nervosismo
+T7	Problema 312 327	confusão mental
+T8	Problema 331 340	salivação
+T9	Tratamento 359 368	medicação
+T10	Problema 375 390	outros sintomas
+T11	Problema 425 433;459 488	sintomas durante atividades domesticas
+T12	Teste 491 500	Ecocardio
+T13	Teste 564 569	Exame
+T14	Teste 593 610	Teste ergometrico
+T15	Teste 679 682	ECG
+T16	Problema 684 688	DCRD
+T17	Teste 753 755	FC
+T18	Teste 760 762	FR
+T19	Teste 767 769	PA
+T20	Teste 779 782	SAT
+T21	Problema 805 807	ss
+T22	Problema 828 830	ra
+T23	Problema 840 844;847 852	mmii edema
+T24	Problema 855 865	Vaso vagal
+T25	Teste 879 885	holter
+T26	Teste 899 905	exames
+T27	Anatomia 511 513	RA
+T28	Anatomia 518 520	AE
+T29	Anatomia 525 527	VD
+T30	Anatomia 532 537	Septo
+T31	Anatomia 542 544	PP
+T32	Anatomia 549 551	VE
+T33	Anatomia 832 835	Abd
+T34	Anatomia 840 844	mmii
+T35	Anatomia 621 635	cardiovascular

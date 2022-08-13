@@ -1,0 +1,61 @@
+T1	Tratamento 82 94	Enalapril 10
+T2	Tratamento 111 122	Atenolol 50
+T3	Tratamento 138 156	Espironolactona 25
+T4	Tratamento 164 179	Sinvastatina 20
+T5	Tratamento 192 202	Calcio 500
+T6	Tratamento 210 219	Marevan 5
+T7	Tratamento 235 247	Trazodona 25
+T8	Problema 254 272	Dispnia esporadica
+T9	Problema 274 293	edema mmii eventual
+T10	Problema 299 309	palpitação
+T13	Tratamento 362 373	paracetamol
+T14	Teste 375 378	Lab
+T15	Teste 391 397	Hbglic
+T16	Teste 404 407	TSH
+T17	Teste 414 416	Hb
+T18	Teste 423 425	VG
+T19	Teste 430 435	leuco
+T20	Teste 442 446	plaq
+T21	Teste 455 462	Urina I
+T22	Teste 468 469	K
+T23	Teste 475 477	Cr
+T24	Teste 483 486	Gli
+T25	Teste 491 492	U
+T26	Teste 497 500	Tri
+T27	Teste 505 511	HDL- C
+T28	Teste 516 520	ColT
+T29	Teste 526 532	LDL- C
+T30	Teste 537 546	Ecocardio
+T31	Problema 592 595;607 618	VMi calcificada
+T32	Problema 592 595;620 636	VMi refluxo discreto
+T33	Problema 638 675	VAo protese metalica com espessamento
+T34	Problema 638 641;679 695	VAo relfuxo discreto
+T35	Problema 740 744;747 763	VTri refluxo discreto
+T36	Problema 781 798	VP refluxo minimo
+T37	Problema 800 816	VE hipertrofiado
+T38	Teste 836 850	PA ( sentada )
+T39	Problema 901 920	ruidos adsventicios
+T40	Problema 935 948	ss++ / 6+ FAo
+T41	Problema 951 960	Mi ( +/6+
+T42	Problema 1061 1082	Disfunbção diastolica
+T43	Tratamento 1096 1111	Espironolactona
+T44	Tratamento 1162 1174	Omeprazol 20
+T45	Teste 1200 1203	lab
+T46	Tratamento 43 67	Protese Metalica Aortica
+T47	Problema 1004 1014	edema mmii
+T48	Teste 864 865	P
+T49	Tratamento 1119 1141	Sinvastatina para 10mg
+T51	Anatomia 60 67	Aortica
+T52	Anatomia 280 284	mmii
+T53	Anatomia 315 323	toracica
+T54	Anatomia 559 561	AE
+T55	Anatomia 800 802	VE
+T50	Anatomia 1010 1014	mmii
+T56	Anatomia 592 595	VMi
+T57	Anatomia 638 641	VAo
+T58	Anatomia 740 744	VTri
+T59	Anatomia 781 783	VP
+T60	Anatomia 1036 1043	AOrtoca
+T61	Anatomia 951 953	Mi
+T62	Anatomia 945 948	FAo
+T12	Problema 311 344;349 374	dor toracica quando epigastralgia melhoram com paracetamol.

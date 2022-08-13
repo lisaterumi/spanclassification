@@ -1,0 +1,26 @@
+T1	Problema 79 102	Valva aortica bicúspide
+T2	Teste 114 118	cate
+T3	Tratamento 136 148	Enalapril 10
+T4	Tratamento 159 169	Monocordil
+T5	Tratamento 182 185	FSM
+T6	Tratamento 202 220	Espironolactona 25
+T7	Tratamento 228 241	Apresolina 25
+T8	Tratamento 252 267	Carvedilol 12.5
+T9	Problema 278 286;302 336	Dispnéia progressiva,aos moderados esforços
+T10	Problema 338 381	Ardencia retoresternal aos grandes esforços
+T11	Teste 457 458	P
+T12	Teste 469 471	FR
+T13	Problema 499 509	ruidoa adv
+T14	Problema 520 544	BNFss++ / 6+ FAO e Ao ac
+T15	Teste 547 551	Cate
+T16	Problema 570 595	coronariopatia obstrutiva
+T17	Problema 597 626	VE disfunção de grau moderado
+T18	Problema 628 658	estenose aortica grau moderado
+T19	Teste 431 443	PA (sentado)
+T20	Tratamento 43 59	Cx bariatrica 2x
+T22	Anatomia 85 92	aortica
+T21	Anatomia 347 360	retoresternal
+T23	Anatomia 597 599	VE
+T24	Anatomia 637 644	aortica
+T25	Anatomia 533 536	FAO
+T26	Anatomia 539 544	Ao ac

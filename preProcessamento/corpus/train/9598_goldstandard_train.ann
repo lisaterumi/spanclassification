@@ -1,0 +1,29 @@
+T1	Problema 60 63	HAS
+T2	Problema 66 78	Ex-tabagista
+T3	Problema 130 175	taquicardia supra - ventricular paroxicistica
+T4	Problema 246 257	palpitações
+T5	Problema 261 319	sensação de palpitação se localiza em regiçao de epigastro
+T6	Problema 342 349	astenia
+T8	Problema 402 418	pré - cordialgia
+T9	Problema 425 453	dispneia paroxistica noturna
+T10	Tratamento 506 518	Medicamentos
+T11	Tratamento 527 541	Atenolol 25 mg
+T12	Teste 557 563	HOLTER
+T13	Problema 565 594	arritmia ventricular complexa
+T14	Problema 613 651	taquicardia ventricular não sustentada
+T15	Problema 695 710	sopro carotideo
+T16	Teste 712 714	PA
+T17	Teste 729 731	FC
+T18	Problema 758 763	sopro
+T19	Problema 779 797	ruidos adventicios
+T20	Problema 799 802;835 840	Ext edema
+T21	Problema 853 857	TVNS
+T22	Teste 900 925	estudo eletrofisiológicos
+T23	Tratamento 966 974	atenolol
+T24	Teste 991 996	exame
+T25	Anatomia 299 319	regiçao de epigastro
+T26	Anatomia 701 710	carotideo
+T28	Anatomia 574 585	ventricular
+T29	Anatomia 625 636	ventricular
+T27	Anatomia 799 802	Ext
+T7	Problema 351 381	dispneia quando deambula 1 qua

@@ -1,0 +1,33 @@
+T1	Problema 66 69	IAM
+T2	Tratamento 71 73	RM
+T3	Problema 87 95	arritmia
+T4	Tratamento 101 103	RM
+T5	Tratamento 117 129	angioplastia
+T6	Problema 143 153	palpitação
+T7	Problema 259 267	dispneia
+T8	Problema 269 284	aperto no peito
+T9	Problema 287 301	dor nas costas
+T10	Problema 303 312	mal estar
+T11	Tratamento 324 336	angioplastia
+T12	Problema 360 367	síncope
+T13	Problema 369 372	HAS
+T14	Problema 374 388	coronariopatia
+T15	Problema 390 398	arritmia
+T16	Problema 400 408	catarata
+T17	Problema 410 426	hipertireoidismo
+T18	Tratamento 428 442	Prostatectomia
+T19	Tratamento 444 446	RM
+T20	Tratamento 448 460	angioplastia
+T21	Problema 462 468	trauma
+T22	Tratamento 536 548	Medicamentos
+T23	Tratamento 550 563	tapazol 10 mg
+T24	Tratamento 565 580	enalapril 10 mg
+T25	Tratamento 582 595	selozok 50 mg
+T26	Tratamento 597 615	sinvastatina 40 mg
+T27	Tratamento 617 630	xarelto 20 mg
+T28	Teste 632 634	EF
+T29	Teste 636 638	FC
+T30	Tratamento 681 697	25 mg de selozok
+T31	Anatomia 279 284	peito
+T32	Anatomia 295 301	costas
+T33	Anatomia 496 501	peito

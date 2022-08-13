@@ -1,0 +1,49 @@
+T1	Problema 64 67	DAC
+T2	Tratamento 81 84	RVM
+T3	Problema 70 73	IAM
+T4	Tratamento 88 91	ATC
+T5	Problema 100 116	Hipertireoidismo
+T6	Problema 163 177	FA paroxistica
+T7	Problema 209 242	taquicardia atrial com aberrância
+T8	Problema 259 278	ISQUEMIA MIOCÁRDICA
+T9	Problema 329 345	HIPERTIREOIDISMO
+T10	Teste 384 387	TSH
+T11	Tratamento 398 410	Medicamentos
+T12	Tratamento 412 425	tapazol 10 mg
+T13	Tratamento 427 442	enalapril 10 mg
+T14	Tratamento 451 464	selozok 50 mg
+T15	Tratamento 466 484	sinvastatina 40 mg
+T16	Tratamento 486 499	xarelto 20 mg
+T17	Tratamento 501 509	AAS100mg
+T18	Problema 522 533	palpitações
+T19	Problema 535 543	dispneia
+T20	Problema 545 557	dor torácica
+T21	Problema 559 572	Epigastralgia
+T22	Teste 614 620	exames
+T23	Teste 624 630	Holter
+T24	Problema 703 734	extra-sistole ventricular unica
+T25	Problema 736 772	extra-sistole supra-ventricular rara
+T26	Problema 786 792	pausas
+T27	Problema 801 811	alterações
+T28	Teste 814 817	TSH
+T29	Teste 823 826	t4l
+T30	Teste 835 849	Ecocardiograma
+T31	Teste 976 981	exame
+T32	Teste 996 998	FC
+T33	Problema 1018 1024	sopros
+T34	Problema 1043 1057	FA paroxística
+T35	Tratamento 1145 1154	medicação
+T36	Tratamento 1168 1175	selozok
+T37	Tratamento 1190 1207	propafenona 300mg
+T38	Teste 1228 1237	ecocardio
+T39	Tratamento 1250 1267	Demais medicações
+T40	Anatomia 221 227	atrial
+T41	Anatomia 268 278	MIOCÁRDICA
+T42	Anatomia 549 557	torácica
+T43	Anatomia 717 728	ventricular
+T44	Anatomia 868 870	AE
+T45	Anatomia 876 878	VD
+T46	Anatomia 884 889	septo
+T47	Anatomia 895 897	VE
+T48	Anatomia 914 916	VE
+T49	Anatomia 1026 1029	CPP

@@ -1,0 +1,30 @@
+T1	Tratamento 54 56	MP
+T2	Problema 76 83	síncope
+T3	Problema 111 113	FA
+T4	Tratamento 117 131	anticoagulação
+T5	Problema 134 149	hipotireoidismo
+T6	Problema 152 164	Ex tabagista
+T7	Teste 184 186	CT
+T8	Tratamento 204 211	marevan
+T9	Tratamento 233 243	medicações
+T10	Teste 252 255	Lab
+T11	Teste 269 271	Cr
+T12	Teste 278 282	Glic
+T13	Teste 287 289	Ur
+T14	Teste 295 298	TGP
+T15	Teste 304 307	TGO
+T16	Teste 313 315	Na
+T17	Teste 322 323	K
+T18	Teste 330 332	CT
+T19	Teste 339 342	TSH
+T20	Teste 350 353	PSA
+T21	Teste 361 364	HDL
+T22	Teste 370 373	LDL
+T23	Teste 380 382	TG
+T24	Teste 388 390	t4
+T25	Problema 542 546;551 556	mmii edema
+T26	Tratamento 604 630	medicações de uso contínuo
+T27	Problema 521 523	ra
+T28	Problema 439 446;461 487	tontura melhora no decorrer do dia
+T29	Anatomia 532 538	abdome
+T30	Anatomia 542 546	mmii

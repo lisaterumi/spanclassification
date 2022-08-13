@@ -1,0 +1,32 @@
+T3	Tratamento 159 171	troca valvar
+T4	Problema 234 244	pés incham
+T5	Problema 287 293	sufoco
+T7	Problema 297 308	falta de ar
+T8	Teste 315 331	avaliação médica
+T10	Teste 353 364	cateterismo
+T12	Problema 401 413	cisticercose
+T13	Problema 422 441	fraturou 2 costelas
+T14	Problema 451 454	HAS
+T15	Tratamento 465 480	losartana 50 mg
+T16	Tratamento 491 505	atenolol 25 mg
+T17	Tratamento 507 523	furosemida 40 mg
+T18	Tratamento 525 544	atorvastatina 20 mg
+T19	Tratamento 552 567	ezetimibe 10 mg
+T20	Tratamento 569 579	AAS 100 mg
+T21	Tratamento 597 612	omeprazol 20 mg
+T22	Tratamento 621 637	fenitoina 100 mg
+T23	Problema 777 784	queixas
+T24	Problema 825 864	dor nos grampos da esternotomia mediana
+T25	Teste 866 868	EF
+T26	Teste 870 872	PA
+T27	Teste 881 883	FC
+T28	Teste 888 890	FR
+T29	Problema 900 919	desdobramento de B1
+T30	Problema 953 955	RA
+T31	Tratamento 138 156	3 pontes de safena
+T32	Anatomia 433 441	costelas
+T33	Anatomia 716 724	prostata
+T34	Anatomia 234 237	pés
+T35	Anatomia 704 713	intestino
+T1	Problema 697 713	câncer intestino
+T2	Problema 697 703;716 724	câncer prostata
