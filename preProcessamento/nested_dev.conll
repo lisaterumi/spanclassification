@@ -350,7 +350,7 @@ NÃO O
 FAZ O
 REVISÃO O
 DO O
-MP Tratamento
+MP O
 . O
 
 AO O
@@ -430,9 +430,9 @@ ECOSTRESS Teste
 
 ENCAMINHO O
 PARA O
-AVALIAÇÃO O
-DO O
-MP Tratamento
+AVALIAÇÃO Teste
+DO Teste
+MP Teste
 , O
 . O
 
@@ -459,7 +459,7 @@ OU O
 COM O
 RESULTADO O
 DE O
-ECOSTRESS Teste
+ECOSTRESS O
 ANTES O
 , O
 . O
@@ -795,7 +795,7 @@ REFERE O
 EPISÓDIOS O
 INTERMINTES O
 DE O
-PALPITAÇÕES O
+PALPITAÇÕES Problema
 E O
 DOR Problema
 PRECORDIAL Problema
@@ -1239,7 +1239,7 @@ ESV Problema
 ? O
 . O
 
-P Problema
+P O
 : O
 . O
 
@@ -1318,8 +1318,8 @@ MEDICAÇÃO Tratamento
 
 RETORNO O
 COM O
-LAB O
-TAP O
+LAB Teste
+TAP Teste
 - O
 RNI Teste
 . O
@@ -1751,9 +1751,9 @@ periférica O
 
 A O
 : O
-Válvula O
-aórtica O
-biológica O
+Válvula Tratamento
+aórtica Tratamento
+biológica Tratamento
 + O
 FA Problema
 paroxística Problema
@@ -1980,7 +1980,7 @@ angioplastia Tratamento
 
 Tem O
 sentido O
-palpitação O
+palpitação Problema
 um O
 dia O
 sim O
@@ -2003,18 +2003,18 @@ inteira O
 , O
 associada O
 a O
-dispneia O
+dispneia Problema
 , O
-aperto O
-no O
-peito O
+aperto Problema
+no Problema
+peito Problema
 e O
-dor O
-nas O
-costas O
+dor Problema
+nas Problema
+costas Problema
 , O
-mal O
-estar O
+mal Problema
+estar Problema
 , O
 depois O
 da O
@@ -2030,9 +2030,9 @@ síncope Problema
 , O
 . O
 
-HAS O
+HAS Problema
 , O
-coronariopatia O
+coronariopatia Problema
 , O
 arritmia Problema
 , O
@@ -2041,13 +2041,13 @@ catarata Problema
 hipertireoidismo Problema
 . O
 
-Prostatectomia O
+Prostatectomia Tratamento
 , O
 RM Tratamento
 , O
 angioplastia Tratamento
 , O
-trauma O
+trauma Problema
 ( O
 pedaço O
 de O
@@ -2266,7 +2266,7 @@ MANTENHO O
 HCT Tratamento
 , O
 ATL Tratamento
-50 O
+50 Tratamento
 / O
 D O
 , O
@@ -2377,7 +2377,7 @@ E O
 DIAST O
 PRESERVADA O
 , O
-AE O
+AE Anatomia
 LIMITROFE O
 , O
 INSUF Problema
@@ -2523,7 +2523,7 @@ E O
 DIAST O
 PRESERVADA O
 , O
-AE O
+AE Anatomia
 LIMITROFE O
 , O
 INSUF Problema
@@ -2638,7 +2638,7 @@ sem O
 edemas Problema
 . O
 
-CD Anatomia
+CD O
 : O
 mantidas O
 demais O
@@ -3139,7 +3139,7 @@ outro O
 . O
 
 Nova O
-glicemia O
+glicemia Teste
 Hb Teste
 glicada Teste
 . O
@@ -3608,9 +3608,9 @@ EM O
 ) O
 . O
 
-DEFICT O
-NEUROLÓGICO O
-PÓS O
+DEFICT Problema
+NEUROLÓGICO Problema
+PÓS Problema
 PCR Problema
 EM O
 2011 O
@@ -4085,12 +4085,12 @@ C O
 . O
 
 RETIRADO O
-ANLODIPINO O
+ANLODIPINO Tratamento
 DEVIDO O
 A O
-EDEMA O
-EM O
-MMII Anatomia
+EDEMA Problema
+EM Problema
+MMII Problema
 . O
 
 RETORNO O

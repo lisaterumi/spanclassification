@@ -326,19 +326,19 @@ hipocinesia Problema
 septal Problema
 . O
 
-DIlatação O
-do O
-VE Anatomia
+DIlatação Problema
+do Problema
+VE Problema
 , O
 FE O
-VE O
+VE Anatomia
 em O
 repouso O
 61 O
 % O
 , O
 FE O
-VE O
+VE Anatomia
 apos O
 estresse O
 60 O
@@ -407,12 +407,12 @@ em O
 6 O
 meses O
 com O
-exames O
+exames Teste
 prescrito O
 , O
-anlodipino O
+anlodipino Tratamento
 e O
-enalapril O
+enalapril Tratamento
 para O
 tto O
 de O
@@ -679,9 +679,9 @@ LEUC Teste
 
 A O
 # O
-DAC O
+DAC Problema
 , O
-HAS O
+HAS Problema
 , O
 DM Problema
 . O
@@ -1061,7 +1061,7 @@ PA Teste
 130x78mmHg O
 ( O
 relata O
-PA O
+PA Teste
 normal O
 quando O
 em O
@@ -1149,13 +1149,13 @@ Cr Teste
 . O
 
 9 O
-CKD O
-- O
-EPI O
+CKD Teste
+- Teste
+EPI Teste
 51 O
 , O
 7 O
-MDRD O
+MDRD Teste
 HD O
 : O
 - O
@@ -1191,40 +1191,40 @@ exame Teste
 ) O
 . O
 
-ICC O
-classe O
-I O
-NYHA O
+ICC Problema
+classe Problema
+I Problema
+NYHA Problema
 HAS Problema
 , O
 em O
 uso O
 de O
-atenolol O
-100mg O
+atenolol Tratamento
+100mg Tratamento
 / O
 dia O
 , O
-AAS O
-100mg O
+AAS Tratamento
+100mg Tratamento
 / O
 dia O
 , O
-furosemida O
-40mg O
+furosemida Tratamento
+40mg Tratamento
 1cp O
 / O
 dia O
 , O
-losartana O
-50mg O
+losartana Tratamento
+50mg Tratamento
 12 O
 / O
 12h O
-DMII Problema
+DMII O
 , O
-metformina O
-850mg O
+metformina Tratamento
+850mg Tratamento
 1cp O
 / O
 dia O
@@ -2088,36 +2088,36 @@ HAS Problema
 DM Problema
 . O
 
-MEDICAMENTOS O
+MEDICAMENTOS Tratamento
 DE O
 USO O
 CONTINUO O
 : O
 - O
-AAS O
-100 O
-MG O
+AAS Tratamento
+100 Tratamento
+MG Tratamento
 - O
-CLOPIDROGEL O
-75 O
-MG O
+CLOPIDROGEL Tratamento
+75 Tratamento
+MG Tratamento
 - O
-SINVASTATINA O
-40 O
-MG O
+SINVASTATINA Tratamento
+40 Tratamento
+MG Tratamento
 - O
-CAPTOPRIL O
-25 O
-MG O
+CAPTOPRIL Tratamento
+25 Tratamento
+MG Tratamento
 - O
-CARVEDILOL O
-12 O
-, O
-5 O
+CARVEDILOL Tratamento
+12 Tratamento
+, Tratamento
+5 Tratamento
 - O
-OMEPRAZOL O
-20 O
-MG O
+OMEPRAZOL Tratamento
+20 Tratamento
+MG Tratamento
 - O
 PARACETAMOL Tratamento
 500 Tratamento
@@ -2216,7 +2216,7 @@ EXAME Teste
 FISICO Teste
 : O
 - O
-FC Teste
+FC O
 : O
 74 O
 BPM O
@@ -2497,7 +2497,7 @@ EM O
 MESESS O
 . O
 
-CESSAR O
+CESSAR Tratamento
 ANCORON Tratamento
 . O
 
@@ -3458,17 +3458,17 @@ SEM O
 RA Problema
 . O
 
-RC O
-IRREGULAR O
+RC Problema
+IRREGULAR Problema
 , O
-SOPRO O
-SISTÓLICO O
-MITRAL Anatomia
-3 O
-+ O
-/ O
-6 O
-+ O
+SOPRO Problema
+SISTÓLICO Problema
+MITRAL Problema
+3 Problema
++ Problema
+/ Problema
+6 Problema
++ Problema
 . O
 
 BOA O
@@ -3476,13 +3476,13 @@ PERFUSÃO O
 PERIFÉRICA O
 . O
 
-EDEMA O
-MMII Anatomia
-1 O
-+ O
-/ O
-4 O
-+ O
+EDEMA Problema
+MMII Problema
+1 Problema
++ Problema
+/ Problema
+4 Problema
++ Problema
 . O
 
 GLICOSE Teste
@@ -3501,9 +3501,9 @@ A O
 # O
 ICC Problema
 + O
-INSUF O
-MITRAL Anatomia
-2ª O
+INSUF Problema
+MITRAL Problema
+2ª Problema
 + O
 FA Problema
 ? O
@@ -3512,7 +3512,7 @@ FA Problema
 P O
 # O
 SOLICITO O
-ECG O
+ECG Teste
 + O
 NOVO O
 ECOCARDIOGRAMA Teste
@@ -3830,9 +3830,9 @@ encaminhado O
 à O
 UDT O
 para O
-compensação O
-da O
-ICC Problema
+compensação Tratamento
+da Tratamento
+ICC Tratamento
 . O
 
 Retorno O
@@ -3979,7 +3979,7 @@ Ao Problema
 ac Problema
 . O
 
-Cate O
+Cate Teste
 ( O
 18 O
 / O
@@ -3989,19 +3989,19 @@ Cate O
 ) O
 : O
 sem O
-coronariopatia O
-obstrutiva O
+coronariopatia Problema
+obstrutiva Problema
 , O
-VE O
-disfunção O
-de O
-grau O
-moderado O
+VE Problema
+disfunção Problema
+de Problema
+grau Problema
+moderado Problema
 , O
-estenose O
-aortica Anatomia
-grau O
-moderado O
+estenose Problema
+aortica Problema
+grau Problema
+moderado Problema
 . O
 
 CD O
@@ -4582,23 +4582,23 @@ MEDICAÇÕES Tratamento
 - O
 SOLICITO O
 NOVOS O
-EXAMES O
-LABORATORIAIS O
+EXAMES Teste
+LABORATORIAIS Teste
 ( O
 AVALIAR O
 FUNÇÃO O
 DA O
-TIREOIDE O
+TIREOIDE Anatomia
 - O
-T4 O
-ACIMA O
-DO O
-VALOR O
-DE O
-REFERENCIA O
+T4 Problema
+ACIMA Problema
+DO Problema
+VALOR Problema
+DE Problema
+REFERENCIA Problema
 E O
 FUNÇÃO O
-RENAL O
+RENAL Anatomia
 K Teste
 5 O
 , O
@@ -5107,7 +5107,7 @@ CVD Teste
 
 P O
 MANETNHO O
-CVD Teste
+CVD Tratamento
 12 Tratamento
 , Tratamento
 5 Tratamento
@@ -5530,23 +5530,23 @@ rpm O
 MV O
 normodist O
 sem O
-ruidosd O
-adv O
+ruidosd Problema
+adv Problema
 , O
 RCR O
 , O
 2T O
 , O
 BNF O
-ss O
-+ O
-/ O
-6 O
-+ O
-FA O
-o O
-e O
-P Teste
+ss Problema
++ Problema
+/ Problema
+6 Problema
++ Problema
+FA Problema
+o Problema
+e Problema
+P Problema
 . O
 
 Ferida Problema
@@ -5652,34 +5652,34 @@ que O
 usa O
 . O
 
-Lab O
+Lab Teste
 26 O
 / O
 01 O
 / O
 2013 O
 - O
-Cr O
+Cr Teste
 1 O
 , O
 2 O
 / O
-Glic O
+Glic Teste
 89 O
 / O
-Ur O
+Ur Teste
 35 O
 / O
-TGP O
+TGP Teste
 41 O
 / O
-TGO O
+TGO Teste
 43 O
 / O
-Na O
+Na Teste
 136 O
 / O
-K O
+K Teste
 4 O
 , O
 7 O
@@ -6275,16 +6275,16 @@ PIPAROTE Teste
 + O
 . O
 
-Edema O
-em O
-MMII Anatomia
-+ O
-+ O
-/ O
-+ O
-+ O
-+ O
-+ O
+Edema Problema
+em Problema
+MMII Problema
++ Problema
++ Problema
+/ Problema
++ Problema
++ Problema
++ Problema
++ Problema
 . O
 
 A O
@@ -6593,23 +6593,23 @@ mmhg O
 . O
 
 # O
-Marca O
-- O
-passo O
+Marca Tratamento
+- Tratamento
+passo Tratamento
 há O
 7 O
 anos O
 / O
 / O
-HAS O
+HAS Problema
 / O
 / O
-Dislipidemia O
+Dislipidemia Problema
 / O
 / O
-Ex O
-- O
-tabagista O
+Ex Problema
+- Problema
+tabagista Problema
 - O
 parou O
 há O
@@ -7869,11 +7869,11 @@ MMII Problema
 PLANO O
 : O
 SOLICITADO O
-HOLTER O
+HOLTER Teste
 24HRS O
 PARA O
 AVALIAR O
-FC Teste
+FC O
 EM O
 24 O
 HRS O
@@ -7882,9 +7882,9 @@ HRS O
 AUMENTADO O
 DOSE O
 DE O
-ATENOLO O
-PARA O
-100MG O
+ATENOLO Tratamento
+PARA Tratamento
+100MG Tratamento
 / O
 DIA O
 , O
@@ -8277,7 +8277,7 @@ HMF O
 : O
 irmãos O
 com O
-HAS Problema
+HAS O
 , O
 mãe O
 teve O
@@ -8724,7 +8724,7 @@ NAO O
 CONSEGUE O
 FICAR O
 SEM O
-SONDA Tratamento
+SONDA O
 - O
 NAO Problema
 CONSEGUE Problema
@@ -8989,8 +8989,8 @@ CONDUTA O
 . O
 
 SOLICITO O
-CINTILOGRAFIA O
-MIOCÁRDICA O
+CINTILOGRAFIA Teste
+MIOCÁRDICA Teste
 PARA O
 AVALIAÇÃO Teste
 DE Teste
@@ -9001,7 +9001,7 @@ CIRURGICO Teste
 ELETRONEUROMIOGRAFIA O
 DE O
 MEMBROS Anatomia
-SUPERIORES Anatomia
+SUPERIORES O
 . O
 
 RETORNO O
@@ -9098,9 +9098,9 @@ SEM O
 RA Problema
 . O
 
-ECG O
+ECG Teste
 : O
-FC Teste
+FC O
 75 O
 BPM O
 , O
@@ -9217,7 +9217,7 @@ SEM O
 RA Problema
 . O
 
-ECG O
+ECG Teste
 : O
 FC Teste
 75 O
@@ -9359,18 +9359,18 @@ Paciente O
 vem O
 passar O
 por O
-avaliação O
-cardiológica O
+avaliação Teste
+cardiológica Teste
 para O
 transplante Tratamento
 renal Tratamento
 . O
 
-Comorbidades O
+Comorbidades Problema
 : O
-Dopença O
-renal Anatomia
-policística O
+Dopença Problema
+renal Problema
+policística Problema
 . O
 
 Não O
@@ -9500,16 +9500,16 @@ A O
 . O
 
 FA Problema
-CRONICA O
+CRONICA Problema
 SEM O
-ACO O
+ACO Tratamento
 - O
 AGUARDA O
-CX O
-CATARATA Problema
+CX Tratamento
+CATARATA Tratamento
 . O
 
-P Teste
+P O
 : O
 . O
 
@@ -9520,8 +9520,8 @@ DOSES O
 . O
 
 AGUARDA O
-CX O
-CATARATA Problema
+CX Tratamento
+CATARATA Tratamento
 PARA O
 INICIAR O
 ACO Tratamento
@@ -9663,7 +9663,7 @@ dispneia Problema
 paroxística Problema
 noturna Problema
 e O
-dispneia O
+dispneia Problema
 durante O
 o O
 dia O
@@ -9700,7 +9700,7 @@ A O
 : O
 paciente O
 pós O
-IAM O
+IAM Problema
 evoluiu O
 com O
 dispneia Problema
@@ -9709,7 +9709,7 @@ noturna Problema
 . O
 
 # O
-P Teste
+P O
 : O
 Furosemida Tratamento
 40 Tratamento
@@ -9843,7 +9843,7 @@ FE O
 * O
 . O
 
-VE Anatomia
+VE Problema
 AUMENTADO Problema
 EM Problema
 GRAU Problema
@@ -9878,7 +9878,7 @@ VE Anatomia
 RESTRITIVO O
 . O
 
-AE Anatomia
+AE Problema
 AUMENTADO Problema
 EM Problema
 GRAU Problema
@@ -10152,7 +10152,7 @@ FE O
 * O
 . O
 
-VE Anatomia
+VE Problema
 AUMENTADO Problema
 EM Problema
 GRAU Problema
@@ -10182,10 +10182,10 @@ DIASTÓLICA O
 GRAU O
 II O
 DO O
-VE O
+VE Anatomia
 - O
 RESTRITIVO O
-AE Anatomia
+AE Problema
 AUMENTADO Problema
 EM Problema
 GRAU Problema
@@ -10201,7 +10201,7 @@ S O
 # O
 REFERE O
 MELHORA O
-DA Anatomia
+DA O
 DISPNEIA Problema
 . O
 
@@ -10472,7 +10472,7 @@ mês O
 01 O
 . O
 
-HAS O
+HAS Problema
 e O
 FA Problema
 . O
@@ -10653,12 +10653,12 @@ IMC Teste
 A O
 # O
 Oriento O
-atividade O
-física O
+atividade Tratamento
+física Tratamento
 ; O
 Solicito O
 novos O
-exames O
+exames Teste
 ; O
 Verificar O
 Triglicerídeos Teste
@@ -11024,13 +11024,13 @@ OUTRAS Tratamento
 MEDICAÇÃO Tratamento
 . O
 
-CX O
+CX Tratamento
 : O
-6 O
-CATETERISMO O
+6 Teste
+CATETERISMO Teste
 , O
-2 O
-ANGIOSPLATIA O
+2 Tratamento
+ANGIOSPLATIA Tratamento
 , O
 3 Tratamento
 PONTE Tratamento
@@ -11707,11 +11707,11 @@ de O
 28mmHg O
 . O
 
-VP O
+VP Anatomia
 = O
 ok O
 ; O
-Vtri O
+Vtri Anatomia
 = O
 folhetos Problema
 espessados Problema
@@ -11814,7 +11814,7 @@ precórdio Problema
 Obs O
 ? O
 paciente O
-ansioso O
+ansioso Problema
 duarnte O
 a O
 constulta O
@@ -12195,8 +12195,8 @@ P O
 # O
 ENCAMINHO O
 PARA O
-TX O
-CARDIACO Anatomia
+TX Tratamento
+CARDIACO Tratamento
 . O
 
 Lucas O
@@ -12359,14 +12359,14 @@ Atendimento O
 na O
 UPA O
 por O
-tosse O
-seca O
+tosse Problema
+seca Problema
 e O
 dor Problema
 torácica Problema
-precordial Anatomia
-em O
-queimação O
+precordial Problema
+em Problema
+queimação Problema
 , O
 duração O
 de O
@@ -12670,11 +12670,11 @@ vezes O
 apresenta O
 dor Problema
 torácica Problema
-associada O
-à O
-caminhada O
-mais O
-rápida O
+associada Problema
+à Problema
+caminhada Problema
+mais Problema
+rápida Problema
 . O
 
 Nega O
@@ -12894,14 +12894,14 @@ DISCRETO Problema
 
 NÃO O
 HOUVE O
-AVALIAÇÃO O
-DA O
-ISQUEMIA O
+AVALIAÇÃO Teste
+DA Teste
+ISQUEMIA Teste
 POR O
-DISFUNÇÃO O
-SEVERA O
-DO O
-VE Anatomia
+DISFUNÇÃO Problema
+SEVERA Problema
+DO Problema
+VE Problema
 . O
 
 # O
@@ -12929,7 +12929,7 @@ CERVICAL Anatomia
 D Anatomia
 : O
 CAROTIDA Problema
-: Anatomia
+: O
 ESTENOSE Problema
 20 Problema
 - Problema
@@ -13335,17 +13335,17 @@ MI Tratamento
 . O
 
 - O
-PROTESE O
-AO Anatomia
-BRAILE O
-25MM O
+PROTESE Tratamento
+AO Tratamento
+BRAILE Tratamento
+25MM Tratamento
 . O
 
 - O
-PROTESE O
-MI Anatomia
-CARDIOPROTESE O
-29MM O
+PROTESE Tratamento
+MI Tratamento
+CARDIOPROTESE Tratamento
+29MM Tratamento
 . O
 
 EM O
@@ -13405,7 +13405,7 @@ FE O
 % O
 . O
 
-MI Anatomia
+MI Tratamento
 BIOL Tratamento
 : O
 GMAX O
@@ -13417,9 +13417,9 @@ MEDIO O
 IMOD O
 . O
 
-PROTESE O
-AO Anatomia
-BIOL O
+PROTESE Problema
+AO Problema
+BIOL Problema
 GMAX O
 40 O
 , O
@@ -13474,14 +13474,14 @@ AP O
 MVB O
 + O
 S O
-RA Anatomia
+RA Problema
 . O
 
 AC O
 BCRNF O
 SOPRO O
 SISTOLICO O
-AO Anatomia
+AO O
 E O
 PANFOCAL O
 + O
@@ -13539,9 +13539,9 @@ SUBESTIMADO O
 P O
 # O
 AUMENTO O
-ENALAPRIL O
-10 O
-MG O
+ENALAPRIL Tratamento
+10 Tratamento
+MG Tratamento
 12 O
 / O
 12H O
@@ -13737,28 +13737,28 @@ FE O
 . O
 
 # O
-CINTILOGRAFIA O
+CINTILOGRAFIA Teste
 16 O
 / O
 01 O
 / O
 15 O
 : O
-HIPOPERFUSÃO O
-ACENTUADA O
-E O
-PERSISTENTE O
-NO O
-APICE Anatomia
-E Anatomia
-MEDIO Anatomia
-APICAL Anatomia
-PAREDE Anatomia
-ANTERIOR Anatomia
-E Anatomia
-ANTERO Anatomia
-SEPTAL Anatomia
-VE Anatomia
+HIPOPERFUSÃO Problema
+ACENTUADA Problema
+E Problema
+PERSISTENTE Problema
+NO Problema
+APICE Problema
+E Problema
+MEDIO Problema
+APICAL Problema
+PAREDE Problema
+ANTERIOR Problema
+E Problema
+ANTERO Problema
+SEPTAL Problema
+VE Problema
 . O
 
 HIPOCINESIA Problema
@@ -13893,7 +13893,7 @@ NORMOCORADA O
 ACIANOTICA O
 . O
 
-FC Teste
+FC O
 64 O
 , O
 PA Teste
@@ -13922,7 +13922,7 @@ SOPRO Problema
 AUDIVEL Problema
 . O
 
-P Teste
+P O
 : O
 oTIMIZADO O
 TRATAMENTO Tratamento
@@ -14145,40 +14145,40 @@ FE O
 . O
 
 # O
-CINTILOGRAFIA O
+CINTILOGRAFIA Teste
 16 O
 / O
 01 O
 / O
 15 O
 : O
-HIPOPERFUSÃO O
-ACENTUADA O
-E O
-PERSISTENTE O
-NO O
-APICE O
-E O
-MEDIO O
-APICAL O
-PAREDE O
-ANTERIOR O
-E O
-ANTERO O
-SEPTAL O
-VE Anatomia
+HIPOPERFUSÃO Problema
+ACENTUADA Problema
+E Problema
+PERSISTENTE Problema
+NO Problema
+APICE Problema
+E Problema
+MEDIO Problema
+APICAL Problema
+PAREDE Problema
+ANTERIOR Problema
+E Problema
+ANTERO Problema
+SEPTAL Problema
+VE Problema
 . O
 
-HIPOCINESIA O
-DIFUSA O
-DAS O
-PAREDES O
-DO O
-VE Anatomia
-, O
-ANTERIOR O
-E O
-APICAL O
+HIPOCINESIA Problema
+DIFUSA Problema
+DAS Problema
+PAREDES Problema
+DO Problema
+VE Problema
+, Problema
+ANTERIOR Problema
+E Problema
+APICAL Problema
 . O
 
 FE O
@@ -14300,7 +14300,7 @@ membro Problema
 direito Problema
 . O
 
-P Teste
+P O
 : O
 adiciono O
 furosemida Tratamento
@@ -14377,9 +14377,9 @@ Em O
 teve O
 história O
 de O
-IAM Problema
+IAM O
 e O
-AVC Problema
+AVC O
 . O
 
 Assim O
@@ -14660,7 +14660,7 @@ retorno O
 
 Irmão O
 com O
-IAM Problema
+IAM O
 aos O
 50 O
 anos O

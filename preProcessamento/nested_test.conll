@@ -319,9 +319,9 @@ visceromegalias Problema
 . O
 
 Sem O
-alterações O
-nos O
-MMII Anatomia
+alterações Problema
+nos Problema
+MMII Problema
 . O
 
 Otimizo O
@@ -432,9 +432,9 @@ sincope Problema
 . O
 
 Nega O
-edema O
-de O
-MMII Anatomia
+edema Problema
+de Problema
+MMII Problema
 . O
 
 Alimenta O
@@ -589,31 +589,31 @@ semana O
 . O
 
 Ao O
-exame O
+exame Teste
 : O
-PA O
+PA Teste
 : O
 90 O
 / O
 60 O
 mmHg O
 / O
-FC O
+FC Teste
 55 O
 bpm O
 , O
 BCRNF O
 , O
-SS O
+SS Problema
 , O
 MV O
 + O
 bilateralmente O
 , O
 sem O
-RA O
+RA Problema
 , O
-MMII Anatomia
+MMII Problema
 edema Problema
 + Problema
 / Problema
@@ -807,17 +807,17 @@ K Teste
 
 1 O
 , O
-clearence O
-creatinina O
+clearence Teste
+creatinina Teste
 57 O
 Ao O
-EF O
+EF Teste
 : O
-PA O
+PA Teste
 170x100mmHg O
 ( O
 relata O
-PA O
+PA Teste
 normal O
 quando O
 em O
@@ -826,28 +826,28 @@ não O
 hospitalar O
 ) O
 , O
-FC O
+FC Teste
 63bpm O
 AR O
 : O
 mv O
 sem O
-RA O
-ACV O
+RA Problema
+ACV Anatomia
 : O
 rcr O
 em O
 2T O
 sem O
-sopros O
+sopros Problema
 , O
 com O
-hipofonese O
-de O
-bulhas O
+hipofonese Problema
+de Problema
+bulhas Problema
 AD O
 : O
-abdome O
+abdome Anatomia
 globos O
 , O
 normotenso O
@@ -856,30 +856,30 @@ indolor O
 , O
 ausência O
 de O
-massas O
+massas Problema
 ou O
-visceromegalias O
-MMII O
+visceromegalias Problema
+MMII Anatomia
 sem O
-edema O
+edema Problema
 HD O
 : O
 - O
 ICC Problema
 diastólica Problema
-classe O
-III O
+classe Problema
+III Problema
 - O
-HAS O
+HAS Problema
 - O
-DMII O
+DMII Problema
 - O
-Dislipidemia O
+Dislipidemia Problema
 CD O
 : O
 - O
 mantenho O
-medicação O
+medicação Tratamento
 - O
 retorno O
 em O
@@ -887,39 +887,39 @@ em O
 m O
 com O
 exames Teste
-laboratoriais O
+laboratoriais Teste
 + O
 ECG Teste
 . O
 
-ICC O
-classe O
-III O
+ICC Problema
+classe Problema
+III Problema
 HAS Problema
 , O
 em O
 uso O
 de O
-atenolol O
+atenolol Tratamento
+100mg Tratamento
+/ O
+dia O
+, O
+AAS Tratamento
+, O
 100mg O
 / O
 dia O
 , O
-AAS O
-, O
-100mg O
-/ O
-dia O
-, O
-furosemida O
-40mg O
+furosemida Tratamento
+40mg Tratamento
 1cp O
 12 O
 / O
 12h O
 , O
-anlodipino O
-5mg O
+anlodipino Tratamento
+5mg Tratamento
 1 O
 / O
 2 O
@@ -927,15 +927,15 @@ cp O
 à O
 noite O
 , O
-losartana O
-50mg O
+losartana Tratamento
+50mg Tratamento
 12 O
 / O
 12h O
 DMII Problema
 , O
-metformina O
-850mg O
+metformina Tratamento
+850mg Tratamento
 12 O
 / O
 12h O
@@ -1053,7 +1053,7 @@ EVOLUÇÃO O
 P O
 # O
 NOVA O
-BIOPSIA Teste
+BIOPSIA O
 , O
 ECO Teste
 E O
@@ -1103,33 +1103,33 @@ CARDIOLOGICAS Problema
 15 O
 FE O
 50 O
-EP O
+EP Anatomia
 25 O
-AE O
+AE Anatomia
 46 O
-VE O
-REMODELAMENTO O
-CONCENTRICO O
-AE O
-E O
-AD O
-AUMENTADOS O
+VE Problema
+REMODELAMENTO Problema
+CONCENTRICO Problema
+AE Problema
+E Problema
+AD Problema
+AUMENTADOS Problema
 VD O
 NL O
 PROTESE O
 AO O
 NF O
-REFLUXO O
-DISCRETO O
+REFLUXO Problema
+DISCRETO Problema
 = O
-DUPLA O
-LESAO O
-MI Anatomia
-COM O
-ESTENOSE O
-E O
-INSUF O
-MODERADAS O
+DUPLA Problema
+LESAO Problema
+MI Problema
+COM Problema
+ESTENOSE Problema
+E Problema
+INSUF Problema
+MODERADAS Problema
 - O
 INSUF Problema
 TRI Problema
@@ -1359,7 +1359,7 @@ de O
 12 O
 . O
 
-VTri O
+VTri Anatomia
 = O
 refluxo Problema
 discreto Problema
@@ -1440,8 +1440,8 @@ acianotica O
 orientada O
 , O
 Sem O
-edema O
-mmii Anatomia
+edema Problema
+mmii Problema
 . O
 
 HD O
@@ -1743,7 +1743,7 @@ DÇA Problema
 CHAGAS Problema
 . O
 
-P Teste
+P O
 : O
 MANTENHO O
 MEDICAÇÕES Tratamento
@@ -1942,21 +1942,21 @@ MAREVAN Tratamento
 5MG Tratamento
 . O
 
-HOLTER O
+HOLTER Teste
 COM O
 PRESENCA O
 DE O
-EV O
-E O
-ESV O
-RARAS O
-COM O
-EPISODIOS O
-NAO O
-SUSTENTADOS O
-DE O
-TAQUICARDIA O
-ATRIAL Anatomia
+EV Problema
+E Problema
+ESV Problema
+RARAS Problema
+COM Problema
+EPISODIOS Problema
+NAO Problema
+SUSTENTADOS Problema
+DE Problema
+TAQUICARDIA Problema
+ATRIAL Problema
 SEM O
 PRESENCA O
 DE O
@@ -1976,7 +1976,7 @@ MEDICAÇÕES Tratamento
 . O
 
 NEGA O
-SINTOMAS Problema
+SINTOMAS O
 DE O
 PALPITAÇÕES Problema
 . O
@@ -2324,7 +2324,7 @@ FE O
 . O
 
 Homoenxerto Tratamento
-aortico Tratamento
+aortico O
 com O
 mobilidade O
 ampla O
@@ -2390,7 +2390,7 @@ AE Problema
 dilatado Problema
 . O
 
-Homoenxerto Tratamento
+Homoenxerto O
 com O
 mobilidade O
 adequada O
@@ -2694,11 +2694,11 @@ de O
 28mmHg O
 . O
 
-VP O
+VP Anatomia
 = O
 ok O
 ; O
-Vtri O
+Vtri Anatomia
 = O
 folhetos Problema
 espessados Problema
@@ -2735,7 +2735,7 @@ AD Anatomia
 aumentado Problema
 . O
 
-Eco O
+Eco Teste
 ( O
 14 O
 / O
@@ -2743,19 +2743,19 @@ Eco O
 / O
 16 O
 ) O
-RA O
+RA Anatomia
 : O
 38 O
 AE Anatomia
 : O
 45 O
-VD O
+VD Anatomia
 : O
 20 O
-S O
+S Anatomia
 : O
 14 O
-PP O
+PP Anatomia
 : O
 14 O
 VE Anatomia
@@ -2807,7 +2807,7 @@ ASC Anatomia
 41MM O
 . O
 
-S Anatomia
+S O
 . O
 
 Nega O
@@ -2858,7 +2858,7 @@ acianotico O
 anicterico O
 . O
 
-PA Teste
+PA O
 : O
 170 O
 / O
@@ -2905,17 +2905,17 @@ precórdio Problema
 
 A O
 # O
-DUPLA O
-LESAO O
-AO Anatomia
-ESTENOSE O
-MOD O
-+ O
-INSUF O
-DISCRETA O
+DUPLA Problema
+LESAO Problema
+AO Problema
+ESTENOSE Problema
+MOD Problema
++ Problema
+INSUF Problema
+DISCRETA Problema
 . O
 
-P Teste
+P O
 # O
 aumento O
 Enalapril Tratamento
@@ -3276,7 +3276,7 @@ FE O
 % O
 . O
 
-VE Anatomia
+VE Problema
 DILATADO Problema
 COM Problema
 HIPOCONTRATIBILIDADE Problema
@@ -3301,15 +3301,15 @@ S O
 SENTE O
 BEM O
 , O
-DOR O
-NA O
-FO O
+DOR Problema
+NA Problema
+FO Problema
 SOMENTE O
-AOS O
-MOVIMENTOS O
-E O
-AO Anatomia
-TOSSIR O
+AOS Problema
+MOVIMENTOS Problema
+E Problema
+AO Problema
+TOSSIR Problema
 . O
 
 NEGA O
@@ -3486,7 +3486,7 @@ SP O
 . O
 
 AGURADA O
-BIOPSIA Teste
+BIOPSIA O
 . O
 
 O O
@@ -3527,7 +3527,7 @@ EVOLUÇÃO Teste
 AGUARDA O
 LAUDO O
 DA O
-BIOPSIA Teste
+BIOPSIA O
 . O
 
 P O
@@ -3789,7 +3789,7 @@ Refere O
 que O
 continua O
 apresentando O
-sintomas Problema
+sintomas O
 , O
 com O
 ultimo O
@@ -4773,10 +4773,10 @@ MONOCORDIL Tratamento
 - O
 SOLICITO O
 NOVA O
-CINTILOGRAFIA O
-DE O
-PERFUSÃO O
-MIOCÁRDICA Anatomia
+CINTILOGRAFIA Teste
+DE Teste
+PERFUSÃO Teste
+MIOCÁRDICA Teste
 . O
 
 - O
@@ -5301,7 +5301,7 @@ em O
 meses O
 , O
 se O
-intercorrencias Problema
+intercorrencias O
 = O
 procura O
 direta O
@@ -5893,12 +5893,12 @@ HIDRATADO O
 EUPNEICO O
 . O
 
-PA O
+PA Teste
 120 O
 / O
 80 O
 , O
-FC Problema
+FC Teste
 80 O
 ; O
 . O
