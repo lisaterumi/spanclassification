@@ -23,9 +23,8 @@ logger = logging.getLogger(__name__)
 
 DATA_DIR='./data'
 LABEL_FILE='label.txt'
-TRAIN_FILE = "genia.train"
-DEV_FILE = "genia.dev" 
-TEST_FILE ="genia.test"
+TRAIN_FILE = "span.train"
+DEV_FILE = "span.test"
 
 class InputExample(object):
     """

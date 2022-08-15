@@ -15,7 +15,7 @@ from utils.torch_util import calc_f1, get_device
 from utils.utils import get_label
 from utils.path_util import from_project_root
 
-BERT_MODEL ='dmis-lab/biobert-base-cased-v1.2'
+BERT_MODEL ='pucpr/biobertpt-all'
 #BERT_MODEL ='bert-base-uncased'
 #BERT_MODEL_NER ='lisaterumi/genia-biobert-ent'
 #BERT_MODEL_NER ='./model2'
