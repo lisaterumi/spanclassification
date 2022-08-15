@@ -13,8 +13,8 @@ def get_label(data_dir, label_file):
 
 
 def load_tokenizer(model_name_or_path):
-    #tokenizer = BertTokenizer.from_pretrained(model_name_or_path)
-    tokenizer = BertTokenizer.from_pretrained("./data/tokenizador")
+    tokenizer = BertTokenizer.from_pretrained(model_name_or_path)
+    #tokenizer = BertTokenizer.from_pretrained("./data/tokenizador")
     tokenizer.add_special_tokens({"additional_special_tokens": ADDITIONAL_SPECIAL_TOKENS})
     return tokenizer
 

@@ -25,6 +25,7 @@ DATA_DIR='./data'
 LABEL_FILE='label.txt'
 TRAIN_FILE = "span.train"
 DEV_FILE = "span.test"
+TEST_FILE = "span.test"
 
 class InputExample(object):
     """
@@ -116,7 +117,8 @@ class ChunkProcessor(object):
     @classmethod
     def _read_tsv(cls, input_file, quotechar=None):
         """Reads a tab separated value file."""
-        with open(input_file, "r", encoding="utf-8") as f:
+        #with open(input_file, "r", encoding="utf-8") as f:
+        with open(input_file, "r", encoding="latin1") as f:
             reader = csv.reader(f, delimiter="\t", quotechar=quotechar)
             lines = []
             for line in reader:
