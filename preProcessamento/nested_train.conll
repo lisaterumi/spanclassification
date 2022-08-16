@@ -1516,7 +1516,7 @@ creatinina Teste
 mg O
 / O
 g O
-creatinina O
+creatinina Teste
 # O
 ETT Teste
 : O
@@ -1847,9 +1847,9 @@ ANOS O
 ) O
 Medicamentos Tratamento
 : O
-Enalapril O
-2 O
-. O
+Enalapril Tratamento
+2 Tratamento
+. Tratamento
 
 5mg O
 12 O
@@ -2158,7 +2158,7 @@ RITMO O
 SINUSAL O
 . O
 
-FC Teste
+FC O
 : O
 70 O
 BPM O
@@ -2216,7 +2216,7 @@ EXAME Teste
 FISICO Teste
 : O
 - O
-FC O
+FC Teste
 : O
 74 O
 BPM O
@@ -3458,17 +3458,17 @@ SEM O
 RA Problema
 . O
 
-RC O
-IRREGULAR O
+RC Problema
+IRREGULAR Problema
 , O
-SOPRO O
-SISTÓLICO O
-MITRAL Anatomia
-3 O
-+ O
-/ O
-6 O
-+ O
+SOPRO Problema
+SISTÓLICO Problema
+MITRAL Problema
+3 Problema
++ Problema
+/ Problema
+6 Problema
++ Problema
 . O
 
 BOA O
@@ -3499,11 +3499,11 @@ CREATININA Teste
 
 A O
 # O
-ICC O
+ICC Problema
 + O
-INSUF O
-MITRAL Anatomia
-2ª O
+INSUF Problema
+MITRAL Problema
+2ª Problema
 + O
 FA Problema
 ? O
@@ -3899,9 +3899,9 @@ Apresolina Tratamento
 / O
 12h O
 ; O
-Carvedilol O
-12 O
-. O
+Carvedilol Tratamento
+12 Tratamento
+. Tratamento
 
 5 O
 - O
@@ -3979,7 +3979,7 @@ Ao Problema
 ac Problema
 . O
 
-Cate O
+Cate Teste
 ( O
 18 O
 / O
@@ -3989,19 +3989,19 @@ Cate O
 ) O
 : O
 sem O
-coronariopatia O
-obstrutiva O
+coronariopatia Problema
+obstrutiva Problema
 , O
-VE O
-disfunção O
-de O
-grau O
-moderado O
+VE Problema
+disfunção Problema
+de Problema
+grau Problema
+moderado Problema
 , O
-estenose O
-aortica Anatomia
-grau O
-moderado O
+estenose Problema
+aortica Problema
+grau Problema
+moderado Problema
 . O
 
 CD O
@@ -7761,7 +7761,7 @@ ECG Teste
 RITMO O
 SINUSAL O
 , O
-FC Teste
+FC O
 : O
 63 O
 BPM O
@@ -7873,7 +7873,7 @@ HOLTER Teste
 24HRS O
 PARA O
 AVALIAR O
-FC O
+FC Teste
 EM O
 24 O
 HRS O
@@ -8514,11 +8514,11 @@ sistólica O
 preservada O
 . O
 
-ALteração O
-do O
-relaxamento O
-do O
-VE Anatomia
+ALteração Problema
+do Problema
+relaxamento Problema
+do Problema
+VE Problema
 . O
 
 AE Problema
@@ -8998,10 +8998,10 @@ RISCO Teste
 CIRURGICO Teste
 . O
 
-ELETRONEUROMIOGRAFIA O
-DE O
-MEMBROS Anatomia
-SUPERIORES O
+ELETRONEUROMIOGRAFIA Teste
+DE Teste
+MEMBROS Teste
+SUPERIORES Teste
 . O
 
 RETORNO O
@@ -9859,23 +9859,23 @@ SISTOLICA Problema
 MODERADA Problema
 . O
 
-CONTRAÇÃO O
-SEGMENTAR O
-DO O
-VE Anatomia
-. O
+CONTRAÇÃO Problema
+SEGMENTAR Problema
+DO Problema
+VE Problema
+. Problema
 
 ALTERADA O
 . O
 
-DISFUNÇÃO O
-DIASTÓLICA O
-GRAU O
-II O
-DO O
-VE Anatomia
-- O
-RESTRITIVO O
+DISFUNÇÃO Problema
+DIASTÓLICA Problema
+GRAU Problema
+II Problema
+DO Problema
+VE Problema
+- Problema
+RESTRITIVO Problema
 . O
 
 AE Problema
@@ -10168,23 +10168,23 @@ SISTOLICA Problema
 MODERADA Problema
 . O
 
-CONTRAÇÃO O
-SEGMENTAR O
-DO O
-VE Anatomia
-. O
+CONTRAÇÃO Problema
+SEGMENTAR Problema
+DO Problema
+VE Problema
+. Problema
 
 ALTERADA O
 . O
 
-DISFUNÇÃO O
-DIASTÓLICA O
-GRAU O
-II O
-DO O
-VE Anatomia
-- O
-RESTRITIVO O
+DISFUNÇÃO Problema
+DIASTÓLICA Problema
+GRAU Problema
+II Problema
+DO Problema
+VE Problema
+- Problema
+RESTRITIVO Problema
 AE Problema
 AUMENTADO Problema
 EM Problema
@@ -12929,7 +12929,7 @@ CERVICAL Anatomia
 D Anatomia
 : O
 CAROTIDA Problema
-: O
+: Anatomia
 ESTENOSE Problema
 20 Problema
 - Problema
@@ -13479,29 +13479,29 @@ RA Problema
 
 AC O
 BCRNF O
-SOPRO O
-SISTOLICO O
-AO O
-E O
-PANFOCAL O
-+ O
-4 O
-/ O
-+ O
-6 O
-EJETIVO O
+SOPRO Problema
+SISTOLICO Problema
+AO Problema
+E Problema
+PANFOCAL Problema
++ Problema
+4 Problema
+/ Problema
++ Problema
+6 Problema
+EJETIVO Problema
 ; O
-SOPRO O
-DIASTOLICO O
-AO O
-E O
-MI Anatomia
-ASPIRATIVO O
-+ O
-3 O
-/ O
-+ O
-6 O
+SOPRO Problema
+DIASTOLICO Problema
+AO Problema
+E Problema
+MI Problema
+ASPIRATIVO Problema
++ Problema
+3 Problema
+/ Problema
++ Problema
+6 Problema
 . O
 
 ABD Anatomia
@@ -13514,11 +13514,11 @@ SP O
 
 A O
 # O
-TROCA O
-DE O
-VAO O
-E O
-MI Anatomia
+TROCA Tratamento
+DE Tratamento
+VAO Tratamento
+E Tratamento
+MI Tratamento
 HÁ O
 8 O
 ANOS O
@@ -13699,7 +13699,7 @@ ATIVA Problema
 
 # O
 ECG Teste
-FC Teste
+FC O
 50 O
 BS O
 ZEI O
@@ -13893,7 +13893,7 @@ NORMOCORADA O
 ACIANOTICA O
 . O
 
-FC O
+FC Teste
 64 O
 , O
 PA Teste
@@ -13975,7 +13975,7 @@ PROGRAMA O
 DE O
 ABANDONO O
 AO O
-TABAGISMO O
+TABAGISMO Problema
 . O
 
 RETORNO O
@@ -14357,7 +14357,7 @@ angina O
 , O
 faleceu O
 com O
-AVC Problema
+AVC O
 aos O
 70 O
 anos O
@@ -14366,7 +14366,7 @@ anos O
 Pai O
 faleceu O
 de O
-IAM Problema
+IAM O
 com O
 68 O
 anos O
@@ -14377,9 +14377,9 @@ Em O
 teve O
 história O
 de O
-IAM O
+IAM Problema
 e O
-AVC O
+AVC Problema
 . O
 
 Assim O
