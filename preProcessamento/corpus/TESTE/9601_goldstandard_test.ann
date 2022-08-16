@@ -1,0 +1,51 @@
+T1	Tratamento 58 77	Homoenxerto aortico
+T2	Problema 84 87	EAo
+T3	Problema 152 162	Hipertenso
+T4	Tratamento 175 185	AAS 100 mg
+T5	Tratamento 191 207	losartana 100 mg
+T6	Tratamento 213 231	atovastatina 20 mg
+T7	Tratamento 243 256	atenolol 25mg
+T8	Tratamento 264 279	furosemida 40mg
+T9	Tratamento 287 302	omeoprazol 40mg
+T10	Tratamento 311 326	ezatimibe 10 mg
+T11	Tratamento 328 342	Hidantal 100mg
+T12	Problema 349 361	cisticercose
+T13	Problema 433 452	DOR REGIAO ESTERNAL
+T14	Teste 500 502	tg
+T15	Teste 509 511	ct
+T16	Teste 518 521	ldl
+T17	Teste 539 548	Ecocardio
+T18	Problema 661 694	Regurgitacao grau leve a moderada
+T19	Teste 732 738	Exames
+T20	Teste 740 754	Ecocardiograma
+T21	Problema 818 834	VE hipertrofiado
+T22	Problema 888 918	ALteração do relaxamento do VE
+T23	Problema 919 930	AE dilatado
+T24	Teste 979 982	Lab
+T25	Teste 995 997	Cr
+T26	Teste 1004 1006	CT
+T27	Teste 1012 1015	TGC
+T28	Teste 1021 1024	HDL
+T29	Teste 1029 1030	K
+T30	Teste 1036 1039	LDL
+T31	Teste 1044 1048	Glic
+T32	Teste 1056 1061	exame
+T33	Teste 1110 1112	PA
+T34	Problema 1129 1143	estase jugular
+T35	Problema 1158 1164	sopros
+T36	Problema 1201 1203	RA
+T37	Tratamento 1214 1224	medicações
+T38	Tratamento 363 396	Penicilina G benzatina 1,200,000U
+T39	Anatomia 1282 1289	esterno
+T40	Anatomia 713 725	valva mitral
+T41	Anatomia 437 452	REGIAO ESTERNAL
+T42	Anatomia 564 566	VD
+T43	Anatomia 818 820	VE
+T44	Anatomia 916 918	VE
+T45	Anatomia 919 921	AE
+T46	Anatomia 792 799	aórtica
+T47	Anatomia 1136 1143	jugular
+T48	Anatomia 572 577	Septo
+T49	Anatomia 1244 1252	cardiaca
+T50	Tratamento 932 943	Homoenxerto
+T51	Tratamento 769 799	Homoenxerto em posição aórtica

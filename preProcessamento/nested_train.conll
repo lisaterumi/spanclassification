@@ -3458,17 +3458,17 @@ SEM O
 RA Problema
 . O
 
-RC Problema
-IRREGULAR Problema
+RC O
+IRREGULAR O
 , O
-SOPRO Problema
-SISTÓLICO Problema
-MITRAL Problema
-3 Problema
-+ Problema
-/ Problema
-6 Problema
-+ Problema
+SOPRO O
+SISTÓLICO O
+MITRAL Anatomia
+3 O
++ O
+/ O
+6 O
++ O
 . O
 
 BOA O
@@ -3499,11 +3499,11 @@ CREATININA Teste
 
 A O
 # O
-ICC Problema
+ICC O
 + O
-INSUF Problema
-MITRAL Problema
-2ª Problema
+INSUF O
+MITRAL Anatomia
+2ª O
 + O
 FA Problema
 ? O
@@ -3979,7 +3979,7 @@ Ao Problema
 ac Problema
 . O
 
-Cate Teste
+Cate O
 ( O
 18 O
 / O
@@ -3989,19 +3989,19 @@ Cate Teste
 ) O
 : O
 sem O
-coronariopatia Problema
-obstrutiva Problema
+coronariopatia O
+obstrutiva O
 , O
-VE Problema
-disfunção Problema
-de Problema
-grau Problema
-moderado Problema
+VE O
+disfunção O
+de O
+grau O
+moderado O
 , O
-estenose Problema
-aortica Problema
-grau Problema
-moderado Problema
+estenose O
+aortica Anatomia
+grau O
+moderado O
 . O
 
 CD O
@@ -15090,3 +15090,4 @@ SONO Problema
 
 ICO Problema
 . O
+
