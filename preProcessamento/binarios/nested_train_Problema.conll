@@ -1147,7 +1147,6 @@ Cr O
 : O
 49 O
 . O
-
 9 O
 CKD O
 - O
@@ -1850,7 +1849,6 @@ Medicamentos O
 Enalapril O
 2 O
 . O
-
 5mg O
 12 O
 / O
@@ -1887,17 +1885,14 @@ Laboratório O
 Eritrócitos O
 3 O
 . O
-
 54 O
 Hemoglobina O
 10 O
 . O
-
 3 O
 Hematocrito O
 32 O
 . O
-
 1 O
 % O
 Leucocitos O
@@ -1907,37 +1902,31 @@ Eosinofilos O
 Basofilos O
 116 O
 . O
-
 2 O
 Acido O
 Urico O
 12 O
 . O
-
 9 O
 TAP O
 0 O
 . O
-
 92 O
 Sodio O
 137 O
 Potassio O
 5 O
 . O
-
 6 O
 Creatinina O
 2 O
 . O
-
 2 O
 TFG O
 CKD O
 EPI O
 31 O
 . O
-
 4 O
 ml O
 / O
@@ -1945,7 +1934,6 @@ min O
 / O
 1 O
 . O
-
 73 O
 m2 O
 Glicose O
@@ -1955,24 +1943,20 @@ Ureia O
 BT O
 0 O
 . O
-
 6 O
 - O
 BD O
 0 O
 . O
-
 3 O
 - O
 BI O
 0 O
 . O
-
 3 O
 Peso O
 93 O
 . O
-
 5 O
 PA O
 80 O
@@ -3902,7 +3886,6 @@ Apresolina O
 Carvedilol O
 12 O
 . O
-
 5 O
 - O
 12 O
@@ -5463,7 +5446,6 @@ Leuc O
 Pla O
 274 O
 . O
-
 000 O
 . O
 
@@ -15089,5 +15071,43 @@ SONO Problema
 . O
 
 ICO Problema
+. O
+
+SOLICITO O
+EXAMES O
+LABORATORIAIS O
+E O
+CATETERISMO O
+DIAGNOSTICO O
+PARA O
+VER O
+OSSTENTS O
+IMPLANTADOS O
+. O
+
+LUCAS O
+, O
+69 O
+anos O
+. O
+
+HMA O
+: O
+paciente O
+relata O
+cansaço Problema
+, O
+dor Problema
+precordial Problema
+quando Problema
+tosse Problema
+. O
+
+Nega O
+dispneia Problema
+, O
+ortopneia Problema
+e O
+DNP Problema
 . O
 

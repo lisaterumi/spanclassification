@@ -1147,7 +1147,6 @@ Cr O
 : O
 49 O
 . O
-
 9 O
 CKD O
 - O
@@ -1850,8 +1849,7 @@ Medicamentos Tratamento
 Enalapril Tratamento
 2 Tratamento
 . Tratamento
-
-5mg O
+5mg Tratamento
 12 O
 / O
 12h O
@@ -1887,17 +1885,14 @@ Laboratório O
 Eritrócitos O
 3 O
 . O
-
 54 O
 Hemoglobina O
 10 O
 . O
-
 3 O
 Hematocrito O
 32 O
 . O
-
 1 O
 % O
 Leucocitos O
@@ -1907,37 +1902,31 @@ Eosinofilos O
 Basofilos O
 116 O
 . O
-
 2 O
 Acido O
 Urico O
 12 O
 . O
-
 9 O
 TAP O
 0 O
 . O
-
 92 O
 Sodio O
 137 O
 Potassio O
 5 O
 . O
-
 6 O
 Creatinina O
 2 O
 . O
-
 2 O
 TFG O
 CKD O
 EPI O
 31 O
 . O
-
 4 O
 ml O
 / O
@@ -1945,7 +1934,6 @@ min O
 / O
 1 O
 . O
-
 73 O
 m2 O
 Glicose O
@@ -1955,24 +1943,20 @@ Ureia O
 BT O
 0 O
 . O
-
 6 O
 - O
 BD O
 0 O
 . O
-
 3 O
 - O
 BI O
 0 O
 . O
-
 3 O
 Peso O
 93 O
 . O
-
 5 O
 PA O
 80 O
@@ -3902,8 +3886,7 @@ Apresolina Tratamento
 Carvedilol Tratamento
 12 Tratamento
 . Tratamento
-
-5 O
+5 Tratamento
 - O
 12 O
 / O
@@ -5463,7 +5446,6 @@ Leuc O
 Pla O
 274 O
 . O
-
 000 O
 . O
 
@@ -13451,7 +13433,7 @@ INICIAR O
 O O
 USO O
 DE O
-METOPROLOL O
+METOPROLOL Tratamento
 . O
 
 SEQUELA O
@@ -15089,5 +15071,43 @@ SONO O
 . O
 
 ICO O
+. O
+
+SOLICITO O
+EXAMES O
+LABORATORIAIS O
+E O
+CATETERISMO O
+DIAGNOSTICO O
+PARA O
+VER O
+OSSTENTS Tratamento
+IMPLANTADOS O
+. O
+
+LUCAS O
+, O
+69 O
+anos O
+. O
+
+HMA O
+: O
+paciente O
+relata O
+cansaço O
+, O
+dor O
+precordial O
+quando O
+tosse O
+. O
+
+Nega O
+dispneia O
+, O
+ortopneia O
+e O
+DNP O
 . O
 

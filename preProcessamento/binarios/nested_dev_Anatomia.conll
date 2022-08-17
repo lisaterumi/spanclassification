@@ -1,41 +1,3 @@
-SOLICITO O
-EXAMES O
-LABORATORIAIS O
-E O
-CATETERISMO O
-DIAGNOSTICO O
-PARA O
-VER O
-OSSTENTS O
-IMPLANTADOS O
-. O
-
-LUCAS O
-, O
-69 O
-anos O
-. O
-
-HMA O
-: O
-paciente O
-relata O
-cansaço O
-, O
-dor O
-precordial O
-quando O
-tosse O
-. O
-
-Nega O
-dispneia O
-, O
-ortopneia O
-e O
-DNP O
-. O
-
 Paciente O
 relata O
 apenas O
@@ -305,7 +267,7 @@ APRESENTANDO O
 EPISÓDIOS O
 DE O
 DOR O
-TORÁCICA O
+TORÁCICA Anatomia
 EM O
 APERTO O
 , O
@@ -545,14 +507,14 @@ transtorácico O
 remodelamento O
 concêntrico O
 do O
-VE O
+VE Anatomia
 , O
 disfunção O
 diastólica O
 grau O
 II O
 do O
-VE O
+VE Anatomia
 . O
 
 exames O
@@ -677,28 +639,28 @@ ANOS O
 
 # O
 CINTILOGRAFIA O
-MIOCÁRDICA O
+MIOCÁRDICA Anatomia
 COM O
 DIPIRIDAMOL O
 EM O
 2011 O
 : O
 HIPOCAPTAÇÃO O
-APICAL O
-, O
-DO O
-SEGMENTO O
-ANTERIOR O
-( O
-TRANSITÓRIO O
-) O
-E O
-BASAL O
-DO O
-SEGMENTO O
-ANTERO O
-- O
-SEPTAL O
+APICAL Anatomia
+, Anatomia
+DO Anatomia
+SEGMENTO Anatomia
+ANTERIOR Anatomia
+( Anatomia
+TRANSITÓRIO Anatomia
+) Anatomia
+E Anatomia
+BASAL Anatomia
+DO Anatomia
+SEGMENTO Anatomia
+ANTERO Anatomia
+- Anatomia
+SEPTAL Anatomia
 . O
 
 # O
@@ -750,7 +712,7 @@ SUSTRATE O
 MG O
 SE O
 DOR O
-PRECORDIAL O
+PRECORDIAL Anatomia
 , O
 COMPLEXO O
 B O
@@ -798,7 +760,7 @@ DE O
 PALPITAÇÕES O
 E O
 DOR O
-PRECORDIAL O
+PRECORDIAL Anatomia
 ( O
 1 O
 - O
@@ -827,11 +789,11 @@ ASSSOCIADOS O
 
 NEGA O
 QUEIXAS O
-RESPIRATÓRIAS O
+RESPIRATÓRIAS Anatomia
 , O
-URINÁRIAS O
+URINÁRIAS Anatomia
 OU O
-GASTROINTESTINAIS O
+GASTROINTESTINAIS Anatomia
 . O
 
 SINDORME O
@@ -908,11 +870,11 @@ IMP O
 PACIENTE O
 SEM O
 CAPTURA O
-ATRIAL O
+ATRIAL Anatomia
 E O
 COM O
 FC O
-ATRIAL O
+ATRIAL Anatomia
 BAIXA O
 . O
 
@@ -947,7 +909,7 @@ EM O
 . O
 
 VALVOPLASTIA O
-AÓRTICA O
+AÓRTICA Anatomia
 EM O
 2008 O
 . O
@@ -996,7 +958,7 @@ REFERE O
 ESTAR O
 SEM O
 SINTOMAS O
-CARDIOVASC O
+CARDIOVASC Anatomia
 . O
 
 ULTIMA O
@@ -1083,8 +1045,8 @@ COM O
 SOPRO O
 SISTÓLICO O
 EM O
-FOCO O
-AORTICO O
+FOCO Anatomia
+AORTICO Anatomia
 , O
 . O
 
@@ -1108,7 +1070,7 @@ PALPAÇÃO O
 . O
 
 HERNIA O
-UMBULICAL O
+UMBULICAL Anatomia
 , O
 ANEL O
 HERNIÁRIO O
@@ -1125,7 +1087,7 @@ A O
 . O
 
 VALVOPLASTIA O
-AORTICA O
+AORTICA Anatomia
 2008 O
 . O
 
@@ -1331,7 +1293,7 @@ A O
 . O
 
 VALVOPLASTIA O
-AORTICA O
+AORTICA Anatomia
 2008 O
 , O
 . O
@@ -1381,7 +1343,7 @@ QUEIXA O
 - O
 SE O
 CEFALEIA O
-HOLOCRANIANA O
+HOLOCRANIANA Anatomia
 . O
 
 NEGA O
@@ -1446,8 +1408,8 @@ anos O
 # O
 Troca O
 de O
-valva O
-aórtica O
+valva Anatomia
+aórtica Anatomia
 biológica O
 por O
 EAo O
@@ -1550,7 +1512,7 @@ TT O
 15 O
 ) O
 : O
-VE O
+VE Anatomia
 com O
 hipetrofia O
 excentrica O
@@ -1580,7 +1542,7 @@ normais O
 . O
 
 Insuficiência O
-mitral O
+mitral Anatomia
 discreta O
 . O
 
@@ -1713,8 +1675,8 @@ BNF O
 sopro O
 sistólico O
 em O
-foco O
-Ao O
+foco Anatomia
+Ao Anatomia
 de O
 2 O
 + O
@@ -1752,7 +1714,7 @@ periférica O
 A O
 : O
 Válvula O
-aórtica O
+aórtica Anatomia
 biológica O
 + O
 FA O
@@ -2007,11 +1969,11 @@ dispneia O
 , O
 aperto O
 no O
-peito O
+peito Anatomia
 e O
 dor O
 nas O
-costas O
+costas Anatomia
 , O
 mal O
 estar O
@@ -2187,7 +2149,7 @@ SVT O
 
 INVESTIGAVA O
 DOR O
-TORAXCICA O
+TORAXCICA Anatomia
 . O
 
 ATUALMENTE O
@@ -2301,7 +2263,7 @@ HAS O
 - O
 CATE O
 : O
-DA O
+DA Anatomia
 PIM O
 COM O
 OBSRUÇÃO O
@@ -2317,7 +2279,7 @@ MODERADA O
 / O
 3 O
 PROXIMAL O
-CD O
+CD Anatomia
 . O
 
 USA O
@@ -2340,7 +2302,7 @@ S O
 : O
 SEM O
 QX O
-CARDIOLOGICAS O
+CARDIOLOGICAS Anatomia
 ATUAIS O
 - O
 DOR O
@@ -2381,7 +2343,7 @@ AE Anatomia
 LIMITROFE O
 , O
 INSUF O
-MI O
+MI Anatomia
 DISCRETA O
 , O
 HSAP O
@@ -2463,10 +2425,10 @@ HAS O
 14 O
 CATE O
 : O
-DA O
+DA Anatomia
 Ponte O
 Intra O
-Miocárdica O
+Miocárdica Anatomia
 COM O
 OBSRUÇÃO O
 SISTOLE O
@@ -2481,7 +2443,7 @@ MODERADA O
 / O
 3 O
 PROXIMAL O
-CD O
+CD Anatomia
 . O
 
 # O
@@ -2527,7 +2489,7 @@ AE Anatomia
 LIMITROFE O
 , O
 INSUF O
-MI O
+MI Anatomia
 DISCRETA O
 , O
 HSAP O
@@ -2579,7 +2541,7 @@ COL O
 . O
 
 Cintilografia O
-miocárdica O
+miocárdica Anatomia
 : O
 FE O
 59 O
@@ -2665,8 +2627,8 @@ de O
 Tumor O
 ' O
 em O
-regtião O
-cervical O
+regtião Anatomia
+cervical Anatomia
 , O
 não O
 conseguiram O
@@ -2717,12 +2679,12 @@ Queixa O
 de O
 dor O
 em O
-MSE O
+MSE Anatomia
 e O
 irradiação O
 para O
-região O
-precordial O
+região Anatomia
+precordial Anatomia
 duração O
 de O
 15 O
@@ -2733,7 +2695,7 @@ dificuldade O
 para O
 mexer O
 o O
-braço O
+braço Anatomia
 . O
 
 Dispnéia O
@@ -2772,7 +2734,7 @@ anicterica O
 s O
 / O
 sopro O
-carotideo O
+carotideo Anatomia
 . O
 
 MV O
@@ -2868,12 +2830,12 @@ Queixa O
 de O
 dor O
 em O
-MSE O
+MSE Anatomia
 e O
 irradiação O
 para O
-região O
-precordial O
+região Anatomia
+precordial Anatomia
 duração O
 de O
 15 O
@@ -2884,7 +2846,7 @@ dificuldade O
 para O
 mexer O
 o O
-braço O
+braço Anatomia
 . O
 
 Dispnéia O
@@ -2916,7 +2878,7 @@ anicterica O
 s O
 / O
 sopro O
-carotideo O
+carotideo Anatomia
 . O
 
 MV O
@@ -3185,7 +3147,7 @@ Alenia O
 Melhora O
 da O
 dor O
-torácica O
+torácica Anatomia
 . O
 
 Dispnéia O
@@ -3228,7 +3190,7 @@ anicterica O
 s O
 / O
 sopro O
-carotideo O
+carotideo Anatomia
 , O
 . O
 
@@ -3512,7 +3474,7 @@ CX O
 - O
 TROCA O
 VALVAR O
-MITRAL O
+MITRAL Anatomia
 BIOPROTESE O
 N O
 31 O
@@ -3602,14 +3564,14 @@ IAM O
 PCR O
 + O
 ATC O
-DA O
+DA Anatomia
 EM O
 2011 O
 ) O
 . O
 
 DEFICT O
-NEUROLÓGICO O
+NEUROLÓGICO Anatomia
 PÓS O
 PCR O
 EM O
@@ -3754,15 +3716,15 @@ VE Anatomia
 FEVE O
 52 O
 % O
-VE O
+VE Anatomia
 HIPERTROFIACDO O
 . O
 
 ACINESIA O
-MEDIO O
-BASAL O
-INFERO O
-DORSAL O
+MEDIO Anatomia
+BASAL Anatomia
+INFERO Anatomia
+DORSAL Anatomia
 , O
 ALTERACAO O
 RELAXAMENTO O
@@ -3786,7 +3748,7 @@ R O
 
 sem O
 estase O
-jugular O
+jugular Anatomia
 . O
 
 AC O
@@ -3874,7 +3836,7 @@ ACOMPANHAMENTO O
 DEVIDO O
 A O
 FIBRILAÇÃO O
-ATRIAL O
+ATRIAL Anatomia
 4 O
 ANOS O
 . O
@@ -3898,8 +3860,8 @@ DM O
 # O
 CA O
 DE O
-INTESTINO O
-GROSSO O
+INTESTINO Anatomia
+GROSSO Anatomia
 2010 O
 - O
 ACOMPANHAMENTO O
@@ -4043,7 +4005,7 @@ MMHG O
 . O
 
 CP Anatomia
-JUGULARES O
+JUGULARES Anatomia
 INGURGITADAS O
 . O
 
@@ -4090,7 +4052,7 @@ DEVIDO O
 A O
 EDEMA O
 EM O
-MMII O
+MMII Anatomia
 . O
 
 RETORNO O
@@ -4179,7 +4141,7 @@ ar O
 , O
 dor O
 no O
-peito O
+peito Anatomia
 , O
 fraqueza O
 , O
@@ -4189,7 +4151,7 @@ rouquidão O
 e O
 dor O
 de O
-cabeça O
+cabeça Anatomia
 . O
 
 - O
@@ -4203,7 +4165,7 @@ esforços O
 - O
 refere O
 dor O
-torácica O
+torácica Anatomia
 ventilatorio O
 dependente O
 . O
@@ -4229,9 +4191,9 @@ meses O
 - O
 cefaléia O
 em O
-regiao O
-parietal O
-bilateral O
+regiao Anatomia
+parietal Anatomia
+bilateral Anatomia
 que O
 melhora O
 com O
@@ -4387,8 +4349,8 @@ ecocardiograma O
 discreto O
 prolapso O
 de O
-valva O
-mitral O
+valva Anatomia
+mitral Anatomia
 . O
 
 camaras Anatomia
@@ -4422,8 +4384,8 @@ discreto O
 sopro O
 sistólico O
 em O
-foco O
-mitral O
+foco Anatomia
+mitral Anatomia
 . O
 
 MMII Anatomia

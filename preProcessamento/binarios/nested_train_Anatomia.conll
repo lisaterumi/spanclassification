@@ -7,7 +7,7 @@ dor O
 tipo O
 peso O
 no O
-peito O
+peito Anatomia
 no O
 esforço O
 . O
@@ -22,14 +22,14 @@ icc O
 c O
 # O
 cintilografia O
-miocardica O
+miocardica Anatomia
 para O
 avaliar O
 angina O
 . O
 
 Plastia O
-Mitral O
+Mitral Anatomia
 ( O
 Insuficiencia O
 ) O
@@ -105,7 +105,7 @@ esforço O
 
 Discreto O
 edema O
-mmii O
+mmii Anatomia
 pricn O
 a O
 esquerda O
@@ -119,7 +119,7 @@ Dor O
 a O
 movimentação O
 do O
-torax O
+torax Anatomia
 . O
 
 MV O
@@ -306,7 +306,7 @@ mg O
 Cintilografia O
 de O
 perfusao O
-miocardica O
+miocardica Anatomia
 agosto O
 / O
 13 O
@@ -315,7 +315,7 @@ Sem O
 evidencias O
 de O
 isquemia O
-miocardica O
+miocardica Anatomia
 , O
 fç O
 do O
@@ -323,12 +323,12 @@ VE Anatomia
 preservada O
 com O
 hipocinesia O
-septal O
+septal Anatomia
 . O
 
 DIlatação O
 do O
-VE O
+VE Anatomia
 , O
 FE O
 VE Anatomia
@@ -355,15 +355,15 @@ stent O
 70 O
 % O
 em O
-cd O
+cd Anatomia
 , O
 Oclusao O
 total O
 de O
 stent O
 em O
-ramo O
-diagonalis O
+ramo Anatomia
+diagonalis Anatomia
 , O
 *angioplastia O
 de O
@@ -379,9 +379,9 @@ stent O
 O O
 # O
 EF O
-cardiaco O
+cardiaco Anatomia
 e O
-abdominal O
+abdominal Anatomia
 sp O
 . O
 
@@ -731,11 +731,11 @@ dispneia O
 palpitações O
 , O
 dor O
-toracica O
+toracica Anatomia
 ou O
 outros O
 sintomas O
-cardíacos O
+cardíacos Anatomia
 . O
 
 Edema O
@@ -751,7 +751,7 @@ dilatada O
 idiopatica O
 e O
 fibrilação O
-atrial O
+atrial Anatomia
 . O
 
 Comorbidades O
@@ -867,13 +867,13 @@ sem O
 evidência O
 de O
 doença O
-coronariana O
+coronariana Anatomia
 . O
 
 Internado O
 por O
 insuficiência O
-renal O
+renal Anatomia
 ? O
 ? O
 ? O
@@ -885,11 +885,11 @@ inicio O
 
 Herniorrafia O
 de O
-parede O
-abdominal O
+parede Anatomia
+abdominal Anatomia
 ( O
 sangramento O
-retroperitoneal O
+retroperitoneal Anatomia
 por O
 discrasia O
 sanguinea O
@@ -1041,8 +1041,8 @@ disúria O
 associada O
 à O
 dor O
-supra O
-púbica O
+supra Anatomia
+púbica Anatomia
 . O
 
 Faz O
@@ -1147,7 +1147,6 @@ Cr O
 : O
 49 O
 . O
-
 9 O
 CKD O
 - O
@@ -1306,7 +1305,7 @@ HAS O
 , O
 Ca O
 de O
-Prostata O
+Prostata Anatomia
 em O
 acompanhamento O
 há O
@@ -1326,7 +1325,7 @@ desde O
 2014 O
 devido O
 hipertensão O
-arterial O
+arterial Anatomia
 ( O
 descoberta O
 devido O
@@ -1343,7 +1342,7 @@ dispneia O
 , O
 dor O
 no O
-peito O
+peito Anatomia
 , O
 cansaço O
 , O
@@ -1605,17 +1604,17 @@ pulmonar Anatomia
 crepitação O
 em O
 região O
-interscapular O
+interscapular Anatomia
 . O
 
 Exame O
-cardiovascular O
+cardiovascular Anatomia
 : O
 Bulhas O
 não O
 audíveis O
 , O
-ictus O
+ictus Anatomia
 não O
 palpável O
 e O
@@ -1655,7 +1654,7 @@ HAS O
 sd O
 metabolica O
 ca O
-prostata O
+prostata Anatomia
 . O
 
 ID O
@@ -1778,7 +1777,7 @@ e O
 depois O
 uma O
 ressecção O
-intestinal O
+intestinal Anatomia
 ; O
 Ultimo O
 internamento O
@@ -1850,7 +1849,6 @@ Medicamentos O
 Enalapril O
 2 O
 . O
-
 5mg O
 12 O
 / O
@@ -1887,17 +1885,14 @@ Laboratório O
 Eritrócitos O
 3 O
 . O
-
 54 O
 Hemoglobina O
 10 O
 . O
-
 3 O
 Hematocrito O
 32 O
 . O
-
 1 O
 % O
 Leucocitos O
@@ -1907,37 +1902,31 @@ Eosinofilos O
 Basofilos O
 116 O
 . O
-
 2 O
 Acido O
 Urico O
 12 O
 . O
-
 9 O
 TAP O
 0 O
 . O
-
 92 O
 Sodio O
 137 O
 Potassio O
 5 O
 . O
-
 6 O
 Creatinina O
 2 O
 . O
-
 2 O
 TFG O
 CKD O
 EPI O
 31 O
 . O
-
 4 O
 ml O
 / O
@@ -1945,7 +1934,6 @@ min O
 / O
 1 O
 . O
-
 73 O
 m2 O
 Glicose O
@@ -1955,24 +1943,20 @@ Ureia O
 BT O
 0 O
 . O
-
 6 O
 - O
 BD O
 0 O
 . O
-
 3 O
 - O
 BI O
 0 O
 . O
-
 3 O
 Peso O
 93 O
 . O
-
 5 O
 PA O
 80 O
@@ -2060,8 +2044,8 @@ DOR O
 TIPO O
 QUEIMAÇÃO O
 EM O
-HEMITORAX O
-ESQUERDO O
+HEMITORAX Anatomia
+ESQUERDO Anatomia
 , O
 COM O
 DURAÇÃO O
@@ -2148,10 +2132,10 @@ ECG O
 ALTERAÇÃO O
 DA O
 REPOLARIZAÇÃO O
-VENTRICULAR O
-LATERAL O
-E O
-ALTA O
+VENTRICULAR Anatomia
+LATERAL Anatomia
+E Anatomia
+ALTA Anatomia
 . O
 
 RITMO O
@@ -2278,7 +2262,7 @@ MODERADA O
 
 SEM O
 QX O
-CARDIOLOGICAS O
+CARDIOLOGICAS Anatomia
 ESPECIFICAS O
 HPP O
 NAO O
@@ -2327,7 +2311,7 @@ TBG O
 
 SEM O
 QX O
-CARDILOGICAS O
+CARDILOGICAS Anatomia
 . O
 
 QX O
@@ -2335,7 +2319,7 @@ MUIALGIA O
 E O
 DESCONFORTO O
 DE O
-MMII O
+MMII Anatomia
 . O
 
 30 O
@@ -2350,7 +2334,7 @@ EP O
 AE Anatomia
 42 O
 INSUF O
-MI O
+MI Anatomia
 DISCRETA O
 21 O
 - O
@@ -2440,12 +2424,12 @@ MODERADA O
 IAM O
 2011 O
 ATC O
-DA O
+DA Anatomia
 . O
 
 SEM O
 QXC O
-CARDIOLOGICAS O
+CARDIOLOGICAS Anatomia
 . O
 
 USA O
@@ -2546,7 +2530,7 @@ CRONICA O
 DE O
 TROCA O
 DE O
-MITRAL O
+MITRAL Anatomia
 + O
 ATRIOSEPTOPLASTIA O
 ( O
@@ -2591,7 +2575,7 @@ DISCRETAMENTE O
 . O
 
 REGURGITAÇÃO O
-TRICUSPIDE O
+TRICUSPIDE Anatomia
 DISCRETA O
 . O
 
@@ -2601,10 +2585,10 @@ EM O
 45MMHG O
 . O
 
-ATRIO O
-ESQUERDO O
+ATRIO Anatomia
+ESQUERDO Anatomia
 E O
-DIREITO O
+DIREITO Anatomia
 DILATADOS O
 . O
 
@@ -2699,7 +2683,7 @@ CX O
 DE O
 TROCA O
 DE O
-MITRAL O
+MITRAL Anatomia
 + O
 ATRIOSEPTOPLASTIA O
 ( O
@@ -2738,8 +2722,8 @@ SISTOLICA O
 PRESERVADA O
 . O
 
-VENTRICULO O
-DIREITO O
+VENTRICULO Anatomia
+DIREITO Anatomia
 APRESENTA O
 DIMENSÕES O
 AUMENTADAS O
@@ -2751,7 +2735,7 @@ DISCRETAMENTE O
 . O
 
 REGURGITAÇÃO O
-TRICUSPIDE O
+TRICUSPIDE Anatomia
 DISCRETA O
 . O
 
@@ -2761,10 +2745,10 @@ EM O
 45MMHG O
 . O
 
-ATRIO O
-ESQUERDO O
+ATRIO Anatomia
+ESQUERDO Anatomia
 E O
-DIREITO O
+DIREITO Anatomia
 DILATADOS O
 . O
 
@@ -2830,7 +2814,7 @@ RA O
 . O
 
 RITMO O
-CARDÍACO O
+CARDÍACO Anatomia
 IRREGULAR O
 , O
 BULHAS O
@@ -2872,7 +2856,7 @@ CX O
 DE O
 TROCA O
 DE O
-MITRAL O
+MITRAL Anatomia
 + O
 ATRIOSEPTOPLASTIA O
 ( O
@@ -2912,8 +2896,8 @@ SISTOLICA O
 PRESERVADA O
 . O
 
-VENTRICULO O
-DIREITO O
+VENTRICULO Anatomia
+DIREITO Anatomia
 APRESENTA O
 DIMENSÕES O
 AUMENTADAS O
@@ -2925,7 +2909,7 @@ DISCRETAMENTE O
 . O
 
 REGURGITAÇÃO O
-TRICUSPIDE O
+TRICUSPIDE Anatomia
 DISCRETA O
 . O
 
@@ -2935,10 +2919,10 @@ EM O
 45MMHG O
 . O
 
-ATRIO O
-ESQUERDO O
+ATRIO Anatomia
+ESQUERDO Anatomia
 E O
-DIREITO O
+DIREITO Anatomia
 DILATADOS O
 . O
 
@@ -2975,7 +2959,7 @@ COPNSULTA O
 REFERINDO O
 APENAS O
 DOR O
-INFRAMAMARIA O
+INFRAMAMARIA Anatomia
 TIPO O
 MESMO O
 EM O
@@ -3030,7 +3014,7 @@ RA O
 . O
 
 RITMO O
-CARDÍACO O
+CARDÍACO Anatomia
 IRREGULAR O
 , O
 . O
@@ -3063,7 +3047,7 @@ MEDICAÇÕES O
 
 RAIOX O
 DE O
-TORAX O
+TORAX Anatomia
 CONTROLE O
 . O
 
@@ -3079,7 +3063,7 @@ CX O
 DE O
 TROCA O
 DE O
-MITRAL O
+MITRAL Anatomia
 + O
 ATRIOSEPTOPLASTIA O
 ( O
@@ -3132,7 +3116,7 @@ DISCRETAMENTE O
 . O
 
 REGURGITAÇÃO O
-TRICUSPIDE O
+TRICUSPIDE Anatomia
 DISCRETA O
 . O
 
@@ -3142,10 +3126,10 @@ EM O
 45MMHG O
 . O
 
-ATRIO O
-ESQUERDO O
+ATRIO Anatomia
+ESQUERDO Anatomia
 E O
-DIREITO O
+DIREITO Anatomia
 DILATADOS O
 . O
 
@@ -3218,7 +3202,7 @@ RA O
 . O
 
 RITMO O
-CARDÍACO O
+CARDÍACO Anatomia
 IRREGULAR O
 , O
 . O
@@ -3387,13 +3371,13 @@ FE O
 . O
 
 REFLUXO O
-MITRAL O
+MITRAL Anatomia
 DISCRETO O
 / O
 PRESENÇA O
 DE O
 FIBRILAÇÃO O
-ATRIAL O
+ATRIAL Anatomia
 . O
 
 PACIENTE O
@@ -3425,7 +3409,7 @@ N O
 RELATA O
 EDEMA O
 EM O
-MMII O
+MMII Anatomia
 DE O
 LEVE O
 INTENSIDADE O
@@ -3433,7 +3417,7 @@ INTENSIDADE O
 
 NEGA O
 DOR O
-TORÁCICA O
+TORÁCICA Anatomia
 , O
 SÍNCOPE O
 OU O
@@ -3463,7 +3447,7 @@ IRREGULAR O
 , O
 SOPRO O
 SISTÓLICO O
-MITRAL O
+MITRAL Anatomia
 3 O
 + O
 / O
@@ -3477,7 +3461,7 @@ PERIFÉRICA O
 . O
 
 EDEMA O
-MMII O
+MMII Anatomia
 1 O
 + O
 / O
@@ -3502,7 +3486,7 @@ A O
 ICC O
 + O
 INSUF O
-MITRAL O
+MITRAL Anatomia
 2ª O
 + O
 FA O
@@ -3576,7 +3560,7 @@ noturnos O
 , O
 edema O
 de O
-MMII O
+MMII Anatomia
 . O
 
 Relata O
@@ -3612,7 +3596,7 @@ por O
 edema O
 agudo O
 de O
-pulmão O
+pulmão Anatomia
 , O
 última O
 sendo O
@@ -3707,17 +3691,17 @@ Eletro O
 2014 O
 : O
 fibrilação O
-atrial O
+atrial Anatomia
 , O
 hipertrofia O
-ventricular O
-esquerda O
+ventricular Anatomia
+esquerda Anatomia
 , O
 alterações O
 difusas O
 de O
 repolarização O
-ventricular O
+ventricular Anatomia
 . O
 
 Ecocardiograma O
@@ -3732,8 +3716,8 @@ aumento O
 das O
 dimensões O
 do O
-ventriculo O
-esquerdo O
+ventriculo Anatomia
+esquerdo Anatomia
 , O
 espessura O
 normal O
@@ -3755,25 +3739,25 @@ Aumento O
 das O
 dimensões O
 do O
-atrio O
-direito O
+atrio Anatomia
+direito Anatomia
 e O
-esquerdo O
+esquerdo Anatomia
 , O
 estenose O
-aortica O
+aortica Anatomia
 de O
 grau O
 leve O
 , O
 insuficiencia O
-aortica O
+aortica Anatomia
 de O
 grau O
 leve O
 , O
 insuf O
-mitral O
+mitral Anatomia
 de O
 grau O
 leve O
@@ -3789,7 +3773,7 @@ Cateterismo O
 não O
 evidencia O
 doença O
-coronariana O
+coronariana Anatomia
 importante O
 . O
 
@@ -3853,7 +3837,7 @@ ha O
 . O
 
 Valva O
-aortica O
+aortica Anatomia
 bicúspide O
 com O
 gra O
@@ -3902,7 +3886,6 @@ Apresolina O
 Carvedilol O
 12 O
 . O
-
 5 O
 - O
 12 O
@@ -3923,7 +3906,7 @@ esforços O
 . O
 
 Ardencia O
-retoresternal O
+retoresternal Anatomia
 aos O
 grandes O
 esforços O
@@ -3973,10 +3956,10 @@ BNFss O
 / O
 6 O
 + O
-FAO O
+FAO Anatomia
 e O
-Ao O
-ac O
+Ao Anatomia
+ac Anatomia
 . O
 
 Cate O
@@ -3992,14 +3975,14 @@ sem O
 coronariopatia O
 obstrutiva O
 , O
-VE O
+VE Anatomia
 disfunção O
 de O
 grau O
 moderado O
 , O
 estenose O
-aortica O
+aortica Anatomia
 grau O
 moderado O
 . O
@@ -4120,7 +4103,7 @@ ESFORÇOS O
 SEM O
 EDEMA O
 DE O
-MMII O
+MMII Anatomia
 , O
 MANTEM O
 USO O
@@ -4158,23 +4141,23 @@ GRANDE O
 EXTENSÃO O
 , O
 NO O
-SEGMENTO O
-MEIO O
-APICAL O
-DA O
-PAREDE O
-ANTERIOR O
+SEGMENTO Anatomia
+MEIO Anatomia
+APICAL Anatomia
+DA Anatomia
+PAREDE Anatomia
+ANTERIOR Anatomia
 E O
-ÁPICE O
-DE O
-VE O
+ÁPICE Anatomia
+DE Anatomia
+VE Anatomia
 , O
 EM O
 GRAU O
 DISCRETO O
 NA O
-PAREDE O
-ANTEROSSEPTAL O
+PAREDE Anatomia
+ANTEROSSEPTAL Anatomia
 FE O
 REPOUSO O
 49 O
@@ -4392,7 +4375,7 @@ PRECORDIAL O
 , O
 EDEMA O
 DE O
-MMII O
+MMII Anatomia
 , O
 ORTOPNEIA O
 E O
@@ -4419,22 +4402,22 @@ GRANDE O
 EXTENSÃO O
 , O
 NO O
-SEGMENTO O
-MEDIOAPICAL O
-DA O
-PAREDE O
-ANTERIOR O
+SEGMENTO Anatomia
+MEDIOAPICAL Anatomia
+DA Anatomia
+PAREDE Anatomia
+ANTERIOR Anatomia
 E O
-ÁPICE O
-DE O
-VE O
+ÁPICE Anatomia
+DE Anatomia
+VE Anatomia
 , O
 EM O
 GRAU O
 DISCRETO O
 NA O
-PAREDE O
-ANTEROSSEPTAL O
+PAREDE Anatomia
+ANTEROSSEPTAL Anatomia
 . O
 
 FE O
@@ -4478,18 +4461,18 @@ PSAP O
 MMHG O
 . O
 
-VE O
+VE Anatomia
 ACINESIA O
-ANTERO O
-- O
-SEPTAL O
+ANTERO Anatomia
+- Anatomia
+SEPTAL Anatomia
 E O
-ANTERIOR O
-MEDIO O
-- O
-APICAL O
+ANTERIOR Anatomia
+MEDIO Anatomia
+- Anatomia
+APICAL Anatomia
 E O
-APICAL O
+APICAL Anatomia
 . O
 
 - O
@@ -4747,7 +4730,7 @@ PRECORDIAL O
 , O
 EDEMA O
 DE O
-MMII O
+MMII Anatomia
 , O
 ORTOPNEIA O
 E O
@@ -4774,22 +4757,22 @@ GRANDE O
 EXTENSÃO O
 , O
 NO O
-SEGMENTO O
-MEDIOAPICAL O
-DA O
-PAREDE O
-ANTERIOR O
-E O
-ÁPICE O
-DE O
-VE O
+SEGMENTO Anatomia
+MEDIOAPICAL Anatomia
+DA Anatomia
+PAREDE Anatomia
+ANTERIOR Anatomia
+E Anatomia
+ÁPICE Anatomia
+DE Anatomia
+VE Anatomia
 , O
 EM O
 GRAU O
 DISCRETO O
 NA O
-PAREDE O
-ANTEROSSEPTAL O
+PAREDE Anatomia
+ANTEROSSEPTAL Anatomia
 . O
 
 FE O
@@ -4833,18 +4816,18 @@ PSAP O
 MMHG O
 . O
 
-VE O
+VE Anatomia
 ACINESIA O
-ANTERO O
-- O
-SEPTAL O
+ANTERO Anatomia
+- Anatomia
+SEPTAL Anatomia
 E O
-ANTERIOR O
-MEDIO O
-- O
-APICAL O
+ANTERIOR Anatomia
+MEDIO Anatomia
+- Anatomia
+APICAL Anatomia
 E O
-APICAL O
+APICAL Anatomia
 . O
 
 O O
@@ -4924,7 +4907,7 @@ Brazil O
 
 INVESTIGAVAA O
 DOR O
-RETROESTRENAL O
+RETROESTRENAL Anatomia
 E O
 DISPNEIA O
 AOS O
@@ -4948,7 +4931,7 @@ HIPOCINESAI O
 DIFUSA O
 / O
 REGURGITAÇÃO O
-MI O
+MI Anatomia
 DISCRETA O
 . O
 
@@ -4997,9 +4980,9 @@ ATIPICA O
 CINTILO O
 ISQUEMIA O
 DISCRETA O
-P O
-INFERIOR O
-VE O
+P Anatomia
+INFERIOR Anatomia
+VE Anatomia
 FE O
 34 O
 - O
@@ -5016,7 +4999,7 @@ TORTUOSIDADES O
 - O
 - O
 MIOCSRDIOPATIA O
-VE O
+VE Anatomia
 DISCRETA O
 MODERADA O
 . O
@@ -5189,7 +5172,7 @@ COMPROMETIDA O
 HIPOCINESIA O
 DIFUSA O
 REG O
-MI O
+MI Anatomia
 DISCRETA O
 . O
 
@@ -5222,8 +5205,8 @@ ISQUEMIA O
 ISQUEMIA O
 PEQUENA O
 EXTENSAO O
-PAREDE O
-INFERIOR O
+PAREDE Anatomia
+INFERIOR Anatomia
 VE O
 FE O
 34 O
@@ -5233,7 +5216,7 @@ FE O
 . O
 
 CATETERISMO O
-CARDIACO O
+CARDIACO Anatomia
 ( O
 02 O
 / O
@@ -5243,7 +5226,7 @@ CARDIACO O
 ) O
 : O
 TORTUOSIDADES O
-CORONARIANAS O
+CORONARIANAS Anatomia
 . O
 
 ECO O
@@ -5390,8 +5373,8 @@ Ross O
 / O
 2015 O
 ( O
-Valva O
-aórtica O
+Valva Anatomia
+aórtica Anatomia
 biscúspide O
 com O
 refluxo O
@@ -5430,13 +5413,13 @@ Nega O
 dispneia O
 ; O
 dor O
-toracica O
+toracica Anatomia
 qdo O
 tosse O
 , O
 sem O
 edema O
-mmii O
+mmii Anatomia
 . O
 
 Nega O
@@ -5463,7 +5446,6 @@ Leuc O
 Pla O
 274 O
 . O
-
 000 O
 . O
 
@@ -5509,7 +5491,7 @@ anicterico O
 , O
 sem O
 edema O
-mmii O
+mmii Anatomia
 . O
 
 PA O
@@ -5543,10 +5525,10 @@ ss O
 / O
 6 O
 + O
-FA O
-o O
-e O
-P O
+FA Anatomia
+o Anatomia
+e Anatomia
+P Anatomia
 . O
 
 Ferida O
@@ -5882,7 +5864,7 @@ PROTOCOLO O
 PRÉ O
 - O
 TRANSPLANTE O
-CARDÍACO O
+CARDÍACO Anatomia
 REALIZADO O
 COM O
 SUCESSO O
@@ -6084,7 +6066,7 @@ PROTOCOLO O
 PRÉ O
 - O
 TRANSPLANTE O
-CARDÍACO O
+CARDÍACO Anatomia
 REALIZADO O
 COM O
 SUCESSO O
@@ -6112,7 +6094,7 @@ III O
 RELATA O
 EDEMA O
 DE O
-MMII O
+MMII Anatomia
 . O
 
 NEGA O
@@ -6236,8 +6218,8 @@ ACV O
 BCRNF O
 SS O
 EM O
-FOCO O
-TRICUSPIDE O
+FOCO Anatomia
+TRICUSPIDE Anatomia
 3 O
 + O
 / O
@@ -6246,8 +6228,8 @@ TRICUSPIDE O
 , O
 SS O
 EM O
-FOCO O
-MITRLA O
+FOCO Anatomia
+MITRLA Anatomia
 2 O
 + O
 / O
@@ -6277,7 +6259,7 @@ PIPAROTE O
 
 Edema O
 em O
-MMII O
+MMII Anatomia
 + O
 + O
 / O
@@ -6382,7 +6364,7 @@ PROTOCOLO O
 PRÉ O
 - O
 TRANSPLANTE O
-CARDÍACO O
+CARDÍACO Anatomia
 REALIZADO O
 COM O
 SUCESSO O
@@ -6553,7 +6535,7 @@ anos O
 # O
 PO O
 Tx O
-cardíaco O
+cardíaco Anatomia
 06 O
 / O
 10 O
@@ -6733,7 +6715,7 @@ A O
 POT O
 DE O
 TX O
-CARDIACO O
+CARDIACO Anatomia
 . O
 
 P O
@@ -6845,7 +6827,7 @@ CARDIO O
 
 sem O
 qx O
-cardiologicas O
+cardiologicas Anatomia
 . O
 
 tratando O
@@ -6858,7 +6840,7 @@ qx O
 dor O
 difusa O
 pelo O
-corpo O
+corpo Anatomia
 / O
 / O
 / O
@@ -6871,7 +6853,7 @@ valvar O
 metalica O
 por O
 estenpose O
-ao O
+ao Anatomia
 . O
 
 usa O
@@ -7246,7 +7228,7 @@ HAS O
 ABLAÇÃO O
 DE O
 TAQUICARDIA O
-ATRIAL O
+ATRIAL Anatomia
 2009 O
 E O
 A O
@@ -7491,7 +7473,7 @@ ASSOCIADOS O
 DISPNEIA O
 , O
 DOR O
-RETROESTERNAL O
+RETROESTERNAL Anatomia
 EM O
 APERTO O
 E O
@@ -7507,7 +7489,7 @@ ASSOCIADO O
 A O
 QUEIMAÇÃO O
 NO O
-PESCOÇO O
+PESCOÇO Anatomia
 . O
 
 HAS O
@@ -7609,7 +7591,7 @@ CARDÍACA Anatomia
 BCRNF O
 . O
 
-MMII O
+MMII Anatomia
 COM O
 EDEMA O
 + O
@@ -7684,8 +7666,8 @@ ASSOCIADA O
 A O
 QUEIMAÇÃO O
 DA O
-REGIÃO O
-CERVICAL O
+REGIÃO Anatomia
+CERVICAL Anatomia
 . O
 
 # O
@@ -7862,7 +7844,7 @@ LIVRES O
 EDEMA O
 DISCRETO O
 EM O
-MMII O
+MMII Anatomia
 . O
 
 # O
@@ -7962,9 +7944,9 @@ palpitação O
 se O
 localiza O
 em O
-regiçao O
-de O
-epigastro O
+regiçao Anatomia
+de Anatomia
+epigastro Anatomia
 . O
 
 Ultimamente O
@@ -8017,14 +7999,14 @@ de O
 HOLTER O
 : O
 arritmia O
-ventricular O
+ventricular Anatomia
 complexa O
 , O
 com O
 episodio O
 de O
 taquicardia O
-ventricular O
+ventricular Anatomia
 não O
 sustentada O
 . O
@@ -8044,7 +8026,7 @@ acianótica O
 
 Sem O
 sopro O
-carotideo O
+carotideo Anatomia
 . O
 
 PA O
@@ -8173,7 +8155,7 @@ esquenta O
 demais O
 , O
 os O
-pés O
+pés Anatomia
 incham O
 ' O
 . O
@@ -8218,7 +8200,7 @@ cisticercose O
 ; O
 fraturou O
 2 O
-costelas O
+costelas Anatomia
 em O
 1986 O
 ; O
@@ -8290,7 +8272,7 @@ DM O
 , O
 irmão O
 câncer O
-intestino O
+intestino Anatomia
 e O
 prostata O
 e O
@@ -8503,7 +8485,7 @@ aórtica O
 normofuncionante O
 . O
 
-VE O
+VE Anatomia
 hipertrofiado O
 com O
 dimensões O
@@ -8518,10 +8500,10 @@ ALteração O
 do O
 relaxamento O
 do O
-VE O
+VE Anatomia
 . O
 
-AE O
+AE Anatomia
 dilatado O
 . O
 
@@ -8581,7 +8563,7 @@ dor O
 em O
 ponto O
 específico O
-paraesternal O
+paraesternal Anatomia
 , O
 sem O
 relação O
@@ -8608,7 +8590,7 @@ então O
 
 Nega O
 dor O
-precordial O
+precordial Anatomia
 . O
 
 Ao O
@@ -8642,7 +8624,7 @@ CP O
 : O
 sem O
 estase O
-jugular O
+jugular Anatomia
 . O
 
 AC O
@@ -8832,7 +8814,7 @@ ALIMENTAÇAO O
 
 REFERE O
 HABITO O
-INTESTINAL O
+INTESTINAL Anatomia
 MAIS O
 RESSECADO O
 . O
@@ -8866,8 +8848,8 @@ ANOS O
 REFERE O
 AMORTECIMENTO O
 DE O
-MEMBROS O
-SUPERIORES O
+MEMBROS Anatomia
+SUPERIORES Anatomia
 . O
 
 APENDICECTOMIA O
@@ -8976,7 +8958,7 @@ RA O
 BCRNFSS O
 . O
 
-MEMBROS O
+MEMBROS Anatomia
 COM O
 EDEMA O
 + O
@@ -8990,7 +8972,7 @@ CONDUTA O
 
 SOLICITO O
 CINTILOGRAFIA O
-MIOCÁRDICA O
+MIOCÁRDICA Anatomia
 PARA O
 AVALIAÇÃO O
 DE O
@@ -9000,8 +8982,8 @@ CIRURGICO O
 
 ELETRONEUROMIOGRAFIA O
 DE O
-MEMBROS O
-SUPERIORES O
+MEMBROS Anatomia
+SUPERIORES Anatomia
 . O
 
 RETORNO O
@@ -9072,7 +9054,7 @@ PODERIA O
 SER O
 POR O
 PROBLEMAS O
-CARDÍACOS O
+CARDÍACOS Anatomia
 . O
 
 PA O
@@ -9110,8 +9092,8 @@ DISTÚRBIOS O
 DE O
 CONDUÇÃO O
 DE O
-RAMO O
-DIREITO O
+RAMO Anatomia
+DIREITO Anatomia
 . O
 
 CD O
@@ -9191,7 +9173,7 @@ PODERIA O
 SER O
 POR O
 PROBLEMAS O
-CARDÍACOS O
+CARDÍACOS Anatomia
 . O
 
 PA O
@@ -9229,8 +9211,8 @@ DISTÚRBIOS O
 DE O
 CONDUÇÃO O
 DE O
-RAMO O
-DIREITO O
+RAMO Anatomia
+DIREITO Anatomia
 . O
 
 ECOCARDIO O
@@ -9292,7 +9274,7 @@ ACENTUADA O
 HIPOCINESIA O
 DIFUSA O
 DO O
-VE O
+VE Anatomia
 CATE O
 CIR O
 CORONARIA Anatomia
@@ -9303,13 +9285,13 @@ COM O
 IRREGULARIDADES O
 PARIETAIS O
 , O
-VE O
+VE Anatomia
 COM O
 HIPOCINESIA O
 DIFUSA O
 , O
 INSUF O
-MITRAL O
+MITRAL Anatomia
 SEVERA O
 . O
 
@@ -9334,9 +9316,9 @@ em O
 PO O
 de O
 valvuloplastia O
-mitral O
+mitral Anatomia
 e O
-tricúspide O
+tricúspide Anatomia
 . O
 
 Paciente O
@@ -9352,7 +9334,7 @@ na O
 fila O
 de O
 transplante O
-renal O
+renal Anatomia
 . O
 
 Paciente O
@@ -9360,16 +9342,16 @@ vem O
 passar O
 por O
 avaliação O
-cardiológica O
+cardiológica Anatomia
 para O
 transplante O
-renal O
+renal Anatomia
 . O
 
 Comorbidades O
 : O
 Dopença O
-renal O
+renal Anatomia
 policística O
 . O
 
@@ -9467,7 +9449,7 @@ DISPNEIA O
 PALPITACOES O
 E O
 DOR O
-TORACICA O
+TORACICA Anatomia
 . O
 
 AINDA O
@@ -9581,7 +9563,7 @@ ATC O
 com O
 stent O
 em O
-DA O
+DA Anatomia
 com O
 sucesso O
 . O
@@ -9759,7 +9741,7 @@ I O
 = O
 > O
 ATC O
-DA O
+DA Anatomia
 COM O
 STENT O
 COM O
@@ -9843,7 +9825,7 @@ FE O
 * O
 . O
 
-VE O
+VE Anatomia
 AUMENTADO O
 EM O
 GRAU O
@@ -9862,7 +9844,7 @@ MODERADA O
 CONTRAÇÃO O
 SEGMENTAR O
 DO O
-VE O
+VE Anatomia
 . O
 
 ALTERADA O
@@ -9873,12 +9855,12 @@ DIASTÓLICA O
 GRAU O
 II O
 DO O
-VE O
+VE Anatomia
 - O
 RESTRITIVO O
 . O
 
-AE O
+AE Anatomia
 AUMENTADO O
 EM O
 GRAU O
@@ -9886,7 +9868,7 @@ DISCRETO O
 . O
 
 INSUFICIENCIA O
-MITRAL O
+MITRAL Anatomia
 DISCRETA O
 . O
 
@@ -9912,7 +9894,7 @@ PAROXISTICA O
 . O
 
 DOR O
-TORACICA O
+TORACICA Anatomia
 CONTINUA O
 DIARIAMENTE O
 , O
@@ -10068,7 +10050,7 @@ I O
 = O
 > O
 ATC O
-DA O
+DA Anatomia
 COM O
 STENT O
 COM O
@@ -10152,7 +10134,7 @@ FE O
 * O
 . O
 
-VE O
+VE Anatomia
 AUMENTADO O
 EM O
 GRAU O
@@ -10171,7 +10153,7 @@ MODERADA O
 CONTRAÇÃO O
 SEGMENTAR O
 DO O
-VE O
+VE Anatomia
 . O
 
 ALTERADA O
@@ -10182,10 +10164,10 @@ DIASTÓLICA O
 GRAU O
 II O
 DO O
-VE O
+VE Anatomia
 - O
 RESTRITIVO O
-AE O
+AE Anatomia
 AUMENTADO O
 EM O
 GRAU O
@@ -10193,7 +10175,7 @@ DISCRETO O
 . O
 
 INSUFICIENCIA O
-MITRAL O
+MITRAL Anatomia
 DISCRETA O
 . O
 
@@ -10363,7 +10345,7 @@ Hipotireoidismo O
 refere O
 queda O
 de O
-cabelo O
+cabelo Anatomia
 . O
 
 Menopausa O
@@ -10720,7 +10702,7 @@ CANSAÇO O
 , O
 DOR O
 NO O
-PEITO O
+PEITO Anatomia
 DE O
 VARIADAS O
 INTENSIDADES O
@@ -10755,12 +10737,12 @@ REPOUSO O
 COM O
 EDEMA O
 DE O
-MMI O
+MMI Anatomia
 , O
 AINDA O
 APRESENTA O
 DOR O
-TORÁCICA O
+TORÁCICA Anatomia
 DE O
 LEVE O
 INTENSIDADE O
@@ -10789,8 +10771,8 @@ ECOCARDIOGRAMA O
 CONCLUSÃO O
 : O
 HIPERTROFIADE O
-VENTRICULO O
-ESQUERDO O
+VENTRICULO Anatomia
+ESQUERDO Anatomia
 , O
 COM O
 DIMENSOESAUMENTADAS O
@@ -10804,8 +10786,8 @@ MODERADO O
 , O
 ACINESIA O
 DE O
-PAREDE O
-INFERIOR O
+PAREDE Anatomia
+INFERIOR Anatomia
 E O
 HIPOCINESIANOS O
 DEMAIS O
@@ -10814,16 +10796,16 @@ SEGMENTOS O
 ALTERAÇÃO O
 DO O
 RELAXAMENTO O
-VENTRICULAR O
-ESQUERDO O
+VENTRICULAR Anatomia
+ESQUERDO Anatomia
 . O
 
 REGURGITAÇÃO O
-MITRAL O
+MITRAL Anatomia
 MODERADA O
 , O
-ATRIO O
-ESQUERDO O
+ATRIO Anatomia
+ESQUERDO Anatomia
 DILATADO O
 . O
 
@@ -11227,8 +11209,8 @@ ECOCARDIOGRAMA O
 CONCLUSÃO O
 : O
 HIPERTROFIADE O
-VENTRICULO O
-ESQUERDO O
+VENTRICULO Anatomia
+ESQUERDO Anatomia
 , O
 COM O
 DIMENSOESAUMENTADAS O
@@ -11244,8 +11226,8 @@ MODERADO O
 
 ACINESIA O
 DE O
-PAREDE O
-INFERIOR O
+PAREDE Anatomia
+INFERIOR Anatomia
 E O
 HIPOCINESIANOS O
 DEMAIS O
@@ -11254,15 +11236,15 @@ SEGMENTOS O
 ALTERAÇÃO O
 DO O
 RELAXAMENTO O
-VENTRICULAR O
-ESQUERDO O
+VENTRICULAR Anatomia
+ESQUERDO Anatomia
 . O
 
 REGURGITAÇÃOMITRAL O
 MODERADA O
 , O
-ATRIO O
-ESQUERDO O
+ATRIO Anatomia
+ESQUERDO Anatomia
 DILATADO O
 . O
 
@@ -11337,9 +11319,9 @@ INTERNAMENTOS O
 . O
 
 FRATUROU O
-JOELHO O
+JOELHO Anatomia
 E O
-PERNA O
+PERNA Anatomia
 ? O
 FEZ O
 CIRURGIA O
@@ -11389,7 +11371,7 @@ filhos O
 
 QP O
 Dor O
-retroesternal O
+retroesternal Anatomia
 , O
 em O
 repouso O
@@ -11511,7 +11493,7 @@ Irmão O
 com O
 câncer O
 de O
-próstata O
+próstata Anatomia
 . O
 
 CHV O
@@ -11617,7 +11599,7 @@ Enalapril O
 
 Sem O
 queixas O
-cardiovasculares O
+cardiovasculares Anatomia
 . O
 
 Na O
@@ -11629,7 +11611,7 @@ ecocardio O
 porque O
 tinha O
 estenose O
-aortica O
+aortica Anatomia
 discreta O
 somente O
 e O
@@ -11758,7 +11740,7 @@ anicterico O
 , O
 sem O
 edema O
-mmii O
+mmii Anatomia
 . O
 
 PA O
@@ -11802,13 +11784,13 @@ crsec O
 / O
 decres O
 , O
-FAO O
+FAO Anatomia
 , O
 irradiação O
 para O
 todo O
 o O
-precórdio O
+precórdio Anatomia
 . O
 
 Obs O
@@ -11840,7 +11822,7 @@ ecocardio O
 . O
 
 ins O
-cardiac O
+cardiac Anatomia
 com O
 retorno O
 com O
@@ -11974,7 +11956,7 @@ mmHg O
 
 sem O
 ingurgitamento O
-jugular O
+jugular Anatomia
 . O
 
 MV O
@@ -11995,7 +11977,7 @@ VCM O
 
 Sem O
 edema O
-MMII O
+MMII Anatomia
 . O
 
 CAT O
@@ -12076,7 +12058,7 @@ TX O
 CARDIACO Anatomia
 - O
 INDICE O
-CARDIACO O
+CARDIACO Anatomia
 3 O
 , O
 44** O
@@ -12159,7 +12141,7 @@ mmHg O
 
 sem O
 ingurgitamento O
-jugular O
+jugular Anatomia
 . O
 
 MV O
@@ -12180,7 +12162,7 @@ VCM O
 
 Sem O
 edema O
-MMII O
+MMII Anatomia
 . O
 
 A O
@@ -12196,7 +12178,7 @@ P O
 ENCAMINHO O
 PARA O
 TX O
-CARDIACO O
+CARDIACO Anatomia
 . O
 
 Lucas O
@@ -12226,7 +12208,7 @@ TX O
 CARDIACO Anatomia
 - O
 INDICE O
-CARDIACO O
+CARDIACO Anatomia
 3 O
 , O
 44 O
@@ -12328,7 +12310,7 @@ II O
 
 Nega O
 dor O
-torácica O
+torácica Anatomia
 . O
 
 Nega O
@@ -12363,8 +12345,8 @@ tosse O
 seca O
 e O
 dor O
-torácica O
-precordial O
+torácica Anatomia
+precordial Anatomia
 em O
 queimação O
 , O
@@ -12411,7 +12393,7 @@ mmHg O
 
 discreta O
 estase O
-jugular O
+jugular Anatomia
 a O
 45º O
 . O
@@ -12426,7 +12408,7 @@ RA O
 RCR O
 2t O
 SS O
-ictus O
+ictus Anatomia
 desviado O
 . O
 
@@ -12436,7 +12418,7 @@ VCM O
 
 Sem O
 edema O
-MMII O
+MMII Anatomia
 . O
 
 Boa O
@@ -12511,7 +12493,7 @@ TX O
 CARDIACO Anatomia
 - O
 INDICE O
-CARDIACO O
+CARDIACO Anatomia
 3 O
 , O
 44 O
@@ -12620,15 +12602,15 @@ Apresentou O
 episodio O
 de O
 dor O
-torácica O
+torácica Anatomia
 há O
 2 O
 dias O
 - O
-retroesternal O
+retroesternal Anatomia
 e O
 em O
-MSE O
+MSE Anatomia
 , O
 em O
 queimação O
@@ -12669,7 +12651,7 @@ ortopneia O
 vezes O
 apresenta O
 dor O
-torácica O
+torácica Anatomia
 associada O
 à O
 caminhada O
@@ -12685,7 +12667,7 @@ palpitações O
 
 Edema O
 de O
-MMII O
+MMII Anatomia
 esporadicamente O
 . O
 
@@ -12712,7 +12694,7 @@ FC O
 
 SEM O
 TURGÊNCIA O
-JUGULAR O
+JUGULAR Anatomia
 . O
 
 CPP Anatomia
@@ -12723,8 +12705,8 @@ BILATERAL O
 , O
 CREPITANTES O
 EM O
-BASE O
-DIREITA O
+BASE Anatomia
+DIREITA Anatomia
 . O
 
 PC O
@@ -12735,7 +12717,7 @@ HIPOFONETICAS O
 SEM O
 SOPROS O
 , O
-ICTUS O
+ICTUS Anatomia
 DESVIADO O
 . O
 
@@ -12748,9 +12730,9 @@ DOR O
 A O
 PALPAÇÃO O
 DE O
-FLANCO O
+FLANCO Anatomia
 E O
-FIE O
+FIE Anatomia
 . O
 
 MMII Anatomia
@@ -12869,26 +12851,26 @@ STRESS O
 : O
 AUMENTO O
 DE O
-CABIDADES O
-ESQUERDA O
+CABIDADES Anatomia
+ESQUERDA Anatomia
 COM O
 FUNÇÃO O
 DE O
-VE O
+VE Anatomia
 REDUZIDA O
 , O
 REFLUXO O
-MITRAL O
+MITRAL Anatomia
 MODERADO O
 / O
 IMPORTANTES O
 , O
 REFLUXO O
-AORTICO O
+AORTICO Anatomia
 MODERADO O
 , O
 REFLUXO O
-TRICUSPIDE O
+TRICUSPIDE Anatomia
 DISCRETO O
 . O
 
@@ -12901,7 +12883,7 @@ POR O
 DISFUNÇÃO O
 SEVERA O
 DO O
-VE O
+VE Anatomia
 . O
 
 # O
@@ -12921,14 +12903,14 @@ TRANSPLANTE O
 
 # O
 DOPPLER O
-CAROTIDAS O
+CAROTIDAS Anatomia
 + O
-VERTEBRAIS O
+VERTEBRAIS Anatomia
 : O
 CERVICAL Anatomia
 D Anatomia
 : O
-CAROTIDA O
+CAROTIDA Anatomia
 : Anatomia
 ESTENOSE O
 20 O
@@ -12936,8 +12918,8 @@ ESTENOSE O
 30 O
 % O
 NA O
-BIFURCAÇÃO O
-CAROTÍDEA O
+BIFURCAÇÃO Anatomia
+CAROTÍDEA Anatomia
 ; O
 . O
 
@@ -13055,7 +13037,7 @@ CLINICO O
 
 POS O
 TX O
-CARDIACO O
+CARDIACO Anatomia
 HA O
 9 O
 MESES O
@@ -13139,7 +13121,7 @@ A O
 # O
 POS O
 TX O
-CARDIACO O
+CARDIACO Anatomia
 , O
 COM O
 BOA O
@@ -13273,7 +13255,7 @@ anicterico O
 , O
 sem O
 edema O
-mmii O
+mmii Anatomia
 . O
 
 PA O
@@ -13302,9 +13284,9 @@ ss O
 / O
 6 O
 + O
-FAo O
+FAo Anatomia
 e O
-Mi O
+Mi Anatomia
 e O
 SD O
 + O
@@ -13327,23 +13309,23 @@ ANOS O
 
 # O
 TV O
-AO O
+AO Anatomia
 + O
-MI O
+MI Anatomia
 = O
 2007 O
 . O
 
 - O
 PROTESE O
-AO O
+AO Anatomia
 BRAILE O
 25MM O
 . O
 
 - O
 PROTESE O
-MI O
+MI Anatomia
 CARDIOPROTESE O
 29MM O
 . O
@@ -13405,7 +13387,7 @@ FE O
 % O
 . O
 
-MI O
+MI Anatomia
 BIOL O
 : O
 GMAX O
@@ -13418,7 +13400,7 @@ IMOD O
 . O
 
 PROTESE O
-AO O
+AO Anatomia
 BIOL O
 GMAX O
 40 O
@@ -13481,9 +13463,9 @@ AC O
 BCRNF O
 SOPRO O
 SISTOLICO O
-AO O
+AO Anatomia
 E O
-PANFOCAL O
+PANFOCAL Anatomia
 + O
 4 O
 / O
@@ -13493,9 +13475,9 @@ EJETIVO O
 ; O
 SOPRO O
 DIASTOLICO O
-AO O
+AO Anatomia
 E O
-MI O
+MI Anatomia
 ASPIRATIVO O
 + O
 3 O
@@ -13516,9 +13498,9 @@ A O
 # O
 TROCA O
 DE O
-VAO O
+VAO Anatomia
 E O
-MI O
+MI Anatomia
 HÁ O
 8 O
 ANOS O
@@ -13629,16 +13611,16 @@ COM O
 CINTILO O
 FIBROSE O
 PERSISTENTE O
-APICE O
-E O
-MEDIO O
-APICAL O
+APICE Anatomia
+E Anatomia
+MEDIO Anatomia
+APICAL Anatomia
 DA O
-P O
-ANTERIOR O
-E O
-ANTERO O
-SEPTAL O
+P Anatomia
+ANTERIOR Anatomia
+E Anatomia
+ANTERO Anatomia
+SEPTAL Anatomia
 DISCRETA O
 ISQUEMIA O
 ASSOCIADA O
@@ -13713,16 +13695,16 @@ CINTILO O
 : O
 FIBROSE O
 PERSISTENTE O
-APICE O
-E O
-MEDIO O
-APICAL O
+APICE Anatomia
+E Anatomia
+MEDIO Anatomia
+APICAL Anatomia
 DA O
-P O
-ANTERIOR O
-E O
-ANTERO O
-SEPTAL O
+P Anatomia
+ANTERIOR Anatomia
+E Anatomia
+ANTERO Anatomia
+SEPTAL Anatomia
 DISCRETA O
 ISQUEMIA O
 ASSOCIADA O
@@ -13749,28 +13731,28 @@ ACENTUADA O
 E O
 PERSISTENTE O
 NO O
-APICE O
-E O
-MEDIO O
-APICAL O
-PAREDE O
-ANTERIOR O
-E O
-ANTERO O
-SEPTAL O
-VE O
+APICE Anatomia
+E Anatomia
+MEDIO Anatomia
+APICAL Anatomia
+PAREDE Anatomia
+ANTERIOR Anatomia
+E Anatomia
+ANTERO Anatomia
+SEPTAL Anatomia
+VE Anatomia
 . O
 
 HIPOCINESIA O
 DIFUSA O
 DAS O
-PAREDES O
-DO O
-VE O
-, O
-ANTERIOR O
-E O
-APICAL O
+PAREDES Anatomia
+DO Anatomia
+VE Anatomia
+, Anatomia
+ANTERIOR Anatomia
+E Anatomia
+APICAL Anatomia
 . O
 
 FE O
@@ -13798,7 +13780,7 @@ ELETROCARDIOGRAFICAS O
 SUJESTIVAS O
 DE O
 ISQUEMIA O
-MIOCARDICA O
+MIOCARDICA Anatomia
 . O
 
 EM O
@@ -13876,7 +13858,7 @@ ASSOCIADOS O
 
 NEGA O
 DOR O
-TORACICA O
+TORACICA Anatomia
 . O
 
 EXAME O
@@ -14029,8 +14011,8 @@ esforços O
 refere O
 edema O
 de O
-membros O
-inferiores O
+membros Anatomia
+inferiores Anatomia
 , O
 com O
 piora O
@@ -14053,7 +14035,7 @@ paroxistica O
 , O
 nega O
 dor O
-toracica O
+toracica Anatomia
 . O
 
 relata O
@@ -14114,7 +14096,7 @@ normais O
 . O
 
 Refluxo O
-mitral O
+mitral Anatomia
 discreto O
 . O
 
@@ -14122,16 +14104,16 @@ discreto O
 CINTILO O
 FIBROSE O
 PERSISTENTE O
-APICE O
-E O
-MEDIO O
-APICAL O
-DA O
-P O
-ANTERIOR O
-E O
-ANTERO O
-SEPTAL O
+APICE Anatomia
+E Anatomia
+MEDIO Anatomia
+APICAL Anatomia
+DA Anatomia
+P Anatomia
+ANTERIOR Anatomia
+E Anatomia
+ANTERO Anatomia
+SEPTAL Anatomia
 DISCRETA O
 ISQUEMIA O
 ASSOCIADA O
@@ -14157,28 +14139,28 @@ ACENTUADA O
 E O
 PERSISTENTE O
 NO O
-APICE O
-E O
-MEDIO O
-APICAL O
-PAREDE O
-ANTERIOR O
-E O
-ANTERO O
-SEPTAL O
-VE O
+APICE Anatomia
+E Anatomia
+MEDIO Anatomia
+APICAL Anatomia
+PAREDE Anatomia
+ANTERIOR Anatomia
+E Anatomia
+ANTERO Anatomia
+SEPTAL Anatomia
+VE Anatomia
 . O
 
 HIPOCINESIA O
 DIFUSA O
 DAS O
-PAREDES O
-DO O
-VE O
-, O
-ANTERIOR O
-E O
-APICAL O
+PAREDES Anatomia
+DO Anatomia
+VE Anatomia
+, Anatomia
+ANTERIOR Anatomia
+E Anatomia
+APICAL Anatomia
 . O
 
 FE O
@@ -14206,7 +14188,7 @@ ELETROCARDIOGRAFICAS O
 SUJESTIVAS O
 DE O
 ISQUEMIA O
-MIOCARDICA O
+MIOCARDICA Anatomia
 . O
 
 EM O
@@ -14287,7 +14269,7 @@ S O
 RA O
 . O
 
-MMII O
+MMII Anatomia
 edema O
 + O
 / O
@@ -14296,8 +14278,8 @@ edema O
 + O
 + O
 em O
-membro O
-direito O
+membro Anatomia
+direito Anatomia
 . O
 
 P O
@@ -14334,7 +14316,7 @@ anos O
 Acompanhamento O
 de O
 cx O
-cardíaca O
+cardíaca Anatomia
 . O
 
 2 O
@@ -14402,7 +14384,7 @@ safena O
 e O
 enchimento O
 de O
-mamária O
+mamária Anatomia
 . O
 
 Está O
@@ -14442,7 +14424,7 @@ ALTERAÇÕES O
 DIFUSAS O
 DA O
 REPOLARIZAÇÃO O
-VENTRICULAR O
+VENTRICULAR Anatomia
 . O
 
 EXAMES O
@@ -14484,7 +14466,7 @@ KPTT O
 . O
 
 CX O
-CARDÍACA O
+CARDÍACA Anatomia
 REALIZADA O
 EM O
 2005 O
@@ -14518,7 +14500,7 @@ DISPNÉIA O
 RELATA O
 EDEMA O
 DE O
-MMII O
+MMII Anatomia
 . O
 
 EM O
@@ -14580,18 +14562,18 @@ estável O
 Relata O
 dor O
 em O
-MMII O
+MMII Anatomia
 com O
 edema O
 em O
-pés O
+pés Anatomia
 . O
 
 Ocasionalmente O
 relata O
 dor O
 em O
-ombros O
+ombros Anatomia
 . O
 
 Nega O
@@ -14682,9 +14664,9 @@ de O
 80 O
 % O
 em O
-grande O
-ramo O
-marginal O
+grande Anatomia
+ramo Anatomia
+marginal Anatomia
 ) O
 . O
 
@@ -14724,7 +14706,7 @@ ANGIOPLASTIA O
 PACIENTE O
 SEM O
 QUEIXAS O
-CARDIOLOGICAS O
+CARDIOLOGICAS Anatomia
 . O
 
 RELATA O
@@ -14761,7 +14743,7 @@ ECOCARDIO O
 / O
 13 O
 - O
-VE O
+VE Anatomia
 HIPERTROFIADO O
 COM O
 DIMENSÃO O
@@ -14774,31 +14756,31 @@ MODERADAMENTE O
 DIMINUIDA O
 POR O
 ACINESIA O
-MEDIO O
-APICAL O
-PAREDE O
-ANTERO O
-SEPTAL O
+MEDIO Anatomia
+APICAL Anatomia
+PAREDE Anatomia
+ANTERO Anatomia
+SEPTAL Anatomia
 . O
 
 AUMENTO O
 DE O
-AE O
+AE Anatomia
 . O
 
 REFLUXO O
-MITRAL O
+MITRAL Anatomia
 DISCRETO O
 . O
 
 ECTASIA O
 DA O
-RAIZ O
-AÓRTICA O
+RAIZ Anatomia
+AÓRTICA Anatomia
 . O
 
 REFLUXO O
-AÓRTICO O
+AÓRTICO Anatomia
 DISCRETO O
 . O
 
@@ -14843,7 +14825,7 @@ EXTRASSISTOLES O
 
 EDEMA O
 EM O
-MMII O
+MMII Anatomia
 + O
 + O
 / O
@@ -15003,7 +14985,7 @@ dispnéia O
 Trouxe O
 Eco O
 com O
-AE O
+AE Anatomia
 aumentado O
 , O
 FE O
@@ -15089,5 +15071,43 @@ SONO O
 . O
 
 ICO O
+. O
+
+SOLICITO O
+EXAMES O
+LABORATORIAIS O
+E O
+CATETERISMO O
+DIAGNOSTICO O
+PARA O
+VER O
+OSSTENTS O
+IMPLANTADOS O
+. O
+
+LUCAS O
+, O
+69 O
+anos O
+. O
+
+HMA O
+: O
+paciente O
+relata O
+cansaço O
+, O
+dor O
+precordial Anatomia
+quando O
+tosse O
+. O
+
+Nega O
+dispneia O
+, O
+ortopneia O
+e O
+DNP O
 . O
 

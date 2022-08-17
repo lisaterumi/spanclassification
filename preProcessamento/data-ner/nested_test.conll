@@ -1,19 +1,8 @@
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-27 O
-/ O
-07 O
-/ O
-2015 O
-
 Lucas O
 , O
 74 O
 anos O
+. O
 
 Em O
 acompanhamento O
@@ -33,6 +22,7 @@ marevan Tratamento
 x O
 ao O
 dia O
+. O
 
 Comorbidades Problema
 : O
@@ -71,6 +61,7 @@ insulina Tratamento
 - O
 24 O
 ) O
+. O
 
 HAS Problema
 há O
@@ -99,6 +90,7 @@ carvedilol Tratamento
 12 O
 , O
 HCTZ Tratamento
+. O
 
 DSLP Problema
 em O
@@ -118,10 +110,12 @@ para O
 no O
 alvo O
 sic O
+. O
 
 S O
 : O
 Assintomática O
+. O
 
 Nega O
 dispnéia Problema
@@ -133,6 +127,7 @@ ortopneia Problema
 palpitações Problema
 e O
 sincope Problema
+. O
 
 O O
 : O
@@ -163,6 +158,7 @@ simétrico O
 , O
 sem O
 RA Problema
+. O
 
 BC Problema
 arritmicas Problema
@@ -170,6 +166,7 @@ arritmicas Problema
 NF O
 SS Problema
 2T O
+. O
 
 Abd Anatomia
 globoso O
@@ -182,6 +179,7 @@ palpacao O
 , O
 sem O
 VCM Problema
+. O
 
 MMII Anatomia
 sem O
@@ -189,6 +187,7 @@ edema Problema
 , O
 panturrilhas Anatomia
 livres O
+. O
 
 Exames Teste
 - O
@@ -199,6 +198,7 @@ controlada O
 , O
 media O
 92 O
+. O
 
 Cr Teste
 - O
@@ -251,6 +251,7 @@ Microalbuminúria Teste
 mg O
 / O
 g O
+. O
 
 Ecocardiograma Teste
 - O
@@ -266,12 +267,14 @@ e O
 função O
 sistólica O
 preservada O
+. O
 
 aumento Problema
 moderado Problema
 de Problema
 átrio Problema
 esquerdo Problema
+. O
 
 calcificação Problema
 mitral Problema
@@ -280,10 +283,12 @@ aórtica Problema
 com Problema
 refluxo Problema
 leve Problema
+. O
 
 A O
 : O
 FA Problema
+. O
 
 PA Teste
 - O
@@ -302,6 +307,7 @@ normofonéticas O
 , O
 sem O
 sopros Problema
+. O
 
 Abdomen Anatomia
 flácido O
@@ -310,11 +316,13 @@ indolor O
 , O
 sem O
 visceromegalias Problema
+. O
 
 Sem O
-alterações O
-nos O
-MMII Anatomia
+alterações Problema
+nos Problema
+MMII Problema
+. O
 
 Otimizo O
 dose O
@@ -324,27 +332,18 @@ para Tratamento
 40mg Tratamento
 / O
 dia O
+. O
 
 Atestado O
 para O
 atividades O
 físicas O
+. O
 
 Retorno O
 na O
 vaga O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-13 O
-/ O
-10 O
-/ O
-2014 O
+. O
 
 # O
 Lucas O
@@ -397,6 +396,7 @@ discreta Problema
 hipetensao Problema
 pulmonar Problema
 discreta Problema
+. O
 
 Paciente O
 refere O
@@ -413,6 +413,7 @@ turvação Problema
 visual Problema
 e O
 epigastralgia Problema
+. O
 
 Nega O
 dor Problema
@@ -420,34 +421,41 @@ toracica Problema
 associada O
 ou O
 dispneia Problema
+. O
 
 Nega O
 DPN Problema
+. O
 
 Nega O
 sincope Problema
+. O
 
 Nega O
-edema O
-de O
-MMII Anatomia
+edema Problema
+de Problema
+MMII Problema
+. O
 
 Alimenta O
 - O
 se O
 bem O
+. O
 
 Nega O
 queixas Problema
 urinarias Problema
 e Problema
 gastrointestinais Problema
+. O
 
 Nega O
 tabagismo Problema
 atual O
 e O
 pregresso O
+. O
 
 - O
 Laboratorio Teste
@@ -530,6 +538,7 @@ nefrologia O
 - O
 aguarda O
 consulta O
+. O
 
 Em O
 uso O
@@ -577,38 +586,40 @@ colecalciferol Tratamento
 gotas O
 / O
 semana O
+. O
 
 Ao O
-exame O
+exame Teste
 : O
-PA O
+PA Teste
 : O
 90 O
 / O
 60 O
 mmHg O
 / O
-FC O
+FC Teste
 55 O
 bpm O
 , O
 BCRNF O
 , O
-SS O
+SS Problema
 , O
 MV O
 + O
 bilateralmente O
 , O
 sem O
-RA O
+RA Problema
 , O
-MMII Anatomia
+MMII Problema
 edema Problema
 + Problema
 / Problema
 IV Problema
 bilateral Problema
+. O
 
 # O
 # O
@@ -620,13 +631,16 @@ para O
 5mg O
 / O
 dia O
+. O
 
 Suspendemos O
 clopidogrel Tratamento
+. O
 
 Mantemos O
 demais Tratamento
 medicações Tratamento
+. O
 
 Retorno O
 em O
@@ -638,10 +652,12 @@ cardio O
 com O
 novos O
 exames Teste
+. O
 
 Encaminhado O
 à O
 nefrologia O
+. O
 
 R1 O
 CM O
@@ -649,6 +665,7 @@ Lucas O
 , O
 Dr O
 Fortes O
+. O
 
 * O
 HAS Problema
@@ -666,18 +683,7 @@ em O
 angina Problema
 instavel Problema
 ) O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-30 O
-/ O
-06 O
-/ O
-2014 O
+. O
 
 Paciente O
 em O
@@ -699,6 +705,7 @@ após Problema
 início Problema
 do Problema
 tratamento Problema
+. O
 
 Hoje O
 relata O
@@ -717,20 +724,24 @@ com O
 apenas O
 1 O
 travesseiro O
+. O
 
 Nega O
 precordialgia Problema
 aos Problema
 moderados Problema
 esforços Problema
+. O
 
 Nega O
 episódios Problema
 anginosos Problema
+. O
 
 Nega O
 outras Problema
 queixas Problema
+. O
 
 Rsultado O
 de O
@@ -744,7 +755,7 @@ Microalbuminúria Teste
 04 O
 : O
 10 O
-
+. O
 64 O
 / O
 G O
@@ -791,20 +802,20 @@ Laboratoriais Teste
 : O
 K Teste
 5 O
-
+. O
 1 O
 , O
-clearence O
-creatinina O
+clearence Teste
+creatinina Teste
 57 O
 Ao O
-EF O
+EF Teste
 : O
-PA O
+PA Teste
 170x100mmHg O
 ( O
 relata O
-PA O
+PA Teste
 normal O
 quando O
 em O
@@ -813,28 +824,28 @@ não O
 hospitalar O
 ) O
 , O
-FC O
+FC Teste
 63bpm O
 AR O
 : O
 mv O
 sem O
-RA O
-ACV O
+RA Problema
+ACV Anatomia
 : O
 rcr O
 em O
 2T O
 sem O
-sopros O
+sopros Problema
 , O
 com O
-hipofonese O
-de O
-bulhas O
+hipofonese Problema
+de Problema
+bulhas Problema
 AD O
 : O
-abdome O
+abdome Anatomia
 globos O
 , O
 normotenso O
@@ -843,30 +854,30 @@ indolor O
 , O
 ausência O
 de O
-massas O
+massas Problema
 ou O
-visceromegalias O
-MMII O
+visceromegalias Problema
+MMII Anatomia
 sem O
-edema O
+edema Problema
 HD O
 : O
 - O
 ICC Problema
 diastólica Problema
-classe O
-III O
+classe Problema
+III Problema
 - O
-HAS O
+HAS Problema
 - O
-DMII O
+DMII Problema
 - O
-Dislipidemia O
+Dislipidemia Problema
 CD O
 : O
 - O
 mantenho O
-medicação O
+medicação Tratamento
 - O
 retorno O
 em O
@@ -874,38 +885,39 @@ em O
 m O
 com O
 exames Teste
-laboratoriais O
+laboratoriais Teste
 + O
 ECG Teste
+. O
 
-ICC O
-classe O
-III O
+ICC Problema
+classe Problema
+III Problema
 HAS Problema
 , O
 em O
 uso O
 de O
-atenolol O
+atenolol Tratamento
+100mg Tratamento
+/ O
+dia O
+, O
+AAS Tratamento
+, O
 100mg O
 / O
 dia O
 , O
-AAS O
-, O
-100mg O
-/ O
-dia O
-, O
-furosemida O
-40mg O
+furosemida Tratamento
+40mg Tratamento
 1cp O
 12 O
 / O
 12h O
 , O
-anlodipino O
-5mg O
+anlodipino Tratamento
+5mg Tratamento
 1 O
 / O
 2 O
@@ -913,15 +925,15 @@ cp O
 à O
 noite O
 , O
-losartana O
-50mg O
+losartana Tratamento
+50mg Tratamento
 12 O
 / O
 12h O
 DMII Problema
 , O
-metformina O
-850mg O
+metformina Tratamento
+850mg Tratamento
 12 O
 / O
 12h O
@@ -936,18 +948,7 @@ sinvastatina Tratamento
 cp O
 à O
 noite O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-27 O
-/ O
-10 O
-/ O
-2015 O
+. O
 
 POS O
 TX Tratamento
@@ -955,12 +956,14 @@ CARDIACO Tratamento
 HA O
 20 O
 dias O
+. O
 
 ULTIMA Teste
 BIOPSIA Teste
 AINDA O
 SEM O
 RESULTADO O
+. O
 
 EM O
 USO O
@@ -983,6 +986,7 @@ PREDNISONA Tratamento
 20MG Tratamento
 / O
 DIA O
+. O
 
 USO O
 DE O
@@ -991,19 +995,23 @@ FURO Tratamento
 AAS Tratamento
 , O
 SINVA Tratamento
+. O
 
 S O
 # O
 SEM O
 QUEIXAS Problema
+. O
 
 REFERE O
 QUEIMAÇÃO Problema
 NAS Problema
 PERNAS Problema
+. O
 
 DEMAIS O
 SP O
+. O
 
 O O
 # O
@@ -1014,16 +1022,20 @@ PA Teste
 , O
 FC Teste
 89 O
+. O
 
 ACV O
 BCRNF O
+. O
 
 CPP Anatomia
 LIVRE O
+. O
 
 MMII Anatomia
 SEM O
 EDEMA Problema
+. O
 
 A O
 # O
@@ -1034,6 +1046,7 @@ CARDIACO Tratamento
 COM O
 BOA O
 EVOLUÇÃO O
+. O
 
 P O
 # O
@@ -1043,23 +1056,13 @@ BIOPSIA Teste
 ECO Teste
 E O
 LAB Teste
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-02 O
-/ O
-02 O
-/ O
-2015 O
+. O
 
 PROTESE Tratamento
 VALVAR Tratamento
 MI Tratamento
 2012 O
+. O
 
 USA O
 S O
@@ -1084,10 +1087,12 @@ SVT Tratamento
 MG Tratamento
 - O
 D O
+. O
 
 SEM O
 QX Problema
 CARDIOLOGICAS Problema
+. O
 
 27 O
 - O
@@ -1096,33 +1101,33 @@ CARDIOLOGICAS Problema
 15 O
 FE O
 50 O
-EP O
+EP Anatomia
 25 O
-AE O
+AE Anatomia
 46 O
-VE O
-REMODELAMENTO O
-CONCENTRICO O
-AE O
-E O
-AD O
-AUMENTADOS O
+VE Problema
+REMODELAMENTO Problema
+CONCENTRICO Problema
+AE Problema
+E Problema
+AD Problema
+AUMENTADOS Problema
 VD O
 NL O
 PROTESE O
 AO O
 NF O
-REFLUXO O
-DISCRETO O
+REFLUXO Problema
+DISCRETO Problema
 = O
-DUPLA O
-LESAO O
-MI Anatomia
-COM O
-ESTENOSE O
-E O
-INSUF O
-MODERADAS O
+DUPLA Problema
+LESAO Problema
+MI Problema
+COM Problema
+ESTENOSE Problema
+E Problema
+INSUF Problema
+MODERADAS Problema
 - O
 INSUF Problema
 TRI Problema
@@ -1132,6 +1137,7 @@ IMPORTANTE Problema
 = O
 HIPERTENSAO Problema
 PULMONAR Problema
+. O
 
 CONTROLE Tratamento
 NO O
@@ -1139,24 +1145,14 @@ AMB O
 VALVAS O
 E O
 ACO Tratamento
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-12 O
-/ O
-02 O
-/ O
-2016 O
+. O
 
 Protese Tratamento
 Metalica Tratamento
 Aortica Tratamento
 em O
 2004 O
+. O
 
 Uso O
 : O
@@ -1206,6 +1202,7 @@ Trazodona Tratamento
 25 Tratamento
 1x O
 d O
+. O
 
 Dispnia Problema
 esporadica Problema
@@ -1222,9 +1219,10 @@ toracica Problema
 quando Problema
 epigastralgia Problema
 que O
-melhoram O
-com O
-paracetamol Tratamento
+melhoram Problema
+com Problema
+paracetamol Problema
+. Problema
 
 Lab Teste
 ( O
@@ -1295,6 +1293,7 @@ LDL Teste
 C Teste
 70 O
 ; O
+. O
 
 Ecocardio Teste
 ( O
@@ -1328,6 +1327,7 @@ calcificada Problema
 , O
 refluxo Problema
 discreto Problema
+. O
 
 VAo Problema
 protese Problema
@@ -1338,6 +1338,7 @@ espessamento Problema
 e O
 relfuxo Problema
 discreto Problema
+. O
 
 Grad O
 medio O
@@ -1347,34 +1348,41 @@ e O
 max O
 de O
 30 O
+. O
 
 ARea O
 de O
 1 O
 , O
 12 O
+. O
 
-VTri O
+VTri Anatomia
 = O
 refluxo Problema
 discreto Problema
 com O
 PSAP O
 56mmHg O
+. O
 
 VP Problema
 refluxo Problema
 minimo Problema
+. O
 
 VE Problema
 hipertrofiado Problema
+. O
 
 , O
 SIv O
 13 O
+. O
 
 PPVE O
 14 O
+. O
 
 PA Teste
 ( Teste
@@ -1385,17 +1393,20 @@ sentada Teste
 , O
 P Teste
 76 O
+. O
 
 EM O
 pé O
 2 O
 idem O
+. O
 
 MV O
 normodist O
 sem O
 ruidos Problema
 adsventicios Problema
+. O
 
 RCR O
 , O
@@ -1416,6 +1427,7 @@ Mi Problema
 / Problema
 6 Problema
 + Problema
+. O
 
 BEG O
 , O
@@ -1426,8 +1438,9 @@ acianotica O
 orientada O
 , O
 Sem O
-edema O
-mmii Anatomia
+edema Problema
+mmii Problema
+. O
 
 HD O
 : O
@@ -1435,14 +1448,17 @@ protese O
 Metalica O
 AOrtoca Anatomia
 normofuncionante O
+. O
 
 Disfunbção Problema
 diastolica Problema
+. O
 
 CD O
 : O
 Suspendo O
 Espironolactona Tratamento
+. O
 
 Reduzo O
 Sinvastatina Tratamento
@@ -1450,6 +1466,7 @@ para Tratamento
 10mg Tratamento
 / O
 noite O
+. O
 
 ACrescento O
 Omeprazol Tratamento
@@ -1457,30 +1474,21 @@ Omeprazol Tratamento
 - O
 1x O
 d O
+. O
 
 Retonro O
 em O
 6m O
 com O
 lab Teste
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-04 O
-/ O
-12 O
-/ O
-2014 O
+. O
 
 # O
 Lucas O
 , O
 55 O
 ANOS O
+. O
 
 # O
 NATURAL O
@@ -1490,14 +1498,17 @@ ALAGOAS O
 RESIDENTE O
 EM O
 CURITIBA O
+. O
 
 # O
 DÇ Problema
 DE Problema
 CHAGAS Problema
+. O
 
 # O
 BAVT Problema
+. O
 
 # O
 MARCA Tratamento
@@ -1511,6 +1522,7 @@ DDD O
 60 O
 DESDE O
 2007 O
+. O
 
 # O
 PACIENTE O
@@ -1519,6 +1531,7 @@ DO O
 AMBULATÓRIO O
 DE O
 ARRITMIAS O
+. O
 
 PACIENTE O
 NEGA O
@@ -1529,10 +1542,12 @@ ORTOPNEIA Problema
 , O
 NEGA O
 DPN Problema
+. O
 
 SEM O
 OUTRAS Problema
 QUEIXAS Problema
+. O
 
 # O
 NEGA O
@@ -1545,6 +1560,7 @@ DM Problema
 DISLIPIDEMIA Problema
 E O
 TIREOIDOPATIAS Problema
+. O
 
 # O
 MÃE O
@@ -1558,6 +1574,7 @@ IAM O
 , O
 65 O
 ANOS O
+. O
 
 # O
 CX Tratamento
@@ -1570,18 +1587,21 @@ HÁ O
 > O
 20 O
 ANOS O
+. O
 
 # O
 EM O
 USO O
 DE O
 : O
+. O
 
 METOPROLOL Tratamento
 50MG Tratamento
 12 O
 / O
 12HS O
+. O
 
 ENALAPRIL Tratamento
 10 Tratamento
@@ -1589,12 +1609,15 @@ MG Tratamento
 12 O
 / O
 12HS O
+. O
 
 ESPIRONO Tratamento
 25 Tratamento
+. O
 
 SVT Tratamento
 20 Tratamento
+. O
 
 EXAMES Teste
 LAB Teste
@@ -1643,6 +1666,7 @@ Ht Teste
 / O
 LEUC Teste
 5150 O
+. O
 
 EF Teste
 # O
@@ -1653,6 +1677,7 @@ LOTE O
 CORADO O
 E O
 HIDRATADO O
+. O
 
 PA Teste
 : O
@@ -1663,11 +1688,13 @@ PA Teste
 P Teste
 : O
 72 O
+. O
 
 AUSENCIA O
 DE O
 TURGÊNCIA Problema
 JUGULAR Problema
+. O
 
 ICTUS Problema
 PALPÁVEL Problema
@@ -1678,67 +1705,67 @@ EM Problema
 LINHA Problema
 HEMIAXILAR Problema
 E Problema
+. O
 
 BCRNF O
 2T O
 SS Problema
+. O
 
 AUSCULTA O
 PULMONAR Anatomia
 SEM O
 ALTERAÇÕES Problema
+. O
 
 ABDOME Anatomia
 INOCENTE O
+. O
 
 SEM O
 EDEMA Problema
 EM Problema
 MMII Problema
+. O
 
 PULSOS O
 + O
 BL O
 , O
 SIMÉTRICOS O
+. O
 
 A O
 : O
 DÇA Problema
 CHAGAS Problema
+. O
 
-P Teste
+P O
 : O
 MANTENHO O
 MEDICAÇÕES Tratamento
+. O
 
 SOLICITO O
 ECOCARDIO Teste
+. O
 
 RETORNO O
 EM O
 3 O
 MESES O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-24 O
-/ O
-11 O
-/ O
-2015 O
+. O
 
 sem O
 queixas Problema
+. O
 
 sente O
 - O
 se O
 bem O
+. O
 
 # O
 hoje O
@@ -1746,22 +1773,26 @@ avaliação Teste
 exclusiva Teste
 de Teste
 mp Teste
+. O
 
 # O
 mp Tratamento
 camara Tratamento
 - Tratamento
 dupla Tratamento
+. O
 
 # O
 programado O
 em O
 modo O
 ddd O
+. O
 
 # O
 bat O
 ok O
+. O
 
 # O
 para O
@@ -1769,6 +1800,7 @@ eri O
 = O
 2 O
 meses O
+. O
 
 # O
 a O
@@ -1794,6 +1826,7 @@ x O
 0 O
 , O
 4 O
+. O
 
 # O
 v O
@@ -1819,6 +1852,7 @@ x O
 0 O
 , O
 4 O
+. O
 
 # O
 cd O
@@ -1844,18 +1878,7 @@ intercorrencias O
 = O
 procura O
 direta O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-06 O
-/ O
-08 O
-/ O
-2013 O
+. O
 
 ABLAÇÃO Tratamento
 DE Tratamento
@@ -1867,6 +1890,7 @@ A O
 SEGUNDA O
 EM O
 2010 O
+. O
 
 HAS Problema
 , O
@@ -1879,12 +1903,14 @@ TABAGISMO Problema
 , O
 ALERGIA Problema
 MEDICAMENTOSA Problema
+. O
 
 CATETERISMO Teste
 COM O
 AUSENCIA O
 DE O
 CORONARIOPATIA Problema
+. O
 
 FAZ O
 USO O
@@ -1912,26 +1938,28 @@ HCTZ Tratamento
 , O
 MAREVAN Tratamento
 5MG Tratamento
+. O
 
-HOLTER O
+HOLTER Teste
 COM O
 PRESENCA O
 DE O
-EV O
-E O
-ESV O
-RARAS O
-COM O
-EPISODIOS O
-NAO O
-SUSTENTADOS O
-DE O
-TAQUICARDIA O
-ATRIAL Anatomia
+EV Problema
+E Problema
+ESV Problema
+RARAS Problema
+COM Problema
+EPISODIOS Problema
+NAO Problema
+SUSTENTADOS Problema
+DE Problema
+TAQUICARDIA Problema
+ATRIAL Problema
 SEM O
 PRESENCA O
 DE O
 SINTOMAS Problema
+. O
 
 # O
 PACIENTE O
@@ -1943,11 +1971,13 @@ BEM O
 COM O
 AS O
 MEDICAÇÕES Tratamento
+. O
 
 NEGA O
-SINTOMAS Problema
+SINTOMAS O
 DE O
 PALPITAÇÕES Problema
+. O
 
 RELATA O
 DISPNEIA Problema
@@ -1959,6 +1989,7 @@ COM O
 MELHORA Problema
 COM Problema
 REPOUSO Problema
+. O
 
 RELATA O
 QUE O
@@ -1967,9 +1998,11 @@ APRESENTOU O
 EPISODIO O
 DE O
 HIPOTENSAO Problema
+. O
 
 RELATA O
 CEFALEIA Problema
+. O
 
 # O
 BEG O
@@ -1981,6 +2014,7 @@ PA Teste
 , O
 FC Teste
 70 O
+. O
 
 C O
 / O
@@ -1988,6 +2022,7 @@ P O
 : O
 SEM O
 ALT O
+. O
 
 CORAÇÃO Anatomia
 : O
@@ -1996,6 +2031,7 @@ BRNF O
 , O
 SEM O
 SOPRO Problema
+. O
 
 PULMAO Anatomia
 : O
@@ -2004,38 +2040,31 @@ MV O
 , O
 SEM O
 RA Problema
+. O
 
 CD O
 : O
 MEDICAÇÃO Tratamento
 MANTIDA O
+. O
 
 SOLICITO O
 NOVO O
 HOLTER Teste
 E O
 ECOCARDIO Teste
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-11 O
-/ O
-02 O
-/ O
-2014 O
+. O
 
 Lucas O
 , O
 55 O
 anos O
+. O
 
 Comorbidades Problema
 : O
 HAS Problema
+. O
 
 Medicamentos Tratamento
 atenolol Tratamento
@@ -2045,6 +2074,7 @@ atenolol Tratamento
 - O
 12h O
 , O
+. O
 
 diltiazen Tratamento
 60mg Tratamento
@@ -2053,6 +2083,7 @@ diltiazen Tratamento
 - O
 12h O
 , O
+. O
 
 Enalapril Tratamento
 10mg Tratamento
@@ -2061,13 +2092,16 @@ Enalapril Tratamento
 - O
 12h O
 , O
+. O
 
 HCTZ Tratamento
 25mg Tratamento
 , O
+. O
 
 Marevan Tratamento
 5mg Tratamento
+. O
 
 HMA O
 : O
@@ -2085,6 +2119,7 @@ com O
 taquicardia Problema
 atrial Problema
 ; O
+. O
 
 Atualmente O
 sente O
@@ -2102,6 +2137,7 @@ melhora Problema
 com Problema
 analgésico Problema
 comum Problema
+. O
 
 Relata O
 que O
@@ -2113,37 +2149,30 @@ e O
 normalmente O
 está O
 120x80 O
+. O
 
 FC Teste
 : O
 88 O
+. O
 
 Edema Problema
 discreto Problema
 mmi Problema
+. O
 
 Ausculta O
 pulmonar Anatomia
 e O
 cardiaca Anatomia
 normais O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-24 O
-/ O
-08 O
-/ O
-2015 O
+. O
 
 Lucas O
 , O
 57 O
 anos O
+. O
 
 Homoenxerto Tratamento
 aortico Tratamento
@@ -2169,9 +2198,11 @@ em O
 Doutor O
 Vital O
 Brazil O
+. O
 
 Hipertenso Problema
 , O
+. O
 
 Em O
 uso O
@@ -2218,6 +2249,7 @@ Hidantal Tratamento
 - O
 por O
 cisticercose Problema
+. O
 
 Penicilina Tratamento
 G Tratamento
@@ -2236,6 +2268,7 @@ dia O
 suspenso O
 em O
 2013 O
+. O
 
 DOR Problema
 REGIAO Problema
@@ -2250,6 +2283,7 @@ AÇO O
 , O
 EM O
 QUEIMAÇÃO O
+. O
 
 - O
 Labs O
@@ -2265,6 +2299,7 @@ ldl Teste
 , O
 demais O
 ok O
+. O
 
 - O
 Ecocardio Teste
@@ -2284,17 +2319,20 @@ Septo Anatomia
 / O
 FE O
 66 O
+. O
 
-Homoenxerto Tratamento
-aortico Tratamento
+Homoenxerto O
+aortico O
 com O
 mobilidade O
 ampla O
 folhetps O
+. O
 
 grad O
 pressao O
 4mmHg O
+. O
 
 Regurgitacao Problema
 grau Problema
@@ -2309,9 +2347,11 @@ mitral Anatomia
 ( O
 ? O
 ) O
+. O
 
 Exames Teste
 : O
+. O
 
 Ecocardiograma Teste
 - O
@@ -2326,6 +2366,7 @@ em Tratamento
 posição Tratamento
 aórtica Tratamento
 normofuncionante O
+. O
 
 VE Problema
 hipertrofiado Problema
@@ -2336,24 +2377,28 @@ e O
 fumção O
 sistólica O
 preservada O
+. O
 
-ALteração O
-do O
-relaxamento O
-do O
-VE Anatomia
+ALteração Problema
+do Problema
+relaxamento Problema
+do Problema
+VE Problema
 AE Problema
 dilatado Problema
+. O
 
 Homoenxerto Tratamento
 com O
 mobilidade O
 adequada O
+. O
 
 FE O
 : O
 66 O
 % O
+. O
 
 - O
 Lab Teste
@@ -2389,10 +2434,12 @@ LDL Teste
 , O
 Glic Teste
 107 O
+. O
 
 Ao O
 exame Teste
 : O
+. O
 
 Pte O
 em O
@@ -2403,6 +2450,7 @@ eupneico O
 corado O
 , O
 hidratado O
+. O
 
 FC79 O
 PA Teste
@@ -2410,18 +2458,21 @@ PA Teste
 130 O
 / O
 80 O
+. O
 
 CP O
 : O
 sem O
 estase Problema
 jugular Problema
+. O
 
 AC O
 : O
 BCRNF O
 sem O
 sopros Problema
+. O
 
 AP O
 : O
@@ -2431,9 +2482,11 @@ bilateralmente O
 , O
 sem O
 RA Problema
+. O
 
 mantenho O
 medicações Tratamento
+. O
 
 encaminho O
 para O
@@ -2444,28 +2497,19 @@ retirada O
 pontos O
 suttura O
 esterno Anatomia
+. O
 
 retorno O
 6 O
 meses O
+. O
 
 e3 O
 cardio O
 Doutor O
 Vital O
 Brazil O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-13 O
-/ O
-03 O
-/ O
-2014 O
+. O
 
 USUÁRIA O
 DE O
@@ -2480,14 +2524,17 @@ SABE O
 INFORMAR O
 MAIORES O
 DETALHES O
+. O
 
 sEM O
 QUEIXAS Problema
+. O
 
 SEM O
 RELATO O
 DE O
 SANGRAMENTOS Problema
+. O
 
 EM O
 USO O
@@ -2502,21 +2549,25 @@ E O
 SAB O
 E O
 DOM O
+. O
 
 RNI Teste
 3 O
 , O
 40 O
+. O
 
 CD O
 : O
 ORIENTO O
 PACIENTE O
+. O
 
 ALERTO O
 SINAIS O
 DE O
 GRAVIDADE O
+. O
 
 MANTER O
 AS O
@@ -2528,32 +2579,25 @@ COM O
 AJUSTE O
 DE O
 COSE O
+. O
 
 RETORNO O
 AGENDADA O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-24 O
-/ O
-06 O
-/ O
-2016 O
+. O
 
 Lucas O
 , O
 62 O
 anos O
+. O
 
 # O
 EAo Problema
+. O
 
 # O
 HAS Problema
+. O
 
 # O
 Uso O
@@ -2562,6 +2606,7 @@ Atenol Tratamento
 50 Tratamento
 - O
 1xd O
+. O
 
 Enalapril Tratamento
 5 Tratamento
@@ -2569,11 +2614,13 @@ Enalapril Tratamento
 12 O
 / O
 12h O
+. O
 
 # O
 Sem O
 queixas Problema
 cardiovasculares Problema
+. O
 
 Ecocardio Teste
 ( O
@@ -2606,6 +2653,7 @@ FE O
 = O
 69 O
 % O
+. O
 
 VMi Anatomia
 = O
@@ -2642,12 +2690,13 @@ e O
 medio O
 de O
 28mmHg O
+. O
 
-VP O
+VP Anatomia
 = O
 ok O
 ; O
-Vtri O
+Vtri Anatomia
 = O
 folhetos Problema
 espessados Problema
@@ -2660,6 +2709,7 @@ insuficiente Problema
 PSAP O
 = O
 39mmHg O
+. O
 
 VE Anatomia
 = O
@@ -2676,12 +2726,14 @@ preservadas O
 alt Problema
 de Problema
 relaxamento Problema
+. O
 
 AD Anatomia
 = O
 aumentado Problema
+. O
 
-Eco O
+Eco Teste
 ( O
 14 O
 / O
@@ -2689,19 +2741,19 @@ Eco O
 / O
 16 O
 ) O
-RA O
+RA Anatomia
 : O
 38 O
 AE Anatomia
 : O
 45 O
-VD O
+VD Anatomia
 : O
 20 O
-S O
+S Anatomia
 : O
 14 O
-PP O
+PP Anatomia
 : O
 14 O
 VE Anatomia
@@ -2713,6 +2765,7 @@ FE O
 : O
 70 O
 % O
+. O
 
 AO Anatomia
 : O
@@ -2722,6 +2775,7 @@ CALCIFICADAS Problema
 COM O
 DUPLA Problema
 LESAO Problema
+. O
 
 GRAD O
 MAX O
@@ -2729,6 +2783,7 @@ MAX O
 43 O
 MEDIO O
 25 O
+. O
 
 INSUF Problema
 TRICU Problema
@@ -2737,17 +2792,21 @@ DISCRETA Problema
 PSAP O
 39 O
 ) O
+. O
 
 REFLUXO Problema
 MITRAL Problema
 DISCRETO Problema
+. O
 
 AO Anatomia
 ASC Anatomia
 : O
 41MM O
+. O
 
-S Anatomia
+S O
+. O
 
 Nega O
 dispneia Problema
@@ -2756,11 +2815,13 @@ dor Problema
 toracica Problema
 , O
 sincope Problema
+. O
 
 Nega O
 edema Problema
 de Problema
 MMII Problema
+. O
 
 Refere O
 controle O
@@ -2777,12 +2838,14 @@ apresenta O
 elevação Problema
 de Problema
 PA Problema
+. O
 
 Sd Problema
 Jaleco Problema
 Branco Problema
 ? O
 ) O
+. O
 
 BEG O
 , O
@@ -2791,6 +2854,7 @@ eupneico O
 acianotico O
 , O
 anicterico O
+. O
 
 PA Teste
 : O
@@ -2803,11 +2867,13 @@ P Teste
 = O
 99 O
 spm O
+. O
 
 MV O
 normodist O
 sem O
 ruidos Problema
+. O
 
 RCR O
 , O
@@ -2833,19 +2899,21 @@ para Problema
 todo Problema
 o Problema
 precórdio Problema
+. O
 
 A O
 # O
-DUPLA O
-LESAO O
-AO Anatomia
-ESTENOSE O
-MOD O
-+ O
-INSUF O
-DISCRETA O
+DUPLA Problema
+LESAO Problema
+AO Problema
+ESTENOSE Problema
+MOD Problema
++ Problema
+INSUF Problema
+DISCRETA Problema
+. O
 
-P Teste
+P O
 # O
 aumento O
 Enalapril Tratamento
@@ -2858,6 +2926,7 @@ HCTZ Tratamento
 25mg Tratamento
 / O
 dia O
+. O
 
 retorno O
 em O
@@ -2866,36 +2935,28 @@ ano O
 com O
 novo O
 eco Teste
+. O
 
 R4 O
 cardio O
 Doutor O
 Vital O
 Brazil O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-14 O
-/ O
-04 O
-/ O
-2015 O
+. O
 
 # O
 MCP Problema
 dilatada Problema
 - Problema
 IDIOPÁTICA Problema
+. O
 
 CF Problema
 II Problema
 - Problema
 III Problema
 OSCILANTE Problema
+. O
 
 ** O
 PROTOCOLO O
@@ -2905,6 +2966,7 @@ CARDIACO Anatomia
 - O
 INDICE Teste
 CARDIACO Teste
+. O
 
 *** O
 Em O
@@ -2945,6 +3007,7 @@ Carvedilol Tratamento
 12 O
 / O
 12hs O
+. O
 
 S O
 # O
@@ -2953,9 +3016,11 @@ DE O
 CANSAÇO Problema
 AOS Problema
 ESFORÇOS Problema
+. O
 
 DEMAIS O
 SP O
+. O
 
 TG Teste
 111 O
@@ -3001,6 +3066,7 @@ CREAT Teste
 0 O
 , O
 98 O
+. O
 
 AO O
 EAXME Teste
@@ -3010,10 +3076,12 @@ PA Teste
 70 O
 FC Teste
 64 O
+. O
 
 SEM O
 TURGÊNCIA Problema
 JUGULAR Problema
+. O
 
 CPP Anatomia
 - O
@@ -3021,6 +3089,7 @@ MV O
 + O
 BILATERAL O
 , O
+. O
 
 PC O
 - O
@@ -3028,11 +3097,13 @@ BCR O
 SEM O
 SOPROS Problema
 , O
+. O
 
 MMII Anatomia
 - O
 SEM O
 EDEM Problema
+. O
 
 A O
 # O
@@ -3042,28 +3113,19 @@ CF Problema
 II Problema
 / Problema
 III Problema
+. O
 
 P O
 # O
 MEDICAÇÕES Tratamento
 MANTIDAS O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-17 O
-/ O
-11 O
-/ O
-2015 O
+. O
 
 Lucas O
 , O
 65 O
 ANOS O
+. O
 
 # O
 PO O
@@ -3083,6 +3145,7 @@ IC Problema
 DILATADA Problema
 IDIOPÁTICA Problema
 ) O
+. O
 
 # O
 EM O
@@ -3105,6 +3168,7 @@ PREDNISONA Tratamento
 20MG Tratamento
 / O
 DIA O
+. O
 
 AAS Tratamento
 100MG Tratamento
@@ -3115,6 +3179,7 @@ OMZ Tratamento
 20MG Tratamento
 / O
 DIA O
+. O
 
 - O
 EXAMES Teste
@@ -3124,6 +3189,7 @@ PRÉ Teste
 - Teste
 TRANSPLANTE Teste
 : O
+. O
 
 # O
 DOPPLER Teste
@@ -3145,6 +3211,7 @@ NA Problema
 BIFURCAÇÃO Problema
 CAROTÍDEA Problema
 ; O
+. O
 
 # O
 CATE Teste
@@ -3177,6 +3244,7 @@ RVS O
 12 O
 , O
 59 O
+. O
 
 # O
 ECOTT Teste
@@ -3204,8 +3272,9 @@ VE Anatomia
 FE O
 37 O
 % O
+. O
 
-VE Anatomia
+VE Problema
 DILATADO Problema
 COM Problema
 HIPOCONTRATIBILIDADE Problema
@@ -3223,24 +3292,27 @@ AMODERADA Problema
 PSAP O
 39 O
 MMHG O
+. O
 
 S O
 # O
 SENTE O
 BEM O
 , O
-DOR O
-NA O
-FO O
+DOR Problema
+NA Problema
+FO Problema
 SOMENTE O
-AOS O
-MOVIMENTOS O
-E O
-AO Anatomia
-TOSSIR O
+AOS Problema
+MOVIMENTOS Problema
+E Problema
+AO Problema
+TOSSIR Problema
+. O
 
 NEGA O
 DISPNÉIA Problema
+. O
 
 RELATA O
 QUE O
@@ -3251,9 +3323,11 @@ SECA O
 SEM O
 SINAIS Problema
 FLOGÍSTICOS Problema
+. O
 
 NEGA O
 FEBRE Problema
+. O
 
 O O
 # O
@@ -3268,6 +3342,7 @@ HIPOCORADO Problema
 EUPNEICO O
 , O
 AFEBRIL Problema
+. O
 
 PA Teste
 : O
@@ -3277,11 +3352,13 @@ PA Teste
 FC Teste
 : O
 80 O
+. O
 
 CV O
 : O
 BRNF O
 SS Problema
+. O
 
 CPP Anatomia
 : O
@@ -3291,6 +3368,7 @@ BILATERAL O
 , O
 SEM O
 RA Problema
+. O
 
 FO Problema
 LIMPA O
@@ -3301,6 +3379,7 @@ SEM O
 PRESENÇA O
 DE O
 SECREÇÃO Problema
+. O
 
 ABD Anatomia
 : O
@@ -3308,6 +3387,7 @@ RHA O
 + O
 , O
 INDOLOR O
+. O
 
 MMII Anatomia
 : O
@@ -3315,6 +3395,7 @@ SEM O
 EDEMA Problema
 OU O
 EMPASTAMENTO Problema
+. O
 
 A O
 # O
@@ -3329,6 +3410,7 @@ CARDIACO Tratamento
 / O
 15 O
 ) O
+. O
 
 P O
 # O
@@ -3337,18 +3419,7 @@ RETORNO O
 EM O
 30 O
 DIAS O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-15 O
-/ O
-03 O
-/ O
-2016 O
+. O
 
 POS O
 TX Tratamento
@@ -3359,9 +3430,11 @@ ANOS O
 e O
 7 O
 MESES O
+. O
 
 ULTIMA Teste
 BIOPSIA Teste
+. O
 
 EM O
 USO O
@@ -3390,6 +3463,7 @@ PREDNISONA Tratamento
 MG Tratamento
 / O
 DIA O
+. O
 
 USO O
 DE O
@@ -3397,17 +3471,21 @@ AAS Tratamento
 100 Tratamento
 / O
 DIA O
+. O
 
 S O
 # O
 SEM O
 QUEIXAS Problema
+. O
 
 DEMAIS O
 SP O
+. O
 
 AGURADA O
 BIOPSIA Teste
+. O
 
 O O
 # O
@@ -3418,16 +3496,20 @@ PA Teste
 , O
 FC Teste
 70 O
+. O
 
 ACV O
 BCRNF O
+. O
 
 CPP Anatomia
 LIVRE O
+. O
 
 MMII Anatomia
 SEM O
 EDEMA Problema
+. O
 
 A O
 # O
@@ -3438,11 +3520,13 @@ CARDIACO Tratamento
 COM O
 BOA Teste
 EVOLUÇÃO Teste
+. O
 
 AGUARDA O
 LAUDO O
 DA O
-BIOPSIA Teste
+BIOPSIA O
+. O
 
 P O
 # O
@@ -3450,18 +3534,7 @@ SOLICITO O
 LAB Teste
 E O
 ECOCC Teste
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-07 O
-/ O
-03 O
-/ O
-2016 O
+. O
 
 has Problema
 / O
@@ -3469,6 +3542,7 @@ has Problema
 anos O
 / O
 maço O
+. O
 
 aas Tratamento
 100 Tratamento
@@ -3502,12 +3576,14 @@ mg Tratamento
 x O
 / O
 d O
+. O
 
 fez O
 cat Teste
 + O
 angioplastia Tratamento
 2013 O
+. O
 
 ECOCARDIO Teste
 25 O
@@ -3534,28 +3610,34 @@ APICAL Problema
 PAREDE Problema
 ANTERO Problema
 SEPTAL Problema
+. O
 
 AUMENTO Problema
 DE Problema
 AE Problema
+. O
 
 REFLUXO Problema
 MITRAL Problema
 DISCRETO Problema
+. O
 
 ECTASIA Problema
 DA Problema
 RAIZ Problema
 AÓRTICA Problema
+. O
 
 REFLUXO Problema
 AÓRTICO Problema
 DISCRETO Problema
+. O
 
 FEVE O
 : O
 47 O
 % O
+. O
 
 01 O
 / O
@@ -3578,6 +3660,7 @@ BIFURCAÇÃO Problema
 DOS Problema
 VASOS Problema
 FEMORAIS Problema
+. O
 
 LESOES Problema
 SUBSEGMENTARES Problema
@@ -3588,6 +3671,7 @@ TIBIAL Problema
 ANTERIOR Problema
 E Problema
 FIBULAR Problema
+. O
 
 OCLUSÃO Problema
 DA Problema
@@ -3595,6 +3679,7 @@ ARTERIA Problema
 POPLITEA Problema
 MEDIO Problema
 DISTAL Problema
+. O
 
 ESTENOSE Problema
 > O
@@ -3604,6 +3689,7 @@ DA Problema
 ARTERIA Problema
 TIBIAL Problema
 POSTERIOR Problema
+. O
 
 quadro O
 de O
@@ -3614,28 +3700,19 @@ iam Problema
 , O
 perdeu O
 seguimento O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-07 O
-/ O
-04 O
-/ O
-2015 O
+. O
 
 LUCAS O
 , O
 18 O
 anos O
+. O
 
 # O
 HF O
 - O
 cardiopatia O
+. O
 
 Em O
 uso O
@@ -3645,6 +3722,7 @@ Diclin Tratamento
 ( Tratamento
 ACO Tratamento
 ) Tratamento
+. O
 
 HMA O
 : O
@@ -3658,6 +3736,7 @@ mais Problema
 com Problema
 o Problema
 calor Problema
+. O
 
 pródromos O
 : O
@@ -3667,6 +3746,7 @@ sudorese Problema
 e O
 escurecimento Problema
 visual Problema
+. O
 
 Refere O
 exacerbação Problema
@@ -3674,6 +3754,7 @@ dos Problema
 sintomas Problema
 com Problema
 nervosismo Problema
+. O
 
 Duração O
 de O
@@ -3681,6 +3762,7 @@ segundos O
 há O
 3 O
 minutos O
+. O
 
 Nega O
 confusão Problema
@@ -3688,15 +3770,18 @@ mental Problema
 ou O
 salivação Problema
 após O
+. O
 
 Nega O
 uso O
 de O
 medicação Tratamento
+. O
 
 Nega O
 outros Problema
 sintomas Problema
+. O
 
 Refere O
 que O
@@ -3713,6 +3798,7 @@ semana O
 durante Problema
 atividades Problema
 domesticas Problema
+. O
 
 Ecocardio Teste
 18 O
@@ -3742,11 +3828,13 @@ VE Anatomia
 FE O
 63 O
 % O
+. O
 
 Exame Teste
 dentro O
 da O
 normalidade O
+. O
 
 Teste Teste
 ergometrico Teste
@@ -3761,15 +3849,18 @@ fisico O
 atingiu O
 11 O
 METS O
+. O
 
 ECG Teste
 : O
 DCRD Problema
+. O
 
 HF O
 - O
 p O
 cardiopatia O
+. O
 
 BEG O
 , O
@@ -3778,6 +3869,7 @@ hidratada O
 normocorada O
 , O
 acianotica O
+. O
 
 FC Teste
 80 O
@@ -3795,6 +3887,7 @@ SAT Teste
 98 O
 % O
 AA O
+. O
 
 AC O
 bnf O
@@ -3803,6 +3896,7 @@ em O
 e O
 ss Problema
 , O
+. O
 
 AP O
 mv O
@@ -3811,39 +3905,33 @@ simetrico O
 s O
 ra Problema
 , O
+. O
 
 Abd Anatomia
 sp O
+. O
 
 mmii Anatomia
 s O
 edema Problema
 , O
+. O
 
 Vaso Problema
 vagal Problema
 ? O
+. O
 
 A O
 : O
 Aguarda O
 holter Teste
+. O
 
 Retorno O
 com O
 exames Teste
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-28 O
-/ O
-10 O
-/ O
-2013 O
+. O
 
 Paciente O
 em O
@@ -3862,6 +3950,7 @@ em O
 e O
 2012 O
 ) O
+. O
 
 Em O
 uso O
@@ -3892,6 +3981,7 @@ mg Tratamento
 omeprazol Tratamento
 20 Tratamento
 mg Tratamento
+. O
 
 Paciente O
 relata O
@@ -3901,6 +3991,7 @@ cansaço Problema
 aos Problema
 minimos Problema
 esforços Problema
+. O
 
 Paciente O
 relata O
@@ -3913,6 +4004,7 @@ dores Problema
 musculares Problema
 na Problema
 panturrilha Problema
+. O
 
 Comorbidades Problema
 : O
@@ -3921,6 +4013,7 @@ HAS Problema
 ICC Problema
 , O
 dislipidemia Problema
+. O
 
 Eventos O
 : O
@@ -3929,6 +4022,7 @@ CATs Teste
 e O
 3 Tratamento
 angioplastias Tratamento
+. O
 
 Na O
 ultima O
@@ -3946,14 +4040,17 @@ em O
 uso O
 de O
 sinvastatina Tratamento
+. O
 
 Paciente O
 nao O
 traz O
 exames Teste
+. O
 
 EF Teste
 : O
+. O
 
 PA Teste
 : O
@@ -3961,8 +4058,10 @@ PA Teste
 / O
 80 O
 mmhg O
+. O
 
 BCRNF O
+. O
 
 Pulso O
 MMII Anatomia
@@ -3971,6 +4070,7 @@ poplíteo Anatomia
 e O
 femoral Anatomia
 presentes O
+. O
 
 Conduta O
 : O
@@ -3997,41 +4097,36 @@ mantenho O
 as O
 demais Tratamento
 medicações Tratamento
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-05 O
-/ O
-11 O
-/ O
-2015 O
+. O
 
 LUCAS O
 , O
 61 O
 ANOS O
+. O
 
 ACOMPANHAMENTO O
 HÁ O
 1 O
 ANO O
+. O
 
 # O
 HAS Problema
+. O
 
 # O
 IC Problema
+. O
 
 # O
 HIPOTIREOIDISMO Problema
+. O
 
 # O
 MIOCARDIOPATIA Problema
 DILATADA Problema
+. O
 
 # O
 IMPLANTE Tratamento
@@ -4043,9 +4138,11 @@ EM O
 MAIO O
 / O
 2012 O
+. O
 
 # O
 DEPRESSÃO Problema
+. O
 
 EM O
 USO O
@@ -4127,6 +4224,7 @@ CITALOPRAM Tratamento
 3X O
 / O
 DIA O
+. O
 
 REFERE O
 DOR Problema
@@ -4145,6 +4243,7 @@ SEM O
 PIORA O
 AOS O
 ESFORÇOS O
+. O
 
 DISPNEIA Problema
 , Problema
@@ -4158,16 +4257,19 @@ ESCADAS Problema
 , Problema
 ANDAR Problema
 RÁPIDO Problema
+. O
 
 NEGA O
 ORTOPNEIA Problema
 E O
 DPN Problema
+. O
 
 NEGA O
 TOSSE Problema
 E O
 EDEMA Problema
+. O
 
 HÁ O
 2 O
@@ -4177,19 +4279,23 @@ FAZ O
 REVISÃO O
 DO O
 MP O
+. O
 
 # O
 HMP O
 : O
+. O
 
 1 O
 CESAREA Tratamento
 PRÉVIA O
 , O
 LIPOASPIRAÇÃO Tratamento
+. O
 
 NEGA O
 ALERGIAS Problema
+. O
 
 JÁ O
 REALIZOU O
@@ -4203,17 +4309,21 @@ PARA Teste
 DOENÇA Teste
 DE Teste
 CHAGAS Teste
+. O
 
 # O
 HMA O
 : O
+. O
 
 AVÓ O
 TEVE O
 IAM O
+. O
 
 # O
 CHDV O
+. O
 
 NEGA O
 TABAGISMO Problema
@@ -4224,61 +4334,75 @@ ETILISMO Problema
 NEGA O
 EXERCÍCIO O
 FÍSICO O
+. O
 
 EXAMES Teste
 : O
+. O
 
 HB Teste
 14 O
 , O
 7 O
+. O
 
 HT Teste
 43 O
 , O
 9 O
 % O
+. O
 
 CREATININA Teste
 0 O
 , O
 8 O
+. O
 
 GLICOSE Teste
 87 O
+. O
 
 UREIA Teste
 48 O
 48 O
+. O
 
 HDL Teste
 28 O
+. O
 
 SODIO Teste
 139 O
+. O
 
 POTASSIO Teste
 4 O
 , O
 8 O
+. O
 
 COLESTEROL Teste
 TOTAL Teste
 268 O
+. O
 
 TSH Teste
 5 O
 , O
 87 O
+. O
 
 T4 Teste
 LIVRE Teste
 0 O
 , O
 86 O
+. O
 
 TRIGLICERIDEOS Teste
 626 O
+. O
 
 STRESS Teste
 FARMACOLOGICO Teste
@@ -4294,6 +4418,7 @@ EVIDENCIA O
 DE O
 ISQUEMIA Problema
 MIOCÁRDICA Problema
+. O
 
 CONDUTA O
 : O
@@ -4328,6 +4453,7 @@ DE O
 8 O
 / O
 8H O
+. O
 
 EXAMES Teste
 DE O
@@ -4344,43 +4470,38 @@ TGP Teste
 E O
 PERFIL Teste
 LIPIDICO Teste
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-18 O
-/ O
-05 O
-/ O
-2015 O
+. O
 
 LUCAS O
 , O
 50 O
 ANOS O
+. O
 
 # O
 HAS Problema
 HÁ O
 10 O
 ANOS O
+. O
 
 # O
 DSLP Problema
+. O
 
 # O
 HIPOTIREOIDISMO Problema
+. O
 
 # O
 DEPRESSÃO Problema
+. O
 
 # O
 OSTEOARTRITE Problema
 DE Problema
 MÃOS Problema
+. O
 
 # O
 CAT Teste
@@ -4392,6 +4513,7 @@ JUNHO O
 SEM O
 INDICAÇÃO O
 CIRÚRGICA O
+. O
 
 # O
 HÉRNIA Problema
@@ -4400,6 +4522,7 @@ DISCO Problema
 HÁ O
 3 O
 ANOS O
+. O
 
 # O
 CINTILOGRAFIA Teste
@@ -4425,6 +4548,7 @@ SEGMENTO Problema
 ANTERO Problema
 - Problema
 SEPTAL Problema
+. O
 
 # O
 EM O
@@ -4478,6 +4602,7 @@ HIDROXICLOROQUINA Tratamento
 / O
 D O
 ; O
+. O
 
 LAB Teste
 08 O
@@ -4498,6 +4623,7 @@ CT Teste
 LDL Teste
 99 O
 / O
+. O
 
 S O
 # O
@@ -4528,6 +4654,7 @@ ESFORÇO O
 EPISÓDIOS O
 AO O
 MÊS O
+. O
 
 NEGA O
 DISPNÉIA Problema
@@ -4535,11 +4662,13 @@ DISPNÉIA Problema
 ORTOPNEIA Problema
 OU O
 DPN Problema
+. O
 
 NEGA O
 EDEMA Problema
 DE Problema
 MMII Problema
+. O
 
 CONTA O
 APRESENTAR O
@@ -4548,9 +4677,11 @@ DIFUSAS Problema
 PIORES O
 AO O
 FRIO O
+. O
 
 O O
 # O
+. O
 
 BEG O
 , O
@@ -4561,6 +4692,7 @@ HIDRATADA O
 EUPNEICA O
 , O
 LOTE O
+. O
 
 PA Teste
 120 O
@@ -4575,6 +4707,7 @@ SATO2 Teste
 % O
 EM O
 AA O
+. O
 
 MV O
 PRESENTE O
@@ -4582,12 +4715,14 @@ E O
 SIMÉTRICO O
 SEM O
 RA Problema
+. O
 
 BCRNF O
 SEM O
 SOPROS Problema
 EM O
 2T O
+. O
 
 ABDOME Anatomia
 GLOBOSO O
@@ -4601,23 +4736,28 @@ VCM Problema
 OU O
 MASSAS Problema
 PALPAVEIS Problema
+. O
 
 MMII Anatomia
 SEM O
 EDEMA Problema
 OU O
 EMPASTAMENTO Problema
+. O
 
 A O
 # O
+. O
 
 - O
 ANGINA Problema
 INSTÁVEL Problema
 ? O
+. O
 
 P O
 # O
+. O
 
 - O
 ACRESCENTO O
@@ -4626,47 +4766,42 @@ MONOCORDIL Tratamento
 12 O
 / O
 12H O
+. O
 
 - O
 SOLICITO O
 NOVA O
-CINTILOGRAFIA O
-DE O
-PERFUSÃO O
-MIOCÁRDICA Anatomia
+CINTILOGRAFIA Teste
+DE Teste
+PERFUSÃO Teste
+MIOCÁRDICA Teste
+. O
 
 - O
 SOLICITO O
 NOVO O
 LAB Teste
+. O
 
 - O
 RETORNO O
 COM O
 EXAMES Teste
+. O
 
 R2 O
 XX O
 LUCAS O
+. O
 
 Doutor O
 Vital O
 Brazil O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-14 O
-/ O
-07 O
-/ O
-2015 O
+. O
 
 LUCAS O
 , O
+. O
 
 ACOMPANHANDO O
 COM O
@@ -4681,11 +4816,13 @@ PALPITAÇÃO Problema
 , O
 SEM O
 TERAPIAS Tratamento
+. O
 
 SENTE O
 - O
 SE O
 BEM O
+. O
 
 # O
 hoje O
@@ -4696,6 +4833,7 @@ mp Teste
 - Teste
 cdi Teste
 , O
+. O
 
 # O
 sem O
@@ -4705,10 +4843,12 @@ arritmias Tratamento
 - Tratamento
 terapias Tratamento
 , O
+. O
 
 # O
 bat O
 ok O
+. O
 
 # O
 eletrodos O
@@ -4717,6 +4857,7 @@ e O
 ventricular Anatomia
 = O
 ok O
+. O
 
 # O
 retorno O
@@ -4735,32 +4876,24 @@ faltar O
 Doutor O
 Vital O
 Brazil O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-03 O
-/ O
-09 O
-/ O
-2013 O
+. O
 
 Lucas O
 , O
 68A O
+. O
 
 # O
 CAT Teste
 EM O
 2008 O
+. O
 
 VALVOPLASTIA Tratamento
 AÓRTICA Tratamento
 EM O
 2008 O
+. O
 
 VALVA Tratamento
 BIOLÓGICA Tratamento
@@ -4771,6 +4904,7 @@ DEPOIS O
 DA O
 CX Tratamento
 CARDIOVERSÃO Tratamento
+. O
 
 # O
 PACIENTE O
@@ -4797,6 +4931,7 @@ COMEÇOU O
 A O
 SENTIR O
 TONTURA Problema
+. O
 
 PROCUROU O
 ATENDIMENTO O
@@ -4810,6 +4945,7 @@ DIA O
 21 O
 / O
 08 O
+. O
 
 HOJE O
 PACIENTE O
@@ -4826,6 +4962,7 @@ NORMAIS O
 ( O
 FRENTISTA O
 ) O
+. O
 
 RELATA O
 EMAGRECIMENTO Problema
@@ -4835,6 +4972,7 @@ KG Problema
 EM O
 10 O
 DIAS O
+. O
 
 # O
 EX Problema
@@ -4850,6 +4988,7 @@ ABSTINÊNCIA O
 HÁ O
 7 O
 ANOS O
+. O
 
 # O
 EM O
@@ -4878,11 +5017,13 @@ MG Tratamento
 CLOPIDOGREL Tratamento
 E O
 MAREVAN Tratamento
+. O
 
 # O
 EXAME Teste
 FÍSICO Teste
 : O
+. O
 
 LOTE O
 , O
@@ -4895,6 +5036,7 @@ HIDRATADO O
 ANICTÉRICO O
 , O
 ACIANÓTICO O
+. O
 
 FC Teste
 80 O
@@ -4905,6 +5047,7 @@ PA Teste
 / O
 80 O
 MMHG O
+. O
 
 BCRNF O
 - O
@@ -4914,6 +5057,7 @@ BULHAS Problema
 EM Problema
 FOCO Problema
 AÓRTICO Problema
+. O
 
 MV O
 + O
@@ -4923,6 +5067,7 @@ BILATERAL O
 S O
 / O
 RA Problema
+. O
 
 RHA O
 + O
@@ -4935,10 +5080,12 @@ PALPAÇÃO Problema
 , O
 SEM O
 VISCEROMEGALIAS Problema
+. O
 
 HERNIA Problema
 UMBILICAL Problema
 REDUTÍVEL Problema
+. O
 
 MMII Problema
 EDEMA Problema
@@ -4949,6 +5096,7 @@ EDEMA Problema
 , O
 PANTURRILHAS Anatomia
 LIVRES O
+. O
 
 # O
 ECG Teste
@@ -4970,6 +5118,7 @@ HORÁRIO O
 , O
 EXTRASSÍSTOLES Problema
 VENTRICULARES Problema
+. O
 
 # O
 CD O
@@ -4977,6 +5126,7 @@ CD O
 CONTROLE Tratamento
 DO O
 TAP Teste
+. O
 
 PRECISA O
 DE O
@@ -4986,23 +5136,13 @@ ENTRE O
 2 O
 E O
 3 O
+. O
 
 RETORNO O
 EM O
 30 O
 DIAS O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-27 O
-/ O
-10 O
-/ O
-2015 O
+. O
 
 # O
 CONTINUA O
@@ -5011,6 +5151,7 @@ Doutor O
 Vital O
 Brazil O
 , O
+. O
 
 # O
 ficou O
@@ -5020,11 +5161,13 @@ ano O
 que O
 passou O
 , O
+. O
 
 # O
 sem O
 intercorrencias Problema
 , O
+. O
 
 # O
 hoje O
@@ -5032,6 +5175,7 @@ avaliação Teste
 exclusiva Teste
 de Teste
 mp Teste
+. O
 
 # O
 mp Tratamento
@@ -5039,6 +5183,7 @@ camara Tratamento
 - Tratamento
 dupla Tratamento
 , O
+. O
 
 # O
 programado O
@@ -5049,6 +5194,7 @@ DDD O
 - O
 50 O
 , O
+. O
 
 # O
 ritmo O
@@ -5061,11 +5207,13 @@ com O
 escape O
 minimo O
 , O
+. O
 
 # O
 bat O
 = O
 ok O
+. O
 
 # O
 para O
@@ -5074,6 +5222,7 @@ eri O
 7 O
 anos O
 , O
+. O
 
 # O
 operando O
@@ -5082,6 +5231,7 @@ operando O
 % O
 em O
 vat O
+. O
 
 # O
 A O
@@ -5108,6 +5258,7 @@ X O
 , O
 4 O
 ; O
+. O
 
 # O
 V O
@@ -5133,6 +5284,7 @@ X O
 0 O
 , O
 4 O
+. O
 
 # O
 cd O
@@ -5147,7 +5299,7 @@ em O
 meses O
 , O
 se O
-intercorrencias Problema
+intercorrencias O
 = O
 procura O
 direta O
@@ -5157,22 +5309,12 @@ manter O
 com O
 cardio O
 geral O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-05 O
-/ O
-05 O
-/ O
-2015 O
+. O
 
 Humberto O
 , O
 65anos O
+. O
 
 # O
 DAC Problema
@@ -5186,6 +5328,7 @@ RVM Tratamento
 ATC Tratamento
 2010 O
 , O
+. O
 
 # O
 Hipertireoidismo Problema
@@ -5197,11 +5340,13 @@ acompanhamento O
 com O
 endocrinologia O
 , O
+. O
 
 # O
 FA Problema
 paroxistica Problema
 , O
+. O
 
 # O
 Internamento O
@@ -5241,6 +5386,7 @@ TSH Teste
 , O
 01 O
 ) O
+. O
 
 Medicamentos Tratamento
 : O
@@ -5268,6 +5414,7 @@ xarelto Tratamento
 mg Tratamento
 , O
 AAS100mg Tratamento
+. O
 
 S O
 # O
@@ -5278,17 +5425,21 @@ dispneia Problema
 , O
 dor Problema
 torácica Problema
+. O
 
 Epigastralgia Problema
+. O
 
 Consuçta O
 com O
 endocrino O
 amanhã O
+. O
 
 Traz O
 exames Teste
 : O
+. O
 
 - O
 Holter Teste
@@ -5333,6 +5484,7 @@ pausas Problema
 ST O
 sem O
 alterações Problema
+. O
 
 - O
 TSH Teste
@@ -5342,6 +5494,7 @@ t4l Teste
 0 O
 , O
 55 O
+. O
 
 - O
 Ecocardiograma Teste
@@ -5369,6 +5522,7 @@ VE Anatomia
 FE O
 81 O
 % O
+. O
 
 VE Anatomia
 com O
@@ -5378,10 +5532,12 @@ e O
 função O
 sistólica O
 adequadas O
+. O
 
 Ao O
 exame Teste
 : O
+. O
 
 PA130 O
 / O
@@ -5389,6 +5545,7 @@ PA130 O
 , O
 FC Teste
 55 O
+. O
 
 CV O
 : O
@@ -5396,14 +5553,17 @@ BRNF O
 , O
 sem O
 sopros Problema
+. O
 
 CPP Anatomia
 livres O
+. O
 
 A O
 # O
 FA Problema
 paroxística Problema
+. O
 
 CHADS O
 = O
@@ -5413,6 +5573,7 @@ CHADS O
 Vasc O
 = O
 3 O
+. O
 
 P O
 # O
@@ -5423,9 +5584,11 @@ endocrino O
 para O
 ajuste O
 medicação Tratamento
+. O
 
 Suspendemos O
 selozok Tratamento
+. O
 
 prescrevemos O
 propafenona Tratamento
@@ -5433,6 +5596,7 @@ propafenona Tratamento
 12 O
 / O
 12h O
+. O
 
 Retorno O
 com O
@@ -5440,41 +5604,35 @@ ecocardio Teste
 em O
 3 O
 meses O
+. O
 
 Demais Tratamento
 medicações Tratamento
 mantidas O
+. O
 
 E3 O
 cardio O
 Lucas O
+. O
 
 Doutor O
 Vital O
 Brasil O
-
-Data O
-de O
-Criação O
-do O
-Documento O
-: O
-13 O
-/ O
-10 O
-/ O
-2014 O
+. O
 
 joão O
 , O
 68 O
 anos O
+. O
 
 # O
 IAM Problema
 2009 O
 - O
 ATC Tratamento
+. O
 
 # O
 CA Problema
@@ -5490,22 +5648,27 @@ TERMINO O
 TTO Tratamento
 2002 O
 , O
+. O
 
 # O
 HAS Problema
 , O
+. O
 
 # O
 HPB Problema
 , O
+. O
 
 # O
 DLP Problema
 , O
+. O
 
 # O
 ARTRITE Problema
 REUMATÓIDE Problema
+. O
 
 # O
 Em O
@@ -5513,6 +5676,7 @@ um O
 uso O
 de O
 : O
+. O
 
 - O
 Enalapril Tratamento
@@ -5526,6 +5690,7 @@ de O
 / O
 12 O
 hr O
+. O
 
 - O
 CARVEDILOL Tratamento
@@ -5541,6 +5706,7 @@ de O
 12 O
 hr O
 , O
+. O
 
 - O
 AAS Tratamento
@@ -5551,6 +5717,7 @@ mg Tratamento
 / O
 dia O
 ; O
+. O
 
 - O
 Sinvastatina Tratamento
@@ -5561,6 +5728,7 @@ cp O
 de O
 noite O
 ; O
+. O
 
 - O
 Omeprazol Tratamento
@@ -5574,15 +5742,18 @@ de O
 / O
 12hr O
 ; O
+. O
 
 - O
 PREDNISONA Tratamento
 5 Tratamento
 MG Tratamento
 ; O
+. O
 
 - O
 COMBODART Tratamento
+. O
 
 ***Teste O
 de O
@@ -5597,6 +5768,7 @@ submáximo O
 , O
 sem O
 alterações Problema
+. O
 
 Clínicas O
 ou O
@@ -5604,14 +5776,17 @@ eletrocardiográficas O
 de O
 iesquemia Problema
 miocardica Problema
+. O
 
 Resposta O
 cronotrópica O
 adequada O
+. O
 
 Resposta O
 tensional O
 fisiológica O
+. O
 
 Decréscimo Problema
 normal O
@@ -5622,6 +5797,7 @@ no O
 minuto O
 de O
 recuperação O
+. O
 
 *** O
 ECOCARDIO Teste
@@ -5657,6 +5833,7 @@ CAVIDADES Anatomia
 DIREITAS Anatomia
 NORMAIS O
 , O
+. O
 
 FLUXOS O
 VALVARES O
@@ -5664,6 +5841,7 @@ SEM O
 ANORMALIDADES Problema
 MORFOFUNCIONAIS Problema
 SIGNIFICATIVAS Problema
+. O
 
 AE Anatomia
 31 O
@@ -5679,11 +5857,13 @@ DSVE O
 , O
 FE O
 60 O
+. O
 
 S O
 # O
 SEM O
 QUEIXAS Problema
+. O
 
 NEGA O
 DISPNEIA Problema
@@ -5691,11 +5871,14 @@ E O
 DOR Problema
 NO Problema
 PEITO Problema
+. O
 
 ESTÁVEL O
+. O
 
 O O
 # O
+. O
 
 BEG O
 , O
@@ -5706,20 +5889,23 @@ CORADO O
 HIDRATADO O
 , O
 EUPNEICO O
+. O
 
-PA O
+PA Teste
 120 O
 / O
 80 O
 , O
-FC Problema
+FC Teste
 80 O
 ; O
+. O
 
 ACV O
 : O
 BCRNF2TSS O
 ; O
+. O
 
 AP O
 : O
@@ -5730,35 +5916,44 @@ BILAT O
 SEM O
 RA Problema
 ; O
+. O
 
 ABD Anatomia
 : O
 SP O
 ; O
+. O
 
 MMII Anatomia
 : O
 SP O
 ; O
+. O
 
 A O
 # O
 DAC Problema
+. O
 
 P O
 # O
 CONDUTA O
 MANTIDA O
 , O
+. O
 
 EX Teste
 DE O
 CONTROLE O
+. O
 
 R3 O
 CARDIO O
 Lucas O
 , O
+. O
 
 Doutor O
 Lucas O
+. O
+

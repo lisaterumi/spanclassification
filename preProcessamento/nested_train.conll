@@ -1147,7 +1147,6 @@ Cr Teste
 : O
 49 O
 . O
-
 9 O
 CKD Teste
 - Teste
@@ -1850,8 +1849,7 @@ Medicamentos Tratamento
 Enalapril Tratamento
 2 Tratamento
 . Tratamento
-
-5mg O
+5mg Tratamento
 12 O
 / O
 12h O
@@ -1887,17 +1885,14 @@ Laboratório Teste
 Eritrócitos Teste
 3 O
 . O
-
 54 O
 Hemoglobina Teste
 10 O
 . O
-
 3 O
 Hematocrito Teste
 32 O
 . O
-
 1 O
 % O
 Leucocitos Teste
@@ -1907,37 +1902,31 @@ Eosinofilos Teste
 Basofilos Teste
 116 O
 . O
-
 2 O
 Acido Teste
 Urico Teste
 12 O
 . O
-
 9 O
 TAP Teste
 0 O
 . O
-
 92 O
 Sodio Teste
 137 O
 Potassio Teste
 5 O
 . O
-
 6 O
 Creatinina Teste
 2 O
 . O
-
 2 O
 TFG Teste
 CKD Teste
 EPI Teste
 31 O
 . O
-
 4 O
 ml O
 / O
@@ -1945,7 +1934,6 @@ min O
 / O
 1 O
 . O
-
 73 O
 m2 O
 Glicose Teste
@@ -1955,24 +1943,20 @@ Ureia Teste
 BT Teste
 0 O
 . O
-
 6 O
 - O
 BD Teste
 0 O
 . O
-
 3 O
 - O
 BI Teste
 0 O
 . O
-
 3 O
 Peso Teste
 93 O
 . O
-
 5 O
 PA Teste
 80 O
@@ -3902,8 +3886,7 @@ Apresolina Tratamento
 Carvedilol Tratamento
 12 Tratamento
 . Tratamento
-
-5 O
+5 Tratamento
 - O
 12 O
 / O
@@ -5463,7 +5446,6 @@ Leuc Teste
 Pla Teste
 274 O
 . O
-
 000 O
 . O
 
@@ -15089,5 +15071,43 @@ SONO Problema
 . O
 
 ICO Problema
+. O
+
+SOLICITO O
+EXAMES Teste
+LABORATORIAIS Teste
+E O
+CATETERISMO Teste
+DIAGNOSTICO Teste
+PARA O
+VER O
+OSSTENTS Tratamento
+IMPLANTADOS O
+. O
+
+LUCAS O
+, O
+69 O
+anos O
+. O
+
+HMA O
+: O
+paciente O
+relata O
+cansaço Problema
+, O
+dor Problema
+precordial Problema
+quando Problema
+tosse Problema
+. O
+
+Nega O
+dispneia Problema
+, O
+ortopneia Problema
+e O
+DNP Problema
 . O
 
