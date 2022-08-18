@@ -1,0 +1,1716 @@
+HAS , ICC , nega DM .
+Problema	<e1> HAS </e1> , ICC , nega DM .
+Problema	HAS , ICC , nega <e1> DM </e1> .
+Problema	HAS , <e1> ICC </e1> , nega DM .
+carvedilol 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS 100mg apos almoço e Omeprazol 20mg 1 xdia .
+O	carvedilol 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS 100mg apos almoço e <e1> Omeprazol </e1> 20mg 1 xdia .
+O	carvedilol 1 cp 12 / 12 , <e1> furosemida </e1> 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS 100mg apos almoço e Omeprazol 20mg 1 xdia .
+Tratamento	carvedilol 1 cp 12 / 12 , <e1> furosemida 20mg </e1> 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS 100mg apos almoço e Omeprazol 20mg 1 xdia .
+O	carvedilol 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , <e1> AAS </e1> 100mg apos almoço e Omeprazol 20mg 1 xdia .
+Tratamento	<e1> carvedilol </e1> 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS 100mg apos almoço e Omeprazol 20mg 1 xdia .
+O	carvedilol 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS <e1> 100mg </e1> apos almoço e Omeprazol 20mg 1 xdia .
+O	carvedilol 1 cp 12 / 12 , furosemida <e1> 20mg </e1> 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS 100mg apos almoço e Omeprazol 20mg 1 xdia .
+O	carvedilol 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS 100mg apos almoço e Omeprazol <e1> 20mg </e1> 1 xdia .
+Tratamento	carvedilol 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , <e1> AAS 100mg </e1> apos almoço e Omeprazol 20mg 1 xdia .
+Tratamento	carvedilol 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , <e1> sinvastatina </e1> 1cp a noite , AAS 100mg apos almoço e Omeprazol 20mg 1 xdia .
+Tratamento	carvedilol 1 cp 12 / 12 , furosemida 20mg 2 cp de 12 / 12 , sinvastatina 1cp a noite , AAS 100mg apos almoço e <e1> Omeprazol 20mg </e1> 1 xdia .
+HMP : paciente relata 4 angioplastia , ultima em 2012 .
+O	HMP : paciente relata 4 <e1> angioplastia </e1> , ultima em 2012 .
+Tratamento	HMP : paciente relata <e1> 4 angioplastia </e1> , ultima em 2012 .
+CHV : tabagista de mais de maço dia ha 3 anos .
+Problema	CHV : <e1> tabagista </e1> de mais de maço dia ha 3 anos .
+etilista de moderado de cerveja .
+Problema	<e1> etilista </e1> de moderado de cerveja .
+S # paciente relata cansaço .
+Problema	S # paciente relata <e1> cansaço </e1> .
+O # BEG , orientado , anicterico , afebril .
+Problema	O # BEG , orientado , anicterico , <e1> afebril </e1> .
+Cardiaco : sp , FC : 74bpm .
+Anatomia	<e1> Cardiaco </e1> : sp , FC : 74bpm .
+Teste	Cardiaco : sp , <e1> FC </e1> : 74bpm .
+Pulmonar : sp .
+Anatomia	<e1> Pulmonar </e1> : sp .
+MMII : sem edema e sem empastamento .
+Problema	MMII : sem <e1> edema </e1> e sem empastamento .
+Problema	MMII : sem edema e sem <e1> empastamento </e1> .
+Anatomia	<e1> MMII </e1> : sem edema e sem empastamento .
+Abdome : flacido , indolor , RHA + .
+Anatomia	<e1> Abdome </e1> : flacido , indolor , RHA + .
+# C : solicito exames laboratoriais e encaminho para Doutor Vital Brazil .
+O	# C : solicito <e1> exames </e1> laboratoriais e encaminho para Doutor Vital Brazil .
+Teste	# C : solicito <e1> exames laboratoriais </e1> e encaminho para Doutor Vital Brazil .
+# HAS .
+Problema	# <e1> HAS </e1> .
+# IC .
+Problema	# <e1> IC </e1> .
+# HIPOTIREOIDISMO .
+Problema	# <e1> HIPOTIREOIDISMO </e1> .
+# MIOCARDIOPATIA DILATADA .
+O	# <e1> MIOCARDIOPATIA </e1> DILATADA .
+Problema	# <e1> MIOCARDIOPATIA DILATADA </e1> .
+# IMPLANTE DE MP + CDI EM NOV / 13 .
+Tratamento	# IMPLANTE DE MP + <e1> CDI </e1> EM NOV / 13 .
+Tratamento	# IMPLANTE DE <e1> MP </e1> + CDI EM NOV / 13 .
+EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON <e1> 200 MG </e1> 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + <e1> MONONITRATO DE ISOSSORBITA 20 MG </e1> 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : <e1> CARVEDILOL 50 </e1> MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + <e1> FUROSEMIDA </e1> 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + <e1> RIVOTRIL </e1> 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + <e1> ANCORON 200 MG </e1> 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 <e1> MG </e1> / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + <e1> DIGOXINA 0 , 25 MG </e1> / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + <e1> LEVOTIROXINA 50 </e1> MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE <e1> ISOSSORBITA 20 MG </e1> 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE <e1> ISOSSORBITA 20 </e1> MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + <e1> ALDACTONE 25 MG </e1> / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + <e1> FUROSEMIDA 40 MG </e1> 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + <e1> FUROSEMIDA 40 </e1> MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + <e1> LOSARTAN </e1> 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + <e1> SINVASTATINA 40 MG </e1> / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 <e1> MG </e1> 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + <e1> ALDACTONE 25 </e1> MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + <e1> PROCIMAX </e1> .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO <e1> DE </e1> ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + <e1> SINVASTATINA 40 </e1> MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + <e1> RIVOTRIL 2 </e1> MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + <e1> MONONITRATO DE </e1> ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + <e1> MONONITRATO </e1> DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + <e1> ANCORON </e1> 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + <e1> LEVOTIROXINA 50 MCG </e1> / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 <e1> MG </e1> / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 <e1> MCG </e1> / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE <e1> ISOSSORBITA </e1> 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 <e1> MG </e1> 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN <e1> 50 MG </e1> 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + <e1> ANCORON 200 </e1> MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL <e1> 50 MG </e1> 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + <e1> LOSARTAN 50 </e1> MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : <e1> CARVEDILOL 50 MG </e1> 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 <e1> MG </e1> / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 <e1> MG </e1> 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + <e1> ALDACTONE </e1> 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + <e1> MONONITRATO DE ISOSSORBITA 20 </e1> MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + <e1> DIGOXINA 0 , 25 </e1> MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 <e1> MG </e1> 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA <e1> 20 MG </e1> 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 <e1> MG </e1> 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + <e1> LEVOTIROXINA </e1> 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + <e1> SINVASTATINA </e1> 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + <e1> RIVOTRIL 2 MG </e1> / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA <e1> 40 MG </e1> 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+Tratamento	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + <e1> LOSARTAN 50 MG </e1> 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 <e1> MG </e1> / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : <e1> CARVEDILOL </e1> 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + DIGOXINA 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+O	EM USO : CARVEDILOL 50 MG 2X / D + MONONITRATO DE ISOSSORBITA 20 MG 2X / D + ANCORON 200 MG 2X / D + ALDACTONE 25 MG / D + FUROSEMIDA 40 MG 2X / D + LOSARTAN 50 MG 2X / D + <e1> DIGOXINA </e1> 0 , 25 MG / D + SINVASTATINA 40 MG / D + LEVOTIROXINA 50 MCG / D + RIVOTRIL 2 MG / D + PROCIMAX .
+PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE DOR TORÁCICA EM APERTO , COM DURAÇÃO DE 10 A 30 MINUTOS , EM REPOUSO , MAS COM PIORA AOS ESFORÇOS .
+O	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE DOR TORÁCICA EM APERTO , COM DURAÇÃO DE 10 A 30 MINUTOS , EM <e1> REPOUSO </e1> , MAS COM PIORA AOS ESFORÇOS .
+O	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE DOR TORÁCICA <e1> EM </e1> APERTO , COM DURAÇÃO DE 10 A 30 MINUTOS , EM REPOUSO , MAS COM PIORA AOS ESFORÇOS .
+O	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE DOR TORÁCICA EM APERTO , COM DURAÇÃO DE 10 A 30 MINUTOS , <e1> EM </e1> REPOUSO , MAS COM PIORA AOS ESFORÇOS .
+O	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE <e1> DOR TORÁCICA EM </e1> APERTO , COM DURAÇÃO DE 10 A 30 MINUTOS , EM REPOUSO , MAS COM PIORA AOS ESFORÇOS .
+Problema	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE DOR TORÁCICA EM APERTO , COM DURAÇÃO DE 10 A 30 MINUTOS , <e1> EM REPOUSO </e1> , MAS COM PIORA AOS ESFORÇOS .
+O	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE <e1> DOR </e1> TORÁCICA EM APERTO , COM DURAÇÃO DE 10 A 30 MINUTOS , EM REPOUSO , MAS COM PIORA AOS ESFORÇOS .
+O	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE DOR TORÁCICA EM <e1> APERTO </e1> , COM DURAÇÃO DE 10 A 30 MINUTOS , EM REPOUSO , MAS COM PIORA AOS ESFORÇOS .
+Anatomia	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE DOR <e1> TORÁCICA </e1> EM APERTO , COM DURAÇÃO DE 10 A 30 MINUTOS , EM REPOUSO , MAS COM PIORA AOS ESFORÇOS .
+Problema	PACIENTE REFERE QUE HÁ 6 MESES VEM APRESENTANDO EPISÓDIOS DE <e1> DOR TORÁCICA EM APERTO </e1> , COM DURAÇÃO DE 10 A 30 MINUTOS , EM REPOUSO , MAS COM PIORA AOS ESFORÇOS .
+RELATA AINDA DISPNÉIA / CANSAÇO AOS MODERADOS ESFORÇOS .
+Problema	RELATA AINDA <e1> DISPNÉIA </e1> / CANSAÇO AOS MODERADOS ESFORÇOS .
+O	RELATA AINDA DISPNÉIA / <e1> CANSAÇO AOS MODERADOS </e1> ESFORÇOS .
+O	RELATA AINDA DISPNÉIA / <e1> CANSAÇO AOS </e1> MODERADOS ESFORÇOS .
+O	RELATA AINDA DISPNÉIA / CANSAÇO AOS MODERADOS <e1> ESFORÇOS </e1> .
+Problema	RELATA AINDA DISPNÉIA / <e1> CANSAÇO AOS MODERADOS ESFORÇOS </e1> .
+O	RELATA AINDA DISPNÉIA / <e1> CANSAÇO </e1> AOS MODERADOS ESFORÇOS .
+NEGA ORTOPNEIA OU DPN .
+Problema	NEGA ORTOPNEIA OU <e1> DPN </e1> .
+Problema	NEGA <e1> ORTOPNEIA </e1> OU DPN .
+AO EXAME : .
+Teste	AO <e1> EXAME </e1> : .
+BEG , EUPNEICA , AFEBRIL .
+Problema	BEG , EUPNEICA , <e1> AFEBRIL </e1> .
+AC : RCR 2T BNF SS .
+Problema	AC : RCR 2T BNF <e1> SS </e1> .
+AP : MV + , SEM RA .
+Problema	AP : MV + , SEM <e1> RA </e1> .
+ABD : FLÁCIDO , INDOLOR .
+Anatomia	<e1> ABD </e1> : FLÁCIDO , INDOLOR .
+MMII : SEM EDEMA , PANTURRILHAS LIVRES .
+Anatomia	<e1> MMII </e1> : SEM EDEMA , PANTURRILHAS LIVRES .
+Anatomia	MMII : SEM EDEMA , <e1> PANTURRILHAS </e1> LIVRES .
+Problema	MMII : SEM <e1> EDEMA </e1> , PANTURRILHAS LIVRES .
+LAB 29 / 04 / 15 : TSH 15 , T4L 0 , 97 .
+Teste	<e1> LAB </e1> 29 / 04 / 15 : TSH 15 , T4L 0 , 97 .
+Teste	LAB 29 / 04 / 15 : TSH 15 , <e1> T4L </e1> 0 , 97 .
+Teste	LAB 29 / 04 / 15 : <e1> TSH </e1> 15 , T4L 0 , 97 .
+CD : PRESCREVO HIDRALAZINA , .
+Tratamento	CD : PRESCREVO <e1> HIDRALAZINA </e1> , .
+SOLICITO ECOTT E ECOSTRESS , .
+Teste	SOLICITO ECOTT E <e1> ECOSTRESS </e1> , .
+Teste	SOLICITO <e1> ECOTT </e1> E ECOSTRESS , .
+ENCAMINHO PARA AVALIAÇÃO DO MP , .
+O	ENCAMINHO PARA <e1> AVALIAÇÃO DO </e1> MP , .
+O	ENCAMINHO PARA <e1> AVALIAÇÃO </e1> DO MP , .
+Teste	ENCAMINHO PARA <e1> AVALIAÇÃO DO MP </e1> , .
+O	ENCAMINHO PARA AVALIAÇÃO DO <e1> MP </e1> , .
+SOLICITO LAB , .
+Teste	SOLICITO <e1> LAB </e1> , .
+AUMENTO PURAN PARA 75 MCG / D , .
+O	AUMENTO PURAN PARA 75 <e1> MCG </e1> / D , .
+Tratamento	AUMENTO <e1> PURAN PARA 75 MCG </e1> / D , .
+O	AUMENTO <e1> PURAN PARA </e1> 75 MCG / D , .
+O	AUMENTO <e1> PURAN PARA 75 </e1> MCG / D , .
+O	AUMENTO <e1> PURAN </e1> PARA 75 MCG / D , .
+paciente em retorno para mostrar exames .
+Teste	paciente em retorno para mostrar <e1> exames </e1> .
+HAS , hipotiroidismo , dislipidemia , síndrome X .
+O	HAS , hipotiroidismo , dislipidemia , síndrome <e1> X </e1> .
+Problema	HAS , hipotiroidismo , <e1> dislipidemia </e1> , síndrome X .
+O	HAS , hipotiroidismo , dislipidemia , <e1> síndrome </e1> X .
+Problema	HAS , hipotiroidismo , dislipidemia , <e1> síndrome X </e1> .
+Problema	HAS , <e1> hipotiroidismo </e1> , dislipidemia , síndrome X .
+Problema	<e1> HAS </e1> , hipotiroidismo , dislipidemia , síndrome X .
+em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , <e1> 25 mg </e1> 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+Tratamento	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , <e1> sustrate 100 mg </e1> se angina , puran 25 mcg .
+Tratamento	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , <e1> hidroclorotiazida 25 mg </e1> , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+Tratamento	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , <e1> rosuvastatina 10 mg </e1> , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , <e1> rosuvastatina </e1> 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+Tratamento	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , <e1> puran 25 mcg </e1> .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 <e1> mcg </e1> .
+Tratamento	em uso de enalapril 20 mg 12 / 12 , <e1> AAS 100 mg </e1> , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , <e1> hidroclorotiazida </e1> 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+Tratamento	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , <e1> ezetinibe 10 mg </e1> , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , <e1> rosuvastatina 10 </e1> mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , <e1> carvedilol 6 , 25 </e1> mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , <e1> AAS 100 </e1> mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , <e1> sustrate 100 </e1> mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , <e1> ezetinibe 10 </e1> mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , <e1> puran </e1> 25 mcg .
+Tratamento	em uso de <e1> enalapril 20 mg </e1> 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , <e1> hidroclorotiazida 25 </e1> mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 <e1> mg </e1> , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , <e1> ezetinibe </e1> 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 <e1> mg </e1> , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , <e1> AAS </e1> 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de <e1> enalapril 20 </e1> mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+Problema	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se <e1> angina </e1> , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , <e1> puran 25 </e1> mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , <e1> sustrate </e1> 100 mg se angina , puran 25 mcg .
+O	em uso de <e1> enalapril </e1> 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 <e1> mg </e1> 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 <e1> mg </e1> 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+Tratamento	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , <e1> carvedilol 6 , 25 mg </e1> 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , <e1> carvedilol </e1> 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 mg , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 <e1> mg </e1> , sustrate 100 mg se angina , puran 25 mcg .
+O	em uso de enalapril 20 mg 12 / 12 , AAS 100 <e1> mg </e1> , carvedilol 6 , 25 mg 2cp 12 / 12 , hidroclorotiazida 25 mg , rosuvastatina 10 mg , ezetinibe 10 mg , sustrate 100 mg se angina , puran 25 mcg .
+ecocardio transtorácico : remodelamento concêntrico do VE , disfunção diastólica grau II do VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , disfunção diastólica <e1> grau II do </e1> VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , <e1> disfunção </e1> diastólica grau II do VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , disfunção diastólica grau <e1> II </e1> do VE .
+Problema	ecocardio transtorácico : <e1> remodelamento concêntrico do VE </e1> , disfunção diastólica grau II do VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , <e1> disfunção diastólica grau </e1> II do VE .
+O	ecocardio transtorácico : <e1> remodelamento </e1> concêntrico do VE , disfunção diastólica grau II do VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , <e1> disfunção diastólica </e1> grau II do VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , disfunção diastólica <e1> grau </e1> II do VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , disfunção diastólica grau <e1> II do </e1> VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , disfunção <e1> diastólica </e1> grau II do VE .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , disfunção <e1> diastólica grau </e1> II do VE .
+Anatomia	ecocardio transtorácico : remodelamento concêntrico do VE , disfunção diastólica grau II do <e1> VE </e1> .
+Teste	<e1> ecocardio transtorácico </e1> : remodelamento concêntrico do VE , disfunção diastólica grau II do VE .
+Problema	ecocardio transtorácico : remodelamento concêntrico do VE , <e1> disfunção diastólica grau II do VE </e1> .
+O	ecocardio transtorácico : remodelamento concêntrico do VE , <e1> disfunção diastólica grau II do </e1> VE .
+O	<e1> ecocardio </e1> transtorácico : remodelamento concêntrico do VE , disfunção diastólica grau II do VE .
+Anatomia	ecocardio transtorácico : remodelamento concêntrico do <e1> VE </e1> , disfunção diastólica grau II do VE .
+O	ecocardio transtorácico : <e1> remodelamento concêntrico do </e1> VE , disfunção diastólica grau II do VE .
+exames laboratoriais normais .
+O	exames <e1> laboratoriais </e1> normais .
+O	<e1> exames </e1> laboratoriais normais .
+Teste	<e1> exames laboratoriais </e1> normais .
+( LDL : 122 ) .
+Teste	( <e1> LDL </e1> : 122 ) .
+PA : 110 / 70 .
+Teste	<e1> PA </e1> : 110 / 70 .
+FC : 68 .
+Teste	<e1> FC </e1> : 68 .
+Auscuta cardiaca : BCRN .
+Anatomia	Auscuta <e1> cardiaca </e1> : BCRN .
+cdta : solicitadops exames labopratoriais , retorno em um ano .
+Teste	cdta : solicitadops <e1> exames labopratoriais </e1> , retorno em um ano .
+O	cdta : solicitadops <e1> exames </e1> labopratoriais , retorno em um ano .
+# HAS HÁ 10 ANOS .
+Problema	# <e1> HAS </e1> HÁ 10 ANOS .
+# DSLP .
+Problema	# <e1> DSLP </e1> .
+# HIPOTIREOIDISMO HÁ 8 MESES EM USO DE PURA T4 25 MCG / DIA .
+O	# HIPOTIREOIDISMO HÁ 8 MESES EM USO DE <e1> PURA </e1> T4 25 MCG / DIA .
+O	# HIPOTIREOIDISMO HÁ 8 MESES EM USO DE PURA <e1> T4 </e1> 25 MCG / DIA .
+Problema	# <e1> HIPOTIREOIDISMO </e1> HÁ 8 MESES EM USO DE PURA T4 25 MCG / DIA .
+Tratamento	# HIPOTIREOIDISMO HÁ 8 MESES EM USO DE <e1> PURA T4 25 MCG </e1> / DIA .
+O	# HIPOTIREOIDISMO HÁ 8 MESES EM USO DE <e1> PURA T4 </e1> 25 MCG / DIA .
+O	# HIPOTIREOIDISMO HÁ 8 MESES EM USO DE PURA T4 25 <e1> MCG </e1> / DIA .
+O	# HIPOTIREOIDISMO HÁ 8 MESES EM USO DE PURA <e1> T4 25 </e1> MCG / DIA .
+O	# HIPOTIREOIDISMO HÁ 8 MESES EM USO DE <e1> PURA T4 25 </e1> MCG / DIA .
+# DEPRESSÃO , EM USO DE FLUOXETINA 20 MG / DIAS .
+O	# DEPRESSÃO , EM USO DE <e1> FLUOXETINA 20 </e1> MG / DIAS .
+O	# DEPRESSÃO , EM USO DE FLUOXETINA 20 <e1> MG </e1> / DIAS .
+Problema	# <e1> DEPRESSÃO </e1> , EM USO DE FLUOXETINA 20 MG / DIAS .
+O	# DEPRESSÃO , EM USO DE <e1> FLUOXETINA </e1> 20 MG / DIAS .
+Tratamento	# DEPRESSÃO , EM USO DE <e1> FLUOXETINA 20 MG </e1> / DIAS .
+# CAT EM JUNHO / 2011 : SEM INDICAÇÃO CIRÚRGICA .
+Teste	# <e1> CAT </e1> EM JUNHO / 2011 : SEM INDICAÇÃO CIRÚRGICA .
+# HÉRNIA DE DISCO HÁ 3 ANOS .
+O	# <e1> HÉRNIA </e1> DE DISCO HÁ 3 ANOS .
+O	# HÉRNIA <e1> DE </e1> DISCO HÁ 3 ANOS .
+O	# <e1> HÉRNIA DE </e1> DISCO HÁ 3 ANOS .
+O	# HÉRNIA DE <e1> DISCO </e1> HÁ 3 ANOS .
+Problema	# <e1> HÉRNIA DE DISCO </e1> HÁ 3 ANOS .
+# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+Anatomia	# CINTILOGRAFIA <e1> MIOCÁRDICA </e1> COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA <e1> COM </e1> DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( <e1> TRANSITÓRIO </e1> ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO <e1> APICAL </e1> , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E <e1> BASAL DO </e1> SEGMENTO ANTERO - SEPTAL .
+O	# <e1> CINTILOGRAFIA MIOCÁRDICA COM </e1> DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM <e1> DIPIRIDAMOL </e1> EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E <e1> BASAL DO SEGMENTO </e1> ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO <e1> ANTERO </e1> - SEPTAL .
+Teste	# <e1> CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL </e1> EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+Anatomia	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO <e1> APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL </e1> .
+Problema	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : <e1> HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL </e1> .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO <e1> SEGMENTO </e1> ANTERO - SEPTAL .
+O	# <e1> CINTILOGRAFIA </e1> MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : <e1> HIPOCAPTAÇÃO </e1> APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO SEGMENTO ANTERIOR ( TRANSITÓRIO ) E <e1> BASAL </e1> DO SEGMENTO ANTERO - SEPTAL .
+O	# CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL EM 2011 : HIPOCAPTAÇÃO APICAL , DO <e1> SEGMENTO </e1> ANTERIOR ( TRANSITÓRIO ) E BASAL DO SEGMENTO ANTERO - SEPTAL .
+# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , <e1> COMPLEXO </e1> B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 <e1> MG </e1> 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , <e1> CARVEDILOL </e1> 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE <e1> DOR </e1> PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 <e1> MG </e1> 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , <e1> SINVASTATINA 20 </e1> MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , <e1> CARVEDILOL 6 , 25 </e1> MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , <e1> HCTZ 25 </e1> MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 <e1> MG </e1> / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+Tratamento	# DEMAIS <e1> MEDICAÇÕES </e1> : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 <e1> MG </e1> 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+Tratamento	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , <e1> CARVEDILOL 6 , 25 MG </e1> 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , <e1> AAS </e1> 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , <e1> HCTZ </e1> 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , <e1> SINVASTATINA </e1> 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+Tratamento	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , <e1> HCTZ 25 MG </e1> / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+Tratamento	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , <e1> AAS 100MG </e1> / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS <e1> 100MG </e1> / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : <e1> ENALAPRIL 20 </e1> MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+Tratamento	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , <e1> SINVASTATINA 20 MG </e1> 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+Tratamento	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , <e1> COMPLEXO B </e1> 1 CP APÓS ALMOÇO .
+Anatomia	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR <e1> PRECORDIAL </e1> , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : <e1> ENALAPRIL </e1> 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+Problema	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE <e1> DOR PRECORDIAL </e1> , COMPLEXO B 1 CP APÓS ALMOÇO .
+Tratamento	# DEMAIS MEDICAÇÕES : <e1> ENALAPRIL 20 MG </e1> 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+Tratamento	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , <e1> SUSTRATE 100 MG </e1> SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , <e1> SUSTRATE </e1> 100 MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , SUSTRATE 100 MG SE DOR PRECORDIAL , COMPLEXO <e1> B </e1> 1 CP APÓS ALMOÇO .
+O	# DEMAIS MEDICAÇÕES : ENALAPRIL 20 MG 1 CP 12 / 12H , AAS 100MG / DIA , CARVEDILOL 6 , 25 MG 2 CP 12 / 12 HORAS , SINVASTATINA 20 MG 2 CP / NOITE , HCTZ 25 MG / DIA , <e1> SUSTRATE 100 </e1> MG SE DOR PRECORDIAL , COMPLEXO B 1 CP APÓS ALMOÇO .
+, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , <e1> COLCHICINA </e1> 0 , 5 mg 2x dia .
+Tratamento	, PURAN 25 mcg 1 x dia , <e1> fFLUXETINA 20 mg </e1> 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 mcg 1 x dia , <e1> fFLUXETINA </e1> 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 <e1> mg </e1> 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 <e1> mcg </e1> 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+Tratamento	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , <e1> HIDROXIDOCLOROQUINA 400mg </e1> 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA <e1> 400mg </e1> 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 <e1> mg </e1> 2x dia .
+O	, <e1> PURAN 25 </e1> mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 mcg 1 x dia , <e1> fFLUXETINA 20 </e1> mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , <e1> COLCHICINA 0 , 5 </e1> mg 2x dia .
+Tratamento	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , <e1> COLCHICINA 0 , 5 mg </e1> 2x dia .
+O	, <e1> PURAN </e1> 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+Tratamento	, <e1> PURAN 25 mcg </e1> 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+O	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , HIDROXIDOCLOROQUINA 400mg 1 x dia , COLCHICINA 0 , <e1> 5 mg </e1> 2x dia .
+O	, PURAN 25 mcg 1 x dia , fFLUXETINA 20 mg 1 x dia , <e1> HIDROXIDOCLOROQUINA </e1> 400mg 1 x dia , COLCHICINA 0 , 5 mg 2x dia .
+PACIENTE REFERE EPISÓDIOS INTERMINTES DE PALPITAÇÕES E DOR PRECORDIAL ( 1 - 2 X / SEMANA ) , COM RELAÇÃO COM EXERCICÍO FÍSICO OU COM O ESTRESSE .
+Anatomia	PACIENTE REFERE EPISÓDIOS INTERMINTES DE PALPITAÇÕES E DOR <e1> PRECORDIAL </e1> ( 1 - 2 X / SEMANA ) , COM RELAÇÃO COM EXERCICÍO FÍSICO OU COM O ESTRESSE .
+Problema	PACIENTE REFERE EPISÓDIOS INTERMINTES DE <e1> PALPITAÇÕES </e1> E DOR PRECORDIAL ( 1 - 2 X / SEMANA ) , COM RELAÇÃO COM EXERCICÍO FÍSICO OU COM O ESTRESSE .
+O	PACIENTE REFERE EPISÓDIOS INTERMINTES DE PALPITAÇÕES E <e1> DOR </e1> PRECORDIAL ( 1 - 2 X / SEMANA ) , COM RELAÇÃO COM EXERCICÍO FÍSICO OU COM O ESTRESSE .
+Problema	PACIENTE REFERE EPISÓDIOS INTERMINTES DE PALPITAÇÕES E <e1> DOR PRECORDIAL </e1> ( 1 - 2 X / SEMANA ) , COM RELAÇÃO COM EXERCICÍO FÍSICO OU COM O ESTRESSE .
+SEM OUTROS SINTOMAS ASSSOCIADOS .
+O	SEM <e1> OUTROS </e1> SINTOMAS ASSSOCIADOS .
+Problema	SEM <e1> OUTROS SINTOMAS </e1> ASSSOCIADOS .
+O	SEM OUTROS <e1> SINTOMAS </e1> ASSSOCIADOS .
+NEGA QUEIXAS RESPIRATÓRIAS , URINÁRIAS OU GASTROINTESTINAIS .
+O	NEGA <e1> QUEIXAS </e1> RESPIRATÓRIAS , URINÁRIAS OU GASTROINTESTINAIS .
+O	NEGA <e1> QUEIXAS RESPIRATÓRIAS , URINÁRIAS OU </e1> GASTROINTESTINAIS .
+Problema	NEGA <e1> QUEIXAS RESPIRATÓRIAS , URINÁRIAS OU GASTROINTESTINAIS </e1> .
+Anatomia	NEGA QUEIXAS RESPIRATÓRIAS , URINÁRIAS OU <e1> GASTROINTESTINAIS </e1> .
+Anatomia	NEGA QUEIXAS <e1> RESPIRATÓRIAS </e1> , URINÁRIAS OU GASTROINTESTINAIS .
+Anatomia	NEGA QUEIXAS RESPIRATÓRIAS , <e1> URINÁRIAS </e1> OU GASTROINTESTINAIS .
+CDI BOSTON ENERGEN POR DÇA CHAGASICA .
+Problema	CDI BOSTON ENERGEN POR <e1> DÇA CHAGASICA </e1> .
+Tratamento	<e1> CDI </e1> BOSTON ENERGEN POR DÇA CHAGASICA .
+O	CDI BOSTON ENERGEN POR <e1> DÇA </e1> CHAGASICA .
+O	CDI BOSTON ENERGEN POR DÇA <e1> CHAGASICA </e1> .
+TV + SINCOPE .
+Problema	<e1> TV </e1> + SINCOPE .
+Problema	TV + <e1> SINCOPE </e1> .
+RITMO DE BASE BAVT .
+Problema	RITMO DE BASE <e1> BAVT </e1> .
+MP DD .
+Tratamento	<e1> MP </e1> DD .
+PACIENTE SEM CAPTURA ATRIAL E COM FC ATRIAL BAIXA .
+O	PACIENTE <e1> SEM </e1> CAPTURA ATRIAL E COM FC ATRIAL BAIXA .
+O	PACIENTE <e1> SEM CAPTURA </e1> ATRIAL E COM FC ATRIAL BAIXA .
+O	PACIENTE SEM <e1> CAPTURA </e1> ATRIAL E COM FC ATRIAL BAIXA .
+Anatomia	PACIENTE SEM CAPTURA ATRIAL E COM FC <e1> ATRIAL </e1> BAIXA .
+Problema	PACIENTE <e1> SEM CAPTURA ATRIAL </e1> E COM FC ATRIAL BAIXA .
+O	PACIENTE SEM CAPTURA ATRIAL E COM FC ATRIAL <e1> BAIXA </e1> .
+Anatomia	PACIENTE SEM CAPTURA <e1> ATRIAL </e1> E COM FC ATRIAL BAIXA .
+O	PACIENTE SEM CAPTURA ATRIAL E COM <e1> FC </e1> ATRIAL BAIXA .
+O	PACIENTE SEM CAPTURA ATRIAL E COM <e1> FC ATRIAL </e1> BAIXA .
+Problema	PACIENTE SEM CAPTURA ATRIAL E COM <e1> FC ATRIAL BAIXA </e1> .
+CAT EM 2008 .
+Teste	<e1> CAT </e1> EM 2008 .
+VALVOPLASTIA AÓRTICA EM 2008 .
+O	<e1> VALVOPLASTIA </e1> AÓRTICA EM 2008 .
+Tratamento	<e1> VALVOPLASTIA AÓRTICA </e1> EM 2008 .
+Anatomia	VALVOPLASTIA <e1> AÓRTICA </e1> EM 2008 .
+VALVA BIOLÓGICA .
+Tratamento	<e1> VALVA BIOLÓGICA </e1> .
+O	<e1> VALVA </e1> BIOLÓGICA .
+40 DIAS DE ARRITMIA .
+Problema	40 DIAS DE <e1> ARRITMIA </e1> .
+CARDIOVERSAO , FICOU BOM .
+Tratamento	<e1> CARDIOVERSAO </e1> , FICOU BOM .
+QUEIXA DE CANSAÇO ANTES DA CX - PNEUMONIA ( SIC ) .
+Problema	QUEIXA DE <e1> CANSAÇO </e1> ANTES DA CX - PNEUMONIA ( SIC ) .
+Problema	QUEIXA DE CANSAÇO ANTES DA CX - <e1> PNEUMONIA </e1> ( SIC ) .
+Tratamento	QUEIXA DE CANSAÇO ANTES DA <e1> CX </e1> - PNEUMONIA ( SIC ) .
+FUMANTE POR 40 ANOS , 25 CIGARROS POR DIA .
+Problema	<e1> FUMANTE </e1> POR 40 ANOS , 25 CIGARROS POR DIA .
+REFERE ESTAR SEM SINTOMAS CARDIOVASC .
+O	REFERE ESTAR SEM <e1> SINTOMAS </e1> CARDIOVASC .
+Problema	REFERE ESTAR SEM <e1> SINTOMAS CARDIOVASC </e1> .
+Anatomia	REFERE ESTAR SEM SINTOMAS <e1> CARDIOVASC </e1> .
+PA BAIXA ( SIC ) .
+Problema	<e1> PA BAIXA </e1> ( SIC ) .
+O	PA <e1> BAIXA </e1> ( SIC ) .
+O	<e1> PA </e1> BAIXA ( SIC ) .
+- ENALAPRIL 10 - 12 / 12 ; .
+O	- <e1> ENALAPRIL </e1> 10 - 12 / 12 ; .
+Tratamento	- <e1> ENALAPRIL 10 </e1> - 12 / 12 ; .
+- CARVEDILOL 6 , 25 - 12 / 12 ; .
+O	- <e1> CARVEDILOL </e1> 6 , 25 - 12 / 12 ; .
+Tratamento	- <e1> CARVEDILOL 6 , 25 </e1> - 12 / 12 ; .
+- AAS 100 ; .
+O	- <e1> AAS </e1> 100 ; .
+Tratamento	- <e1> AAS 100 </e1> ; .
+- ATORVASTATINA 20 - 2 A NOITE .
+Tratamento	- <e1> ATORVASTATINA 20 </e1> - 2 A NOITE .
+O	- <e1> ATORVASTATINA </e1> 20 - 2 A NOITE .
+EXAME FISICO : .
+O	<e1> EXAME </e1> FISICO : .
+O	EXAME <e1> FISICO </e1> : .
+Teste	<e1> EXAME FISICO </e1> : .
+FC 80 , .
+Teste	<e1> FC </e1> 80 , .
+PA 150 / 100 , .
+Teste	<e1> PA </e1> 150 / 100 , .
+FR 16 ; .
+Teste	<e1> FR </e1> 16 ; .
+BCRNF COM SOPRO SISTÓLICO EM FOCO AORTICO , .
+O	BCRNF COM <e1> SOPRO SISTÓLICO EM FOCO </e1> AORTICO , .
+O	BCRNF COM SOPRO SISTÓLICO EM <e1> FOCO </e1> AORTICO , .
+O	BCRNF COM <e1> SOPRO </e1> SISTÓLICO EM FOCO AORTICO , .
+Anatomia	BCRNF COM SOPRO SISTÓLICO EM <e1> FOCO AORTICO </e1> , .
+O	BCRNF COM SOPRO SISTÓLICO <e1> EM </e1> FOCO AORTICO , .
+O	BCRNF COM <e1> SOPRO SISTÓLICO EM </e1> FOCO AORTICO , .
+O	BCRNF COM SOPRO SISTÓLICO <e1> EM FOCO </e1> AORTICO , .
+Problema	BCRNF COM <e1> SOPRO SISTÓLICO EM FOCO AORTICO </e1> , .
+MV + BILATERAL , SEM RA .
+Problema	MV + BILATERAL , SEM <e1> RA </e1> .
+RH + , SEM VISCEROMEGALIA OU DOR A PALPAÇÃO .
+O	RH + , SEM VISCEROMEGALIA OU <e1> DOR A </e1> PALPAÇÃO .
+O	RH + , SEM VISCEROMEGALIA OU DOR A <e1> PALPAÇÃO </e1> .
+O	RH + , SEM VISCEROMEGALIA OU <e1> DOR </e1> A PALPAÇÃO .
+O	RH + , SEM VISCEROMEGALIA OU DOR <e1> A </e1> PALPAÇÃO .
+Problema	RH + , SEM <e1> VISCEROMEGALIA </e1> OU DOR A PALPAÇÃO .
+Problema	RH + , SEM VISCEROMEGALIA OU <e1> DOR A PALPAÇÃO </e1> .
+HERNIA UMBULICAL , ANEL HERNIÁRIO DE 5CM , REDUTÍVEL .
+Anatomia	HERNIA <e1> UMBULICAL </e1> , ANEL HERNIÁRIO DE 5CM , REDUTÍVEL .
+O	<e1> HERNIA </e1> UMBULICAL , ANEL HERNIÁRIO DE 5CM , REDUTÍVEL .
+Problema	<e1> HERNIA UMBULICAL </e1> , ANEL HERNIÁRIO DE 5CM , REDUTÍVEL .
+VALVOPLASTIA AORTICA 2008 .
+Anatomia	VALVOPLASTIA <e1> AORTICA </e1> 2008 .
+Tratamento	<e1> VALVOPLASTIA AORTICA </e1> 2008 .
+O	<e1> VALVOPLASTIA </e1> AORTICA 2008 .
+FLUTTER DESDE 16 / 08 / 13 .
+Problema	<e1> FLUTTER </e1> DESDE 16 / 08 / 13 .
+EM USO DE : MAREVAN , CVD 12 , 5MG 2X / D , ENL 10MG 2X / D , CLOPIDOGREL 75MG .
+Tratamento	EM USO DE : <e1> MAREVAN </e1> , CVD 12 , 5MG 2X / D , ENL 10MG 2X / D , CLOPIDOGREL 75MG .
+Tratamento	EM USO DE : MAREVAN , <e1> CVD 12 , 5MG </e1> 2X / D , ENL 10MG 2X / D , CLOPIDOGREL 75MG .
+O	EM USO DE : MAREVAN , CVD 12 , 5MG 2X / D , <e1> ENL </e1> 10MG 2X / D , CLOPIDOGREL 75MG .
+Tratamento	EM USO DE : MAREVAN , CVD 12 , 5MG 2X / D , ENL 10MG 2X / D , <e1> CLOPIDOGREL 75MG </e1> .
+O	EM USO DE : MAREVAN , <e1> CVD </e1> 12 , 5MG 2X / D , ENL 10MG 2X / D , CLOPIDOGREL 75MG .
+O	EM USO DE : MAREVAN , CVD 12 , 5MG 2X / D , ENL 10MG 2X / D , CLOPIDOGREL <e1> 75MG </e1> .
+O	EM USO DE : MAREVAN , CVD 12 , 5MG 2X / D , ENL <e1> 10MG </e1> 2X / D , CLOPIDOGREL 75MG .
+O	EM USO DE : MAREVAN , CVD 12 , 5MG 2X / D , ENL 10MG 2X / D , <e1> CLOPIDOGREL </e1> 75MG .
+O	EM USO DE : MAREVAN , CVD 12 , <e1> 5MG </e1> 2X / D , ENL 10MG 2X / D , CLOPIDOGREL 75MG .
+Tratamento	EM USO DE : MAREVAN , CVD 12 , 5MG 2X / D , <e1> ENL 10MG </e1> 2X / D , CLOPIDOGREL 75MG .
+SEM QUEIXAS .
+Problema	SEM <e1> QUEIXAS </e1> .
+NEGA PALPITACOES OU OUTROS SINCOPES .
+O	NEGA PALPITACOES OU <e1> OUTROS </e1> SINCOPES .
+Problema	NEGA PALPITACOES OU <e1> OUTROS SINCOPES </e1> .
+Problema	NEGA <e1> PALPITACOES </e1> OU OUTROS SINCOPES .
+O	NEGA PALPITACOES OU OUTROS <e1> SINCOPES </e1> .
+FOI ATENDIDO PELO Doutor Vital Brazil HA 1M , REALIZADO ECG E ESTAVA EM RITMO SINUSAL .
+Teste	FOI ATENDIDO PELO Doutor Vital Brazil HA 1M , REALIZADO <e1> ECG </e1> E ESTAVA EM RITMO SINUSAL .
+PA 120X70 , P 70 .
+Problema	PA 120X70 , <e1> P </e1> 70 .
+Teste	<e1> PA </e1> 120X70 , P 70 .
+BCANF SS ( EXTRA SISTOLES ? ) , .
+Problema	BCANF <e1> SS </e1> ( EXTRA SISTOLES ? ) , .
+Problema	<e1> BCANF </e1> SS ( EXTRA SISTOLES ? ) , .
+O	BCANF SS ( <e1> EXTRA </e1> SISTOLES ? ) , .
+O	BCANF SS ( EXTRA <e1> SISTOLES </e1> ? ) , .
+Problema	BCANF SS ( <e1> EXTRA SISTOLES </e1> ? ) , .
+CPP LIVRES , .
+Anatomia	<e1> CPP </e1> LIVRES , .
+ABD SP .
+Anatomia	<e1> ABD </e1> SP .
+FLUTTER + ESV ? SINUSAL + ESV ? .
+O	FLUTTER + ESV ? SINUSAL + <e1> ESV </e1> ? .
+Problema	FLUTTER + ESV ? <e1> SINUSAL + ESV </e1> ? .
+O	FLUTTER <e1> + </e1> ESV ? SINUSAL + ESV ? .
+O	<e1> FLUTTER + </e1> ESV ? SINUSAL + ESV ? .
+O	<e1> FLUTTER </e1> + ESV ? SINUSAL + ESV ? .
+Problema	<e1> FLUTTER + ESV </e1> ? SINUSAL + ESV ? .
+O	FLUTTER + ESV ? <e1> SINUSAL </e1> + ESV ? .
+O	FLUTTER + ESV ? <e1> SINUSAL + </e1> ESV ? .
+O	FLUTTER + <e1> ESV </e1> ? SINUSAL + ESV ? .
+O	FLUTTER + ESV ? SINUSAL <e1> + </e1> ESV ? .
+MANTIDO ACO .
+Tratamento	MANTIDO <e1> ACO </e1> .
+SOLICITO ECG E HOLTER .
+Teste	SOLICITO ECG E <e1> HOLTER </e1> .
+Teste	SOLICITO <e1> ECG </e1> E HOLTER .
+RETORNO COM EXAMES .
+Teste	RETORNO COM <e1> EXAMES </e1> .
+PACIENTE EM ACOMPANHAMENTO - TP - RNI .
+Teste	PACIENTE EM ACOMPANHAMENTO - <e1> TP </e1> - RNI .
+Teste	PACIENTE EM ACOMPANHAMENTO - TP - <e1> RNI </e1> .
+NEGA SANGRAMENTOS .
+Problema	NEGA <e1> SANGRAMENTOS </e1> .
+/ ALIMENTAÇÃO INADEQUADA ( FOLHAS VERDES ? ) .
+O	/ ALIMENTAÇÃO <e1> INADEQUADA </e1> ( FOLHAS VERDES ? ) .
+O	/ <e1> ALIMENTAÇÃO </e1> INADEQUADA ( FOLHAS VERDES ? ) .
+Problema	/ <e1> ALIMENTAÇÃO INADEQUADA </e1> ( FOLHAS VERDES ? ) .
+RNI 28 / 04 / 2014 = 3 , 48 .
+Teste	<e1> RNI </e1> 28 / 04 / 2014 = 3 , 48 .
+MANTENHO MEDICAÇÃO .
+Tratamento	MANTENHO <e1> MEDICAÇÃO </e1> .
+RETORNO COM LAB TAP - RNI .
+Teste	RETORNO COM LAB <e1> TAP </e1> - RNI .
+Teste	RETORNO COM LAB TAP - <e1> RNI </e1> .
+Teste	RETORNO COM <e1> LAB </e1> TAP - RNI .
+VALVOPLASTIA AORTICA 2008 , .
+O	<e1> VALVOPLASTIA </e1> AORTICA 2008 , .
+Tratamento	<e1> VALVOPLASTIA AORTICA </e1> 2008 , .
+Anatomia	VALVOPLASTIA <e1> AORTICA </e1> 2008 , .
+FLUTTER DESDE 16 / 08 / 13 ; .
+Problema	<e1> FLUTTER </e1> DESDE 16 / 08 / 13 ; .
+EM USO DE : MAREVAN , CARVEDILOL 12 , 5 MG 2X D , ATORVASTATINA 20MG 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+Tratamento	EM USO DE : MAREVAN , CARVEDILOL 12 , 5 MG 2X D , <e1> ATORVASTATINA 20MG </e1> 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+O	EM USO DE : MAREVAN , <e1> CARVEDILOL 12 , 5 </e1> MG 2X D , ATORVASTATINA 20MG 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+Tratamento	EM USO DE : <e1> MAREVAN </e1> , CARVEDILOL 12 , 5 MG 2X D , ATORVASTATINA 20MG 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+O	EM USO DE : MAREVAN , CARVEDILOL 12 , 5 MG 2X D , ATORVASTATINA <e1> 20MG </e1> 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+O	EM USO DE : MAREVAN , CARVEDILOL 12 , 5 MG 2X D , ATORVASTATINA 20MG 2X / NOITE , <e1> DIGOXINA </e1> 0 , 25MG 1X / DIA .
+O	EM USO DE : MAREVAN , CARVEDILOL 12 , 5 <e1> MG </e1> 2X D , ATORVASTATINA 20MG 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+O	EM USO DE : MAREVAN , CARVEDILOL 12 , <e1> 5 MG </e1> 2X D , ATORVASTATINA 20MG 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+O	EM USO DE : MAREVAN , CARVEDILOL 12 , 5 MG 2X D , <e1> ATORVASTATINA </e1> 20MG 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+O	EM USO DE : MAREVAN , <e1> CARVEDILOL </e1> 12 , 5 MG 2X D , ATORVASTATINA 20MG 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+Tratamento	EM USO DE : MAREVAN , CARVEDILOL 12 , 5 MG 2X D , ATORVASTATINA 20MG 2X / NOITE , <e1> DIGOXINA 0 , 25MG </e1> 1X / DIA .
+Tratamento	EM USO DE : MAREVAN , <e1> CARVEDILOL 12 , 5 MG </e1> 2X D , ATORVASTATINA 20MG 2X / NOITE , DIGOXINA 0 , 25MG 1X / DIA .
+O	EM USO DE : MAREVAN , CARVEDILOL 12 , 5 MG 2X D , ATORVASTATINA 20MG 2X / NOITE , DIGOXINA 0 , <e1> 25MG </e1> 1X / DIA .
+S : QUEIXA - SE CEFALEIA HOLOCRANIANA .
+Anatomia	S : QUEIXA - SE CEFALEIA <e1> HOLOCRANIANA </e1> .
+Problema	S : QUEIXA - SE <e1> CEFALEIA HOLOCRANIANA </e1> .
+O	S : QUEIXA - SE <e1> CEFALEIA </e1> HOLOCRANIANA .
+NEGA PALPITACOES OU OUTROS SINTOMAS , NEGA SINCOPES .
+Problema	NEGA <e1> PALPITACOES </e1> OU OUTROS SINTOMAS , NEGA SINCOPES .
+O	NEGA PALPITACOES OU <e1> OUTROS </e1> SINTOMAS , NEGA SINCOPES .
+Problema	NEGA PALPITACOES OU <e1> OUTROS SINTOMAS </e1> , NEGA SINCOPES .
+Problema	NEGA PALPITACOES OU OUTROS SINTOMAS , NEGA <e1> SINCOPES </e1> .
+O	NEGA PALPITACOES OU OUTROS <e1> SINTOMAS </e1> , NEGA SINCOPES .
+fc : 56 BPM , .
+Teste	<e1> fc </e1> : 56 BPM , .
+PA 130X80 , .
+Teste	<e1> PA </e1> 130X80 , .
+BC ARRITMICAS HIPOFONETICAS .
+O	<e1> BC ARRITMICAS </e1> HIPOFONETICAS .
+O	<e1> BC </e1> ARRITMICAS HIPOFONETICAS .
+O	BC <e1> ARRITMICAS </e1> HIPOFONETICAS .
+Problema	<e1> BC ARRITMICAS HIPOFONETICAS </e1> .
+O	BC ARRITMICAS <e1> HIPOFONETICAS </e1> .
+FLUTTER + ESV ? .
+O	FLUTTER + <e1> ESV </e1> ? .
+O	<e1> FLUTTER </e1> + ESV ? .
+O	<e1> FLUTTER + </e1> ESV ? .
+Problema	<e1> FLUTTER + ESV </e1> ? .
+O	FLUTTER <e1> + </e1> ESV ? .
+SINUSAL + ESV ? .
+Problema	<e1> SINUSAL + ESV </e1> ? .
+O	<e1> SINUSAL </e1> + ESV ? .
+O	SINUSAL + <e1> ESV </e1> ? .
+O	SINUSAL <e1> + </e1> ESV ? .
+O	<e1> SINUSAL + </e1> ESV ? .
+# Troca de valva aórtica biológica por EAo em 2008 , .
+Anatomia	# Troca de <e1> valva aórtica </e1> biológica por EAo em 2008 , .
+O	# <e1> Troca de valva </e1> aórtica biológica por EAo em 2008 , .
+O	# Troca de <e1> valva </e1> aórtica biológica por EAo em 2008 , .
+Problema	# Troca de valva aórtica biológica por <e1> EAo </e1> em 2008 , .
+Tratamento	# <e1> Troca de valva aórtica biológica </e1> por EAo em 2008 , .
+O	# Troca de valva <e1> aórtica </e1> biológica por EAo em 2008 , .
+O	# <e1> Troca de valva aórtica </e1> biológica por EAo em 2008 , .
+O	# <e1> Troca </e1> de valva aórtica biológica por EAo em 2008 , .
+O	# Troca <e1> de </e1> valva aórtica biológica por EAo em 2008 , .
+O	# Troca <e1> de valva </e1> aórtica biológica por EAo em 2008 , .
+O	# <e1> Troca de </e1> valva aórtica biológica por EAo em 2008 , .
+# FA paroxística , .
+O	# <e1> FA </e1> paroxística , .
+Problema	# <e1> FA paroxística </e1> , .
+# HAS , .
+Problema	# <e1> HAS </e1> , .
+# DM tipo 2 , .
+O	# <e1> DM </e1> tipo 2 , .
+O	# DM <e1> tipo </e1> 2 , .
+O	# <e1> DM tipo </e1> 2 , .
+Problema	# <e1> DM tipo 2 </e1> , .
+# Ex - tabagista , parou há 9 anos , carga tabágica de 40 maços / ano .
+O	# Ex - <e1> tabagista </e1> , parou há 9 anos , carga tabágica de 40 maços / ano .
+O	# <e1> Ex </e1> - tabagista , parou há 9 anos , carga tabágica de 40 maços / ano .
+Problema	# <e1> Ex - tabagista </e1> , parou há 9 anos , carga tabágica de 40 maços / ano .
+MUC : Carvedilol 25mg de 12 / 12h .
+O	MUC : Carvedilol <e1> 25mg </e1> de 12 / 12h .
+O	MUC : <e1> Carvedilol </e1> 25mg de 12 / 12h .
+Tratamento	MUC : <e1> Carvedilol 25mg </e1> de 12 / 12h .
+Omeprazol 20mg / dia , .
+Tratamento	<e1> Omeprazol 20mg </e1> / dia , .
+O	Omeprazol <e1> 20mg </e1> / dia , .
+O	<e1> Omeprazol </e1> 20mg / dia , .
+Atorvastatina 40mg / dia , .
+O	<e1> Atorvastatina </e1> 40mg / dia , .
+O	Atorvastatina <e1> 40mg </e1> / dia , .
+Tratamento	<e1> Atorvastatina 40mg </e1> / dia , .
+Maraven 5mg / dia , .
+Tratamento	<e1> Maraven 5mg </e1> / dia , .
+O	<e1> Maraven </e1> 5mg / dia , .
+O	Maraven <e1> 5mg </e1> / dia , .
+Metformina 850mg de 12 / 12h , .
+Tratamento	<e1> Metformina 850mg </e1> de 12 / 12h , .
+O	Metformina <e1> 850mg </e1> de 12 / 12h , .
+O	<e1> Metformina </e1> 850mg de 12 / 12h , .
+Gliclazida 30mg / dia .
+Tratamento	<e1> Gliclazida 30mg </e1> / dia .
+O	Gliclazida <e1> 30mg </e1> / dia .
+O	<e1> Gliclazida </e1> 30mg / dia .
+# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio <e1> TT </e1> ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica <e1> grau </e1> I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e <e1> disfunção </e1> diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção <e1> diastólica grau </e1> I .
+Teste	# <e1> Ecocardio TT </e1> ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com <e1> hipetrofia </e1> excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : <e1> VE com </e1> hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção <e1> diastólica </e1> grau I .
+Anatomia	# Ecocardio TT ( 10 / 07 / 15 ) : <e1> VE </e1> com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# <e1> Ecocardio </e1> TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : <e1> VE com hipetrofia excentrica </e1> importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE <e1> com </e1> hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE <e1> com hipetrofia </e1> excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e <e1> disfunção diastólica grau </e1> I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia <e1> excentrica </e1> importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+Problema	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e <e1> disfunção diastólica grau I </e1> .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau <e1> I </e1> .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com hipetrofia excentrica importante , função sistolica preservada ( FE : 65 % ) e <e1> disfunção diastólica </e1> grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : <e1> VE com hipetrofia </e1> excentrica importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+O	# Ecocardio TT ( 10 / 07 / 15 ) : VE com <e1> hipetrofia excentrica </e1> importante , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+Problema	# Ecocardio TT ( 10 / 07 / 15 ) : <e1> VE com hipetrofia excentrica importante </e1> , função sistolica preservada ( FE : 65 % ) e disfunção diastólica grau I .
+AE e câmeras D normais .
+Anatomia	<e1> AE </e1> e câmeras D normais .
+O	AE e <e1> câmeras </e1> D normais .
+Anatomia	AE e <e1> câmeras D </e1> normais .
+O	AE e câmeras <e1> D </e1> normais .
+Insuficiência mitral discreta .
+Anatomia	Insuficiência <e1> mitral </e1> discreta .
+O	<e1> Insuficiência </e1> mitral discreta .
+Problema	<e1> Insuficiência mitral discreta </e1> .
+O	<e1> Insuficiência mitral </e1> discreta .
+Prótese biológica com gradientes sugestivos de possível estenose .
+Problema	Prótese biológica com gradientes sugestivos de possível <e1> estenose </e1> .
+# ECG ( 09 / 07 / 15 ) : eixo de QRS desviado para a esquerda , BRD , bradicardia sinusal .
+O	# ECG ( 09 / 07 / 15 ) : eixo <e1> de </e1> QRS desviado para a esquerda , BRD , bradicardia sinusal .
+O	# ECG ( 09 / 07 / 15 ) : eixo de QRS desviado para a esquerda , BRD , <e1> bradicardia </e1> sinusal .
+O	# ECG ( 09 / 07 / 15 ) : <e1> eixo </e1> de QRS desviado para a esquerda , BRD , bradicardia sinusal .
+O	# ECG ( 09 / 07 / 15 ) : eixo de QRS desviado para <e1> a </e1> esquerda , BRD , bradicardia sinusal .
+O	# ECG ( 09 / 07 / 15 ) : <e1> eixo de QRS </e1> desviado para a esquerda , BRD , bradicardia sinusal .
+O	# ECG ( 09 / 07 / 15 ) : <e1> eixo de QRS desviado para a </e1> esquerda , BRD , bradicardia sinusal .
+O	# ECG ( 09 / 07 / 15 ) : <e1> eixo de </e1> QRS desviado para a esquerda , BRD , bradicardia sinusal .
+Problema	# ECG ( 09 / 07 / 15 ) : <e1> eixo de QRS desviado para a esquerda </e1> , BRD , bradicardia sinusal .
+O	# ECG ( 09 / 07 / 15 ) : eixo de <e1> QRS </e1> desviado para a esquerda , BRD , bradicardia sinusal .
+Problema	# ECG ( 09 / 07 / 15 ) : eixo de QRS desviado para a esquerda , <e1> BRD </e1> , bradicardia sinusal .
+Problema	# ECG ( 09 / 07 / 15 ) : eixo de QRS desviado para a esquerda , BRD , <e1> bradicardia sinusal </e1> .
+O	# ECG ( 09 / 07 / 15 ) : eixo de QRS desviado para a <e1> esquerda </e1> , BRD , bradicardia sinusal .
+Teste	# <e1> ECG </e1> ( 09 / 07 / 15 ) : eixo de QRS desviado para a esquerda , BRD , bradicardia sinusal .
+S : Paciente oligossintomatico , relata esporadicamente episódios de tontura ao fazer esforço , porém não atrapalha suas atividades diárias .
+O	S : Paciente oligossintomatico , relata esporadicamente episódios de <e1> tontura ao fazer </e1> esforço , porém não atrapalha suas atividades diárias .
+Problema	S : Paciente oligossintomatico , relata esporadicamente episódios de <e1> tontura ao fazer esforço </e1> , porém não atrapalha suas atividades diárias .
+O	S : Paciente oligossintomatico , relata esporadicamente episódios de <e1> tontura </e1> ao fazer esforço , porém não atrapalha suas atividades diárias .
+O	S : Paciente oligossintomatico , relata esporadicamente episódios de tontura ao fazer <e1> esforço </e1> , porém não atrapalha suas atividades diárias .
+Relata melhora importante dos sintomas com medicação .
+Tratamento	Relata melhora importante dos sintomas com <e1> medicação </e1> .
+PA : 140 / 70 , FC : 48 , FR : 16 , SatO2 em AA : 93 % , .
+Teste	<e1> PA </e1> : 140 / 70 , FC : 48 , FR : 16 , SatO2 em AA : 93 % , .
+Teste	PA : 140 / 70 , FC : 48 , <e1> FR </e1> : 16 , SatO2 em AA : 93 % , .
+Teste	PA : 140 / 70 , FC : 48 , FR : 16 , <e1> SatO2 </e1> em AA : 93 % , .
+Teste	PA : 140 / 70 , <e1> FC </e1> : 48 , FR : 16 , SatO2 em AA : 93 % , .
+AP : MV + bilateral , mas difusamente diminuído , S RA .
+Problema	AP : MV + bilateral , mas difusamente diminuído , S <e1> RA </e1> .
+AC : RCR em 2T , BNF , sopro sistólico em foco Ao de 2 + / 6 + .
+O	AC : RCR em 2T , BNF , <e1> sopro sistólico em foco Ao de 2 + / 6 </e1> + .
+O	AC : RCR em 2T , BNF , <e1> sopro </e1> sistólico em foco Ao de 2 + / 6 + .
+Anatomia	AC : RCR em 2T , BNF , sopro sistólico em <e1> foco Ao </e1> de 2 + / 6 + .
+Problema	AC : RCR em 2T , BNF , <e1> sopro sistólico em foco Ao de 2 + / 6 + </e1> .
+O	AC : RCR em 2T , BNF , sopro sistólico em <e1> foco </e1> Ao de 2 + / 6 + .
+O	AC : RCR em 2T , BNF , <e1> sopro sistólico em </e1> foco Ao de 2 + / 6 + .
+O	AC : RCR em 2T , BNF , sopro sistólico em foco Ao de 2 + / 6 <e1> + </e1> .
+O	AC : RCR em 2T , BNF , sopro sistólico <e1> em </e1> foco Ao de 2 + / 6 + .
+O	AC : RCR em 2T , BNF , sopro sistólico em foco Ao de 2 <e1> + </e1> / 6 + .
+Abdome : flácido , RHA + , indolor a palpação , sem massas palpáveis .
+Problema	Abdome : flácido , RHA + , indolor a palpação , sem <e1> massas palpáveis </e1> .
+Anatomia	<e1> Abdome </e1> : flácido , RHA + , indolor a palpação , sem massas palpáveis .
+O	Abdome : flácido , RHA + , indolor a palpação , sem <e1> massas </e1> palpáveis .
+MMII : sem edema , boa perfusão periférica .
+Problema	MMII : sem <e1> edema </e1> , boa perfusão periférica .
+Anatomia	<e1> MMII </e1> : sem edema , boa perfusão periférica .
+A : Válvula aórtica biológica + FA paroxística no momento em ritmo sinusal .
+Problema	A : Válvula aórtica biológica + <e1> FA paroxística </e1> no momento em ritmo sinusal .
+O	A : Válvula aórtica biológica + <e1> FA </e1> paroxística no momento em ritmo sinusal .
+O	A : Válvula aórtica <e1> biológica </e1> + FA paroxística no momento em ritmo sinusal .
+O	A : <e1> Válvula </e1> aórtica biológica + FA paroxística no momento em ritmo sinusal .
+O	A : Válvula <e1> aórtica biológica </e1> + FA paroxística no momento em ritmo sinusal .
+Anatomia	A : Válvula <e1> aórtica </e1> biológica + FA paroxística no momento em ritmo sinusal .
+Tratamento	A : <e1> Válvula aórtica biológica </e1> + FA paroxística no momento em ritmo sinusal .
+O	A : <e1> Válvula aórtica </e1> biológica + FA paroxística no momento em ritmo sinusal .
+P : Diminuo carvedilol para 25mg de manha e 12 , 5mg a noite devido a bradicardia .
+Problema	P : Diminuo carvedilol para 25mg de manha e 12 , 5mg a noite devido a <e1> bradicardia </e1> .
+O	P : Diminuo carvedilol para <e1> 25mg </e1> de manha e 12 , 5mg a noite devido a bradicardia .
+O	P : Diminuo <e1> carvedilol </e1> para 25mg de manha e 12 , 5mg a noite devido a bradicardia .
+O	P : Diminuo carvedilol <e1> para </e1> 25mg de manha e 12 , 5mg a noite devido a bradicardia .
+Tratamento	P : Diminuo <e1> carvedilol para 25mg </e1> de manha e 12 , 5mg a noite devido a bradicardia .
+O	P : Diminuo <e1> carvedilol para </e1> 25mg de manha e 12 , 5mg a noite devido a bradicardia .
+# mantem os mesmos medicamentos , .
+Tratamento	# mantem os mesmos <e1> medicamentos </e1> , .
+# em uso de aas , gingko biloba , sinvastatina , aradois e ancoron , .
+Tratamento	# em uso de aas , gingko biloba , sinvastatina , aradois e <e1> ancoron </e1> , .
+O	# em uso de aas , <e1> gingko </e1> biloba , sinvastatina , aradois e ancoron , .
+O	# em uso de aas , gingko <e1> biloba </e1> , sinvastatina , aradois e ancoron , .
+Tratamento	# em uso de <e1> aas </e1> , gingko biloba , sinvastatina , aradois e ancoron , .
+Tratamento	# em uso de aas , gingko biloba , <e1> sinvastatina </e1> , aradois e ancoron , .
+Tratamento	# em uso de aas , <e1> gingko biloba </e1> , sinvastatina , aradois e ancoron , .
+Tratamento	# em uso de aas , gingko biloba , sinvastatina , <e1> aradois </e1> e ancoron , .
+# sem queixas .
+Problema	# sem <e1> queixas </e1> .
+# mp camara dupla , .
+O	# <e1> mp </e1> camara dupla , .
+Tratamento	# <e1> mp camara dupla </e1> , .
+O	# <e1> mp camara </e1> dupla , .
+O	# mp <e1> camara </e1> dupla , .
+2007 IAM , RM , desenvolveu arritmia após RM , em 2010 fez angioplastia , .
+Problema	2007 IAM , RM , desenvolveu <e1> arritmia </e1> após RM , em 2010 fez angioplastia , .
+Tratamento	2007 IAM , RM , desenvolveu arritmia após RM , em 2010 fez <e1> angioplastia </e1> , .
+Tratamento	2007 IAM , <e1> RM </e1> , desenvolveu arritmia após RM , em 2010 fez angioplastia , .
+Problema	2007 <e1> IAM </e1> , RM , desenvolveu arritmia após RM , em 2010 fez angioplastia , .
+Tratamento	2007 IAM , RM , desenvolveu arritmia após <e1> RM </e1> , em 2010 fez angioplastia , .
+Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e dor nas costas , mal estar , depois da angioplastia .
+Anatomia	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no <e1> peito </e1> e dor nas costas , mal estar , depois da angioplastia .
+O	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e dor nas costas , mal <e1> estar </e1> , depois da angioplastia .
+Anatomia	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e dor nas <e1> costas </e1> , mal estar , depois da angioplastia .
+Problema	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a <e1> dispneia </e1> , aperto no peito e dor nas costas , mal estar , depois da angioplastia .
+Problema	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , <e1> aperto no peito </e1> e dor nas costas , mal estar , depois da angioplastia .
+O	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , <e1> aperto no </e1> peito e dor nas costas , mal estar , depois da angioplastia .
+O	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e <e1> dor nas </e1> costas , mal estar , depois da angioplastia .
+Tratamento	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e dor nas costas , mal estar , depois da <e1> angioplastia </e1> .
+Problema	Tem sentido <e1> palpitação </e1> um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e dor nas costas , mal estar , depois da angioplastia .
+O	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e dor nas costas , <e1> mal </e1> estar , depois da angioplastia .
+Problema	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e dor nas costas , <e1> mal estar </e1> , depois da angioplastia .
+O	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , <e1> aperto </e1> no peito e dor nas costas , mal estar , depois da angioplastia .
+Problema	Tem sentido palpitação um dia sim , dia não , costuma durar pelo menos uma hora , ocasionalmente dura a noite inteira , associada a dispneia , aperto no peito e <e1> dor nas costas </e1> , mal estar , depois da angioplastia .
+em 2010 não teve mais síncope , .
+Problema	em 2010 não teve mais <e1> síncope </e1> , .
+HAS , coronariopatia , arritmia , catarata , hipertireoidismo .
+Problema	HAS , <e1> coronariopatia </e1> , arritmia , catarata , hipertireoidismo .
+Problema	<e1> HAS </e1> , coronariopatia , arritmia , catarata , hipertireoidismo .
+Problema	HAS , coronariopatia , <e1> arritmia </e1> , catarata , hipertireoidismo .
+Problema	HAS , coronariopatia , arritmia , <e1> catarata </e1> , hipertireoidismo .
+Problema	HAS , coronariopatia , arritmia , catarata , <e1> hipertireoidismo </e1> .
+Prostatectomia , RM , angioplastia , trauma ( pedaço de ferro entrou no peito ) , .
+Problema	Prostatectomia , RM , angioplastia , <e1> trauma </e1> ( pedaço de ferro entrou no peito ) , .
+Tratamento	<e1> Prostatectomia </e1> , RM , angioplastia , trauma ( pedaço de ferro entrou no peito ) , .
+Anatomia	Prostatectomia , RM , angioplastia , trauma ( pedaço de ferro entrou no <e1> peito </e1> ) , .
+Tratamento	Prostatectomia , <e1> RM </e1> , angioplastia , trauma ( pedaço de ferro entrou no peito ) , .
+Tratamento	Prostatectomia , RM , <e1> angioplastia </e1> , trauma ( pedaço de ferro entrou no peito ) , .
+Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+Tratamento	Medicamentos : tapazol 10 mg , <e1> enalapril 10 mg </e1> , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 <e1> mg </e1> , .
+O	Medicamentos : tapazol 10 mg , <e1> enalapril </e1> 10 mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 <e1> mg </e1> , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , <e1> xarelto </e1> 20 mg , .
+Tratamento	Medicamentos : <e1> tapazol 10 mg </e1> , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+Tratamento	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , <e1> sinvastatina 40 mg </e1> , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 <e1> mg </e1> , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , <e1> selozok </e1> 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , <e1> selozok 50 </e1> mg , sinvastatina 40 mg , xarelto 20 mg , .
+Tratamento	<e1> Medicamentos </e1> : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+O	Medicamentos : <e1> tapazol </e1> 10 mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 <e1> mg </e1> , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+Tratamento	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , <e1> xarelto 20 mg </e1> , .
+O	Medicamentos : <e1> tapazol 10 </e1> mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+Tratamento	Medicamentos : tapazol 10 mg , enalapril 10 mg , <e1> selozok 50 mg </e1> , sinvastatina 40 mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , sinvastatina 40 mg , <e1> xarelto 20 </e1> mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 <e1> mg </e1> , sinvastatina 40 mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , <e1> sinvastatina 40 </e1> mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , enalapril 10 mg , selozok 50 mg , <e1> sinvastatina </e1> 40 mg , xarelto 20 mg , .
+O	Medicamentos : tapazol 10 mg , <e1> enalapril 10 </e1> mg , selozok 50 mg , sinvastatina 40 mg , xarelto 20 mg , .
+EF : FC 60 bpm , bcrnf , demais spp .
+Teste	EF : <e1> FC </e1> 60 bpm , bcrnf , demais spp .
+Teste	<e1> EF </e1> : FC 60 bpm , bcrnf , demais spp .
+acrescentou - se 25 mg de selozok .
+Tratamento	acrescentou - se <e1> 25 mg de selozok </e1> .
+O	acrescentou - se 25 mg de <e1> selozok </e1> .
+O	acrescentou - se 25 <e1> mg </e1> de selozok .
+O	acrescentou - se 25 <e1> mg de </e1> selozok .
+O	acrescentou - se <e1> 25 mg de </e1> selozok .
+O	acrescentou - se 25 mg <e1> de </e1> selozok .
+16 / 4 / 14 - TE POSITIVO - - > INFRA 4 MMM DESCENDENTE4 .
+O	16 / 4 / 14 - TE POSITIVO - - > INFRA 4 MMM <e1> DESCENDENTE4 </e1> .
+Teste	16 / 4 / 14 - <e1> TE </e1> POSITIVO - - > INFRA 4 MMM DESCENDENTE4 .
+O	16 / 4 / 14 - TE POSITIVO - - > INFRA 4 <e1> MMM </e1> DESCENDENTE4 .
+O	16 / 4 / 14 - TE POSITIVO - - > <e1> INFRA </e1> 4 MMM DESCENDENTE4 .
+O	16 / 4 / 14 - TE POSITIVO - - > INFRA <e1> 4 MMM </e1> DESCENDENTE4 .
+O	16 / 4 / 14 - TE POSITIVO - - > <e1> INFRA 4 MMM </e1> DESCENDENTE4 .
+O	16 / 4 / 14 - TE POSITIVO - - > <e1> INFRA 4 </e1> MMM DESCENDENTE4 .
+Problema	16 / 4 / 14 - TE POSITIVO - - > <e1> INFRA 4 MMM DESCENDENTE4 </e1> .
+234 / 4 / 14 - LDL 157 , GLI 104 , CRE 1 , 1 ; COL 225 , TRI 72 , HDL 54 .
+Teste	234 / 4 / 14 - <e1> LDL </e1> 157 , GLI 104 , CRE 1 , 1 ; COL 225 , TRI 72 , HDL 54 .
+Teste	234 / 4 / 14 - LDL 157 , <e1> GLI </e1> 104 , CRE 1 , 1 ; COL 225 , TRI 72 , HDL 54 .
+Teste	234 / 4 / 14 - LDL 157 , GLI 104 , CRE 1 , 1 ; <e1> COL </e1> 225 , TRI 72 , HDL 54 .
+Teste	234 / 4 / 14 - LDL 157 , GLI 104 , <e1> CRE </e1> 1 , 1 ; COL 225 , TRI 72 , HDL 54 .
+Teste	234 / 4 / 14 - LDL 157 , GLI 104 , CRE 1 , 1 ; COL 225 , <e1> TRI </e1> 72 , HDL 54 .
+Teste	234 / 4 / 14 - LDL 157 , GLI 104 , CRE 1 , 1 ; COL 225 , TRI 72 , <e1> HDL </e1> 54 .
+HAS EM USO HCT , ATL , AAS .
+Teste	HAS EM USO <e1> HCT </e1> , ATL , AAS .
+Tratamento	HAS EM USO HCT , <e1> ATL </e1> , AAS .
+Problema	<e1> HAS </e1> EM USO HCT , ATL , AAS .
+Tratamento	HAS EM USO HCT , ATL , <e1> AAS </e1> .
+P : ASSOCIO CLOPIDOGREL / SVT .
+Tratamento	P : ASSOCIO <e1> CLOPIDOGREL </e1> / SVT .
+Tratamento	P : ASSOCIO CLOPIDOGREL / <e1> SVT </e1> .
+INVESTIGAVA DOR TORAXCICA .
+Problema	INVESTIGAVA <e1> DOR TORAXCICA </e1> .
+Anatomia	INVESTIGAVA DOR <e1> TORAXCICA </e1> .
+O	INVESTIGAVA <e1> DOR </e1> TORAXCICA .
+ATUALMENTE S SEM QX .
+Problema	ATUALMENTE S SEM <e1> QX </e1> .
+CATE 2013 SEM ATC .
+Tratamento	CATE 2013 SEM <e1> ATC </e1> .
+Teste	<e1> CATE </e1> 2013 SEM ATC .
+HAS .
+Problema	<e1> HAS </e1> .
+USA HCT , ATL , AAS , CLOP , SVT .
+Tratamento	USA HCT , ATL , AAS , CLOP , <e1> SVT </e1> .
+Tratamento	USA HCT , ATL , AAS , <e1> CLOP </e1> , SVT .
+Tratamento	USA HCT , ATL , <e1> AAS </e1> , CLOP , SVT .
+Tratamento	USA <e1> HCT </e1> , ATL , AAS , CLOP , SVT .
+Tratamento	USA HCT , <e1> ATL </e1> , AAS , CLOP , SVT .
+10 / 09 / 14 - CATE DA PIM CO0M OBSTRUÇÃO NA SISTOLE > 50 / LESAO MODERADA N 1 / 3 PRIOXIMAL 40 % .
+Anatomia	10 / 09 / 14 - CATE <e1> DA </e1> PIM CO0M OBSTRUÇÃO NA SISTOLE > 50 / LESAO MODERADA N 1 / 3 PRIOXIMAL 40 % .
+O	10 / 09 / 14 - CATE DA PIM CO0M OBSTRUÇÃO NA <e1> SISTOLE </e1> > 50 / LESAO MODERADA N 1 / 3 PRIOXIMAL 40 % .
+Problema	10 / 09 / 14 - CATE DA PIM CO0M <e1> OBSTRUÇÃO NA SISTOLE </e1> > 50 / LESAO MODERADA N 1 / 3 PRIOXIMAL 40 % .
+O	10 / 09 / 14 - CATE DA PIM CO0M <e1> OBSTRUÇÃO </e1> NA SISTOLE > 50 / LESAO MODERADA N 1 / 3 PRIOXIMAL 40 % .
+O	10 / 09 / 14 - CATE DA PIM CO0M <e1> OBSTRUÇÃO NA </e1> SISTOLE > 50 / LESAO MODERADA N 1 / 3 PRIOXIMAL 40 % .
+O	10 / 09 / 14 - CATE DA PIM CO0M OBSTRUÇÃO NA SISTOLE > 50 / LESAO <e1> MODERADA </e1> N 1 / 3 PRIOXIMAL 40 % .
+Problema	10 / 09 / 14 - CATE DA PIM CO0M OBSTRUÇÃO NA SISTOLE > 50 / <e1> LESAO MODERADA </e1> N 1 / 3 PRIOXIMAL 40 % .
+Teste	10 / 09 / 14 - <e1> CATE </e1> DA PIM CO0M OBSTRUÇÃO NA SISTOLE > 50 / LESAO MODERADA N 1 / 3 PRIOXIMAL 40 % .
+O	10 / 09 / 14 - CATE DA PIM CO0M OBSTRUÇÃO NA SISTOLE > 50 / <e1> LESAO </e1> MODERADA N 1 / 3 PRIOXIMAL 40 % .
+A : PIM* / DAC INCIPIENTE .
+O	A : PIM* / DAC <e1> INCIPIENTE </e1> .
+Problema	A : PIM* / <e1> DAC INCIPIENTE </e1> .
+O	A : PIM* / <e1> DAC </e1> INCIPIENTE .
+P : ASSOCIO VERAPAMIL 80 / D , .
+O	P : ASSOCIO <e1> VERAPAMIL </e1> 80 / D , .
+Tratamento	P : ASSOCIO <e1> VERAPAMIL 80 </e1> / D , .
+MANTENHO HCT , ATL 50 / D , AAS , SVT 20 / D .
+O	MANTENHO HCT , <e1> ATL </e1> 50 / D , AAS , SVT 20 / D .
+Tratamento	MANTENHO HCT , ATL 50 / D , AAS , <e1> SVT 20 </e1> / D .
+Tratamento	MANTENHO HCT , ATL 50 / D , <e1> AAS </e1> , SVT 20 / D .
+O	MANTENHO HCT , ATL 50 / D , AAS , <e1> SVT </e1> 20 / D .
+Tratamento	MANTENHO <e1> HCT </e1> , ATL 50 / D , AAS , SVT 20 / D .
+Tratamento	MANTENHO HCT , <e1> ATL 50 </e1> / D , AAS , SVT 20 / D .
+LAB E RETORNO CARDIO GERAL EM 6 MESES .
+Teste	<e1> LAB </e1> E RETORNO CARDIO GERAL EM 6 MESES .
+DAC INCIPIENTE .
+Problema	<e1> DAC INCIPIENTE </e1> .
+O	DAC <e1> INCIPIENTE </e1> .
+O	<e1> DAC </e1> INCIPIENTE .
+HAS .
+Problema	<e1> HAS </e1> .
+09 - 14 - CATE : DA PIM COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+Teste	09 - 14 - <e1> CATE </e1> : DA PIM COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : DA PIM COM OBSRUÇÃO SISTOLE > 50 % - - <e1> LEDSAO </e1> MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : DA PIM COM OBSRUÇÃO <e1> SISTOLE </e1> > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : <e1> DA PIM COM OBSRUÇÃO SISTOLE > 50 </e1> % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+Problema	09 - 14 - CATE : DA PIM COM OBSRUÇÃO SISTOLE > 50 % - - <e1> LEDSAO MODERADA 1 / 3 PROXIMAL CD </e1> .
+O	09 - 14 - CATE : DA PIM <e1> COM </e1> OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : DA PIM COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 <e1> PROXIMAL </e1> CD .
+O	09 - 14 - CATE : DA <e1> PIM COM </e1> OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : DA PIM COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / <e1> 3 PROXIMAL </e1> CD .
+Anatomia	09 - 14 - CATE : DA PIM COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL <e1> CD </e1> .
+O	09 - 14 - CATE : DA PIM <e1> COM OBSRUÇÃO </e1> SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : DA PIM COM <e1> OBSRUÇÃO </e1> SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+Anatomia	09 - 14 - CATE : <e1> DA </e1> PIM COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : DA <e1> PIM COM OBSRUÇÃO </e1> SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+Problema	09 - 14 - CATE : <e1> DA PIM COM OBSRUÇÃO SISTOLE > 50 % </e1> - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : DA PIM COM OBSRUÇÃO SISTOLE > 50 % - - <e1> LEDSAO MODERADA 1 / 3 PROXIMAL </e1> CD .
+O	09 - 14 - CATE : DA <e1> PIM COM OBSRUÇÃO SISTOLE > </e1> 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 - CATE : DA <e1> PIM </e1> COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+USA HCT , ATL , AAS , CLOPIDOGREL , SVT , VERAPAMIL 80 D .
+Tratamento	USA <e1> HCT </e1> , ATL , AAS , CLOPIDOGREL , SVT , VERAPAMIL 80 D .
+Tratamento	USA HCT , ATL , AAS , <e1> CLOPIDOGREL </e1> , SVT , VERAPAMIL 80 D .
+Tratamento	USA HCT , ATL , AAS , CLOPIDOGREL , SVT , <e1> VERAPAMIL 80 </e1> D .
+Tratamento	USA HCT , ATL , AAS , CLOPIDOGREL , <e1> SVT </e1> , VERAPAMIL 80 D .
+Tratamento	USA HCT , <e1> ATL </e1> , AAS , CLOPIDOGREL , SVT , VERAPAMIL 80 D .
+Tratamento	USA HCT , ATL , <e1> AAS </e1> , CLOPIDOGREL , SVT , VERAPAMIL 80 D .
+O	USA HCT , ATL , AAS , CLOPIDOGREL , SVT , <e1> VERAPAMIL </e1> 80 D .
+S : SEM QX CARDIOLOGICAS ATUAIS - DOR DIM , INUI EM INMTENSIDADE E FREQUENCIOA .
+Problema	S : SEM <e1> QX CARDIOLOGICAS </e1> ATUAIS - DOR DIM , INUI EM INMTENSIDADE E FREQUENCIOA .
+Anatomia	S : SEM QX <e1> CARDIOLOGICAS </e1> ATUAIS - DOR DIM , INUI EM INMTENSIDADE E FREQUENCIOA .
+O	S : SEM <e1> QX </e1> CARDIOLOGICAS ATUAIS - DOR DIM , INUI EM INMTENSIDADE E FREQUENCIOA .
+O : 27 - 2 - 15 - FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , INSUF MI DISCRETA , HSAP 42 .
+Problema	O : 27 - 2 - 15 - FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , <e1> INSUF MI DISCRETA </e1> , HSAP 42 .
+O	O : 27 - 2 - 15 - FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , <e1> INSUF </e1> MI DISCRETA , HSAP 42 .
+Anatomia	O : 27 - 2 - 15 - FE 53 , EP 39 , <e1> AE </e1> 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , INSUF MI DISCRETA , HSAP 42 .
+Anatomia	O : 27 - 2 - 15 - FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , <e1> AE </e1> LIMITROFE , INSUF MI DISCRETA , HSAP 42 .
+O	O : 27 - 2 - 15 - FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , <e1> INSUF MI </e1> DISCRETA , HSAP 42 .
+Anatomia	O : 27 - 2 - 15 - FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , INSUF <e1> MI </e1> DISCRETA , HSAP 42 .
+31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , <e1> TRI </e1> 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - <e1> HB </e1> 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; <e1> GLI </e1> 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , <e1> U </e1> 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; <e1> COL </e1> 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , <e1> HDL </e1> 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , <e1> HT </e1> 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , <e1> LDL </e1> 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , <e1> K </e1> 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , <e1> NA </e1> 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 - HB 15 , HT 89 , <e1> CRE </e1> 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+P : AUMENMTO SVT 40 MG N .
+Tratamento	P : AUMENMTO <e1> SVT 40 MG </e1> N .
+O	P : AUMENMTO <e1> SVT 40 </e1> MG N .
+O	P : AUMENMTO SVT <e1> 40 MG </e1> N .
+O	P : AUMENMTO SVT 40 <e1> MG </e1> N .
+O	P : AUMENMTO <e1> SVT </e1> 40 MG N .
+CINTILO / RETORNO .
+Teste	<e1> CINTILO </e1> / RETORNO .
+DAC INCIPIENTE , .
+Problema	<e1> DAC INCIPIENTE </e1> , .
+O	<e1> DAC </e1> INCIPIENTE , .
+O	DAC <e1> INCIPIENTE </e1> , .
+HAS .
+Problema	<e1> HAS </e1> .
+09 - 14 CATE : DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA <e1> Ponte Intra </e1> Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : <e1> DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 </e1> % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 <e1> PROXIMAL </e1> CD .
+Anatomia	09 - 14 CATE : DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL <e1> CD </e1> .
+Anatomia	09 - 14 CATE : <e1> DA </e1> Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte <e1> Intra Miocárdica COM </e1> OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - <e1> LEDSAO MODERADA 1 / 3 PROXIMAL </e1> CD .
+Problema	09 - 14 CATE : <e1> DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % </e1> - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+Anatomia	09 - 14 CATE : DA Ponte Intra <e1> Miocárdica </e1> COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA <e1> Ponte </e1> Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+Teste	09 - 14 <e1> CATE </e1> : DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte Intra Miocárdica COM <e1> OBSRUÇÃO </e1> SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte <e1> Intra </e1> Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte Intra Miocárdica <e1> COM </e1> OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - LEDSAO MODERADA 1 / <e1> 3 PROXIMAL </e1> CD .
+Problema	09 - 14 CATE : DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - <e1> LEDSAO MODERADA 1 / 3 PROXIMAL CD </e1> .
+O	09 - 14 CATE : DA Ponte <e1> Intra Miocárdica COM OBSRUÇÃO </e1> SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte Intra Miocárdica <e1> COM OBSRUÇÃO </e1> SISTOLE > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte Intra Miocárdica COM OBSRUÇÃO <e1> SISTOLE </e1> > 50 % - - LEDSAO MODERADA 1 / 3 PROXIMAL CD .
+O	09 - 14 CATE : DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 % - - <e1> LEDSAO </e1> MODERADA 1 / 3 PROXIMAL CD .
+# HCTZ 25 , ATL50 , AAS100 , SVT 40 , VERAPAMIL 80 D .
+Tratamento	# HCTZ 25 , ATL50 , <e1> AAS100 </e1> , SVT 40 , VERAPAMIL 80 D .
+Tratamento	# HCTZ 25 , <e1> ATL50 </e1> , AAS100 , SVT 40 , VERAPAMIL 80 D .
+O	# HCTZ 25 , ATL50 , AAS100 , SVT 40 , <e1> VERAPAMIL </e1> 80 D .
+Tratamento	# HCTZ 25 , ATL50 , AAS100 , <e1> SVT 40 </e1> , VERAPAMIL 80 D .
+O	# HCTZ 25 , ATL50 , AAS100 , <e1> SVT </e1> 40 , VERAPAMIL 80 D .
+Tratamento	# <e1> HCTZ 25 </e1> , ATL50 , AAS100 , SVT 40 , VERAPAMIL 80 D .
+O	# <e1> HCTZ </e1> 25 , ATL50 , AAS100 , SVT 40 , VERAPAMIL 80 D .
+Tratamento	# HCTZ 25 , ATL50 , AAS100 , SVT 40 , <e1> VERAPAMIL 80 </e1> D .
+ECO 27 - 2 - 15 : FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , INSUF MI DISCRETA , HSAP 42 .
+Teste	<e1> ECO </e1> 27 - 2 - 15 : FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , INSUF MI DISCRETA , HSAP 42 .
+O	ECO 27 - 2 - 15 : FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , <e1> INSUF MI </e1> DISCRETA , HSAP 42 .
+Anatomia	ECO 27 - 2 - 15 : FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , INSUF <e1> MI </e1> DISCRETA , HSAP 42 .
+Anatomia	ECO 27 - 2 - 15 : FE 53 , EP 39 , <e1> AE </e1> 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , INSUF MI DISCRETA , HSAP 42 .
+Anatomia	ECO 27 - 2 - 15 : FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , <e1> AE </e1> LIMITROFE , INSUF MI DISCRETA , HSAP 42 .
+Problema	ECO 27 - 2 - 15 : FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , <e1> INSUF MI DISCRETA </e1> , HSAP 42 .
+O	ECO 27 - 2 - 15 : FE 53 , EP 39 , AE 42 , FÇAO SIST LIMITROFE E DIAST PRESERVADA , AE LIMITROFE , <e1> INSUF </e1> MI DISCRETA , HSAP 42 .
+31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , <e1> LDL </e1> 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , <e1> TRI </e1> 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , <e1> CRE </e1> 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , <e1> NA </e1> 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , <e1> K </e1> 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : <e1> HB </e1> 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; <e1> COL </e1> 182 .
+Teste	31 - 3 - 15 : HB 15 , <e1> HT </e1> 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , <e1> U </e1> 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; <e1> GLI </e1> 88 , U 30 , TRI 72 , HDL 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Teste	31 - 3 - 15 : HB 15 , HT 89 , CRE 1 , 1 ; GLI 88 , U 30 , TRI 72 , <e1> HDL </e1> 47 , NA 137 , LDL 121 , K 4 , 4 ; COL 182 .
+Cintilografia miocárdica : FE 59 % , negativa para isquemia .
+Problema	Cintilografia miocárdica : FE 59 % , negativa para <e1> isquemia </e1> .
+Teste	<e1> Cintilografia miocárdica </e1> : FE 59 % , negativa para isquemia .
+Anatomia	Cintilografia <e1> miocárdica </e1> : FE 59 % , negativa para isquemia .
+O	<e1> Cintilografia </e1> miocárdica : FE 59 % , negativa para isquemia .
+PA 140 / 80 , .
+Teste	<e1> PA </e1> 140 / 80 , .
+EF : BEG , M corado , hidratado , uepencio , acianotico , anciterico .
+Teste	<e1> EF </e1> : BEG , M corado , hidratado , uepencio , acianotico , anciterico .
+MV + , s / RA , .
+Problema	MV + , s / <e1> RA </e1> , .
+BRNF 2 t , s / sorpso .
+Problema	BRNF 2 t , s / <e1> sorpso </e1> .
+membros perufndidos , sem edemas .
+Anatomia	<e1> membros </e1> perufndidos , sem edemas .
+Problema	membros perufndidos , sem <e1> edemas </e1> .
+lipidgrama .
+Teste	<e1> lipidgrama </e1> .
+HAS / DLP , .
+Problema	<e1> HAS </e1> / DLP , .
+Problema	HAS / <e1> DLP </e1> , .
+Pos - operatorio recente de retirada de ' Tumor ' em regtião cervical , não conseguiram controlar , .
+O	Pos - operatorio recente de retirada de ' Tumor ' em <e1> regtião </e1> cervical , não conseguiram controlar , .
+O	Pos - operatorio recente de <e1> retirada </e1> de ' Tumor ' em regtião cervical , não conseguiram controlar , .
+O	Pos - operatorio recente de retirada de ' Tumor ' <e1> em </e1> regtião cervical , não conseguiram controlar , .
+Anatomia	Pos - operatorio recente de retirada de ' Tumor ' em <e1> regtião cervical </e1> , não conseguiram controlar , .
+O	Pos - operatorio recente de retirada de ' Tumor ' <e1> em regtião </e1> cervical , não conseguiram controlar , .
+Tratamento	Pos - operatorio recente de <e1> retirada de ' Tumor ' em regtião cervical </e1> , não conseguiram controlar , .
+O	Pos - operatorio recente de <e1> retirada de ' Tumor ' em regtião </e1> cervical , não conseguiram controlar , .
+Bronquite , .
+Problema	<e1> Bronquite </e1> , .
+Obesidade , .
+Problema	<e1> Obesidade </e1> , .
+# Tosse com captopril .
+O	# Tosse <e1> com </e1> captopril .
+Tratamento	# Tosse com <e1> captopril </e1> .
+Problema	# <e1> Tosse </e1> com captopril .
+Problema	# Tosse <e1> com captopril </e1> .
+# Losartana 50 / 12h , anlodipino 5 , HCTZ 25 , Alenia 6 / 6h , AAS 100 ( dias alternados ) .
+O	# Losartana 50 / 12h , anlodipino 5 , HCTZ 25 , Alenia 6 / 6h , <e1> AAS </e1> 100 ( dias alternados ) .
+Tratamento	# Losartana 50 / 12h , <e1> anlodipino 5 </e1> , HCTZ 25 , Alenia 6 / 6h , AAS 100 ( dias alternados ) .
+O	# <e1> Losartana </e1> 50 / 12h , anlodipino 5 , HCTZ 25 , Alenia 6 / 6h , AAS 100 ( dias alternados ) .
+Tratamento	# <e1> Losartana 50 </e1> / 12h , anlodipino 5 , HCTZ 25 , Alenia 6 / 6h , AAS 100 ( dias alternados ) .
+Tratamento	# Losartana 50 / 12h , anlodipino 5 , <e1> HCTZ 25 </e1> , Alenia 6 / 6h , AAS 100 ( dias alternados ) .
+Tratamento	# Losartana 50 / 12h , anlodipino 5 , HCTZ 25 , Alenia 6 / 6h , <e1> AAS 100 </e1> ( dias alternados ) .
+O	# Losartana 50 / 12h , anlodipino 5 , <e1> HCTZ </e1> 25 , Alenia 6 / 6h , AAS 100 ( dias alternados ) .
+O	# Losartana 50 / 12h , <e1> anlodipino </e1> 5 , HCTZ 25 , Alenia 6 / 6h , AAS 100 ( dias alternados ) .
+Tratamento	# Losartana 50 / 12h , anlodipino 5 , HCTZ 25 , <e1> Alenia </e1> 6 / 6h , AAS 100 ( dias alternados ) .
+Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e <e1> irradiação para região </e1> precordial duração de 15 minutos , com dificuldade para mexer o braço .
+Anatomia	Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o <e1> braço </e1> .
+O	Queixa de dor em MSE e <e1> irradiação </e1> para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação para região <e1> precordial </e1> duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação para <e1> região </e1> precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação <e1> para região </e1> precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com <e1> dificuldade </e1> para mexer o braço .
+Problema	Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com <e1> dificuldade para mexer o braço </e1> .
+O	Queixa de dor em MSE e <e1> irradiação para </e1> região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de <e1> dor em MSE e irradiação para região </e1> precordial duração de 15 minutos , com dificuldade para mexer o braço .
+Anatomia	Queixa de dor em <e1> MSE </e1> e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de <e1> dor em MSE e </e1> irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de <e1> dor em </e1> MSE e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+Problema	Queixa de <e1> dor em MSE e irradiação para região precordial </e1> duração de 15 minutos , com dificuldade para mexer o braço .
+Anatomia	Queixa de dor em MSE e irradiação para <e1> região precordial </e1> duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação <e1> para </e1> região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor <e1> em </e1> MSE e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com <e1> dificuldade para mexer o </e1> braço .
+Dispnéia aos esforços ( 400 / 500 metros ) .
+O	Dispnéia aos <e1> esforços </e1> ( 400 / 500 metros ) .
+O	<e1> Dispnéia </e1> aos esforços ( 400 / 500 metros ) .
+Problema	<e1> Dispnéia aos esforços </e1> ( 400 / 500 metros ) .
+O	<e1> Dispnéia aos </e1> esforços ( 400 / 500 metros ) .
+PA 150 / 80 , .
+Teste	<e1> PA </e1> 150 / 80 , .
+EF : BEG , corada , hidratada , eupneica , acinaotioca , anicterica .
+Teste	<e1> EF </e1> : BEG , corada , hidratada , eupneica , acinaotioca , anicterica .
+s / sopro carotideo .
+O	s / <e1> sopro </e1> carotideo .
+Anatomia	s / sopro <e1> carotideo </e1> .
+Problema	s / <e1> sopro carotideo </e1> .
+MV + c / sibilos expiratorios .
+Problema	MV + c / <e1> sibilos expiratorios </e1> .
+O	MV + c / <e1> sibilos </e1> expiratorios .
+BR2t s / sopros .
+Problema	BR2t s / <e1> sopros </e1> .
+membors perfundidos , sem edemas , dermatite ocre .
+Problema	membors perfundidos , sem <e1> edemas </e1> , dermatite ocre .
+Anatomia	<e1> membors </e1> perfundidos , sem edemas , dermatite ocre .
+Problema	membors perfundidos , sem edemas , <e1> dermatite ocre </e1> .
+O	membors perfundidos , sem edemas , <e1> dermatite </e1> ocre .
+CD : LAb + Ergometrico + ETT .
+Teste	CD : LAb + Ergometrico + <e1> ETT </e1> .
+Teste	CD : LAb + <e1> Ergometrico </e1> + ETT .
+Teste	CD : <e1> LAb </e1> + Ergometrico + ETT .
+Aumento anlodipina .
+Tratamento	Aumento <e1> anlodipina </e1> .
+Usar aradois como losartana .
+Tratamento	Usar <e1> aradois </e1> como losartana .
+Tratamento	Usar aradois como <e1> losartana </e1> .
+HAS / DLP .
+Problema	HAS / <e1> DLP </e1> .
+Problema	<e1> HAS </e1> / DLP .
+Bronquite , .
+Problema	<e1> Bronquite </e1> , .
+Obesidade , .
+Problema	<e1> Obesidade </e1> , .
+# Tosse com captopril .
+Tratamento	# Tosse com <e1> captopril </e1> .
+Problema	# <e1> Tosse </e1> com captopril .
+# Losartana 100 / 12h , anlodipino 5 / 12h , HCTZ 25 , Alenia 6 / 6h , .
+Tratamento	# Losartana 100 / 12h , anlodipino 5 / 12h , <e1> HCTZ 25 </e1> , Alenia 6 / 6h , .
+Tratamento	# Losartana 100 / 12h , anlodipino 5 / 12h , HCTZ 25 , <e1> Alenia </e1> 6 / 6h , .
+Tratamento	# <e1> Losartana 100 </e1> / 12h , anlodipino 5 / 12h , HCTZ 25 , Alenia 6 / 6h , .
+O	# <e1> Losartana </e1> 100 / 12h , anlodipino 5 / 12h , HCTZ 25 , Alenia 6 / 6h , .
+O	# Losartana 100 / 12h , anlodipino 5 / 12h , <e1> HCTZ </e1> 25 , Alenia 6 / 6h , .
+O	# Losartana 100 / 12h , <e1> anlodipino </e1> 5 / 12h , HCTZ 25 , Alenia 6 / 6h , .
+Tratamento	# Losartana 100 / 12h , <e1> anlodipino 5 </e1> / 12h , HCTZ 25 , Alenia 6 / 6h , .
+Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação para região <e1> precordial </e1> duração de 15 minutos , com dificuldade para mexer o braço .
+Anatomia	Queixa de dor em MSE e irradiação para <e1> região precordial </e1> duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de <e1> dor em </e1> MSE e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+Problema	Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com <e1> dificuldade para mexer o braço </e1> .
+O	Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com <e1> dificuldade </e1> para mexer o braço .
+O	Queixa de <e1> dor em MSE e </e1> irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+Anatomia	Queixa de dor em <e1> MSE </e1> e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor <e1> em </e1> MSE e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de <e1> dor em MSE e irradiação para região </e1> precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e <e1> irradiação para </e1> região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e <e1> irradiação </e1> para região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação para <e1> região </e1> precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação <e1> para região </e1> precordial duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com <e1> dificuldade para mexer o </e1> braço .
+Problema	Queixa de <e1> dor em MSE e irradiação para região precordial </e1> duração de 15 minutos , com dificuldade para mexer o braço .
+O	Queixa de dor em MSE e <e1> irradiação para região </e1> precordial duração de 15 minutos , com dificuldade para mexer o braço .
+Anatomia	Queixa de dor em MSE e irradiação para região precordial duração de 15 minutos , com dificuldade para mexer o <e1> braço </e1> .
+O	Queixa de dor em MSE e irradiação <e1> para </e1> região precordial duração de 15 minutos , com dificuldade para mexer o braço .
+Dispnéia aos esforços ( 400 / 500 metros ) .
+Problema	<e1> Dispnéia aos esforços </e1> ( 400 / 500 metros ) .
+O	<e1> Dispnéia aos </e1> esforços ( 400 / 500 metros ) .
+O	<e1> Dispnéia </e1> aos esforços ( 400 / 500 metros ) .
+O	Dispnéia aos <e1> esforços </e1> ( 400 / 500 metros ) .
+EF : BEG , corada , hidratada , eupneica , acinaotioca , anicterica .
+Teste	<e1> EF </e1> : BEG , corada , hidratada , eupneica , acinaotioca , anicterica .
+s / sopro carotideo .
+Problema	s / <e1> sopro carotideo </e1> .
+O	s / <e1> sopro </e1> carotideo .
+Anatomia	s / sopro <e1> carotideo </e1> .
+MV + c / sibilos expiratorios ; .
+O	MV + c / <e1> sibilos </e1> expiratorios ; .
+Problema	MV + c / <e1> sibilos expiratorios </e1> ; .
+BR2t s / sopros ; .
+Problema	BR2t s / <e1> sopros </e1> ; .
+membors perfundidos , sem edemas , dermatite ocre .
+Anatomia	<e1> membors </e1> perfundidos , sem edemas , dermatite ocre .
+Problema	membors perfundidos , sem edemas , <e1> dermatite ocre </e1> .
+Problema	membors perfundidos , sem <e1> edemas </e1> , dermatite ocre .
+O	membors perfundidos , sem edemas , <e1> dermatite </e1> ocre .
+ECO ( 26587 / 25 / 03 / 15 ) : .
+Teste	<e1> ECO </e1> ( 26587 / 25 / 03 / 15 ) : .
+AE 29 , Vd 22 , S 10 , PP 09 , FE 69 % .
+Anatomia	AE 29 , <e1> Vd </e1> 22 , S 10 , PP 09 , FE 69 % .
+Anatomia	AE 29 , Vd 22 , S 10 , <e1> PP </e1> 09 , FE 69 % .
+Anatomia	<e1> AE </e1> 29 , Vd 22 , S 10 , PP 09 , FE 69 % .
+Anatomia	AE 29 , Vd 22 , <e1> S </e1> 10 , PP 09 , FE 69 % .
+remodelamento concentrioc .
+O	<e1> remodelamento </e1> concentrioc .
+Problema	<e1> remodelamento concentrioc </e1> .
+Hb 14 , 5 ; Ht 45 , 7 ; Leuco 7950 ; Eo 1 ; Lf 30 ; Mo 10 ; Sg 58 ; .
+Teste	Hb 14 , 5 ; <e1> Ht </e1> 45 , 7 ; Leuco 7950 ; Eo 1 ; Lf 30 ; Mo 10 ; Sg 58 ; .
+Teste	Hb 14 , 5 ; Ht 45 , 7 ; Leuco 7950 ; Eo 1 ; <e1> Lf </e1> 30 ; Mo 10 ; Sg 58 ; .
+Teste	Hb 14 , 5 ; Ht 45 , 7 ; Leuco 7950 ; Eo 1 ; Lf 30 ; <e1> Mo </e1> 10 ; Sg 58 ; .
+Teste	Hb 14 , 5 ; Ht 45 , 7 ; Leuco 7950 ; <e1> Eo </e1> 1 ; Lf 30 ; Mo 10 ; Sg 58 ; .
+Teste	Hb 14 , 5 ; Ht 45 , 7 ; Leuco 7950 ; Eo 1 ; Lf 30 ; Mo 10 ; <e1> Sg </e1> 58 ; .
+Teste	<e1> Hb </e1> 14 , 5 ; Ht 45 , 7 ; Leuco 7950 ; Eo 1 ; Lf 30 ; Mo 10 ; Sg 58 ; .
+Teste	Hb 14 , 5 ; Ht 45 , 7 ; <e1> Leuco </e1> 7950 ; Eo 1 ; Lf 30 ; Mo 10 ; Sg 58 ; .
+Cr 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; Ác úrico 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+Teste	Cr 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; <e1> FA </e1> 161 ; GGT 50 ; Ác úrico 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+Teste	Cr 0 , 7 ; Glicose 101 ; U 34 ; <e1> Mg </e1> 1 , 8 ; FA 161 ; GGT 50 ; Ác úrico 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+Teste	Cr 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; Ác úrico 6 , 5 ; Na 141 ; <e1> PK </e1> 4 , 1 ; .
+O	Cr 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; <e1> Ác </e1> úrico 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+Teste	Cr 0 , 7 ; <e1> Glicose </e1> 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; Ác úrico 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+Teste	Cr 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; <e1> Ác úrico </e1> 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+Teste	Cr 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; Ác úrico 6 , 5 ; <e1> Na </e1> 141 ; PK 4 , 1 ; .
+Teste	Cr 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; <e1> GGT </e1> 50 ; Ác úrico 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+Teste	Cr 0 , 7 ; Glicose 101 ; <e1> U </e1> 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; Ác úrico 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+O	Cr 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; Ác <e1> úrico </e1> 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+Teste	<e1> Cr </e1> 0 , 7 ; Glicose 101 ; U 34 ; Mg 1 , 8 ; FA 161 ; GGT 50 ; Ác úrico 6 , 5 ; Na 141 ; PK 4 , 1 ; .
+CT 181 ; LDL 94 ; HDL 38 ; Tg 247 ; .
+Teste	<e1> CT </e1> 181 ; LDL 94 ; HDL 38 ; Tg 247 ; .
+Teste	CT 181 ; LDL 94 ; <e1> HDL </e1> 38 ; Tg 247 ; .
+Teste	CT 181 ; LDL 94 ; HDL 38 ; <e1> Tg </e1> 247 ; .
+Teste	CT 181 ; <e1> LDL </e1> 94 ; HDL 38 ; Tg 247 ; .
+TSH 5 , 74 ; .
+Teste	<e1> TSH </e1> 5 , 74 ; .
+PA 160 / 110 .
+Teste	<e1> PA </e1> 160 / 110 .
+EF ; BEG , corado , hidratado , eupenico , acianotico , anciterica .
+Teste	<e1> EF </e1> ; BEG , corado , hidratado , eupenico , acianotico , anciterica .
+MV + s / Ra ; .
+Problema	MV + s / <e1> Ra </e1> ; .
+BRNF 2 t s / sopros ; .
+Problema	BRNF 2 t s / <e1> sopros </e1> ; .
+abd globoso dep indolor .
+Anatomia	<e1> abd </e1> globoso dep indolor .
+membros perufndido , s sem edenas .
+Anatomia	<e1> membros </e1> perufndido , s sem edenas .
+Problema	membros perufndido , s sem <e1> edenas </e1> .
+Aguarda novo TE ( solicito novamente , perdeu o outro ) .
+Teste	Aguarda novo <e1> TE </e1> ( solicito novamente , perdeu o outro ) .
+Nova glicemia Hb glicada .
+Teste	Nova glicemia <e1> Hb glicada </e1> .
+O	Nova glicemia <e1> Hb </e1> glicada .
+Teste	Nova <e1> glicemia </e1> Hb glicada .
+HAS / DLP .
+Problema	HAS / <e1> DLP </e1> .
+Problema	<e1> HAS </e1> / DLP .
+Bronquite , .
+Problema	<e1> Bronquite </e1> , .
+Obesidade , .
+Problema	<e1> Obesidade </e1> , .
+# Tosse com captopril .
+Tratamento	# Tosse com <e1> captopril </e1> .
+Problema	# <e1> Tosse </e1> com captopril .
+# Losartana 100 / 12h , anlodipino 5 , HCTZ 25 , Alenia 6 / 6h .
+O	# <e1> Losartana </e1> 100 / 12h , anlodipino 5 , HCTZ 25 , Alenia 6 / 6h .
+O	# Losartana 100 / 12h , <e1> anlodipino </e1> 5 , HCTZ 25 , Alenia 6 / 6h .
+Tratamento	# <e1> Losartana 100 </e1> / 12h , anlodipino 5 , HCTZ 25 , Alenia 6 / 6h .
+Tratamento	# Losartana 100 / 12h , anlodipino 5 , <e1> HCTZ 25 </e1> , Alenia 6 / 6h .
+Tratamento	# Losartana 100 / 12h , anlodipino 5 , HCTZ 25 , <e1> Alenia </e1> 6 / 6h .
+O	# Losartana 100 / 12h , anlodipino 5 , <e1> HCTZ </e1> 25 , Alenia 6 / 6h .
+Tratamento	# Losartana 100 / 12h , <e1> anlodipino 5 </e1> , HCTZ 25 , Alenia 6 / 6h .
+@ Melhora da dor torácica .
+Anatomia	@ Melhora da dor <e1> torácica </e1> .
+Problema	@ Melhora da <e1> dor torácica </e1> .
+Dispnéia aos esforços ( 400 / 500 metros ) .
+O	<e1> Dispnéia aos </e1> esforços ( 400 / 500 metros ) .
+Problema	<e1> Dispnéia aos esforços </e1> ( 400 / 500 metros ) .
+O	Dispnéia aos <e1> esforços </e1> ( 400 / 500 metros ) .
+O	<e1> Dispnéia </e1> aos esforços ( 400 / 500 metros ) .
+TE 5 , 7 mets 108 % Fc máxima .
+Teste	<e1> TE </e1> 5 , 7 mets 108 % Fc máxima .
+EF : BEG , corada , hidratada , eupneica , acinaotioca , anicterica .
+Teste	<e1> EF </e1> : BEG , corada , hidratada , eupneica , acinaotioca , anicterica .
+s / sopro carotideo , .
+O	s / <e1> sopro </e1> carotideo , .
+Problema	s / <e1> sopro carotideo </e1> , .
+Anatomia	s / sopro <e1> carotideo </e1> , .
+MV + c / sibilos expiratorios , .
+O	MV + c / <e1> sibilos </e1> expiratorios , .
+Problema	MV + c / <e1> sibilos expiratorios </e1> , .
+BR2t s / sopros , .
+Problema	BR2t s / <e1> sopros </e1> , .
+membors perfundidos , sem edemas , dermatite ocre .
+Problema	membors perfundidos , sem edemas , <e1> dermatite ocre </e1> .
+O	membors perfundidos , sem edemas , <e1> dermatite </e1> ocre .
+Anatomia	<e1> membors </e1> perfundidos , sem edemas , dermatite ocre .
+Problema	membors perfundidos , sem <e1> edemas </e1> , dermatite ocre .
+Glicose 108 ; Hb glicada 5 , 78 ; .
+Teste	<e1> Glicose </e1> 108 ; Hb glicada 5 , 78 ; .
+O	Glicose 108 ; <e1> Hb </e1> glicada 5 , 78 ; .
+Teste	Glicose 108 ; <e1> Hb glicada </e1> 5 , 78 ; .
+PA 150 / 100 .
+Teste	<e1> PA </e1> 150 / 100 .
+hD : Glicemia de JJ alterada .
+O	hD : Glicemia <e1> de </e1> JJ alterada .
+Problema	hD : <e1> Glicemia de JJ alterada </e1> .
+O	hD : Glicemia de <e1> JJ </e1> alterada .
+O	hD : <e1> Glicemia </e1> de JJ alterada .
+O	hD : <e1> Glicemia de JJ </e1> alterada .
+O	hD : <e1> Glicemia de </e1> JJ alterada .
+CD : MEV ( dieta e alimentação ) .
+Tratamento	CD : MEV ( <e1> dieta </e1> e alimentação ) .
+Tratamento	CD : <e1> MEV </e1> ( dieta e alimentação ) .
+CMD APÓS GESTAÇÃO .
+Problema	<e1> CMD </e1> APÓS GESTAÇÃO .
+IMPLANTOU RESSINC E CDI EM NOV DE 15 .
+Tratamento	IMPLANTOU RESSINC E <e1> CDI </e1> EM NOV DE 15 .
+Tratamento	IMPLANTOU <e1> RESSINC </e1> E CDI EM NOV DE 15 .
+ANTES SENTIA - SE MAL ATÉ EM PENTEAR O CABELO , TOMAR BANHO ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E ORTOPNEIA .
+Anatomia	ANTES SENTIA - SE MAL ATÉ EM PENTEAR O <e1> CABELO </e1> , TOMAR BANHO ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E ORTOPNEIA .
+Problema	ANTES SENTIA - SE MAL ATÉ EM PENTEAR O CABELO , TOMAR BANHO ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E <e1> ORTOPNEIA </e1> .
+Problema	ANTES SENTIA - SE MAL ATÉ EM PENTEAR O CABELO , <e1> TOMAR BANHO </e1> ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E ORTOPNEIA .
+O	ANTES SENTIA - SE MAL ATÉ EM PENTEAR O CABELO , TOMAR <e1> BANHO </e1> ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E ORTOPNEIA .
+O	ANTES <e1> SENTIA - SE </e1> MAL ATÉ EM PENTEAR O CABELO , TOMAR BANHO ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E ORTOPNEIA .
+O	ANTES SENTIA - SE <e1> MAL </e1> ATÉ EM PENTEAR O CABELO , TOMAR BANHO ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E ORTOPNEIA .
+Problema	ANTES <e1> SENTIA - SE MAL </e1> ATÉ EM PENTEAR O CABELO , TOMAR BANHO ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E ORTOPNEIA .
+Problema	ANTES SENTIA - SE MAL ATÉ EM PENTEAR O CABELO , TOMAR BANHO ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA <e1> DPN </e1> E ORTOPNEIA .
+O	ANTES SENTIA - SE MAL ATÉ EM PENTEAR O CABELO , <e1> TOMAR </e1> BANHO ( ESTAVA PRATICAMENTE EM CADEIRA DE RODAS ) , TINHA DPN E ORTOPNEIA .
+# mp MULTISSITIO .
+Tratamento	# <e1> mp MULTISSITIO </e1> .
+O	# <e1> mp </e1> MULTISSITIO .
+O	# mp <e1> MULTISSITIO </e1> .
+VE COM 609 , 19 , 6 E 11 X 0 , 5 .
+Anatomia	<e1> VE </e1> COM 609 , 19 , 6 E 11 X 0 , 5 .
+12 - 3 - 13 DESCRIÇÃO CX - TROCA VALVAR MITRAL BIOPROTESE N 31 .
+O	12 - 3 - 13 DESCRIÇÃO CX - TROCA VALVAR <e1> MITRAL BIOPROTESE N </e1> 31 .
+O	12 - 3 - 13 DESCRIÇÃO CX - TROCA <e1> VALVAR </e1> MITRAL BIOPROTESE N 31 .
+O	12 - 3 - 13 DESCRIÇÃO CX - TROCA VALVAR MITRAL BIOPROTESE <e1> N </e1> 31 .
+O	12 - 3 - 13 DESCRIÇÃO CX - <e1> TROCA </e1> VALVAR MITRAL BIOPROTESE N 31 .
+Tratamento	12 - 3 - 13 DESCRIÇÃO <e1> CX </e1> - TROCA VALVAR MITRAL BIOPROTESE N 31 .
+O	12 - 3 - 13 DESCRIÇÃO CX - TROCA VALVAR MITRAL <e1> BIOPROTESE </e1> N 31 .
+O	12 - 3 - 13 DESCRIÇÃO CX - TROCA VALVAR <e1> MITRAL BIOPROTESE </e1> N 31 .
+O	12 - 3 - 13 DESCRIÇÃO CX - <e1> TROCA VALVAR MITRAL BIOPROTESE N </e1> 31 .
+O	12 - 3 - 13 DESCRIÇÃO CX - TROCA VALVAR MITRAL <e1> BIOPROTESE N </e1> 31 .
+Tratamento	12 - 3 - 13 DESCRIÇÃO CX - <e1> TROCA VALVAR MITRAL BIOPROTESE N 31 </e1> .
+O	12 - 3 - 13 DESCRIÇÃO CX - <e1> TROCA VALVAR </e1> MITRAL BIOPROTESE N 31 .
+Anatomia	12 - 3 - 13 DESCRIÇÃO CX - TROCA VALVAR <e1> MITRAL </e1> BIOPROTESE N 31 .
+6 - 4 - 15 FE 63 EP 35 AE 48 FÇAO DIAT INDETEREMINADA PROTESE BIOLO POSSIVEL ESTENOSE ? ? DEMAIS FLUXOS SEM ALT GRAD MEDIO 10 , 5 MMHG AREA 1 , 7 CM2 .
+O	6 - 4 - 15 FE 63 EP 35 AE 48 FÇAO DIAT INDETEREMINADA <e1> PROTESE </e1> BIOLO POSSIVEL ESTENOSE ? ? DEMAIS FLUXOS SEM ALT GRAD MEDIO 10 , 5 MMHG AREA 1 , 7 CM2 .
+Anatomia	6 - 4 - 15 FE 63 EP 35 <e1> AE </e1> 48 FÇAO DIAT INDETEREMINADA PROTESE BIOLO POSSIVEL ESTENOSE ? ? DEMAIS FLUXOS SEM ALT GRAD MEDIO 10 , 5 MMHG AREA 1 , 7 CM2 .
+O	6 - 4 - 15 FE 63 EP 35 AE 48 FÇAO DIAT INDETEREMINADA PROTESE <e1> BIOLO </e1> POSSIVEL ESTENOSE ? ? DEMAIS FLUXOS SEM ALT GRAD MEDIO 10 , 5 MMHG AREA 1 , 7 CM2 .
+Problema	6 - 4 - 15 FE 63 EP 35 AE 48 FÇAO DIAT INDETEREMINADA PROTESE BIOLO POSSIVEL ESTENOSE ? ? DEMAIS FLUXOS SEM <e1> ALT </e1> GRAD MEDIO 10 , 5 MMHG AREA 1 , 7 CM2 .
+Problema	6 - 4 - 15 FE 63 EP 35 AE 48 FÇAO DIAT INDETEREMINADA PROTESE BIOLO POSSIVEL <e1> ESTENOSE </e1> ? ? DEMAIS FLUXOS SEM ALT GRAD MEDIO 10 , 5 MMHG AREA 1 , 7 CM2 .
+Tratamento	6 - 4 - 15 FE 63 EP 35 AE 48 FÇAO DIAT INDETEREMINADA <e1> PROTESE BIOLO </e1> POSSIVEL ESTENOSE ? ? DEMAIS FLUXOS SEM ALT GRAD MEDIO 10 , 5 MMHG AREA 1 , 7 CM2 .
+SEM QX ATUSIA .
+Problema	SEM <e1> QX </e1> ATUSIA .
+P CONTROLE NO AMB VALVAS .
+Anatomia	P CONTROLE NO AMB <e1> VALVAS </e1> .
+Tratamento	P <e1> CONTROLE </e1> NO AMB VALVAS .
+MANTENHO GLIBEN ATL CLORTALIDONA E LST .
+Tratamento	MANTENHO <e1> GLIBEN </e1> ATL CLORTALIDONA E LST .
+Tratamento	MANTENHO GLIBEN <e1> ATL </e1> CLORTALIDONA E LST .
+Tratamento	MANTENHO GLIBEN ATL CLORTALIDONA E <e1> LST </e1> .
+Tratamento	MANTENHO GLIBEN ATL <e1> CLORTALIDONA </e1> E LST .
+CONTROLE DE PÁ .
+O	CONTROLE DE <e1> PÁ </e1> .
+Tratamento	<e1> CONTROLE DE PÁ </e1> .
+O	CONTROLE <e1> DE </e1> PÁ .
+O	<e1> CONTROLE DE </e1> PÁ .
+O	<e1> CONTROLE </e1> DE PÁ .
+IC ISQUEMICA ( RVM EM 2008 , ATC EM 2009 E IAM + PCR + ATC DA EM 2011 ) .
+Anatomia	IC ISQUEMICA ( RVM EM 2008 , ATC EM 2009 E IAM + PCR + ATC <e1> DA </e1> EM 2011 ) .
+O	<e1> IC </e1> ISQUEMICA ( RVM EM 2008 , ATC EM 2009 E IAM + PCR + ATC DA EM 2011 ) .
+Problema	IC ISQUEMICA ( RVM EM 2008 , ATC EM 2009 E <e1> IAM </e1> + PCR + ATC DA EM 2011 ) .
+Tratamento	IC ISQUEMICA ( RVM EM 2008 , ATC EM 2009 E IAM + PCR + <e1> ATC DA </e1> EM 2011 ) .
+Problema	<e1> IC ISQUEMICA </e1> ( RVM EM 2008 , ATC EM 2009 E IAM + PCR + ATC DA EM 2011 ) .
+Tratamento	IC ISQUEMICA ( RVM EM 2008 , <e1> ATC </e1> EM 2009 E IAM + PCR + ATC DA EM 2011 ) .
+O	IC ISQUEMICA ( RVM EM 2008 , ATC EM 2009 E IAM + PCR + <e1> ATC </e1> DA EM 2011 ) .
+Tratamento	IC ISQUEMICA ( <e1> RVM </e1> EM 2008 , ATC EM 2009 E IAM + PCR + ATC DA EM 2011 ) .
+Problema	IC ISQUEMICA ( RVM EM 2008 , ATC EM 2009 E IAM + <e1> PCR </e1> + ATC DA EM 2011 ) .
+DEFICT NEUROLÓGICO PÓS PCR EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+O	DEFICT <e1> NEUROLÓGICO PÓS </e1> PCR EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+Anatomia	DEFICT <e1> NEUROLÓGICO </e1> PÓS PCR EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+O	DEFICT NEUROLÓGICO PÓS PCR EM 2011 ( PERDA <e1> MEMÓRIA </e1> RECENTE ) .
+Problema	<e1> DEFICT NEUROLÓGICO PÓS PCR </e1> EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+O	<e1> DEFICT NEUROLÓGICO PÓS </e1> PCR EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+O	DEFICT NEUROLÓGICO <e1> PÓS </e1> PCR EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+O	<e1> DEFICT </e1> NEUROLÓGICO PÓS PCR EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+O	<e1> DEFICT NEUROLÓGICO </e1> PÓS PCR EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+O	DEFICT NEUROLÓGICO PÓS PCR EM 2011 ( <e1> PERDA MEMÓRIA </e1> RECENTE ) .
+O	DEFICT NEUROLÓGICO PÓS PCR EM 2011 ( <e1> PERDA </e1> MEMÓRIA RECENTE ) .
+O	DEFICT NEUROLÓGICO PÓS <e1> PCR </e1> EM 2011 ( PERDA MEMÓRIA RECENTE ) .
+Problema	DEFICT NEUROLÓGICO PÓS PCR EM 2011 ( <e1> PERDA MEMÓRIA RECENTE </e1> ) .
+EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , <e1> LEVOTIROXINA </e1> 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , <e1> LEVOTIROXINA 50MCG </e1> / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , <e1> ESPIRONOLACTONA 25MG </e1> / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil <e1> 20mg </e1> 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , <e1> SINVASTATINA </e1> 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , <e1> SINVASTATINA 40MG </e1> / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , <e1> monocordil 20mg </e1> 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : <e1> ENALAPRIL </e1> 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , <e1> ESPIRONOLACTONA </e1> 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL <e1> 25MG </e1> 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , <e1> QUETRUSe </e1> lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , <e1> AAS </e1> 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS <e1> 200MG </e1> / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL <e1> 10MG </e1> 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , <e1> monocordil </e1> 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe <e1> lamitor </e1> e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA <e1> 50MCG </e1> / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , <e1> CARVEDILOL </e1> 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , <e1> AAS 200MG </e1> / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA <e1> 25MG </e1> / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , <e1> CARVEDILOL 25MG </e1> 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : <e1> ENALAPRIL 10MG </e1> 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+O	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA <e1> 40MG </e1> / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e exodus .
+Tratamento	EM USO DE : ENALAPRIL 10MG 12 / 12HS , CARVEDILOL 25MG 12 / 12HS , ESPIRONOLACTONA 25MG / D , AAS 200MG / D , monocordil 20mg 2x , SINVASTATINA 40MG / D , LEVOTIROXINA 50MCG / D + 25MCG / DIA , QUETRUSe lamitor e <e1> exodus </e1> .
+TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , <e1> CT </e1> 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , <e1> HDL </e1> 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , <e1> TG </e1> 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , <e1> NA </e1> 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE <e1> LAB </e1> HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , <e1> K </e1> 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , <e1> LDL </e1> 50 .
+Teste	TROUXE LAB HB 13 , 1 , <e1> LEUC </e1> 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , <e1> UREIA </e1> 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , <e1> GLIC </e1> 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , <e1> TGP </e1> 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , <e1> CRAET </e1> 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , <e1> HB GLICADA </e1> 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB <e1> HB </e1> 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , <e1> TSH </e1> 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , <e1> CPK </e1> 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+Teste	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , <e1> TGO </e1> 23 , CT 101 , TSH 3 , 44 , HB GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+O	TROUXE LAB HB 13 , 1 , LEUC 7730 , NA 141 , K 4 , 3 , CRAET 0 , 8 , , GLIC 94 , UREIA 72 , CPK 126 , TGP 27 , TGO 23 , CT 101 , TSH 3 , 44 , <e1> HB </e1> GLICADA 5 , 87 , TG 120 , HDL 28 , LDL 50 .
+ECOCARDIO 028 / 05 / 16 AE 44 , VD 23 , VE 52 / 38 , FEVE 52 % VE HIPERTROFIACDO .
+Teste	<e1> ECOCARDIO </e1> 028 / 05 / 16 AE 44 , VD 23 , VE 52 / 38 , FEVE 52 % VE HIPERTROFIACDO .
+O	ECOCARDIO 028 / 05 / 16 AE 44 , VD 23 , VE 52 / 38 , FEVE 52 % VE <e1> HIPERTROFIACDO </e1> .
+Problema	ECOCARDIO 028 / 05 / 16 AE 44 , VD 23 , VE 52 / 38 , FEVE 52 % <e1> VE HIPERTROFIACDO </e1> .
+Anatomia	ECOCARDIO 028 / 05 / 16 AE 44 , VD 23 , <e1> VE </e1> 52 / 38 , FEVE 52 % VE HIPERTROFIACDO .
+Anatomia	ECOCARDIO 028 / 05 / 16 AE 44 , <e1> VD </e1> 23 , VE 52 / 38 , FEVE 52 % VE HIPERTROFIACDO .
+Anatomia	ECOCARDIO 028 / 05 / 16 AE 44 , VD 23 , VE 52 / 38 , FEVE 52 % <e1> VE </e1> HIPERTROFIACDO .
+Anatomia	ECOCARDIO 028 / 05 / 16 <e1> AE </e1> 44 , VD 23 , VE 52 / 38 , FEVE 52 % VE HIPERTROFIACDO .
+ACINESIA MEDIO BASAL INFERO DORSAL , ALTERACAO RELAXAMENTO .
+O	<e1> ACINESIA MEDIO BASAL </e1> INFERO DORSAL , ALTERACAO RELAXAMENTO .
+O	<e1> ACINESIA </e1> MEDIO BASAL INFERO DORSAL , ALTERACAO RELAXAMENTO .
+Anatomia	ACINESIA <e1> MEDIO BASAL INFERO DORSAL </e1> , ALTERACAO RELAXAMENTO .
+O	<e1> ACINESIA MEDIO </e1> BASAL INFERO DORSAL , ALTERACAO RELAXAMENTO .
+Problema	ACINESIA MEDIO BASAL INFERO DORSAL , <e1> ALTERACAO RELAXAMENTO </e1> .
+O	ACINESIA MEDIO BASAL INFERO DORSAL , <e1> ALTERACAO </e1> RELAXAMENTO .
+O	ACINESIA MEDIO <e1> BASAL INFERO </e1> DORSAL , ALTERACAO RELAXAMENTO .
+O	ACINESIA MEDIO <e1> BASAL </e1> INFERO DORSAL , ALTERACAO RELAXAMENTO .
+O	ACINESIA <e1> MEDIO BASAL INFERO </e1> DORSAL , ALTERACAO RELAXAMENTO .
+Problema	<e1> ACINESIA MEDIO BASAL INFERO DORSAL </e1> , ALTERACAO RELAXAMENTO .
+O	ACINESIA <e1> MEDIO </e1> BASAL INFERO DORSAL , ALTERACAO RELAXAMENTO .
+O	<e1> ACINESIA MEDIO BASAL INFERO </e1> DORSAL , ALTERACAO RELAXAMENTO .
+O	ACINESIA MEDIO BASAL INFERO <e1> DORSAL </e1> , ALTERACAO RELAXAMENTO .
+O	ACINESIA <e1> MEDIO BASAL </e1> INFERO DORSAL , ALTERACAO RELAXAMENTO .
+O	ACINESIA MEDIO BASAL <e1> INFERO </e1> DORSAL , ALTERACAO RELAXAMENTO .
+O	ACINESIA MEDIO BASAL INFERO DORSAL , ALTERACAO <e1> RELAXAMENTO </e1> .
+EXCETO PELA PERDADA MEMORIA .
+O	EXCETO PELA <e1> PERDADA </e1> MEMORIA .
+O	EXCETO PELA PERDADA <e1> MEMORIA </e1> .
+Problema	EXCETO PELA <e1> PERDADA MEMORIA </e1> .
+sem estase jugular .
+Anatomia	sem estase <e1> jugular </e1> .
+O	sem <e1> estase </e1> jugular .
+Problema	sem <e1> estase jugular </e1> .
+AC : BCRNf sem sopros B2 DESDOBRADA FIXA .
+O	AC : BCRNf sem sopros B2 <e1> DESDOBRADA </e1> FIXA .
+Problema	AC : BCRNf sem <e1> sopros </e1> B2 DESDOBRADA FIXA .
+O	AC : BCRNf sem sopros B2 DESDOBRADA <e1> FIXA </e1> .
+Problema	AC : BCRNf sem sopros <e1> B2 DESDOBRADA FIXA </e1> .
+O	AC : BCRNf sem sopros <e1> B2 DESDOBRADA </e1> FIXA .
+O	AC : BCRNf sem sopros <e1> B2 </e1> DESDOBRADA FIXA .
+MV + e simétrico , sem RA .
+Problema	MV + e simétrico , sem <e1> RA </e1> .
+Abd : sp .
+Anatomia	<e1> Abd </e1> : sp .
+MMII : sem edema .
+Problema	MMII : sem <e1> edema </e1> .
+Anatomia	<e1> MMII </e1> : sem edema .
+A # IC isquemica CF II - E REMODELAMENTO REVERSO .
+O	A # <e1> IC isquemica CF </e1> II - E REMODELAMENTO REVERSO .
+O	A # <e1> IC isquemica </e1> CF II - E REMODELAMENTO REVERSO .
+O	A # IC isquemica <e1> CF </e1> II - E REMODELAMENTO REVERSO .
+Problema	A # IC isquemica CF II - E <e1> REMODELAMENTO REVERSO </e1> .
+O	A # IC isquemica CF II - E REMODELAMENTO <e1> REVERSO </e1> .
+O	A # IC isquemica CF <e1> II </e1> - E REMODELAMENTO REVERSO .
+O	A # IC <e1> isquemica CF </e1> II - E REMODELAMENTO REVERSO .
+Problema	A # <e1> IC isquemica CF II </e1> - E REMODELAMENTO REVERSO .
+O	A # <e1> IC </e1> isquemica CF II - E REMODELAMENTO REVERSO .
+O	A # IC <e1> isquemica </e1> CF II - E REMODELAMENTO REVERSO .
+O	A # IC isquemica CF II - E <e1> REMODELAMENTO </e1> REVERSO .
+P # SUSPENDO MONOCORDIL E ESPIRONOLACTONA .
+Tratamento	P # SUSPENDO MONOCORDIL E <e1> ESPIRONOLACTONA </e1> .
+Tratamento	P # SUSPENDO <e1> MONOCORDIL </e1> E ESPIRONOLACTONA .
+REDUZO AAS PARA 100MG .
+Tratamento	REDUZO <e1> AAS </e1> PARA 100MG .
+SOLICITO LAB + ECOTT DE CONTROLE .
+Teste	SOLICITO LAB + <e1> ECOTT </e1> DE CONTROLE .
+Teste	SOLICITO <e1> LAB </e1> + ECOTT DE CONTROLE .
+# ACOMPANHAMENTO DEVIDO A FIBRILAÇÃO ATRIAL 4 ANOS .
+O	# ACOMPANHAMENTO DEVIDO A <e1> FIBRILAÇÃO </e1> ATRIAL 4 ANOS .
+Anatomia	# ACOMPANHAMENTO DEVIDO A FIBRILAÇÃO <e1> ATRIAL </e1> 4 ANOS .
+Problema	# ACOMPANHAMENTO DEVIDO A <e1> FIBRILAÇÃO ATRIAL </e1> 4 ANOS .
+# FA .
+Problema	# <e1> FA </e1> .
+# HAS .
+Problema	# <e1> HAS </e1> .
+# DISLIPIDEMIA .
+Problema	# <e1> DISLIPIDEMIA </e1> .
+# DM .
+Problema	# <e1> DM </e1> .
+# CA DE INTESTINO GROSSO 2010 - ACOMPANHAMENTO REGULAR .
+Anatomia	# CA DE <e1> INTESTINO GROSSO </e1> 2010 - ACOMPANHAMENTO REGULAR .
+O	# <e1> CA DE INTESTINO </e1> GROSSO 2010 - ACOMPANHAMENTO REGULAR .
+Problema	# <e1> CA DE INTESTINO GROSSO </e1> 2010 - ACOMPANHAMENTO REGULAR .
+O	# CA DE <e1> INTESTINO </e1> GROSSO 2010 - ACOMPANHAMENTO REGULAR .
+O	# <e1> CA </e1> DE INTESTINO GROSSO 2010 - ACOMPANHAMENTO REGULAR .
+O	# <e1> CA DE </e1> INTESTINO GROSSO 2010 - ACOMPANHAMENTO REGULAR .
+O	# CA <e1> DE INTESTINO </e1> GROSSO 2010 - ACOMPANHAMENTO REGULAR .
+O	# CA <e1> DE </e1> INTESTINO GROSSO 2010 - ACOMPANHAMENTO REGULAR .
+O	# CA DE INTESTINO <e1> GROSSO </e1> 2010 - ACOMPANHAMENTO REGULAR .
+# PACIENTE REFERE QUE EM ABRIL APRESENTOU QUADRO DE PALPITAÇÃO ASSOCIADO A MAL ESTAR , TONTURA .
+Problema	# PACIENTE REFERE QUE EM ABRIL APRESENTOU QUADRO DE PALPITAÇÃO ASSOCIADO A MAL ESTAR , <e1> TONTURA </e1> .
+O	# PACIENTE REFERE QUE EM ABRIL APRESENTOU QUADRO DE PALPITAÇÃO ASSOCIADO A MAL <e1> ESTAR </e1> , TONTURA .
+Problema	# PACIENTE REFERE QUE EM ABRIL APRESENTOU QUADRO DE PALPITAÇÃO ASSOCIADO A <e1> MAL ESTAR </e1> , TONTURA .
+Problema	# PACIENTE REFERE QUE EM ABRIL APRESENTOU QUADRO DE <e1> PALPITAÇÃO </e1> ASSOCIADO A MAL ESTAR , TONTURA .
+O	# PACIENTE REFERE QUE EM ABRIL APRESENTOU QUADRO DE PALPITAÇÃO ASSOCIADO A <e1> MAL </e1> ESTAR , TONTURA .
+NO MOMENTO DA CONSULTA PACIENTE SEM QUEIXAS .
+Problema	NO MOMENTO DA CONSULTA PACIENTE SEM <e1> QUEIXAS </e1> .
+MARCOMAR 1 , 5MG - MEIO COMPRIMIDO .
+Tratamento	<e1> MARCOMAR 1 , 5MG </e1> - MEIO COMPRIMIDO .
+O	<e1> MARCOMAR </e1> 1 , 5MG - MEIO COMPRIMIDO .
+O	MARCOMAR 1 , <e1> 5MG </e1> - MEIO COMPRIMIDO .
+ANLODIPINO 2 , 5MG - 1X AO DIA .
+Tratamento	<e1> ANLODIPINO 2 , 5MG </e1> - 1X AO DIA .
+O	<e1> ANLODIPINO </e1> 2 , 5MG - 1X AO DIA .
+O	ANLODIPINO 2 , <e1> 5MG </e1> - 1X AO DIA .
+ATENOLOL 50MG - 1X AO DIA .
+Tratamento	<e1> ATENOLOL 50MG </e1> - 1X AO DIA .
+O	<e1> ATENOLOL </e1> 50MG - 1X AO DIA .
+O	ATENOLOL <e1> 50MG </e1> - 1X AO DIA .
+HIDROCLOROTIAZIDA 25MG - 1X AO DIA .
+O	<e1> HIDROCLOROTIAZIDA </e1> 25MG - 1X AO DIA .
+O	HIDROCLOROTIAZIDA <e1> 25MG </e1> - 1X AO DIA .
+Tratamento	<e1> HIDROCLOROTIAZIDA 25MG </e1> - 1X AO DIA .
+METFORMINA 850MG - 1 / 2 AO DIA .
+O	METFORMINA <e1> 850MG </e1> - 1 / 2 AO DIA .
+Tratamento	<e1> METFORMINA 850MG </e1> - 1 / 2 AO DIA .
+O	<e1> METFORMINA </e1> 850MG - 1 / 2 AO DIA .
+SINVASTATINA 20MG - 1X AO DIA .
+O	<e1> SINVASTATINA </e1> 20MG - 1X AO DIA .
+O	SINVASTATINA <e1> 20MG </e1> - 1X AO DIA .
+Tratamento	<e1> SINVASTATINA 20MG </e1> - 1X AO DIA .
+RNI .
+Teste	<e1> RNI </e1> .
+EF .
+Teste	<e1> EF </e1> .
+SAT O2 94 .
+Teste	<e1> SAT </e1> O2 94 .
+FC 73 BPM .
+Teste	<e1> FC </e1> 73 BPM .
+PA : 125 / 75 MMHG .
+Teste	<e1> PA </e1> : 125 / 75 MMHG .
+CP JUGULARES INGURGITADAS .
+O	CP JUGULARES <e1> INGURGITADAS </e1> .
+Anatomia	<e1> CP </e1> JUGULARES INGURGITADAS .
+Anatomia	CP <e1> JUGULARES </e1> INGURGITADAS .
+Problema	CP <e1> JUGULARES INGURGITADAS </e1> .
+ACV : BULHAS ARRITMICAS HIPOFONETICAS SEM SS .
+O	ACV : <e1> BULHAS ARRITMICAS </e1> HIPOFONETICAS SEM SS .
+Anatomia	<e1> ACV </e1> : BULHAS ARRITMICAS HIPOFONETICAS SEM SS .
+Problema	ACV : BULHAS ARRITMICAS HIPOFONETICAS SEM <e1> SS </e1> .
+Problema	ACV : <e1> BULHAS ARRITMICAS HIPOFONETICAS </e1> SEM SS .
+O	ACV : BULHAS ARRITMICAS <e1> HIPOFONETICAS </e1> SEM SS .
+O	ACV : BULHAS <e1> ARRITMICAS </e1> HIPOFONETICAS SEM SS .
+O	ACV : <e1> BULHAS </e1> ARRITMICAS HIPOFONETICAS SEM SS .
+MV PRESENTE BILATERAL SRA .
+Problema	MV PRESENTE BILATERAL <e1> SRA </e1> .
+ABDOME FLACIDO INDOLOR A PALPACAO .
+Anatomia	<e1> ABDOME </e1> FLACIDO INDOLOR A PALPACAO .
+MMII : EDEMA BILATERAL + + / 4 + .
+Anatomia	<e1> MMII </e1> : EDEMA BILATERAL + + / 4 + .
+O	MMII : EDEMA BILATERAL <e1> + </e1> + / 4 + .
+Problema	MMII : <e1> EDEMA BILATERAL + + / 4 + </e1> .
+O	MMII : EDEMA <e1> BILATERAL + </e1> + / 4 + .
+O	MMII : EDEMA BILATERAL + <e1> + </e1> / 4 + .
+O	MMII : <e1> EDEMA BILATERAL </e1> + + / 4 + .
+O	MMII : <e1> EDEMA BILATERAL + + / 4 </e1> + .
+O	MMII : EDEMA BILATERAL + + / 4 <e1> + </e1> .
+O	MMII : EDEMA <e1> BILATERAL </e1> + + / 4 + .
+O	MMII : EDEMA BILATERAL <e1> + + / 4 </e1> + .
+RETIRADO ANLODIPINO DEVIDO A EDEMA EM MMII .
+O	RETIRADO ANLODIPINO DEVIDO A <e1> EDEMA EM </e1> MMII .
+O	RETIRADO ANLODIPINO DEVIDO A EDEMA <e1> EM </e1> MMII .
+O	RETIRADO ANLODIPINO DEVIDO A <e1> EDEMA </e1> EM MMII .
+Problema	RETIRADO ANLODIPINO DEVIDO A <e1> EDEMA EM MMII </e1> .
+Tratamento	RETIRADO <e1> ANLODIPINO </e1> DEVIDO A EDEMA EM MMII .
+Anatomia	RETIRADO ANLODIPINO DEVIDO A EDEMA EM <e1> MMII </e1> .
+ORIENTAÇÕES SOBRE SINAIS DE ALARME DA FA .
+Problema	ORIENTAÇÕES SOBRE SINAIS DE ALARME DA <e1> FA </e1> .
+paciente diz que ha 9 anos faz acompanhamento de arritmia , nao sabe especificar qual .
+Problema	paciente diz que ha 9 anos faz acompanhamento de <e1> arritmia </e1> , nao sabe especificar qual .
+fez uso de atenolol por 8 anos e meio .
+Tratamento	fez uso de <e1> atenolol </e1> por 8 anos e meio .
+refere que mesmo com a medicação sentia leve falta de ar , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+O	refere que mesmo com a medicação sentia leve <e1> falta </e1> de ar , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+Problema	refere que mesmo com a medicação sentia <e1> leve falta de ar </e1> , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+Problema	refere que mesmo com a medicação sentia leve falta de ar , <e1> dor no peito </e1> , fraqueza , tontura , rouquidão e dor de cabeça .
+O	refere que mesmo com a medicação sentia leve falta de ar , dor no peito , fraqueza , tontura , rouquidão e <e1> dor de </e1> cabeça .
+Tratamento	refere que mesmo com a <e1> medicação </e1> sentia leve falta de ar , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+O	refere que mesmo com a medicação sentia leve <e1> falta de </e1> ar , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+O	refere que mesmo com a medicação sentia leve falta de ar , dor no peito , fraqueza , tontura , rouquidão e dor <e1> de </e1> cabeça .
+Problema	refere que mesmo com a medicação sentia leve falta de ar , dor no peito , <e1> fraqueza </e1> , tontura , rouquidão e dor de cabeça .
+Anatomia	refere que mesmo com a medicação sentia leve falta de ar , dor no <e1> peito </e1> , fraqueza , tontura , rouquidão e dor de cabeça .
+O	refere que mesmo com a medicação sentia <e1> leve falta de </e1> ar , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+Problema	refere que mesmo com a medicação sentia leve falta de ar , dor no peito , fraqueza , tontura , rouquidão e <e1> dor de cabeça </e1> .
+O	refere que mesmo com a medicação sentia leve falta de ar , <e1> dor no </e1> peito , fraqueza , tontura , rouquidão e dor de cabeça .
+Anatomia	refere que mesmo com a medicação sentia leve falta de ar , dor no peito , fraqueza , tontura , rouquidão e dor de <e1> cabeça </e1> .
+O	refere que mesmo com a medicação sentia leve falta de <e1> ar </e1> , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+O	refere que mesmo com a medicação sentia <e1> leve </e1> falta de ar , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+Problema	refere que mesmo com a medicação sentia leve falta de ar , dor no peito , fraqueza , <e1> tontura </e1> , rouquidão e dor de cabeça .
+Problema	refere que mesmo com a medicação sentia leve falta de ar , dor no peito , fraqueza , tontura , <e1> rouquidão </e1> e dor de cabeça .
+O	refere que mesmo com a medicação sentia leve falta <e1> de </e1> ar , dor no peito , fraqueza , tontura , rouquidão e dor de cabeça .
+- refere dispneia aos grandes esforços .
+O	- refere dispneia aos grandes <e1> esforços </e1> .
+O	- refere dispneia <e1> aos grandes </e1> esforços .
+O	- refere dispneia aos <e1> grandes </e1> esforços .
+Problema	- refere <e1> dispneia aos grandes esforços </e1> .
+O	- refere <e1> dispneia aos grandes </e1> esforços .
+O	- refere <e1> dispneia </e1> aos grandes esforços .
+- refere dor torácica ventilatorio dependente .
+O	- refere <e1> dor torácica </e1> ventilatorio dependente .
+O	- refere dor torácica <e1> ventilatorio </e1> dependente .
+O	- refere dor <e1> torácica ventilatorio </e1> dependente .
+O	- refere dor torácica ventilatorio <e1> dependente </e1> .
+Anatomia	- refere dor <e1> torácica </e1> ventilatorio dependente .
+O	- refere <e1> dor torácica ventilatorio </e1> dependente .
+Problema	- refere <e1> dor torácica ventilatorio dependente </e1> .
+- vertigem noturna 2 - 3x / semanas nos ultimos 3 meses .
+O	- <e1> vertigem </e1> noturna 2 - 3x / semanas nos ultimos 3 meses .
+Problema	- <e1> vertigem noturna </e1> 2 - 3x / semanas nos ultimos 3 meses .
+- cefaléia em regiao parietal bilateral que melhora com dipirona , sintomas diários .
+O	- cefaléia em <e1> regiao </e1> parietal bilateral que melhora com dipirona , sintomas diários .
+O	- <e1> cefaléia </e1> em regiao parietal bilateral que melhora com dipirona , sintomas diários .
+Tratamento	- cefaléia em regiao parietal bilateral que melhora com <e1> dipirona </e1> , sintomas diários .
+Anatomia	- cefaléia em <e1> regiao parietal bilateral </e1> que melhora com dipirona , sintomas diários .
+O	- cefaléia em <e1> regiao parietal </e1> bilateral que melhora com dipirona , sintomas diários .
+O	- cefaléia em regiao parietal bilateral que melhora <e1> com </e1> dipirona , sintomas diários .
+O	- cefaléia em regiao parietal bilateral que <e1> melhora com </e1> dipirona , sintomas diários .
+O	- cefaléia <e1> em </e1> regiao parietal bilateral que melhora com dipirona , sintomas diários .
+Problema	- cefaléia em regiao parietal bilateral que <e1> melhora com dipirona </e1> , sintomas diários .
+O	- cefaléia <e1> em regiao </e1> parietal bilateral que melhora com dipirona , sintomas diários .
+O	- <e1> cefaléia em </e1> regiao parietal bilateral que melhora com dipirona , sintomas diários .
+Problema	- <e1> cefaléia em regiao parietal bilateral </e1> que melhora com dipirona , sintomas diários .
+O	- <e1> cefaléia em regiao </e1> parietal bilateral que melhora com dipirona , sintomas diários .
+O	- <e1> cefaléia em regiao parietal </e1> bilateral que melhora com dipirona , sintomas diários .
+- fraqueza , sente - se cansada mesmo sem grandes esforços .
+O	- fraqueza , sente - se <e1> cansada mesmo sem grandes </e1> esforços .
+Problema	- <e1> fraqueza </e1> , sente - se cansada mesmo sem grandes esforços .
+Problema	- fraqueza , sente - se <e1> cansada mesmo sem grandes esforços </e1> .
+O	- fraqueza , sente - se cansada mesmo sem grandes <e1> esforços </e1> .
+O	- fraqueza , sente - se cansada mesmo sem <e1> grandes </e1> esforços .
+atualmente em uso de amiodarona 200mg / dia .
+Tratamento	atualmente em uso de <e1> amiodarona 200mg </e1> / dia .
+O	atualmente em uso de <e1> amiodarona </e1> 200mg / dia .
+O	atualmente em uso de amiodarona <e1> 200mg </e1> / dia .
+asmatica em uso de salbutamol e budesonida , nega outros medicamentos .
+O	asmatica em uso de salbutamol e budesonida , nega <e1> outros </e1> medicamentos .
+Tratamento	asmatica em uso de <e1> salbutamol </e1> e budesonida , nega outros medicamentos .
+O	asmatica em uso de salbutamol e budesonida , nega outros <e1> medicamentos </e1> .
+Tratamento	asmatica em uso de salbutamol e budesonida , nega <e1> outros medicamentos </e1> .
+Tratamento	asmatica em uso de salbutamol e <e1> budesonida </e1> , nega outros medicamentos .
+Problema	<e1> asmatica </e1> em uso de salbutamol e budesonida , nega outros medicamentos .
+refere mal estar com café , chas , chocolates , refrigerantes de cola .
+O	refere mal estar com café , chas , chocolates , refrigerantes de <e1> cola </e1> .
+O	refere mal estar com café , chas , chocolates , <e1> refrigerantes de </e1> cola .
+O	refere mal estar com café , chas , chocolates , refrigerantes <e1> de </e1> cola .
+O	refere <e1> mal </e1> estar com café , chas , chocolates , refrigerantes de cola .
+O	refere <e1> mal estar com café , chas , chocolates , refrigerantes de </e1> cola .
+Problema	refere <e1> mal estar com café , chas , chocolates , refrigerantes de cola </e1> .
+O	refere mal estar <e1> com </e1> café , chas , chocolates , refrigerantes de cola .
+O	refere mal estar com café , chas , <e1> chocolates </e1> , refrigerantes de cola .
+O	refere mal estar com <e1> café , chas , chocolates </e1> , refrigerantes de cola .
+O	refere mal estar com <e1> café </e1> , chas , chocolates , refrigerantes de cola .
+O	refere mal estar com café , <e1> chas </e1> , chocolates , refrigerantes de cola .
+O	refere <e1> mal estar com </e1> café , chas , chocolates , refrigerantes de cola .
+O	refere mal <e1> estar com </e1> café , chas , chocolates , refrigerantes de cola .
+O	refere mal <e1> estar </e1> com café , chas , chocolates , refrigerantes de cola .
+O	refere mal estar com café , chas , chocolates , <e1> refrigerantes </e1> de cola .
+queixa - se de palpitações de inicio súbito e desaparecimento gradual , .
+O	queixa - se de palpitações de <e1> inicio </e1> súbito e desaparecimento gradual , .
+Problema	queixa - se de palpitações de <e1> inicio súbito </e1> e desaparecimento gradual , .
+Problema	queixa - se de <e1> palpitações </e1> de inicio súbito e desaparecimento gradual , .
+paracoccidioiomicose há 6 anos .
+Problema	<e1> paracoccidioiomicose </e1> há 6 anos .
+cx previas : 2 cesárias , amigdalectomia .
+Tratamento	cx previas : <e1> 2 cesárias </e1> , amigdalectomia .
+O	cx previas : 2 <e1> cesárias </e1> , amigdalectomia .
+Tratamento	cx previas : 2 cesárias , <e1> amigdalectomia </e1> .
+herniorrafia inguinal .
+Tratamento	<e1> herniorrafia inguinal </e1> .
+O	<e1> herniorrafia </e1> inguinal .
+nega alergias a medicamentos .
+O	nega alergias a <e1> medicamentos </e1> .
+O	nega <e1> alergias a </e1> medicamentos .
+Problema	nega <e1> alergias a medicamentos </e1> .
+O	nega alergias <e1> a </e1> medicamentos .
+O	nega <e1> alergias </e1> a medicamentos .
+nega tabagismo e etilismo .
+Problema	nega tabagismo e <e1> etilismo </e1> .
+Problema	nega <e1> tabagismo </e1> e etilismo .
+nega outras comorbidades .
+O	nega <e1> outras </e1> comorbidades .
+O	nega outras <e1> comorbidades </e1> .
+Problema	nega <e1> outras comorbidades </e1> .
+ecocardiograma 2010 : .
+Teste	<e1> ecocardiograma </e1> 2010 : .
+discreto prolapso de valva mitral .
+O	discreto <e1> prolapso de valva </e1> mitral .
+O	<e1> discreto prolapso de valva </e1> mitral .
+O	<e1> discreto </e1> prolapso de valva mitral .
+O	discreto prolapso <e1> de </e1> valva mitral .
+O	discreto <e1> prolapso de </e1> valva mitral .
+O	discreto <e1> prolapso </e1> de valva mitral .
+O	discreto prolapso de <e1> valva </e1> mitral .
+Anatomia	discreto prolapso de <e1> valva mitral </e1> .
+Problema	<e1> discreto prolapso de valva mitral </e1> .
+O	discreto prolapso <e1> de valva </e1> mitral .
+O	<e1> discreto prolapso de </e1> valva mitral .
+camaras cardiacas normais .
+O	camaras <e1> cardiacas </e1> normais .
+Anatomia	<e1> camaras cardiacas </e1> normais .
+O	<e1> camaras </e1> cardiacas normais .
+EEF 2010 : .
+Teste	<e1> EEF </e1> 2010 : .
+FC 82 .
+Teste	<e1> FC </e1> 82 .
+ausculta cardiaca : BCR hipofonese de B1 , discreto sopro sistólico em foco mitral .
+O	ausculta cardiaca : BCR hipofonese de B1 , discreto sopro sistólico em <e1> foco </e1> mitral .
+O	ausculta cardiaca : BCR hipofonese de B1 , <e1> discreto sopro sistólico em foco </e1> mitral .
+Anatomia	ausculta <e1> cardiaca </e1> : BCR hipofonese de B1 , discreto sopro sistólico em foco mitral .
+O	ausculta cardiaca : BCR hipofonese de B1 , discreto <e1> sopro sistólico em </e1> foco mitral .
+O	ausculta cardiaca : BCR hipofonese de B1 , discreto <e1> sopro </e1> sistólico em foco mitral .
+O	ausculta cardiaca : BCR hipofonese de B1 , <e1> discreto </e1> sopro sistólico em foco mitral .
+Anatomia	ausculta cardiaca : BCR hipofonese de B1 , discreto sopro sistólico em <e1> foco mitral </e1> .
+O	ausculta cardiaca : BCR hipofonese de B1 , <e1> discreto sopro </e1> sistólico em foco mitral .
+O	ausculta cardiaca : BCR hipofonese de B1 , discreto <e1> sopro sistólico em foco </e1> mitral .
+O	ausculta cardiaca : BCR <e1> hipofonese </e1> de B1 , discreto sopro sistólico em foco mitral .
+O	ausculta cardiaca : BCR hipofonese de <e1> B1 </e1> , discreto sopro sistólico em foco mitral .
+O	ausculta cardiaca : BCR hipofonese de B1 , <e1> discreto sopro sistólico em </e1> foco mitral .
+O	ausculta cardiaca : BCR hipofonese de B1 , discreto sopro sistólico <e1> em </e1> foco mitral .
+O	ausculta cardiaca : BCR hipofonese <e1> de </e1> B1 , discreto sopro sistólico em foco mitral .
+Problema	ausculta cardiaca : BCR <e1> hipofonese de B1 </e1> , discreto sopro sistólico em foco mitral .
+O	ausculta cardiaca : BCR <e1> hipofonese de </e1> B1 , discreto sopro sistólico em foco mitral .
+Problema	ausculta cardiaca : BCR hipofonese de B1 , <e1> discreto sopro sistólico em foco mitral </e1> .
+O	ausculta cardiaca : BCR hipofonese de B1 , discreto sopro sistólico <e1> em foco </e1> mitral .
+MMII sem edema .
+Problema	MMII sem <e1> edema </e1> .
+Anatomia	<e1> MMII </e1> sem edema .
+solicito novo holter .
+Teste	solicito novo <e1> holter </e1> .
+peço que paciente procure o serviço de emergencia durante uma exacerbação dos sintomas para fazer ECG .
+O	peço que paciente procure o serviço de emergencia durante uma exacerbação dos <e1> sintomas </e1> para fazer ECG .
+O	peço que paciente procure o serviço de emergencia durante uma <e1> exacerbação dos </e1> sintomas para fazer ECG .
+Problema	peço que paciente procure o serviço de emergencia durante uma <e1> exacerbação dos sintomas </e1> para fazer ECG .
+Teste	peço que paciente procure o serviço de emergencia durante uma exacerbação dos sintomas para fazer <e1> ECG </e1> .
+O	peço que paciente procure o serviço de emergencia durante uma <e1> exacerbação </e1> dos sintomas para fazer ECG .
+solicito ECG .
+Teste	solicito <e1> ECG </e1> .
+solicito ecocardiograma .
+Teste	solicito <e1> ecocardiograma </e1> .
