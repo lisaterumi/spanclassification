@@ -55,6 +55,37 @@ class InputExample(object):
         """Serializes this instance to a JSON string."""
         return json.dumps(self.to_dict(), indent=2, sort_keys=True) + "\n"
 
+class Listatokens(object):
+    def __init__(self, list_tokens, list_indices, list_labels):
+        self._list_tokens = list_tokens
+        self._list_indices = list_indices
+        self._list_labels = list_labels
+    
+    @property
+    def list_tokens(self):
+         # self.list_tokens
+         return self._list_tokens
+
+    @list_tokens.setter
+    def list_tokens(self, value):
+         # self.list_tokens = value
+         self._list_tokens = value
+
+    @property
+    def list_indices(self):
+         return self._list_indices
+
+    @list_indices.setter
+    def list_indices(self, value):
+         self._list_indices = value
+
+    @property
+    def list_labels(self):
+         return self._list_labels
+
+    @list_labels.setter
+    def list_labels(self, value):
+         self._list_labels = value
 class InputFeatures(object):
     """
     A single set of features of data.
@@ -72,7 +103,8 @@ class InputFeatures(object):
     #def __init__(self, input_ids, attention_mask, token_type_ids, label_id, e1_mask, e2_mask):
     def __init__(self, model_name_or_path, max_seq_len, device, mode, labels):
         super().__init__()
-        self.input_ids, self.attention_mask, self.token_type_ids, self.lista_label_id, self.lista_indices_e1, self.lista_tokens = load_and_cache_examples(model_name_or_path, max_seq_len, device=device, mode=mode)
+        #self.input_ids, self.attention_mask, self.token_type_ids, self.lista_label_id, self.lista_indices_e1, self.lista_tokens = load_and_cache_examples(model_name_or_path, max_seq_len, device=device, mode=mode)
+        self.input_ids, self.attention_mask, self.token_type_ids, self.lista_tokens = load_and_cache_examples(model_name_or_path, max_seq_len, device=device, mode=mode)
         self.device = device
         self.mode = mode
         #labels.append('NA')
@@ -80,7 +112,7 @@ class InputFeatures(object):
         self.n_tags = len(labels)
         
     def __getitem__(self, index):
-        return self.input_ids[index], self.attention_mask[index], self.token_type_ids[index], self.lista_label_id[index], self.lista_indices_e1[index], self.lista_tokens[index]
+        return self.input_ids[index], self.attention_mask[index], self.token_type_ids[index], self.lista_tokens[index]
 
     def __len__(self):
         return len(self.input_ids)
@@ -89,11 +121,10 @@ class InputFeatures(object):
         all_input_ids = torch.tensor([f[0] for f in features], dtype=torch.long).to(self.device)
         all_attention_mask = torch.tensor([f[1] for f in features], dtype=torch.long).to(self.device)
         all_token_type_ids = torch.tensor([f[2] for f in features], dtype=torch.long).to(self.device)
-        all_lista_label_id = [f[3] for f in features]
-        all_lista_indices_e1 = [f[4] for f in features]
-        all_tokens = [f[5] for f in features]
+        all_tokens = [f[3] for f in features]
 
         # passar as labels das regioes tudo em uma lista só
+        '''
         new_list_lista_label_id = []
         for lista_label_id in all_lista_label_id:
             for label in lista_label_id:
@@ -101,8 +132,9 @@ class InputFeatures(object):
         
         new_list_lista_label_id = torch.LongTensor(new_list_lista_label_id).to(self.device)
         all_lista_indices_e1 = torch.LongTensor(all_lista_indices_e1).to(self.device)
-
-        return all_input_ids, all_attention_mask, all_token_type_ids, new_list_lista_label_id, all_lista_indices_e1, all_tokens 
+        '''
+        #return all_input_ids, all_attention_mask, all_token_type_ids, new_list_lista_label_id, all_lista_indices_e1, all_tokens 
+        return all_input_ids, all_attention_mask, all_token_type_ids, all_tokens 
         
 class ChunkProcessor(object):
     """Processor for the Semeval data set """
@@ -193,6 +225,7 @@ def convert_examples_to_features(
     list_token_type_ids=list()
     list_lista_label_id=list()
     list_lista_indices_e1=list()
+    list_token_obj=list() # lista do objeto ListaToken
     list_tokens=list()
 
     #new_list_lista_label_id = list()
@@ -257,7 +290,8 @@ def convert_examples_to_features(
         for text_a, label in zip(example.list_text_e1, example.list_label):
             list_text_a.append(text_a)
             list_tokens.append(text_a)
-
+            
+            
             tokens_a = tokenizer.tokenize(text_a)
             list_text_a_tokenizado.append(tokens_a)
             e11_p = tokens_a.index("<e1>")  # the start position of entity1
@@ -282,7 +316,10 @@ def convert_examples_to_features(
             #new_list_lista_indices_e1.append(indices_e1)
 
             lista_label.append(label)
-            
+        list_token_obj.append(Listatokens(list_tokens, indices_e1_sentenca, lista_label))
+        list_tokens=list()
+        indices_e1_sentenca=list()
+        lista_label=list()
 
         if ex_index < 2:
             print("*** Example ***")
@@ -347,7 +384,8 @@ def convert_examples_to_features(
             
         new_list_lista_indices_e1.append(lista_indices_regiao_cp)
 
-    return list_input_ids, list_attention_mask, list_token_type_ids, list_lista_label_id, new_list_lista_indices_e1, list_tokens
+    
+    return list_input_ids, list_attention_mask, list_token_type_ids, list_token_obj
 
 
 def load_and_cache_examples(model_name_or_path, max_seq_len, device, mode):

@@ -22,7 +22,7 @@ BERT_MODEL ='pucpr/biobertpt-all'
 #BERT_MODEL ='bert-base-cased'
 MAX_SEQ_LEN = 256
 #MAX_SEQ_LEN = 300
-DATA_DIR='./data/'
+DATA_DIR='./model/data/'
 LABEL_FILE='label.txt'
 HIDDEN_SIZE = 768
 BATCH_SIZE=10
@@ -205,7 +205,7 @@ def predict(model, bert_model, mode, batch_size=BATCH_SIZE):
 
 def main():
     #model_url = from_project_root("data/model/best_model.pt")
-    model_url = from_project_root("data/model/")
+    model_url = from_project_root("./model/")
     print("loading model from", model_url)
     label_lst = get_label(DATA_DIR, LABEL_FILE)
     num_labels = len(label_lst)
@@ -233,23 +233,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-def main(args):
-    #format_time(time.time())
-    #start_time = time.time()
-    start_time = datetime.now()
-    train_chunkClassification(n_epochs=args.n_epochs,batch_size=args.batch_size, max_seq_len=args.max_seq_len, bert_model=args.bert_model)
-    print("finished in:", datetime.now()- start_time)
-    pass
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-
-    parser.add_argument("--n_epochs", default=NUM_EPOCHS, type=str, help="Num epochs")
-    parser.add_argument("--batch_size", default=BATCH_SIZE, type=str, help="batch_size")
-    parser.add_argument("--max_seq_len", default=MAX_SEQ_LEN, type=str, help="max_seq_len")
-    parser.add_argument("--bert_model", default=BERT_MODEL, type=str, help="bert_model")
- 
-    args = parser.parse_args()
-
-    main(args)
-

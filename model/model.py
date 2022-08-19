@@ -18,9 +18,14 @@ class BertForChunkClassification(BertPreTrainedModel):
         self.dropout = nn.Dropout(0.1)
 
         self.bert = BertModel(config=config)
+
+        self.classifier= nn.Sequential(
+            nn.ReLU(),
+            nn.Linear(hidden_size * 3, num_labels),
+        )
         
         # Initialize weights and apply final processing
-        self.post_init()
+        #self.post_init()
     
     def forward(self, input_ids, attention_mask, token_type_ids, lista_indices_e1):
         try:
