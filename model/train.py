@@ -36,16 +36,16 @@ BATCH_SIZE = 32
 MAX_GRAD_NORM = 5
 FREEZE_WV = False
 LOG_PER_BATCH = 20
-BERT_MODEL ='pucpr/biobertpt-all'
+#BERT_MODEL ='pucpr/biobertpt-all'
 #BERT_MODEL_NER ='lisaterumi/genia-biobert-ent'
-#BERT_MODEL ='./data/model/'
+BERT_MODEL ='./model/biobertpt/'
 #BERT_MODEL_NER ='./model2/'
 #BERT_MODEL ='bert-base-uncased'
 #BERT_MODEL ='bert-base-cased'
 HIDDEN_SIZE = 768
 #MAX_SEQ_LEN = 300
 MAX_SEQ_LEN = 256
-DATA_DIR='./data'
+DATA_DIR='./model/data'
 LABEL_FILE='label.txt'
 RANDOM_SEED = 233
 set_random_seed(RANDOM_SEED)
@@ -155,12 +155,22 @@ def train_chunkClassification(n_epochs=NUM_EPOCHS,
         # switch to train mode
         model.train()
         batch_id = 0
-        for all_input_ids, all_attention_mask, all_token_type_ids, labels, indices, _ in train_loader:
-            if len(labels) == 0:  # skip no-region cases
+        #for all_input_ids, all_attention_mask, all_token_type_ids, labels, indices, _ in train_loader:
+        for all_input_ids, all_attention_mask, all_token_type_ids, all_tokens in train_loader:
+            if len(all_tokens) == 0:  # skip no-region cases
                 batch_id += 1
                 print('Atenção!!!! caiu no if - sem labels - pulando batch')
                 continue
             optimizer.zero_grad()
+
+            indices = list()
+            labels = list()
+            for listatoken in all_tokens:
+                for indice in listatoken.list_indices:
+                    indices.append(indice)
+                for label in listatoken.list_labels:
+                    labels.append(label)
+
             pred_region_labels = model.forward(input_ids=all_input_ids, attention_mask=all_attention_mask, token_type_ids=all_token_type_ids, lista_indices_e1=indices)
             classification_loss = criterion(pred_region_labels, labels)
             loss = classification_loss
