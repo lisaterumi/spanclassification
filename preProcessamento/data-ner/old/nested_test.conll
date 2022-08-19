@@ -8,11 +8,11 @@ Em O
 acompanhamento O
 no O
 ambualtorio O
-h√° O
+h· O
 5 O
 anos O
 por O
-FA O
+FA Problema
 , O
 uso O
 de O
@@ -24,10 +24,10 @@ ao O
 dia O
 . O
 
-Comorbidades O
+Comorbidades Problema
 : O
-DM O
-h√° O
+DM Problema
+h· O
 10 O
 anos O
 em O
@@ -63,8 +63,8 @@ insulina Tratamento
 ) O
 . O
 
-HAS O
-h√° O
+HAS Problema
+h· O
 15 O
 anos O
 em O
@@ -92,7 +92,7 @@ carvedilol Tratamento
 HCTZ Tratamento
 . O
 
-DSLP O
+DSLP Problema
 em O
 uso O
 de O
@@ -114,19 +114,19 @@ sic O
 
 S O
 : O
-Assintom√°tica O
+Assintom·tica O
 . O
 
 Nega O
-dispn√©ia O
+dispnÈia Problema
 , O
-DPN O
+DPN Problema
 e O
-ortopneia O
+ortopneia Problema
 , O
-palpita√ß√µes O
+palpitaÁıes Problema
 e O
-sincope O
+sincope Problema
 . O
 
 O O
@@ -137,16 +137,16 @@ corada O
 , O
 hidtratada O
 , O
-afebril O
+afebril Problema
 , O
-fc O
+fc Teste
 63 O
 , O
-so2 O
+so2 Teste
 97 O
 % O
 , O
-pa O
+pa Teste
 130 O
 / O
 80 O
@@ -154,21 +154,21 @@ pa O
 MV O
 presente O
 , O
-sim√©trico O
+simÈtrico O
 , O
 sem O
-RA O
+RA Problema
 . O
 
-BC O
-arritmicas O
+BC Problema
+arritmicas Problema
 , O
 NF O
-SS O
+SS Problema
 2T O
 . O
 
-Abd O
+Abd Anatomia
 globoso O
 , O
 flacido O
@@ -178,20 +178,20 @@ a O
 palpacao O
 , O
 sem O
-VCM O
+VCM Problema
 . O
 
-MMII O
+MMII Anatomia
 sem O
-edema O
+edema Problema
 , O
-panturrilhas O
+panturrilhas Anatomia
 livres O
 . O
 
-Exames O
+Exames Teste
 - O
-Holter O
+Holter Teste
 : O
 FC O
 controlada O
@@ -200,128 +200,128 @@ media O
 92 O
 . O
 
-Cr O
+Cr Teste
 - O
 0 O
 , O
 7 O
 ; O
-glic O
+glic Teste
 - O
 140 O
 ; O
-ureia O
+ureia Teste
 - O
 33 O
 ; O
-CPK O
+CPK Teste
 - O
 68 O
 , O
-Triglerideos O
+Triglerideos Teste
 - O
 335 O
 ; O
-HDL O
+HDL Teste
 - O
 30 O
 ; O
-CT O
+CT Teste
 - O
 216 O
 ; O
-LDL O
+LDL Teste
 - O
 119 O
 ; O
-K O
+K Teste
 - O
 5 O
 , O
 1 O
 ; O
-RNI O
+RNI Teste
 - O
 2 O
 , O
 07 O
 ; O
-Microalbumin√∫ria O
+Microalbumin˙ria Teste
 308 O
 mg O
 / O
 g O
 . O
 
-Ecocardiograma O
+Ecocardiograma Teste
 - O
-ventr√≠culo O
-esquerdo O
-com O
-hipertrofia O
-concentrica O
-de O
-grau O
-discreto O
+ventrÌculo Problema
+esquerdo Problema
+com Problema
+hipertrofia Problema
+concentrica Problema
+de Problema
+grau Problema
+discreto Problema
 e O
-fun√ß√£o O
-sist√≥lica O
+funÁ„o O
+sistÛlica O
 preservada O
 . O
 
-aumento O
-moderado O
-de O
-√°trio O
-esquerdo O
+aumento Problema
+moderado Problema
+de Problema
+·trio Problema
+esquerdo Problema
 . O
 
-calcifica√ß√£o O
-mitral O
-e O
-a√≥rtica O
-com O
-refluxo O
-leve O
+calcificaÁ„o Problema
+mitral Problema
+e Problema
+aÛrtica Problema
+com Problema
+refluxo Problema
+leve Problema
 . O
 
 A O
 : O
-FA O
+FA Problema
 . O
 
-PA O
+PA Teste
 - O
 120 O
 / O
 80 O
 , O
-P O
+P Teste
 - O
 72 O
 , O
-bulhas O
-arritimicas O
+bulhas Problema
+arritimicas Problema
 , O
-normofon√©ticas O
+normofonÈticas O
 , O
 sem O
-sopros O
+sopros Problema
 . O
 
-Abdomen O
-fl√°cido O
+Abdomen Anatomia
+fl·cido O
 , O
 indolor O
 , O
 sem O
-visceromegalias O
+visceromegalias Problema
 . O
 
 Sem O
-altera√ß√µes O
-nos O
-MMII O
+alteraÁıes Problema
+nos Problema
+MMII Problema
 . O
 
 Otimizo O
@@ -337,7 +337,7 @@ dia O
 Atestado O
 para O
 atividades O
-f√≠sicas O
+fÌsicas O
 . O
 
 Retorno O
@@ -351,25 +351,25 @@ Lucas O
 78 O
 anos O
 * O
-HAS O
+HAS Problema
 , O
 * O
-Gota O
+Gota Problema
 , O
 * O
-DAC O
+DAC Problema
 - O
-IAM O
+IAM Problema
 + O
 ATC Tratamento
 em O
 2012 O
 ( O
-angina O
-instavel O
+angina Problema
+instavel Problema
 ) O
 - O
-Ecocardiograma O
+Ecocardiograma Teste
 mar O
 / O
 14 O
@@ -378,63 +378,63 @@ FE O
 42 O
 % O
 / O
-comprometimento O
-difuso O
-do O
-VE O
-grau O
-moderado O
+comprometimento Problema
+difuso Problema
+do Problema
+VE Problema
+grau Problema
+moderado Problema
 , O
-insuf O
-Mi O
-discreta O
+insuf Problema
+Mi Problema
+discreta Problema
 , O
-insuf O
-Tri O
-discreta O
+insuf Problema
+Tri Problema
+discreta Problema
 , O
-hipetensao O
-pulmonar O
-discreta O
+hipetensao Problema
+pulmonar Problema
+discreta Problema
 . O
 
 Paciente O
 refere O
-fraqueza O
-intermitente O
-em O
-MMII O
+fraqueza Problema
+intermitente Problema
+em Problema
+MMII Problema
 , O
 associada O
 a O
-tontura O
+tontura Problema
 , O
-turva√ß√£o O
-visual O
+turvaÁ„o Problema
+visual Problema
 e O
-epigastralgia O
+epigastralgia Problema
 . O
 
 Nega O
-dor O
-toracica O
+dor Problema
+toracica Problema
 associada O
 ou O
-dispneia O
+dispneia Problema
 . O
 
 Nega O
-DPN O
+DPN Problema
 . O
 
 Nega O
-sincope O
+sincope Problema
 . O
 
 Nega O
-edema O
-de O
-MMII O
+edema Problema
+de Problema
+MMII Problema
 . O
 
 Alimenta O
@@ -444,89 +444,89 @@ bem O
 . O
 
 Nega O
-queixas O
-urinarias O
-e O
-gastrointestinais O
+queixas Problema
+urinarias Problema
+e Problema
+gastrointestinais Problema
 . O
 
 Nega O
-tabagismo O
+tabagismo Problema
 atual O
 e O
 pregresso O
 . O
 
 - O
-Laboratorio O
-Cr O
+Laboratorio Teste
+Cr Teste
 1 O
 , O
 5 O
 / O
-glicose O
+glicose Teste
 85 O
 / O
-ureia O
+ureia Teste
 70 O
 / O
-CPK O
+CPK Teste
 161 O
 / O
-acido O
-urico O
+acido Teste
+urico Teste
 5 O
 , O
 3 O
 / O
-TG O
+TG Teste
 107 O
 / O
-TGP O
+TGP Teste
 23 O
 / O
-HDL O
+HDL Teste
 38 O
 / O
-Na O
+Na Teste
 143 O
 / O
-TGO O
+TGO Teste
 26 O
 / O
-CT O
+CT Teste
 103 O
 / O
-LDL O
+LDL Teste
 44 O
 / O
-K O
+K Teste
 5 O
 , O
 1 O
 / O
-HB O
+HB Teste
 16 O
 , O
 1 O
 / O
-leucocitos O
+leucocitos Teste
 6800 O
 / O
-plaquetas O
+plaquetas Teste
 116000 O
 / O
 - O
-Albumina O
-/ O
-Cr O
-isolada O
+Albumina Teste
+/ Teste
+Cr Teste
+isolada Teste
 = O
 174 O
 , O
 3 O
 *** O
-CKD O
+CKD Teste
 44 O
 ; O
 Paciente O
@@ -589,36 +589,36 @@ semana O
 . O
 
 Ao O
-exame O
+exame Teste
 : O
-PA O
+PA Teste
 : O
 90 O
 / O
 60 O
 mmHg O
 / O
-FC O
+FC Teste
 55 O
 bpm O
 , O
 BCRNF O
 , O
-SS O
+SS Problema
 , O
 MV O
 + O
 bilateralmente O
 , O
 sem O
-RA O
+RA Problema
 , O
-MMII O
-edema O
-+ O
-/ O
-IV O
-bilateral O
+MMII Problema
+edema Problema
++ Problema
+/ Problema
+IV Problema
+bilateral Problema
 . O
 
 # O
@@ -639,7 +639,7 @@ clopidogrel Tratamento
 
 Mantemos O
 demais Tratamento
-medica√ß√µes Tratamento
+medicaÁıes Tratamento
 . O
 
 Retorno O
@@ -651,11 +651,11 @@ a O
 cardio O
 com O
 novos O
-exames O
+exames Teste
 . O
 
 Encaminhado O
-√† O
+‡ O
 nefrologia O
 . O
 
@@ -668,20 +668,20 @@ Fortes O
 . O
 
 * O
-HAS O
+HAS Problema
 * O
-Gota O
+Gota Problema
 * O
-DAC O
+DAC Problema
 - O
-IAM O
+IAM Problema
 + O
 ATC Tratamento
 em O
 2012 O
 ( O
-angina O
-instavel O
+angina Problema
+instavel Problema
 ) O
 . O
 
@@ -689,35 +689,35 @@ Paciente O
 em O
 tratamento Tratamento
 para O
-ICC O
-diast√≥lica O
-h√° O
+ICC Problema
+diastÛlica Problema
+h· O
 cerca O
 de O
 5 O
 a O
 com O
-melhora O
-importante O
-dos O
-sintomas O
-ap√≥s O
-in√≠cio O
-do O
-tratamento Tratamento
+melhora Problema
+importante Problema
+dos Problema
+sintomas Problema
+apÛs Problema
+inÌcio Problema
+do Problema
+tratamento Problema
 . O
 
 Hoje O
 relata O
-dispneia O
-aos O
-moderados O
-esfor√ßos O
+dispneia Problema
+aos Problema
+moderados Problema
+esforÁos Problema
 , O
 nega O
-disnpne√≠a O
-parox√≠stica O
-notrna O
+disnpneÌa Problema
+paroxÌstica Problema
+notrna Problema
 , O
 dorme O
 com O
@@ -727,29 +727,29 @@ travesseiro O
 . O
 
 Nega O
-precordialgia O
-aos O
-moderados O
-esfor√ßos O
+precordialgia Problema
+aos Problema
+moderados Problema
+esforÁos Problema
 . O
 
 Nega O
-epis√≥dios O
-anginosos O
+episÛdios Problema
+anginosos Problema
 . O
 
 Nega O
-outras O
-queixas O
+outras Problema
+queixas Problema
 . O
 
 Rsultado O
 de O
-exames O
+exames Teste
 : O
 1 O
 - O
-Microalbumin√∫ria O
+Microalbumin˙ria Teste
 12 O
 / O
 04 O
@@ -760,140 +760,140 @@ Microalbumin√∫ria O
 / O
 G O
 de O
-creatinina O
+creatinina Teste
 2 O
 - O
-US O
-abdome O
-total O
+US Teste
+abdome Teste
+total Teste
 : O
-rins O
-com O
-altera√ß√µes O
-tr√≥ficas O
+rins Problema
+com Problema
+alteraÁıes Problema
+trÛficas Problema
 3 O
 - O
-ECG O
+ECG Teste
 19 O
 / O
 03 O
 / O
 14 O
 : O
-isquemia O
-subepic√°rdica O
-anterior O
+isquemia Problema
+subepic·rdica Problema
+anterior Problema
 , O
-altera√ß√£o O
-de O
-repolariza√ß√£o O
-ventricular O
-infero O
-- O
-lateral O
+alteraÁ„o Problema
+de Problema
+repolarizaÁ„o Problema
+ventricular Problema
+infero Problema
+- Problema
+lateral Problema
 4 O
 - O
-Laboratoriais O
+Laboratoriais Teste
 12 O
 / O
 04 O
 / O
 14 O
 : O
-K O
+K Teste
 5 O
 . O
 1 O
 , O
-clearence O
-creatinina O
+clearence Teste
+creatinina Teste
 57 O
 Ao O
-EF O
+EF Teste
 : O
-PA O
+PA Teste
 170x100mmHg O
 ( O
 relata O
-PA O
+PA Teste
 normal O
 quando O
 em O
 ambiente O
-n√£o O
+n„o O
 hospitalar O
 ) O
 , O
-FC O
+FC Teste
 63bpm O
 AR O
 : O
 mv O
 sem O
-RA O
-ACV O
+RA Problema
+ACV Anatomia
 : O
 rcr O
 em O
 2T O
 sem O
-sopros O
+sopros Problema
 , O
 com O
-hipofonese O
-de O
-bulhas O
+hipofonese Problema
+de Problema
+bulhas Problema
 AD O
 : O
-abdome O
+abdome Anatomia
 globos O
 , O
 normotenso O
 , O
 indolor O
 , O
-aus√™ncia O
+ausÍncia O
 de O
-massas O
+massas Problema
 ou O
-visceromegalias O
-MMII O
+visceromegalias Problema
+MMII Anatomia
 sem O
-edema O
+edema Problema
 HD O
 : O
 - O
-ICC O
-diast√≥lica O
-classe O
-III O
+ICC Problema
+diastÛlica Problema
+classe Problema
+III Problema
 - O
-HAS O
+HAS Problema
 - O
-DMII O
+DMII Problema
 - O
-Dislipidemia O
+Dislipidemia Problema
 CD O
 : O
 - O
 mantenho O
-medica√ß√£o Tratamento
+medicaÁ„o Tratamento
 - O
 retorno O
 em O
 6 O
 m O
 com O
-exames O
-laboratoriais O
+exames Teste
+laboratoriais Teste
 + O
-ECG O
+ECG Teste
 . O
 
-ICC O
-classe O
-III O
-HAS O
+ICC Problema
+classe Problema
+III Problema
+HAS Problema
 , O
 em O
 uso O
@@ -922,7 +922,7 @@ anlodipino Tratamento
 / O
 2 O
 cp O
-√† O
+‡ O
 noite O
 , O
 losartana Tratamento
@@ -930,14 +930,14 @@ losartana Tratamento
 12 O
 / O
 12h O
-DMII O
+DMII Problema
 , O
 metformina Tratamento
 850mg Tratamento
 12 O
 / O
 12h O
-Dislipidemia O
+Dislipidemia Problema
 , O
 faz O
 uso O
@@ -946,7 +946,7 @@ sinvastatina Tratamento
 20mg Tratamento
 02 O
 cp O
-√† O
+‡ O
 noite O
 . O
 
@@ -958,8 +958,8 @@ HA O
 dias O
 . O
 
-ULTIMA O
-BIOPSIA O
+ULTIMA Teste
+BIOPSIA Teste
 AINDA O
 SEM O
 RESULTADO O
@@ -1000,13 +1000,13 @@ SINVA Tratamento
 S O
 # O
 SEM O
-QUEIXAS O
+QUEIXAS Problema
 . O
 
 REFERE O
-QUEIMA√á√ÉO O
-NAS O
-PERNAS O
+QUEIMA«√O Problema
+NAS Problema
+PERNAS Problema
 . O
 
 DEMAIS O
@@ -1015,12 +1015,12 @@ SP O
 
 O O
 # O
-PA O
+PA Teste
 120 O
 / O
 80 O
 , O
-FC O
+FC Teste
 89 O
 . O
 
@@ -1028,13 +1028,13 @@ ACV O
 BCRNF O
 . O
 
-CPP O
+CPP Anatomia
 LIVRE O
 . O
 
-MMII O
+MMII Anatomia
 SEM O
-EDEMA O
+EDEMA Problema
 . O
 
 A O
@@ -1045,17 +1045,17 @@ CARDIACO Tratamento
 , O
 COM O
 BOA O
-EVOLU√á√ÉO O
+EVOLU«√O O
 . O
 
 P O
 # O
 NOVA O
-BIOPSIA O
+BIOPSIA Teste
 , O
-ECO O
+ECO Teste
 E O
-LAB O
+LAB Teste
 . O
 
 PROTESE Tratamento
@@ -1090,8 +1090,8 @@ D O
 . O
 
 SEM O
-QX O
-CARDIOLOGICAS O
+QX Problema
+CARDIOLOGICAS Problema
 . O
 
 27 O
@@ -1101,42 +1101,42 @@ CARDIOLOGICAS O
 15 O
 FE O
 50 O
-EP O
+EP Anatomia
 25 O
-AE O
+AE Anatomia
 46 O
-VE O
-REMODELAMENTO O
-CONCENTRICO O
-AE O
-E O
-AD O
-AUMENTADOS O
+VE Problema
+REMODELAMENTO Problema
+CONCENTRICO Problema
+AE Problema
+E Problema
+AD Problema
+AUMENTADOS Problema
 VD O
 NL O
 PROTESE O
 AO O
 NF O
-REFLUXO O
-DISCRETO O
+REFLUXO Problema
+DISCRETO Problema
 = O
-DUPLA O
-LESAO O
-MI O
-COM O
-ESTENOSE O
-E O
-INSUF O
-MODERADAS O
+DUPLA Problema
+LESAO Problema
+MI Problema
+COM Problema
+ESTENOSE Problema
+E Problema
+INSUF Problema
+MODERADAS Problema
 - O
-INSUF O
-TRI O
-MODERADA O
-A O
-IMPORTANTE O
+INSUF Problema
+TRI Problema
+MODERADA Problema
+A Problema
+IMPORTANTE Problema
 = O
-HIPERTENSAO O
-PULMONAR O
+HIPERTENSAO Problema
+PULMONAR Problema
 . O
 
 CONTROLE Tratamento
@@ -1204,27 +1204,27 @@ Trazodona Tratamento
 d O
 . O
 
-Dispnia O
-esporadica O
+Dispnia Problema
+esporadica Problema
 , O
-edema O
-mmii O
-eventual O
+edema Problema
+mmii Problema
+eventual Problema
 , O
 sem O
-palpita√ß√£o O
+palpitaÁ„o Problema
 , O
-dor O
-toracica O
-quando O
-epigastralgia O
+dor Problema
+toracica Problema
+quando Problema
+epigastralgia Problema
 que O
-melhoram O
-com O
-paracetamol Tratamento
-. O
+melhoram Problema
+com Problema
+paracetamol Problema
+. Problema
 
-Lab O
+Lab Teste
 ( O
 21 O
 / O
@@ -1233,69 +1233,69 @@ Lab O
 16 O
 ) O
 : O
-Hbglic O
+Hbglic Teste
 6 O
 , O
 34 O
 ; O
-TSH O
+TSH Teste
 2 O
 , O
 15 O
 ; O
-Hb O
+Hb Teste
 13 O
 , O
 5 O
 ; O
-VG O
+VG Teste
 42 O
 % O
-leuco O
+leuco Teste
 9610 O
 ; O
-plaq O
+plaq Teste
 234000 O
 ; O
-Urina O
-I O
+Urina Teste
+I Teste
 ok O
 ; O
-K O
+K Teste
 4 O
 , O
 4 O
 ; O
-Cr O
+Cr Teste
 1 O
 , O
 1 O
 ; O
-Gli O
+Gli Teste
 71 O
 ; O
-U O
+U Teste
 69 O
 ; O
-Tri O
+Tri Teste
 67 O
 ; O
-HDL O
-- O
-C O
+HDL Teste
+- Teste
+C Teste
 77 O
 ; O
-ColT O
+ColT Teste
 160 O
 ; O
-LDL O
-- O
-C O
+LDL Teste
+- Teste
+C Teste
 70 O
 ; O
 . O
 
-Ecocardio O
+Ecocardio Teste
 ( O
 04 O
 / O
@@ -1304,7 +1304,7 @@ Ecocardio O
 15 O
 ) O
 : O
-AE O
+AE Anatomia
 42 O
 ; O
 DDVE O
@@ -1317,27 +1317,27 @@ FE O
 73 O
 % O
 ; O
-VMi O
+VMi Anatomia
 area O
 1 O
 , O
 65 O
 ; O
-calcificada O
+calcificada Problema
 , O
-refluxo O
-discreto O
+refluxo Problema
+discreto Problema
 . O
 
-VAo O
-protese O
-metalica O
-com O
-espessamento O
+VAo Problema
+protese Problema
+metalica Problema
+com Problema
+espessamento Problema
 , O
 e O
-relfuxo O
-discreto O
+relfuxo Problema
+discreto Problema
 . O
 
 Grad O
@@ -1357,22 +1357,22 @@ de O
 12 O
 . O
 
-VTri O
+VTri Anatomia
 = O
-refluxo O
-discreto O
+refluxo Problema
+discreto Problema
 com O
 PSAP O
 56mmHg O
 . O
 
-VP O
-refluxo O
-minimo O
+VP Problema
+refluxo Problema
+minimo Problema
 . O
 
-VE O
-hipertrofiado O
+VE Problema
+hipertrofiado Problema
 . O
 
 , O
@@ -1384,19 +1384,19 @@ PPVE O
 14 O
 . O
 
-PA O
-( O
-sentada O
-) O
+PA Teste
+( Teste
+sentada Teste
+) Teste
 : O
 140x60mmHg O
 , O
-P O
+P Teste
 76 O
 . O
 
 EM O
-p√© O
+pÈ O
 2 O
 idem O
 . O
@@ -1404,8 +1404,8 @@ idem O
 MV O
 normodist O
 sem O
-ruidos O
-adsventicios O
+ruidos Problema
+adsventicios Problema
 . O
 
 RCR O
@@ -1413,20 +1413,20 @@ RCR O
 2T O
 , O
 BNF O
-ss O
-+ O
-+ O
-/ O
-6 O
-+ O
-FAo O
+ss Problema
++ Problema
++ Problema
+/ Problema
+6 Problema
++ Problema
+FAo Problema
 e O
-Mi O
-( O
-+ O
-/ O
-6 O
-+ O
+Mi Problema
+( Problema
++ Problema
+/ Problema
+6 Problema
++ Problema
 . O
 
 BEG O
@@ -1438,20 +1438,20 @@ acianotica O
 orientada O
 , O
 Sem O
-edema O
-mmii O
+edema Problema
+mmii Problema
 . O
 
 HD O
 : O
 protese O
 Metalica O
-AOrtoca O
+AOrtoca Anatomia
 normofuncionante O
 . O
 
-Disfunb√ß√£o O
-diastolica O
+DisfunbÁ„o Problema
+diastolica Problema
 . O
 
 CD O
@@ -1480,7 +1480,7 @@ Retonro O
 em O
 6m O
 com O
-lab O
+lab Teste
 . O
 
 # O
@@ -1501,13 +1501,13 @@ CURITIBA O
 . O
 
 # O
-D√á O
-DE O
-CHAGAS O
+D« Problema
+DE Problema
+CHAGAS Problema
 . O
 
 # O
-BAVT O
+BAVT Problema
 . O
 
 # O
@@ -1528,42 +1528,42 @@ DESDE O
 PACIENTE O
 ENCAMINHADO O
 DO O
-AMBULAT√ìRIO O
+AMBULAT”RIO O
 DE O
 ARRITMIAS O
 . O
 
 PACIENTE O
 NEGA O
-DISPNEIA O
+DISPNEIA Problema
 , O
 NEGA O
-ORTOPNEIA O
+ORTOPNEIA Problema
 , O
 NEGA O
-DPN O
+DPN Problema
 . O
 
 SEM O
-OUTRAS O
-QUEIXAS O
+OUTRAS Problema
+QUEIXAS Problema
 . O
 
 # O
 NEGA O
 HX O
 DE O
-HAS O
+HAS Problema
 , O
-DM O
+DM Problema
 , O
-DISLIPIDEMIA O
+DISLIPIDEMIA Problema
 E O
-TIREOIDOPATIAS O
+TIREOIDOPATIAS Problema
 . O
 
 # O
-M√ÉE O
+M√E O
 FALECIDA O
 POR O
 CARDIOPATIA O
@@ -1583,7 +1583,7 @@ APENDICITE Tratamento
 E Tratamento
 HERNIAS Tratamento
 PARAMEDIANAS Tratamento
-H√Å O
+H¡ O
 > O
 20 O
 ANOS O
@@ -1619,56 +1619,56 @@ SVT Tratamento
 20 Tratamento
 . O
 
-EXAMES O
-LAB O
+EXAMES Teste
+LAB Teste
 11 O
 / O
 11 O
 : O
-CREAT O
+CREAT Teste
 1 O
 ; O
-UR O
+UR Teste
 58 O
 ; O
-GLI O
+GLI Teste
 71 O
 ; O
-TG O
+TG Teste
 88 O
 ; O
-HDL O
+HDL Teste
 52 O
 ; O
-CT O
+CT Teste
 160 O
 ; O
-LDL O
+LDL Teste
 90 O
 ; O
-Na O
+Na Teste
 140 O
 ; O
-K O
+K Teste
 5 O
 , O
 2 O
 ; O
-Hb O
+Hb Teste
 14 O
 , O
 8 O
 / O
-Ht O
+Ht Teste
 46 O
 , O
 6 O
 / O
-LEUC O
+LEUC Teste
 5150 O
 . O
 
-EF O
+EF Teste
 # O
 BEG O
 , O
@@ -1679,76 +1679,76 @@ E O
 HIDRATADO O
 . O
 
-PA O
+PA Teste
 : O
 90 O
 / O
 60MMHG O
 ; O
-P O
+P Teste
 : O
 72 O
 . O
 
 AUSENCIA O
 DE O
-TURG√äNCIA O
-JUGULAR O
+TURG NCIA Problema
+JUGULAR Problema
 . O
 
-ICTUS O
-PALP√ÅVEL O
-EM O
-7¬∫ O
-EIC O
-EM O
-LINHA O
-HEMIAXILAR O
-E O
+ICTUS Problema
+PALP¡VEL Problema
+EM Problema
+7∫ Problema
+EIC Problema
+EM Problema
+LINHA Problema
+HEMIAXILAR Problema
+E Problema
 . O
 
 BCRNF O
 2T O
-SS O
+SS Problema
 . O
 
 AUSCULTA O
-PULMONAR O
+PULMONAR Anatomia
 SEM O
-ALTERA√á√ïES O
+ALTERA«’ES Problema
 . O
 
-ABDOME O
+ABDOME Anatomia
 INOCENTE O
 . O
 
 SEM O
-EDEMA O
-EM O
-MMII O
+EDEMA Problema
+EM Problema
+MMII Problema
 . O
 
 PULSOS O
 + O
 BL O
 , O
-SIM√âTRICOS O
+SIM…TRICOS O
 . O
 
 A O
 : O
-D√áA O
-CHAGAS O
+D«A Problema
+CHAGAS Problema
 . O
 
 P O
 : O
 MANTENHO O
-MEDICA√á√ïES Tratamento
+MEDICA«’ES Tratamento
 . O
 
 SOLICITO O
-ECOCARDIO O
+ECOCARDIO Teste
 . O
 
 RETORNO O
@@ -1758,7 +1758,7 @@ MESES O
 . O
 
 sem O
-queixas O
+queixas Problema
 . O
 
 sente O
@@ -1769,10 +1769,10 @@ bem O
 
 # O
 hoje O
-avalia√ß√£o O
-exclusiva O
-de O
-mp O
+avaliaÁ„o Teste
+exclusiva Teste
+de Teste
+mp Teste
 . O
 
 # O
@@ -1867,7 +1867,7 @@ bat O
 pcte O
 ciente O
 que O
-N√ÉO O
+N√O O
 PODE O
 DIXAR O
 DE O
@@ -1880,7 +1880,7 @@ procura O
 direta O
 . O
 
-ABLA√á√ÉO Tratamento
+ABLA«√O Tratamento
 DE Tratamento
 TAQUICARDIA Tratamento
 ATRIAL Tratamento
@@ -1892,24 +1892,24 @@ EM O
 2010 O
 . O
 
-HAS O
+HAS Problema
 , O
 NEGA O
-DM O
+DM Problema
 , O
-DLPD O
+DLPD Problema
 , O
-TABAGISMO O
+TABAGISMO Problema
 , O
-ALERGIA O
-MEDICAMENTOSA O
+ALERGIA Problema
+MEDICAMENTOSA Problema
 . O
 
-CATETERISMO O
+CATETERISMO Teste
 COM O
 AUSENCIA O
 DE O
-CORONARIOPATIA O
+CORONARIOPATIA Problema
 . O
 
 FAZ O
@@ -1940,25 +1940,25 @@ MAREVAN Tratamento
 5MG Tratamento
 . O
 
-HOLTER O
+HOLTER Teste
 COM O
 PRESENCA O
 DE O
-EV O
-E O
-ESV O
-RARAS O
-COM O
-EPISODIOS O
-NAO O
-SUSTENTADOS O
-DE O
-TAQUICARDIA O
-ATRIAL O
+EV Problema
+E Problema
+ESV Problema
+RARAS Problema
+COM Problema
+EPISODIOS Problema
+NAO Problema
+SUSTENTADOS Problema
+DE Problema
+TAQUICARDIA Problema
+ATRIAL Problema
 SEM O
 PRESENCA O
 DE O
-SINTOMAS O
+SINTOMAS Problema
 . O
 
 # O
@@ -1970,25 +1970,25 @@ SENTINDO O
 BEM O
 COM O
 AS O
-MEDICA√á√ïES Tratamento
+MEDICA«’ES Tratamento
 . O
 
 NEGA O
 SINTOMAS O
 DE O
-PALPITA√á√ïES O
+PALPITA«’ES Problema
 . O
 
 RELATA O
-DISPNEIA O
-AOS O
-GRANDES O
-ESFORCOS O
+DISPNEIA Problema
+AOS Problema
+GRANDES Problema
+ESFORCOS Problema
 , O
 COM O
-MELHORA O
-COM O
-REPOUSO O
+MELHORA Problema
+COM Problema
+REPOUSO Problema
 . O
 
 RELATA O
@@ -1997,22 +1997,22 @@ APRESENTOU O
 1 O
 EPISODIO O
 DE O
-HIPOTENSAO O
+HIPOTENSAO Problema
 . O
 
 RELATA O
-CEFALEIA O
+CEFALEIA Problema
 . O
 
 # O
 BEG O
 , O
-PA O
+PA Teste
 120 O
 / O
 80MMHG O
 , O
-FC O
+FC Teste
 70 O
 . O
 
@@ -2024,35 +2024,35 @@ SEM O
 ALT O
 . O
 
-CORA√á√ÉO O
+CORA«√O Anatomia
 : O
 BRNF O
 2T O
 , O
 SEM O
-SOPRO O
+SOPRO Problema
 . O
 
-PULMAO O
+PULMAO Anatomia
 : O
 MV O
 + O
 , O
 SEM O
-RA O
+RA Problema
 . O
 
 CD O
 : O
-MEDICA√á√ÉO Tratamento
+MEDICA«√O Tratamento
 MANTIDA O
 . O
 
 SOLICITO O
 NOVO O
-HOLTER O
+HOLTER Teste
 E O
-ECOCARDIO O
+ECOCARDIO Teste
 . O
 
 Lucas O
@@ -2061,9 +2061,9 @@ Lucas O
 anos O
 . O
 
-Comorbidades O
+Comorbidades Problema
 : O
-HAS O
+HAS Problema
 . O
 
 Medicamentos Tratamento
@@ -2107,64 +2107,64 @@ HMA O
 : O
 fez O
 02 Tratamento
-abla√ß√µes Tratamento
+ablaÁıes Tratamento
 ( O
 2009 O
 e O
 2010 O
 ) O
 POR O
-PALPITA√á√ïES O
+PALPITA«’ES Problema
 com O
-taquicardia O
-atrial O
+taquicardia Problema
+atrial Problema
 ; O
 . O
 
 Atualmente O
 sente O
-palpita√ß√µes O
-quando O
-faz O
-grandes O
-esfor√ßos O
+palpitaÁıes Problema
+quando Problema
+faz Problema
+grandes Problema
+esforÁos Problema
 ; O
-dor O
-de O
-cabe√ßa O
+dor Problema
+de Problema
+cabeÁa Problema
 que O
-melhora O
-com O
-analg√©sico Tratamento
-comum Tratamento
+melhora Problema
+com Problema
+analgÈsico Problema
+comum Problema
 . O
 
 Relata O
 que O
 acompanha O
-press√£o O
+press„o Teste
 no O
 posto O
 e O
 normalmente O
-est√° O
+est· O
 120x80 O
 . O
 
-FC O
+FC Teste
 : O
 88 O
 . O
 
-Edema O
-discreto O
-mmi O
+Edema Problema
+discreto Problema
+mmi Problema
 . O
 
 Ausculta O
-pulmonar O
+pulmonar Anatomia
 e O
-cardiaca O
+cardiaca Anatomia
 normais O
 . O
 
@@ -2178,7 +2178,7 @@ Homoenxerto Tratamento
 aortico Tratamento
 ( O
 por O
-EAo O
+EAo Problema
 ) O
 + O
 MIE O
@@ -2200,7 +2200,7 @@ Vital O
 Brazil O
 . O
 
-Hipertenso O
+Hipertenso Problema
 , O
 . O
 
@@ -2248,7 +2248,7 @@ Hidantal Tratamento
 100mg Tratamento
 - O
 por O
-cisticercose O
+cisticercose Problema
 . O
 
 Penicilina Tratamento
@@ -2270,31 +2270,31 @@ em O
 2013 O
 . O
 
-DOR O
-REGIAO O
-ESTERNAL O
+DOR Problema
+REGIAO Problema
+ESTERNAL Problema
 , O
 EM O
 FO O
 , O
 LOCAL O
 FIOS O
-A√áO O
+A«O O
 , O
 EM O
-QUEIMA√á√ÉO O
+QUEIMA«√O O
 . O
 
 - O
 Labs O
 : O
-tg O
+tg Teste
 221 O
 / O
-ct O
+ct Teste
 166 O
 / O
-ldl O
+ldl Teste
 76 O
 , O
 demais O
@@ -2302,7 +2302,7 @@ ok O
 . O
 
 - O
-Ecocardio O
+Ecocardio Teste
 12 O
 / O
 08 O
@@ -2311,10 +2311,10 @@ Ecocardio O
 : O
 A0 O
 / O
-VD O
+VD Anatomia
 22 O
 / O
-Septo O
+Septo Anatomia
 11 O
 / O
 FE O
@@ -2334,26 +2334,26 @@ pressao O
 4mmHg O
 . O
 
-Regurgitacao O
-grau O
-leve O
-a O
-moderada O
+Regurgitacao Problema
+grau Problema
+leve Problema
+a Problema
+moderada Problema
 com O
 jato O
 dirigido O
-valva O
-mitral O
+valva Anatomia
+mitral Anatomia
 ( O
 ? O
 ) O
 . O
 
-Exames O
+Exames Teste
 : O
 . O
 
-Ecocardiograma O
+Ecocardiograma Teste
 - O
 26 O
 / O
@@ -2363,29 +2363,29 @@ Ecocardiograma O
 : O
 Homoenxerto Tratamento
 em Tratamento
-posi√ß√£o Tratamento
-a√≥rtica Tratamento
+posiÁ„o Tratamento
+aÛrtica Tratamento
 normofuncionante O
 . O
 
-VE O
-hipertrofiado O
+VE Problema
+hipertrofiado Problema
 com O
-dimens√µes O
+dimensıes O
 normais O
 e O
-fum√ß√£o O
-sist√≥lica O
+fumÁ„o O
+sistÛlica O
 preservada O
 . O
 
-ALtera√ß√£o O
-do O
-relaxamento O
-do O
-VE O
-AE O
-dilatado O
+ALteraÁ„o Problema
+do Problema
+relaxamento Problema
+do Problema
+VE Problema
+AE Problema
+dilatado Problema
 . O
 
 Homoenxerto Tratamento
@@ -2401,7 +2401,7 @@ FE O
 . O
 
 - O
-Lab O
+Lab Teste
 ( O
 05 O
 / O
@@ -2410,34 +2410,34 @@ Lab O
 15 O
 ) O
 : O
-Cr O
+Cr Teste
 0 O
 , O
 91 O
 , O
-CT O
+CT Teste
 174 O
 , O
-TGC O
+TGC Teste
 197 O
 , O
-HDL O
+HDL Teste
 44 O
 , O
-K O
+K Teste
 4 O
 , O
 8 O
 , O
-LDL O
+LDL Teste
 90 O
 , O
-Glic O
+Glic Teste
 107 O
 . O
 
 Ao O
-exame O
+exame Teste
 : O
 . O
 
@@ -2453,7 +2453,7 @@ hidratado O
 . O
 
 FC79 O
-PA O
+PA Teste
 : O
 130 O
 / O
@@ -2463,15 +2463,15 @@ PA O
 CP O
 : O
 sem O
-estase O
-jugular O
+estase Problema
+jugular Problema
 . O
 
 AC O
 : O
 BCRNF O
 sem O
-sopros O
+sopros Problema
 . O
 
 AP O
@@ -2481,22 +2481,22 @@ presente O
 bilateralmente O
 , O
 sem O
-RA O
+RA Problema
 . O
 
 mantenho O
-medica√ß√µes Tratamento
+medicaÁıes Tratamento
 . O
 
 encaminho O
 para O
 cir O
-cardiaca O
+cardiaca Anatomia
 para O
 retirada O
 pontos O
 suttura O
-esterno O
+esterno Anatomia
 . O
 
 retorno O
@@ -2511,15 +2511,15 @@ Vital O
 Brazil O
 . O
 
-USU√ÅRIA O
+USU¡RIA O
 DE O
 MAREVAN Tratamento
 DEVIDO O
 ' O
-ARRITMIA O
+ARRITMIA Problema
 ' O
 , O
-N√ÉO O
+N√O O
 SABE O
 INFORMAR O
 MAIORES O
@@ -2527,13 +2527,13 @@ DETALHES O
 . O
 
 sEM O
-QUEIXAS O
+QUEIXAS Problema
 . O
 
 SEM O
 RELATO O
 DE O
-SANGRAMENTOS O
+SANGRAMENTOS Problema
 . O
 
 EM O
@@ -2551,7 +2551,7 @@ E O
 DOM O
 . O
 
-RNI O
+RNI Teste
 3 O
 , O
 40 O
@@ -2571,7 +2571,7 @@ GRAVIDADE O
 
 MANTER O
 AS O
-MEDICA√á√ÉO Tratamento
+MEDICA«√O Tratamento
 DE O
 USO O
 , O
@@ -2592,11 +2592,11 @@ anos O
 . O
 
 # O
-EAo O
+EAo Problema
 . O
 
 # O
-HAS O
+HAS Problema
 . O
 
 # O
@@ -2618,11 +2618,11 @@ Enalapril Tratamento
 
 # O
 Sem O
-queixas O
-cardiovasculares O
+queixas Problema
+cardiovasculares Problema
 . O
 
-Ecocardio O
+Ecocardio Teste
 ( O
 13 O
 / O
@@ -2631,13 +2631,13 @@ Ecocardio O
 15 O
 ) O
 : O
-AE O
+AE Anatomia
 = O
 45 O
 ; O
-SIV O
+SIV Anatomia
 = O
-PPVE O
+PPVE Anatomia
 = O
 14mm O
 ; O
@@ -2655,32 +2655,32 @@ FE O
 % O
 . O
 
-VMi O
+VMi Anatomia
 = O
-folhetos O
-espessados O
+folhetos Problema
+espessados Problema
 , O
 abertura O
 preservada O
 , O
-refluxo O
-discreto O
+refluxo Problema
+discreto Problema
 , O
 fluxo O
-diast√≥lico O
+diastÛlico O
 com O
-padr√£o O
+padr„o O
 E O
 < O
 A O
-VAo O
+VAo Anatomia
 = O
-c√∫spides O
-calcificadas O
+c˙spides Problema
+calcificadas Problema
 , O
 com O
-dupla O
-les√£o O
+dupla Problema
+les„o Problema
 ; O
 Grad O
 max O
@@ -2692,48 +2692,48 @@ de O
 28mmHg O
 . O
 
-VP O
+VP Anatomia
 = O
 ok O
 ; O
-Vtri O
+Vtri Anatomia
 = O
-folhetos O
-espessados O
+folhetos Problema
+espessados Problema
 , O
 abertura O
 preservada O
 , O
-insuficiente O
+insuficiente Problema
 , O
 PSAP O
 = O
 39mmHg O
 . O
 
-VE O
+VE Anatomia
 = O
-hipertrofiado O
+hipertrofiado Problema
 , O
 cavidade O
 , O
-fun√ß√£o O
-sist√≥lica O
+funÁ„o O
+sistÛlica O
 e O
-contra√ß√£o O
+contraÁ„o O
 preservadas O
 , O
-alt O
-de O
-relaxamento O
+alt Problema
+de Problema
+relaxamento Problema
 . O
 
-AD O
+AD Anatomia
 = O
-aumentado O
+aumentado Problema
 . O
 
-Eco O
+Eco Teste
 ( O
 14 O
 / O
@@ -2741,22 +2741,22 @@ Eco O
 / O
 16 O
 ) O
-RA O
+RA Anatomia
 : O
 38 O
-AE O
+AE Anatomia
 : O
 45 O
-VD O
+VD Anatomia
 : O
 20 O
-S O
+S Anatomia
 : O
 14 O
-PP O
+PP Anatomia
 : O
 14 O
-VE O
+VE Anatomia
 : O
 50 O
 / O
@@ -2767,14 +2767,14 @@ FE O
 % O
 . O
 
-AO O
+AO Anatomia
 : O
-CUSPIDES O
-CALCIFICADAS O
+CUSPIDES Problema
+CALCIFICADAS Problema
 , O
 COM O
-DUPLA O
-LESAO O
+DUPLA Problema
+LESAO Problema
 . O
 
 GRAD O
@@ -2785,22 +2785,22 @@ MEDIO O
 25 O
 . O
 
-INSUF O
-TRICU O
-DISCRETA O
+INSUF Problema
+TRICU Problema
+DISCRETA Problema
 ( O
 PSAP O
 39 O
 ) O
 . O
 
-REFLUXO O
-MITRAL O
-DISCRETO O
+REFLUXO Problema
+MITRAL Problema
+DISCRETO Problema
 . O
 
-AO O
-ASC O
+AO Anatomia
+ASC Anatomia
 : O
 41MM O
 . O
@@ -2809,18 +2809,18 @@ S O
 . O
 
 Nega O
-dispneia O
+dispneia Problema
 , O
-dor O
-toracica O
+dor Problema
+toracica Problema
 , O
-sincope O
+sincope Problema
 . O
 
 Nega O
-edema O
-de O
-MMII O
+edema Problema
+de Problema
+MMII Problema
 . O
 
 Refere O
@@ -2835,14 +2835,14 @@ nas O
 consultas O
 sempre O
 apresenta O
-eleva√ß√£o O
-de O
-PA O
+elevaÁ„o Problema
+de Problema
+PA Problema
 . O
 
-Sd O
-Jaleco O
-Branco O
+Sd Problema
+Jaleco Problema
+Branco Problema
 ? O
 ) O
 . O
@@ -2856,14 +2856,14 @@ acianotico O
 anicterico O
 . O
 
-PA O
+PA Teste
 : O
 170 O
 / O
 100 O
 mmHg O
 , O
-P O
+P Teste
 = O
 99 O
 spm O
@@ -2872,45 +2872,45 @@ spm O
 MV O
 normodist O
 sem O
-ruidos O
+ruidos Problema
 . O
 
 RCR O
 , O
 2T O
 , O
-taquicardico O
+taquicardico Problema
 , O
-ss O
-+ O
-+ O
-/ O
-6 O
-+ O
-, O
-crsec O
-/ O
-decres O
-, O
-FAO O
-, O
-irradia√ß√£o O
-para O
-todo O
-o O
-prec√≥rdio O
+ss Problema
++ Problema
++ Problema
+/ Problema
+6 Problema
++ Problema
+, Problema
+crsec Problema
+/ Problema
+decres Problema
+, Problema
+FAO Problema
+, Problema
+irradiaÁ„o Problema
+para Problema
+todo Problema
+o Problema
+precÛrdio Problema
 . O
 
 A O
 # O
-DUPLA O
-LESAO O
-AO O
-ESTENOSE O
-MOD O
-+ O
-INSUF O
-DISCRETA O
+DUPLA Problema
+LESAO Problema
+AO Problema
+ESTENOSE Problema
+MOD Problema
++ Problema
+INSUF Problema
+DISCRETA Problema
 . O
 
 P O
@@ -2934,7 +2934,7 @@ em O
 ano O
 com O
 novo O
-eco O
+eco Teste
 . O
 
 R4 O
@@ -2945,27 +2945,27 @@ Brazil O
 . O
 
 # O
-MCP O
-dilatada O
-- O
-IDIOP√ÅTICA O
+MCP Problema
+dilatada Problema
+- Problema
+IDIOP¡TICA Problema
 . O
 
-CF O
-II O
-- O
-III O
-OSCILANTE O
+CF Problema
+II Problema
+- Problema
+III Problema
+OSCILANTE Problema
 . O
 
 ** O
 PROTOCOLO O
 DE O
 TX O
-CARDIACO O
+CARDIACO Anatomia
 - O
-INDICE O
-CARDIACO O
+INDICE Teste
+CARDIACO Teste
 . O
 
 *** O
@@ -3013,77 +3013,77 @@ S O
 # O
 QUEIXA O
 DE O
-CANSA√áO O
-AOS O
-ESFOR√áOS O
+CANSA«O Problema
+AOS Problema
+ESFOR«OS Problema
 . O
 
 DEMAIS O
 SP O
 . O
 
-TG O
+TG Teste
 111 O
 , O
-HDL O
+HDL Teste
 37 O
 , O
-K O
+K Teste
 4 O
 , O
 7 O
 , O
-CT O
+CT Teste
 162 O
 , O
-LDL O
+LDL Teste
 103 O
 , O
-TSH O
+TSH Teste
 1 O
 , O
 59 O
 , O
-HB O
+HB Teste
 13 O
 , O
-HB O
-GLICASADA O
+HB Teste
+GLICASADA Teste
 5 O
 , O
 87 O
 , O
-NA O
+NA Teste
 145 O
 , O
-TGP O
+TGP Teste
 28 O
 , O
-TGO O
+TGO Teste
 26 O
 , O
-CREAT O
+CREAT Teste
 0 O
 , O
 98 O
 . O
 
 AO O
-EAXME O
-PA O
+EAXME Teste
+PA Teste
 110 O
 / O
 70 O
-FC O
+FC Teste
 64 O
 . O
 
 SEM O
-TURG√äNCIA O
-JUGULAR O
+TURG NCIA Problema
+JUGULAR Problema
 . O
 
-CPP O
+CPP Anatomia
 - O
 MV O
 + O
@@ -3095,29 +3095,29 @@ PC O
 - O
 BCR O
 SEM O
-SOPROS O
+SOPROS Problema
 , O
 . O
 
-MMII O
+MMII Anatomia
 - O
 SEM O
-EDEM O
+EDEM Problema
 . O
 
 A O
 # O
-MCP O
-dilatada O
-CF O
-II O
-/ O
-III O
+MCP Problema
+dilatada Problema
+CF Problema
+II Problema
+/ Problema
+III Problema
 . O
 
 P O
 # O
-MEDICA√á√ïES Tratamento
+MEDICA«’ES Tratamento
 MANTIDAS O
 . O
 
@@ -3131,7 +3131,7 @@ ANOS O
 PO O
 DE O
 TX Tratamento
-CARD√çACO Tratamento
+CARDÕACO Tratamento
 ( O
 23 O
 / O
@@ -3141,9 +3141,9 @@ CARD√çACO Tratamento
 ) O
 - O
 ( O
-IC O
-DILATADA O
-IDIOP√ÅTICA O
+IC Problema
+DILATADA Problema
+IDIOP¡TICA Problema
 ) O
 . O
 
@@ -3182,46 +3182,46 @@ DIA O
 . O
 
 - O
-EXAMES O
+EXAMES Teste
 - O
-AVALIA√á√ÉO O
-PR√â O
-- O
-TRANSPLANTE O
+AVALIA«√O Teste
+PR… Teste
+- Teste
+TRANSPLANTE Teste
 : O
 . O
 
 # O
-DOPPLER O
-CAROTIDAS O
-+ O
-VERTEBRAIS O
+DOPPLER Teste
+CAROTIDAS Teste
++ Teste
+VERTEBRAIS Teste
 : O
-CERVICAL O
-D O
+CERVICAL Anatomia
+D Anatomia
 : O
-CAROTIDA O
+CAROTIDA Anatomia
 : O
-ESTENOSE O
-20 O
-- O
-30 O
-% O
-NA O
-BIFURCA√á√ÉO O
-CAROT√çDEA O
+ESTENOSE Problema
+20 Problema
+- Problema
+30 Problema
+% Problema
+NA Problema
+BIFURCA«√O Problema
+CAROTÕDEA Problema
 ; O
 . O
 
 # O
-CATE O
+CATE Teste
 16 O
 / O
 06 O
 / O
 15 O
 : O
-PR√â O
+PR… O
 : O
 RVP O
 2 O
@@ -3232,7 +3232,7 @@ RVP O
 RVS O
 24 O
 , O
-P√ìS O
+P”S O
 : O
 RVP O
 2 O
@@ -3247,25 +3247,25 @@ RVS O
 . O
 
 # O
-ECOTT O
+ECOTT Teste
 28 O
 / O
 8 O
 / O
 15 O
-AE O
+AE Anatomia
 46 O
 / O
-VD O
+VD Anatomia
 26 O
 / O
 S O
 / O
-PP O
+PP Anatomia
 10 O
 / O
 10 O
-VE O
+VE Anatomia
 81 O
 / O
 66 O
@@ -3274,20 +3274,20 @@ FE O
 % O
 . O
 
-VE O
-DILATADO O
-COM O
-HIPOCONTRATIBILIDADE O
-DIFUSA O
-MODERADA O
+VE Problema
+DILATADO Problema
+COM Problema
+HIPOCONTRATIBILIDADE Problema
+DIFUSA Problema
+MODERADA Problema
 / O
-I O
-AO O
-LEVE O
+I Problema
+AO Problema
+LEVE Problema
 / O
-IMI O
-LEVE O
-AMODERADA O
+IMI Problema
+LEVE Problema
+AMODERADA Problema
 / O
 PSAP O
 39 O
@@ -3299,57 +3299,57 @@ S O
 SENTE O
 BEM O
 , O
-DOR O
-NA O
-FO O
+DOR Problema
+NA Problema
+FO Problema
 SOMENTE O
-AOS O
-MOVIMENTOS O
-E O
-AO O
-TOSSIR O
+AOS Problema
+MOVIMENTOS Problema
+E Problema
+AO Problema
+TOSSIR Problema
 . O
 
 NEGA O
-DISPN√âIA O
+DISPN…IA Problema
 . O
 
 RELATA O
 QUE O
-FO O
-EST√Å O
+FO Problema
+EST¡ O
 SECA O
 , O
 SEM O
-SINAIS O
-FLOG√çSTICOS O
+SINAIS Problema
+FLOGÕSTICOS Problema
 . O
 
 NEGA O
-FEBRE O
+FEBRE Problema
 . O
 
 O O
 # O
 BEG O
 , O
-HIPOCORADO O
-+ O
-/ O
-4 O
-+ O
+HIPOCORADO Problema
++ Problema
+/ Problema
+4 Problema
++ Problema
 , O
 EUPNEICO O
 , O
-AFEBRIL O
+AFEBRIL Problema
 . O
 
-PA O
+PA Teste
 : O
 110X70 O
 / O
 / O
-FC O
+FC Teste
 : O
 80 O
 . O
@@ -3357,31 +3357,31 @@ FC O
 CV O
 : O
 BRNF O
-SS O
+SS Problema
 . O
 
-CPP O
+CPP Anatomia
 : O
 MV O
 + O
 BILATERAL O
 , O
 SEM O
-RA O
+RA Problema
 . O
 
-FO O
+FO Problema
 LIMPA O
 E O
 SECA O
 , O
 SEM O
-PRESEN√áA O
+PRESEN«A O
 DE O
-SECRE√á√ÉO O
+SECRE«√O Problema
 . O
 
-ABD O
+ABD Anatomia
 : O
 RHA O
 + O
@@ -3389,12 +3389,12 @@ RHA O
 INDOLOR O
 . O
 
-MMII O
+MMII Anatomia
 : O
 SEM O
-EDEMA O
+EDEMA Problema
 OU O
-EMPASTAMENTO O
+EMPASTAMENTO Problema
 . O
 
 A O
@@ -3432,8 +3432,8 @@ e O
 MESES O
 . O
 
-ULTIMA O
-BIOPSIA O
+ULTIMA Teste
+BIOPSIA Teste
 . O
 
 EM O
@@ -3476,7 +3476,7 @@ DIA O
 S O
 # O
 SEM O
-QUEIXAS O
+QUEIXAS Problema
 . O
 
 DEMAIS O
@@ -3484,17 +3484,17 @@ SP O
 . O
 
 AGURADA O
-BIOPSIA O
+BIOPSIA Teste
 . O
 
 O O
 # O
-PA O
+PA Teste
 120 O
 / O
 80 O
 , O
-FC O
+FC Teste
 70 O
 . O
 
@@ -3502,13 +3502,13 @@ ACV O
 BCRNF O
 . O
 
-CPP O
+CPP Anatomia
 LIVRE O
 . O
 
-MMII O
+MMII Anatomia
 SEM O
-EDEMA O
+EDEMA Problema
 . O
 
 A O
@@ -3518,8 +3518,8 @@ TX Tratamento
 CARDIACO Tratamento
 , O
 COM O
-BOA O
-EVOLU√á√ÉO O
+BOA Teste
+EVOLU«√O Teste
 . O
 
 AGUARDA O
@@ -3531,17 +3531,17 @@ BIOPSIA O
 P O
 # O
 SOLICITO O
-LAB O
+LAB Teste
 E O
-ECOCC O
+ECOCC Teste
 . O
 
-has O
+has Problema
 / O
 10 O
 anos O
 / O
-ma√ßo O
+maÁo O
 . O
 
 aas Tratamento
@@ -3579,58 +3579,58 @@ d O
 . O
 
 fez O
-cat O
+cat Teste
 + O
 angioplastia Tratamento
 2013 O
 . O
 
-ECOCARDIO O
+ECOCARDIO Teste
 25 O
 / O
 11 O
 / O
 13 O
 - O
-VE O
-HIPERTROFIADO O
-COM O
-DIMENS√ÉO O
-INTERNA O
-AUMENTADA O
+VE Problema
+HIPERTROFIADO Problema
+COM Problema
+DIMENS√O Problema
+INTERNA Problema
+AUMENTADA Problema
 E O
-FUN√á√ÉO O
-GLOBAL O
-MODERADAMENTE O
-DIMINUIDA O
+FUN«√O Problema
+GLOBAL Problema
+MODERADAMENTE Problema
+DIMINUIDA Problema
 POR O
-ACINESIA O
-MEDIO O
-APICAL O
-PAREDE O
-ANTERO O
-SEPTAL O
+ACINESIA Problema
+MEDIO Problema
+APICAL Problema
+PAREDE Problema
+ANTERO Problema
+SEPTAL Problema
 . O
 
-AUMENTO O
-DE O
-AE O
+AUMENTO Problema
+DE Problema
+AE Problema
 . O
 
-REFLUXO O
-MITRAL O
-DISCRETO O
+REFLUXO Problema
+MITRAL Problema
+DISCRETO Problema
 . O
 
-ECTASIA O
-DA O
-RAIZ O
-A√ìRTICA O
+ECTASIA Problema
+DA Problema
+RAIZ Problema
+A”RTICA Problema
 . O
 
-REFLUXO O
-A√ìRTICO O
-DISCRETO O
+REFLUXO Problema
+A”RTICO Problema
+DISCRETO Problema
 . O
 
 FEVE O
@@ -3645,58 +3645,58 @@ FEVE O
 / O
 11 O
 : O
-ECODOPPLER O
-ARTERIAR O
-MMII O
-ESQ O
+ECODOPPLER Teste
+ARTERIAR Teste
+MMII Anatomia
+ESQ Anatomia
 : O
-ESTENOSE O
-APROX O
-DE O
-75 O
-% O
-DA O
-BIFURCA√á√ÉO O
-DOS O
-VASOS O
-FEMORAIS O
+ESTENOSE Problema
+APROX Problema
+DE Problema
+75 Problema
+% Problema
+DA Problema
+BIFURCA«√O Problema
+DOS Problema
+VASOS Problema
+FEMORAIS Problema
 . O
 
-LESOES O
-SUBSEGMENTARES O
-DAS O
-ART O
-, O
-TIBIAL O
-ANTERIOR O
-E O
-FIBULAR O
+LESOES Problema
+SUBSEGMENTARES Problema
+DAS Problema
+ART Problema
+, Problema
+TIBIAL Problema
+ANTERIOR Problema
+E Problema
+FIBULAR Problema
 . O
 
-OCLUS√ÉO O
-DA O
-ARTERIA O
-POPLITEA O
-MEDIO O
-DISTAL O
+OCLUS√O Problema
+DA Problema
+ARTERIA Problema
+POPLITEA Problema
+MEDIO Problema
+DISTAL Problema
 . O
 
-ESTENOSE O
+ESTENOSE Problema
 > O
 A O
-OCLUSAO O
-DA O
-ARTERIA O
-TIBIAL O
-POSTERIOR O
+OCLUSAO Problema
+DA Problema
+ARTERIA Problema
+TIBIAL Problema
+POSTERIOR Problema
 . O
 
 quadro O
 de O
-disfun√ß√£o O
-sist√≥lica O
-ap√≥s O
-iam O
+disfunÁ„o Problema
+sistÛlica Problema
+apÛs O
+iam Problema
 , O
 perdeu O
 seguimento O
@@ -3728,66 +3728,66 @@ HMA O
 : O
 Pcte O
 relata O
-s√≠ncope O
+sÌncope Problema
 inicio O
 em O
 janeiro O
-mais O
-com O
-o O
-calor O
+mais Problema
+com Problema
+o Problema
+calor Problema
 . O
 
-pr√≥dromos O
+prÛdromos O
 : O
-tontura O
+tontura Problema
 e O
-sudorese O
+sudorese Problema
 e O
-escurecimento O
-visual O
+escurecimento Problema
+visual Problema
 . O
 
 Refere O
-exacerba√ß√£o O
-dos O
-sintomas O
-com O
-nervosismo O
+exacerbaÁ„o Problema
+dos Problema
+sintomas Problema
+com Problema
+nervosismo Problema
 . O
 
-Dura√ß√£o O
+DuraÁ„o O
 de O
 segundos O
-h√° O
+h· O
 3 O
 minutos O
 . O
 
 Nega O
-confus√£o O
-mental O
+confus„o Problema
+mental Problema
 ou O
-saliva√ß√£o O
-ap√≥s O
+salivaÁ„o Problema
+apÛs O
 . O
 
 Nega O
 uso O
 de O
-medica√ß√£o Tratamento
+medicaÁ„o Tratamento
 . O
 
 Nega O
-outros O
-sintomas O
+outros Problema
+sintomas Problema
 . O
 
 Refere O
 que O
 continua O
 apresentando O
-sintomas O
+sintomas Problema
 , O
 com O
 ultimo O
@@ -3795,34 +3795,34 @@ ha O
 1 O
 semana O
 , O
-durante O
-atividades O
-domesticas O
+durante Problema
+atividades Problema
+domesticas Problema
 . O
 
-Ecocardio O
+Ecocardio Teste
 18 O
 / O
 02 O
 / O
 15 O
 : O
-RA O
+RA Anatomia
 20 O
 , O
-AE O
+AE Anatomia
 26 O
 , O
-VD O
+VD Anatomia
 17 O
 , O
-Septo O
+Septo Anatomia
 08 O
 , O
-PP O
+PP Anatomia
 08 O
 , O
-VE O
+VE Anatomia
 39 O
 , O
 FE O
@@ -3830,20 +3830,20 @@ FE O
 % O
 . O
 
-Exame O
+Exame Teste
 dentro O
 da O
 normalidade O
 . O
 
-Teste O
-ergometrico O
+Teste Teste
+ergometrico Teste
 : O
 Resposta O
-cardiovascular O
+cardiovascular Anatomia
 normal O
 ao O
-esfor√ßo O
+esforÁo O
 fisico O
 , O
 atingiu O
@@ -3851,9 +3851,9 @@ atingiu O
 METS O
 . O
 
-ECG O
+ECG Teste
 : O
-DCRD O
+DCRD Problema
 . O
 
 HF O
@@ -3871,19 +3871,19 @@ normocorada O
 acianotica O
 . O
 
-FC O
+FC Teste
 80 O
 , O
-FR O
+FR Teste
 18 O
 , O
-PA O
+PA Teste
 : O
 120 O
 / O
 70 O
 , O
-SAT O
+SAT Teste
 98 O
 % O
 AA O
@@ -3894,7 +3894,7 @@ bnf O
 em O
 2t O
 e O
-ss O
+ss Problema
 , O
 . O
 
@@ -3903,34 +3903,34 @@ mv O
 + O
 simetrico O
 s O
-ra O
+ra Problema
 , O
 . O
 
-Abd O
+Abd Anatomia
 sp O
 . O
 
-mmii O
+mmii Anatomia
 s O
-edema O
+edema Problema
 , O
 . O
 
-Vaso O
-vagal O
+Vaso Problema
+vagal Problema
 ? O
 . O
 
 A O
 : O
 Aguarda O
-holter O
+holter Teste
 . O
 
 Retorno O
 com O
-exames O
+exames Teste
 . O
 
 Paciente O
@@ -3942,7 +3942,7 @@ cardiologia O
 devido O
 a O
 2 O
-IAM O
+IAM Problema
 previos O
 ( O
 em O
@@ -3985,40 +3985,40 @@ mg Tratamento
 
 Paciente O
 relata O
-dispn√©ia O
+dispnÈia Problema
 e O
-cansa√ßo O
-aos O
-minimos O
-esfor√ßos O
+cansaÁo Problema
+aos Problema
+minimos Problema
+esforÁos Problema
 . O
 
 Paciente O
 relata O
-parestesias O
-em O
-p√© O
-direito O
+parestesias Problema
+em Problema
+pÈ Problema
+direito Problema
 , O
-dores O
-musculares O
-na O
-panturrilha O
+dores Problema
+musculares Problema
+na Problema
+panturrilha Problema
 . O
 
-Comorbidades O
+Comorbidades Problema
 : O
-HAS O
+HAS Problema
 , O
-ICC O
+ICC Problema
 , O
-dislipidemia O
+dislipidemia Problema
 . O
 
 Eventos O
 : O
-2 O
-CATs O
+2 Teste
+CATs Teste
 e O
 3 Tratamento
 angioplastias Tratamento
@@ -4045,14 +4045,14 @@ sinvastatina Tratamento
 Paciente O
 nao O
 traz O
-exames O
+exames Teste
 . O
 
-EF O
+EF Teste
 : O
 . O
 
-PA O
+PA Teste
 : O
 120 O
 / O
@@ -4064,11 +4064,11 @@ BCRNF O
 . O
 
 Pulso O
-MMII O
-pedioso O
-popl√≠teo O
+MMII Anatomia
+pedioso Anatomia
+poplÌteo Anatomia
 e O
-femoral O
+femoral Anatomia
 presentes O
 . O
 
@@ -4080,23 +4080,23 @@ por O
 atorvastatina Tratamento
 e O
 solicito O
-exames O
-de O
-sangue O
+exames Teste
+de Teste
+sangue Teste
 ( O
-CT O
+CT Teste
 , O
-LDL O
+LDL Teste
 , O
-HDL O
+HDL Teste
 , O
-TG O
+TG Teste
 ) O
 ; O
 mantenho O
 as O
 demais Tratamento
-medica√ß√µes Tratamento
+medicaÁıes Tratamento
 . O
 
 LUCAS O
@@ -4106,26 +4106,26 @@ ANOS O
 . O
 
 ACOMPANHAMENTO O
-H√Å O
+H¡ O
 1 O
 ANO O
 . O
 
 # O
-HAS O
+HAS Problema
 . O
 
 # O
-IC O
+IC Problema
 . O
 
 # O
-HIPOTIREOIDISMO O
+HIPOTIREOIDISMO Problema
 . O
 
 # O
-MIOCARDIOPATIA O
-DILATADA O
+MIOCARDIOPATIA Problema
+DILATADA Problema
 . O
 
 # O
@@ -4141,7 +4141,7 @@ MAIO O
 . O
 
 # O
-DEPRESS√ÉO O
+DEPRESS√O Problema
 . O
 
 EM O
@@ -4227,56 +4227,56 @@ DIA O
 . O
 
 REFERE O
-DOR O
-PRECORDIAL O
-LEVE O
-A O
-MODERADA O
-DO O
-TIPO O
-QUEIMA√á√ÉO O
+DOR Problema
+PRECORDIAL Problema
+LEVE Problema
+A Problema
+MODERADA Problema
+DO Problema
+TIPO Problema
+QUEIMA«√O Problema
 , O
-SEM O
-IRRADIA√á√ÉO O
+SEM Problema
+IRRADIA«√O Problema
 , O
 SEM O
 PIORA O
 AOS O
-ESFOR√áOS O
+ESFOR«OS O
 . O
 
-DISPNEIA O
-, O
-MAL O
-ESTAR O
-E O
-FADIGA O
-AO O
-SUBIR O
-ESCADAS O
-, O
-ANDAR O
-R√ÅPIDO O
-. O
-
-NEGA O
-ORTOPNEIA O
-E O
-DPN O
+DISPNEIA Problema
+, Problema
+MAL Problema
+ESTAR Problema
+E Problema
+FADIGA Problema
+AO Problema
+SUBIR Problema
+ESCADAS Problema
+, Problema
+ANDAR Problema
+R¡PIDO Problema
 . O
 
 NEGA O
-TOSSE O
+ORTOPNEIA Problema
 E O
-EDEMA O
+DPN Problema
 . O
 
-H√Å O
+NEGA O
+TOSSE Problema
+E O
+EDEMA Problema
+. O
+
+H¡ O
 2 O
 ANOS O
-N√ÉO O
+N√O O
 FAZ O
-REVIS√ÉO O
+REVIS√O O
 DO O
 MP O
 . O
@@ -4288,27 +4288,27 @@ HMP O
 
 1 O
 CESAREA Tratamento
-PR√âVIA O
+PR…VIA O
 , O
-LIPOASPIRA√á√ÉO Tratamento
+LIPOASPIRA«√O Tratamento
 . O
 
 NEGA O
-ALERGIAS O
+ALERGIAS Problema
 . O
 
-J√Å O
+J¡ O
 REALIZOU O
-3 O
-CATETERISMOS O
+3 Teste
+CATETERISMOS Teste
 , O
-CINTILOGRAFIA O
+CINTILOGRAFIA Teste
 E O
-EXAMES O
-PARA O
-DOEN√áA O
-DE O
-CHAGAS O
+EXAMES Teste
+PARA Teste
+DOEN«A Teste
+DE Teste
+CHAGAS Teste
 . O
 
 # O
@@ -4316,7 +4316,7 @@ HMA O
 : O
 . O
 
-AV√ì O
+AV” O
 TEVE O
 IAM O
 . O
@@ -4326,98 +4326,98 @@ CHDV O
 . O
 
 NEGA O
-TABAGISMO O
+TABAGISMO Problema
 , O
 NEGA O
-ETILISMO O
+ETILISMO Problema
 , O
 NEGA O
-EXERC√çCIO O
-F√çSICO O
+EXERCÕCIO O
+FÕSICO O
 . O
 
-EXAMES O
+EXAMES Teste
 : O
 . O
 
-HB O
+HB Teste
 14 O
 , O
 7 O
 . O
 
-HT O
+HT Teste
 43 O
 , O
 9 O
 % O
 . O
 
-CREATININA O
+CREATININA Teste
 0 O
 , O
 8 O
 . O
 
-GLICOSE O
+GLICOSE Teste
 87 O
 . O
 
-UREIA O
+UREIA Teste
 48 O
 48 O
 . O
 
-HDL O
+HDL Teste
 28 O
 . O
 
-SODIO O
+SODIO Teste
 139 O
 . O
 
-POTASSIO O
+POTASSIO Teste
 4 O
 , O
 8 O
 . O
 
-COLESTEROL O
-TOTAL O
+COLESTEROL Teste
+TOTAL Teste
 268 O
 . O
 
-TSH O
+TSH Teste
 5 O
 , O
 87 O
 . O
 
-T4 O
-LIVRE O
+T4 Teste
+LIVRE Teste
 0 O
 , O
 86 O
 . O
 
-TRIGLICERIDEOS O
+TRIGLICERIDEOS Teste
 626 O
 . O
 
-STRESS O
-FARMACOLOGICO O
-COM O
-DIPIRIDAMOL O
+STRESS Teste
+FARMACOLOGICO Teste
+COM Teste
+DIPIRIDAMOL Teste
 : O
-ECOCARDIOGRAMA O
-DE O
-STRESS O
-FARMACOLOGICO O
+ECOCARDIOGRAMA Teste
+DE Teste
+STRESS Teste
+FARMACOLOGICO Teste
 SEM O
 EVIDENCIA O
 DE O
-ISQUEMIA O
-MIOC√ÅRDICA O
+ISQUEMIA Problema
+MIOC¡RDICA Problema
 . O
 
 CONDUTA O
@@ -4439,9 +4439,9 @@ DIA O
 , O
 FUROSEMIDA Tratamento
 SE O
-FALTA O
-DE O
-AR O
+FALTA Problema
+DE Problema
+AR Problema
 , O
 SINVASTATINA Tratamento
 PARA Tratamento
@@ -4455,21 +4455,21 @@ DE O
 8H O
 . O
 
-EXAMES O
+EXAMES Teste
 DE O
-TSH O
+TSH Teste
 , O
-T4 O
-LIVRE O
+T4 Teste
+LIVRE Teste
 , O
-CK O
+CK Teste
 , O
-TGO O
+TGO Teste
 E O
-TGP O
+TGP Teste
 E O
-PERFIL O
-LIPIDICO O
+PERFIL Teste
+LIPIDICO Teste
 . O
 
 LUCAS O
@@ -4479,75 +4479,75 @@ ANOS O
 . O
 
 # O
-HAS O
-H√Å O
+HAS Problema
+H¡ O
 10 O
 ANOS O
 . O
 
 # O
-DSLP O
+DSLP Problema
 . O
 
 # O
-HIPOTIREOIDISMO O
+HIPOTIREOIDISMO Problema
 . O
 
 # O
-DEPRESS√ÉO O
+DEPRESS√O Problema
 . O
 
 # O
-OSTEOARTRITE O
-DE O
-M√ÉOS O
+OSTEOARTRITE Problema
+DE Problema
+M√OS Problema
 . O
 
 # O
-CAT O
+CAT Teste
 EM O
 JUNHO O
 / O
 2011 O
 : O
 SEM O
-INDICA√á√ÉO O
-CIR√öRGICA O
+INDICA«√O O
+CIR⁄RGICA O
 . O
 
 # O
-H√âRNIA O
-DE O
-DISCO O
-H√Å O
+H…RNIA Problema
+DE Problema
+DISCO Problema
+H¡ O
 3 O
 ANOS O
 . O
 
 # O
-CINTILOGRAFIA O
-MIOC√ÅRDICA O
-COM O
-DIPIRIDAMOL O
+CINTILOGRAFIA Teste
+MIOC¡RDICA Teste
+COM Teste
+DIPIRIDAMOL Teste
 EM O
 2011 O
 : O
-HIPOCAPTA√á√ÉO O
-APICAL O
-, O
-DO O
-SEGMENTO O
-ANTERIOR O
-( O
-TRANSIT√ìRIO O
-) O
-E O
-BASAL O
-DO O
-SEGMENTO O
-ANTERO O
-- O
-SEPTAL O
+HIPOCAPTA«√O Problema
+APICAL Problema
+, Problema
+DO Problema
+SEGMENTO Problema
+ANTERIOR Problema
+( Problema
+TRANSIT”RIO Problema
+) Problema
+E Problema
+BASAL Problema
+DO Problema
+SEGMENTO Problema
+ANTERO Problema
+- Problema
+SEPTAL Problema
 . O
 
 # O
@@ -4604,23 +4604,23 @@ D O
 ; O
 . O
 
-LAB O
+LAB Teste
 08 O
 / O
 04 O
 / O
 15 O
 : O
-TG O
+TG Teste
 144 O
 / O
-HDL O
+HDL Teste
 50 O
 / O
-CT O
+CT Teste
 178 O
 / O
-LDL O
+LDL Teste
 99 O
 / O
 . O
@@ -4628,11 +4628,11 @@ LDL O
 S O
 # O
 REFERE O
-DOR O
-TOR√ÅCICA O
-PRECORDIAL O
-TIPO O
-QUEIMA√á√ÉO O
+DOR Problema
+TOR¡CICA Problema
+PRECORDIAL Problema
+TIPO Problema
+QUEIMA«√O Problema
 , O
 COM O
 MELHORA O
@@ -4642,38 +4642,38 @@ DE O
 NITRATO O
 , O
 SEM O
-IRRADIA√á√ÉO O
+IRRADIA«√O Problema
 , O
 SEM O
-RELA√á√ÉO O
+RELA«√O O
 COM O
 O O
-ESFOR√áO O
+ESFOR«O O
 , O
 2 O
-EPIS√ìDIOS O
+EPIS”DIOS O
 AO O
-M√äS O
+M S O
 . O
 
 NEGA O
-DISPN√âIA O
+DISPN…IA Problema
 , O
-ORTOPNEIA O
+ORTOPNEIA Problema
 OU O
-DPN O
+DPN Problema
 . O
 
 NEGA O
-EDEMA O
-DE O
-MMII O
+EDEMA Problema
+DE Problema
+MMII Problema
 . O
 
 CONTA O
 APRESENTAR O
-ARTRALGIAS O
-DIFUSAS O
+ARTRALGIAS Problema
+DIFUSAS Problema
 PIORES O
 AO O
 FRIO O
@@ -4694,15 +4694,15 @@ EUPNEICA O
 LOTE O
 . O
 
-PA O
+PA Teste
 120 O
 / O
 70 O
 ; O
-FC O
+FC Teste
 62 O
 ; O
-SATO2 O
+SATO2 Teste
 98 O
 % O
 EM O
@@ -4712,37 +4712,37 @@ AA O
 MV O
 PRESENTE O
 E O
-SIM√âTRICO O
+SIM…TRICO O
 SEM O
-RA O
+RA Problema
 . O
 
 BCRNF O
 SEM O
-SOPROS O
+SOPROS Problema
 EM O
 2T O
 . O
 
-ABDOME O
+ABDOME Anatomia
 GLOBOSO O
 , O
-FL√ÅCIDO O
+FL¡CIDO O
 , O
 INDOLOR O
 , O
 SEM O
-VCM O
+VCM Problema
 OU O
-MASSAS O
-PALPAVEIS O
+MASSAS Problema
+PALPAVEIS Problema
 . O
 
-MMII O
+MMII Anatomia
 SEM O
-EDEMA O
+EDEMA Problema
 OU O
-EMPASTAMENTO O
+EMPASTAMENTO Problema
 . O
 
 A O
@@ -4750,8 +4750,8 @@ A O
 . O
 
 - O
-ANGINA O
-INST√ÅVEL O
+ANGINA Problema
+INST¡VEL Problema
 ? O
 . O
 
@@ -4771,22 +4771,22 @@ MONOCORDIL Tratamento
 - O
 SOLICITO O
 NOVA O
-CINTILOGRAFIA O
-DE O
-PERFUS√ÉO O
-MIOC√ÅRDICA O
+CINTILOGRAFIA Teste
+DE Teste
+PERFUS√O Teste
+MIOC¡RDICA Teste
 . O
 
 - O
 SOLICITO O
 NOVO O
-LAB O
+LAB Teste
 . O
 
 - O
 RETORNO O
 COM O
-EXAMES O
+EXAMES Teste
 . O
 
 R2 O
@@ -4809,10 +4809,10 @@ Doutor O
 Vital O
 Brazil O
 SEM O
-SINCOPE O
+SINCOPE Problema
 , O
 SEM O
-PALPITA√á√ÉO O
+PALPITA«√O Problema
 , O
 SEM O
 TERAPIAS Tratamento
@@ -4827,11 +4827,11 @@ BEM O
 # O
 hoje O
 realizou O
-avalia√ß√£o O
-de O
-mp O
-- O
-cdi O
+avaliaÁ„o Teste
+de Teste
+mp Teste
+- Teste
+cdi Teste
 , O
 . O
 
@@ -4852,9 +4852,9 @@ ok O
 
 # O
 eletrodos O
-atrial O
+atrial Anatomia
 e O
-ventricular O
+ventricular Anatomia
 = O
 ok O
 . O
@@ -4884,32 +4884,32 @@ Lucas O
 . O
 
 # O
-CAT O
+CAT Teste
 EM O
 2008 O
 . O
 
 VALVOPLASTIA Tratamento
-A√ìRTICA Tratamento
+A”RTICA Tratamento
 EM O
 2008 O
 . O
 
 VALVA Tratamento
-BIOL√ìGICA Tratamento
+BIOL”GICA Tratamento
 - O
 40 O
 DIAS O
 DEPOIS O
 DA O
 CX Tratamento
-CARDIOVERS√ÉO Tratamento
+CARDIOVERS√O Tratamento
 . O
 
 # O
 PACIENTE O
-ASSINTOM√ÅTICO O
-H√Å O
+ASSINTOM¡TICO O
+H¡ O
 BASTANTE O
 TEMPO O
 ( O
@@ -4927,10 +4927,10 @@ DIA O
 16 O
 / O
 08 O
-COME√áOU O
+COME«OU O
 A O
 SENTIR O
-TONTURA O
+TONTURA Problema
 . O
 
 PROCUROU O
@@ -4940,7 +4940,7 @@ XXXX O
 E O
 PERMANECEU O
 INTERNADO O
-AT√â O
+AT… O
 DIA O
 21 O
 / O
@@ -4949,11 +4949,11 @@ DIA O
 
 HOJE O
 PACIENTE O
-EST√Å O
-ASSINTOM√ÅTICO O
+EST¡ O
+ASSINTOM¡TICO O
 , O
 NEGA O
-QUEIXAS O
+QUEIXAS Problema
 , O
 VOLTOU O
 AS O
@@ -4965,27 +4965,27 @@ FRENTISTA O
 . O
 
 RELATA O
-EMAGRECIMENTO O
-DE O
-7 O
-KG O
+EMAGRECIMENTO Problema
+DE Problema
+7 Problema
+KG Problema
 EM O
 10 O
 DIAS O
 . O
 
 # O
-EX O
-- O
-TABAGISTA O
+EX Problema
+- Problema
+TABAGISTA Problema
 40 O
-MA√áOS O
+MA«OS O
 - O
 ANO O
 - O
 EM O
-ABSTIN√äNCIA O
-H√Å O
+ABSTIN NCIA O
+H¡ O
 7 O
 ANOS O
 . O
@@ -5020,8 +5020,8 @@ MAREVAN Tratamento
 . O
 
 # O
-EXAME O
-F√çSICO O
+EXAME Teste
+FÕSICO Teste
 : O
 . O
 
@@ -5033,16 +5033,16 @@ NORMOCORADO O
 , O
 HIDRATADO O
 , O
-ANICT√âRICO O
+ANICT…RICO O
 , O
-ACIAN√ìTICO O
+ACIAN”TICO O
 . O
 
-FC O
+FC Teste
 80 O
 BPM O
 , O
-PA O
+PA Teste
 120 O
 / O
 80 O
@@ -5051,12 +5051,12 @@ MMHG O
 
 BCRNF O
 - O
-HIPOFONESE O
-DE O
-BULHAS O
-EM O
-FOCO O
-A√ìRTICO O
+HIPOFONESE Problema
+DE Problema
+BULHAS Problema
+EM Problema
+FOCO Problema
+A”RTICO Problema
 . O
 
 MV O
@@ -5066,58 +5066,58 @@ BILATERAL O
 , O
 S O
 / O
-RA O
+RA Problema
 . O
 
 RHA O
 + O
 , O
-ABDOME O
-N√ÉO O
-DOLOROSO O
-A O
-PALPA√á√ÉO O
+ABDOME Anatomia
+N√O O
+DOLOROSO Problema
+A Problema
+PALPA«√O Problema
 , O
 SEM O
-VISCEROMEGALIAS O
+VISCEROMEGALIAS Problema
 . O
 
-HERNIA O
-UMBILICAL O
-REDUT√çVEL O
+HERNIA Problema
+UMBILICAL Problema
+REDUTÕVEL Problema
 . O
 
-MMII O
-EDEMA O
-+ O
-/ O
-4 O
-+ O
+MMII Problema
+EDEMA Problema
++ Problema
+/ Problema
+4 Problema
++ Problema
 , O
-PANTURRILHAS O
+PANTURRILHAS Anatomia
 LIVRES O
 . O
 
 # O
-ECG O
+ECG Teste
 19 O
 / O
 08 O
 : O
-FLUTTER O
-ATRIAL O
+FLUTTER Problema
+ATRIAL Problema
 PROVAVELMENTE O
 ANTI O
 - O
-HOR√ÅRIO O
+HOR¡RIO O
 2 O
 / O
 3 O
 : O
 1 O
 , O
-EXTRASS√çSTOLES O
-VENTRICULARES O
+EXTRASSÕSTOLES Problema
+VENTRICULARES Problema
 . O
 
 # O
@@ -5125,13 +5125,13 @@ CD O
 : O
 CONTROLE Tratamento
 DO O
-TAP O
+TAP Teste
 . O
 
 PRECISA O
 DE O
 4 O
-TAP O
+TAP Teste
 ENTRE O
 2 O
 E O
@@ -5165,16 +5165,16 @@ passou O
 
 # O
 sem O
-intercorrencias O
+intercorrencias Problema
 , O
 . O
 
 # O
 hoje O
-avalia√ß√£o O
-exclusiva O
-de O
-mp O
+avaliaÁ„o Teste
+exclusiva Teste
+de Teste
+mp Teste
 . O
 
 # O
@@ -5317,9 +5317,9 @@ Humberto O
 . O
 
 # O
-DAC O
+DAC Problema
 - O
-IAM O
+IAM Problema
 2007 O
 + O
 RVM Tratamento
@@ -5331,7 +5331,7 @@ ATC Tratamento
 . O
 
 # O
-Hipertireoidismo O
+Hipertireoidismo Problema
 ? O
 ? O
 - O
@@ -5343,8 +5343,8 @@ endocrinologia O
 . O
 
 # O
-FA O
-paroxistica O
+FA Problema
+paroxistica Problema
 , O
 . O
 
@@ -5355,24 +5355,24 @@ jan O
 / O
 15 O
 por O
-taquicardia O
-atrial O
-com O
-aberr√¢ncia O
+taquicardia Problema
+atrial Problema
+com Problema
+aberr‚ncia Problema
 - O
 - O
 DESCARTADO O
-ISQUEMIA O
-MIOC√ÅRDICA O
+ISQUEMIA Problema
+MIOC¡RDICA Problema
 COMO O
 CAUSA O
 , O
-PROV√ÅVEL O
+PROV¡VEL O
 FATOR O
 DESCOMPENSADOR O
 SERIA O
 O O
-HIPERTIREOIDISMO O
+HIPERTIREOIDISMO Problema
 QUE O
 AINDA O
 APRESENTA O
@@ -5380,7 +5380,7 @@ APRESENTA O
 SE O
 DESCOMPENSADO O
 ( O
-TSH O
+TSH Teste
 < O
 0 O
 , O
@@ -5419,30 +5419,30 @@ AAS100mg Tratamento
 S O
 # O
 Nega O
-palpita√ß√µes O
+palpitaÁıes Problema
 , O
-dispneia O
+dispneia Problema
 , O
-dor O
-tor√°cica O
+dor Problema
+tor·cica Problema
 . O
 
-Epigastralgia O
+Epigastralgia Problema
 . O
 
-Consu√ßta O
+ConsuÁta O
 com O
 endocrino O
-amanh√£ O
+amanh„ O
 . O
 
 Traz O
-exames O
+exames Teste
 : O
 . O
 
 - O
-Holter O
+Holter Teste
 28 O
 / O
 04 O
@@ -5463,41 +5463,41 @@ normal O
 QRS O
 normais O
 , O
-extra O
-- O
-sistole O
-ventricular O
-unica O
+extra Problema
+- Problema
+sistole Problema
+ventricular Problema
+unica Problema
 , O
-extra O
-- O
-sistole O
-supra O
-- O
-ventricular O
-rara O
+extra Problema
+- Problema
+sistole Problema
+supra Problema
+- Problema
+ventricular Problema
+rara Problema
 , O
 ausencia O
 de O
-pausas O
+pausas Problema
 , O
 ST O
 sem O
-altera√ß√µes O
+alteraÁıes Problema
 . O
 
 - O
-TSH O
+TSH Teste
 47 O
 / O
-t4l O
+t4l Teste
 0 O
 , O
 55 O
 . O
 
 - O
-Ecocardiograma O
+Ecocardiograma Teste
 out O
 / O
 14 O
@@ -5505,16 +5505,16 @@ out O
 externo O
 ) O
 : O
-AE O
+AE Anatomia
 43 O
 / O
-VD O
+VD Anatomia
 23 O
 / O
-septo O
+septo Anatomia
 10 O
 / O
-VE O
+VE Anatomia
 52 O
 - O
 26 O
@@ -5524,18 +5524,18 @@ FE O
 % O
 . O
 
-VE O
+VE Anatomia
 com O
-contra√ß√£o O
+contraÁ„o O
 segmentar O
 e O
-fun√ß√£o O
-sist√≥lica O
+funÁ„o O
+sistÛlica O
 adequadas O
 . O
 
 Ao O
-exame O
+exame Teste
 : O
 . O
 
@@ -5543,7 +5543,7 @@ PA130 O
 / O
 70 O
 , O
-FC O
+FC Teste
 55 O
 . O
 
@@ -5552,17 +5552,17 @@ CV O
 BRNF O
 , O
 sem O
-sopros O
+sopros Problema
 . O
 
-CPP O
+CPP Anatomia
 livres O
 . O
 
 A O
 # O
-FA O
-parox√≠stica O
+FA Problema
+paroxÌstica Problema
 . O
 
 CHADS O
@@ -5583,7 +5583,7 @@ na O
 endocrino O
 para O
 ajuste O
-medica√ß√£o Tratamento
+medicaÁ„o Tratamento
 . O
 
 Suspendemos O
@@ -5600,14 +5600,14 @@ propafenona Tratamento
 
 Retorno O
 com O
-ecocardio O
+ecocardio Teste
 em O
 3 O
 meses O
 . O
 
 Demais Tratamento
-medica√ß√µes Tratamento
+medicaÁıes Tratamento
 mantidas O
 . O
 
@@ -5621,23 +5621,23 @@ Vital O
 Brasil O
 . O
 
-jo√£o O
+jo„o O
 , O
 68 O
 anos O
 . O
 
 # O
-IAM O
+IAM Problema
 2009 O
 - O
 ATC Tratamento
 . O
 
 # O
-CA O
-de O
-Laringe O
+CA Problema
+de Problema
+Laringe Problema
 , O
 fez O
 QT Tratamento
@@ -5651,23 +5651,23 @@ TTO Tratamento
 . O
 
 # O
-HAS O
+HAS Problema
 , O
 . O
 
 # O
-HPB O
+HPB Problema
 , O
 . O
 
 # O
-DLP O
+DLP Problema
 , O
 . O
 
 # O
-ARTRITE O
-REUMAT√ìIDE O
+ARTRITE Problema
+REUMAT”IDE Problema
 . O
 
 # O
@@ -5757,80 +5757,80 @@ COMBODART Tratamento
 
 ***Teste O
 de O
-esfor√ßo O
+esforÁo O
 10 O
 / O
 2013 O
 : O
 eficaz O
 , O
-subm√°ximo O
+subm·ximo O
 , O
 sem O
-altera√ß√µes O
+alteraÁıes Problema
 . O
 
-Cl√≠nicas O
+ClÌnicas O
 ou O
-eletrocardiogr√°ficas O
+eletrocardiogr·ficas O
 de O
-iesquemia O
-miocardica O
+iesquemia Problema
+miocardica Problema
 . O
 
 Resposta O
-cronotr√≥pica O
+cronotrÛpica O
 adequada O
 . O
 
 Resposta O
 tensional O
-fisiol√≥gica O
+fisiolÛgica O
 . O
 
-Decr√©scimo O
+DecrÈscimo Problema
 normal O
 da O
-FC O
+FC Problema
 no O
-1¬∞ O
+1∞ O
 minuto O
 de O
-recupera√ß√£o O
+recuperaÁ„o O
 . O
 
 *** O
-ECOCARDIO O
+ECOCARDIO Teste
 11 O
 / O
 06 O
 / O
 2014 O
 : O
-VE O
+VE Anatomia
 COM O
-DIMENS√ÉO O
+DIMENS√O O
 INTERNA O
 , O
 CONTRATILIDADE O
-MIOCARDICA O
+MIOCARDICA Anatomia
 E O
-FUN√á√ÉO O
+FUN«√O O
 SISTOLICA O
 GLOBAL O
 NORMAIS O
 , O
-DISFUN√á√ÉO O
-DIASTOLICA O
-TIPO O
-ALTERA√á√ÉO O
-DE O
-RELAXAMENTO O
+DISFUN«√O Problema
+DIASTOLICA Problema
+TIPO Problema
+ALTERA«√O Problema
+DE Problema
+RELAXAMENTO Problema
 , O
-AE O
+AE Anatomia
 E O
-CAVIDADES O
-DIREITAS O
+CAVIDADES Anatomia
+DIREITAS Anatomia
 NORMAIS O
 , O
 . O
@@ -5838,12 +5838,12 @@ NORMAIS O
 FLUXOS O
 VALVARES O
 SEM O
-ANORMALIDADES O
-MORFOFUNCIONAIS O
-SIGNIFICATIVAS O
+ANORMALIDADES Problema
+MORFOFUNCIONAIS Problema
+SIGNIFICATIVAS Problema
 . O
 
-AE O
+AE Anatomia
 31 O
 , O
 VDC O
@@ -5862,18 +5862,18 @@ FE O
 S O
 # O
 SEM O
-QUEIXAS O
+QUEIXAS Problema
 . O
 
 NEGA O
-DISPNEIA O
+DISPNEIA Problema
 E O
-DOR O
-NO O
-PEITO O
+DOR Problema
+NO Problema
+PEITO Problema
 . O
 
-EST√ÅVEL O
+EST¡VEL O
 . O
 
 O O
@@ -5891,12 +5891,12 @@ HIDRATADO O
 EUPNEICO O
 . O
 
-PA O
+PA Teste
 120 O
 / O
 80 O
 , O
-FC O
+FC Teste
 80 O
 ; O
 . O
@@ -5914,17 +5914,17 @@ MV O
 BILAT O
 , O
 SEM O
-RA O
+RA Problema
 ; O
 . O
 
-ABD O
+ABD Anatomia
 : O
 SP O
 ; O
 . O
 
-MMII O
+MMII Anatomia
 : O
 SP O
 ; O
@@ -5932,7 +5932,7 @@ SP O
 
 A O
 # O
-DAC O
+DAC Problema
 . O
 
 P O
@@ -5942,7 +5942,7 @@ MANTIDA O
 , O
 . O
 
-EX O
+EX Teste
 DE O
 CONTROLE O
 . O
