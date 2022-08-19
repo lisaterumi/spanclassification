@@ -9,12 +9,13 @@ from transformers import BertTokenizer
 ADDITIONAL_SPECIAL_TOKENS = ["<e1>", "</e1>"]
 
 def get_label(data_dir, label_file):
+    print('os.getcwd():', os.getcwd())
     return [label.strip() for label in open(os.path.join(data_dir, label_file), "r", encoding="utf-8")]
 
 
 def load_tokenizer(model_name_or_path):
-    tokenizer = BertTokenizer.from_pretrained(model_name_or_path)
-    #tokenizer = BertTokenizer.from_pretrained("./data/tokenizador")
+    #tokenizer = BertTokenizer.from_pretrained(model_name_or_path)
+    tokenizer = BertTokenizer.from_pretrained("./data/tokenizador")
     tokenizer.add_special_tokens({"additional_special_tokens": ADDITIONAL_SPECIAL_TOKENS})
     return tokenizer
 

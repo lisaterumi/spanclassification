@@ -233,3 +233,23 @@ def main():
 
 if __name__ == '__main__':
     main()
+def main(args):
+    #format_time(time.time())
+    #start_time = time.time()
+    start_time = datetime.now()
+    train_chunkClassification(n_epochs=args.n_epochs,batch_size=args.batch_size, max_seq_len=args.max_seq_len, bert_model=args.bert_model)
+    print("finished in:", datetime.now()- start_time)
+    pass
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument("--n_epochs", default=NUM_EPOCHS, type=str, help="Num epochs")
+    parser.add_argument("--batch_size", default=BATCH_SIZE, type=str, help="batch_size")
+    parser.add_argument("--max_seq_len", default=MAX_SEQ_LEN, type=str, help="max_seq_len")
+    parser.add_argument("--bert_model", default=BERT_MODEL, type=str, help="bert_model")
+ 
+    args = parser.parse_args()
+
+    main(args)
+

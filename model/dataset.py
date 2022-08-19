@@ -21,7 +21,7 @@ from utils.path_util import from_project_root, dirname
 
 logger = logging.getLogger(__name__)
 
-DATA_DIR='./data'
+DATA_DIR='./model/data'
 LABEL_FILE='label.txt'
 TRAIN_FILE = "span.train"
 DEV_FILE = "span.test"
@@ -383,3 +383,15 @@ def load_and_cache_examples(model_name_or_path, max_seq_len, device, mode):
 
     features = convert_examples_to_features(examples, max_seq_len, model_name_or_path)
     return features
+
+
+def main():
+    #format_time(time.time())
+    #start_time = time.time()
+    print('os.getcwd():', os.getcwd())
+    label_lst = get_label(DATA_DIR, LABEL_FILE)
+    test_set = InputFeatures('pucpr/biobertpt-all', 256, device='cpu', mode='test', labels=label_lst)
+
+if __name__ == '__main__':
+    main()
+
