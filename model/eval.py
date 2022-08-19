@@ -152,6 +152,7 @@ def evaluateMatriz(model, bert_model, mode, batch_size=BATCH_SIZE):
             try:
                 all_indices = list()
                 labels = list()
+                tokens=list()
                 for listatoken in all_tokens:
                     indices = list()
                     for indice in listatoken.list_indices:
@@ -159,6 +160,8 @@ def evaluateMatriz(model, bert_model, mode, batch_size=BATCH_SIZE):
                     all_indices.append(indices)
                     for label in listatoken.list_labels:
                         labels.append(label)
+                    for token in listatoken.list_tokens:
+                        tokens.append(token)
                 pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=all_indices)
             except RuntimeError:
                 print("all 0 tags, no evaluating this epoch")
@@ -173,7 +176,7 @@ def evaluateMatriz(model, bert_model, mode, batch_size=BATCH_SIZE):
                 region_pred_list.append(eval_set.labels[int(label_pred_individual)])
 
             with open(save_url, 'a', encoding='utf-8', newline='\n') as save_file:
-              for texto, value, label in zip(tokens, pred_region_labels, region_labels):
+              for texto, value, label in zip(tokens, pred_region_labels, labels):
                   save_file.write("{} - ".format(value))
                   save_file.write("{} - ".format(label))
                   save_file.write("{}\n".format(texto))
