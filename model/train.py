@@ -192,13 +192,16 @@ def train_chunkClassification(n_epochs=NUM_EPOCHS,
         f1 = ret['f1']
         if f1 > max_f1:
             max_f1, max_f1_epoch = f1, epoch
-            name = 'end2end'
+            name = 'span'
             if save_only_best and best_model_url:
+                open(best_model_url, 'w').close() # salva com tamanho 0, pois no colab vai pra lixeira
                 os.remove(best_model_url)
             best_model_url = from_project_root(
                 "data/model/%s_model_epoch%d_%f.pt" % (name, epoch, f1))
             torch.save(model, best_model_url)
+            model.save_pretrained(os.path.join(best_model_url, 'model'))
             cnt = 0
+
         # Calculate the average loss over the training data.
         avg_train_loss = total_train_loss / len(train_loader)       
         # Store the loss value for plotting the learning curve.
