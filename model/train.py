@@ -163,16 +163,21 @@ def train_chunkClassification(n_epochs=NUM_EPOCHS,
                 continue
             optimizer.zero_grad()
 
-            indices = list()
+            all_indices = list()
             labels = list()
             for listatoken in all_tokens:
+                indices = list()
                 for indice in listatoken.list_indices:
                     indices.append(indice)
+                all_indices.append(indices)
                 for label in listatoken.list_labels:
                     labels.append(label)
 
-            pred_region_labels = model.forward(input_ids=all_input_ids, attention_mask=all_attention_mask, token_type_ids=all_token_type_ids, lista_indices_e1=indices)
-            classification_loss = criterion(pred_region_labels, labels)
+            labels_tensor = torch.tensor([l for l in labels], dtype=torch.long).to(device)
+            #labels_tensor2 = torch.FloatTensor(labels)
+
+            pred_region_labels = model.forward(input_ids=all_input_ids, attention_mask=all_attention_mask, token_type_ids=all_token_type_ids, lista_indices_e1=all_indices)
+            classification_loss = criterion(pred_region_labels, labels_tensor)
             loss = classification_loss
 
             # Accumulate the training loss over all of the batches so that we can

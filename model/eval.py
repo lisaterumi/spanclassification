@@ -61,21 +61,30 @@ def evaluate(model, bert_model, mode="dev", batch_size=BATCH_SIZE):
 
     total_loss = 0
     with torch.no_grad():
-        for all_input_ids, all_attention_mask, all_token_type_ids, region_labels, indices, _ in loader:
+        for all_input_ids, all_attention_mask, all_token_type_ids, all_tokens in loader:
             try:
-                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=indices)
+                all_indices = list()
+                labels = list()
+                for listatoken in all_tokens:
+                    indices = list()
+                    for indice in listatoken.list_indices:
+                        indices.append(indice)
+                    all_indices.append(indices)
+                    for label in listatoken.list_labels:
+                        labels.append(label)
+                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=all_indices)
             except RuntimeError:
                 print("all 0 tags, no evaluating this epoch")
                 return ret, 0
 
-            loss = criterion(pred_region_output, region_labels)    
+            loss = criterion(pred_region_output, labels)    
             total_loss += loss.item()
 
             pred_region_labels = []  # for all tokens are not in-entity
             if len(pred_region_output) > 0:
                 pred_region_labels = torch.argmax(pred_region_output, dim=1).to(device)
 
-            for label_true_individual, label_pred_individual in zip(region_labels, pred_region_labels):
+            for label_true_individual, label_pred_individual in zip(labels, pred_region_labels):
                 #  label_true e label_pred -> n_regiao labels
                 if label_true_individual==len(label_lst): # se é igual n_tags é pad
                     continue
@@ -137,10 +146,20 @@ def evaluateMatriz(model, bert_model, mode, batch_size=BATCH_SIZE):
     save_url = 'predictions_labels2.txt'
 
     with torch.no_grad():
-        for all_input_ids, all_attention_mask, all_token_type_ids, region_labels, indices, tokens in loader:
+        #for all_input_ids, all_attention_mask, all_token_type_ids, region_labels, indices, tokens in loader:
+        for all_input_ids, all_attention_mask, all_token_type_ids, all_tokens in loader:
             print('começando um novo batch')
             try:
-                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=indices)
+                all_indices = list()
+                labels = list()
+                for listatoken in all_tokens:
+                    indices = list()
+                    for indice in listatoken.list_indices:
+                        indices.append(indice)
+                    all_indices.append(indices)
+                    for label in listatoken.list_labels:
+                        labels.append(label)
+                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=all_indices)
             except RuntimeError:
                 print("all 0 tags, no evaluating this epoch")
                 return ret, 0
@@ -149,7 +168,7 @@ def evaluateMatriz(model, bert_model, mode, batch_size=BATCH_SIZE):
             if len(pred_region_output) > 0:
                 pred_region_labels = torch.argmax(pred_region_output, dim=1).to(device)
 
-            for label_true_individual, label_pred_individual in zip(region_labels, pred_region_labels):
+            for label_true_individual, label_pred_individual in zip(labels, pred_region_labels):
                 region_true_list.append(eval_set.labels[int(label_true_individual)])
                 region_pred_list.append(eval_set.labels[int(label_pred_individual)])
 
@@ -187,9 +206,18 @@ def predict(model, bert_model, mode, batch_size=BATCH_SIZE):
     model.eval()
     save_url = 'predictions.txt'
     with torch.no_grad():
-        for all_input_ids, all_attention_mask, all_token_type_ids, _, indices, _ in loader:
+        for all_input_ids, all_attention_mask, all_token_type_ids, all_tokens in loader:
             try:
-                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=indices)
+                all_indices = list()
+                labels = list()
+                for listatoken in all_tokens:
+                    indices = list()
+                    for indice in listatoken.list_indices:
+                        indices.append(indice)
+                    all_indices.append(indices)
+                    for label in listatoken.list_labels:
+                        labels.append(label)
+                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=all_indices)
             except RuntimeError:
                 print("all 0 tags, no evaluating this epoch")
 
