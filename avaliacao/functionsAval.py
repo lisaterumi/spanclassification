@@ -176,48 +176,53 @@ def getDicPredictions(tags, tokens):
 def getListaRegionsTruePred(BATCH, dicSentences_new_test, dic_predictions):
     region_true_list, region_pred_list = list(), list() # labels
     region_true_count, region_pred_count = 0, 0 # contagem
+    lista_erros = list()
 
     for i in range(BATCH):
-        entidades_gabarito = dicSentences_new_test[i][1]
-        entidades_preditas = dic_predictions[i][1]
-        #print('---entidades_gabarito--:', entidades_gabarito)
-        #print('entidades_preditas:', entidades_preditas)
-        for entidade_gabarito in entidades_gabarito:
-            indices_gabarito = entidade_gabarito[1]
-            tag_gabarito = entidade_gabarito[2]
-            region_true_count=region_true_count+1
-            region_true_list.append(tag_gabarito)
-            # ver se previu essa entidade
-            previu=0
+        #print(i)
+        if i<len(dicSentences_new_test):
+            entidades_gabarito = dicSentences_new_test[i][1]
+            entidades_preditas = dic_predictions[i][1]
+            #print('---entidades_gabarito--:', entidades_gabarito)
+            #print('entidades_preditas:', entidades_preditas)
+            for entidade_gabarito in entidades_gabarito:
+                indices_gabarito = entidade_gabarito[1]
+                tag_gabarito = entidade_gabarito[2]
+                region_true_count=region_true_count+1
+                region_true_list.append(tag_gabarito)
+                # ver se previu essa entidade
+                previu=0
+                for entidade_predita in entidades_preditas:
+                    indices_predita = entidade_predita[1]
+                    tag_predita = entidade_predita[2]
+                    if indices_predita == indices_gabarito:
+                        region_pred_list.append(tag_predita)
+                        previu=1
+                        if tag_predita !='O':
+                            region_pred_count=region_pred_count+1
+                        break
+                if previu==0:
+                    region_pred_list.append('O')
+                    lista_erros.append(i)
+
+            # agora o contrario, ver o q previu mas nao era
+
             for entidade_predita in entidades_preditas:
                 indices_predita = entidade_predita[1]
                 tag_predita = entidade_predita[2]
-                if indices_predita == indices_gabarito:
+                # ver se a entidade prevista existe ou é FP
+                existe=0
+                for entidade_gabarito in entidades_gabarito:
+                    indices_gabarito = entidade_gabarito[1]
+                    if indices_predita == indices_gabarito:
+                        existe=1
+                        break
+                if existe==0:
+                    region_true_list.append('O')
                     region_pred_list.append(tag_predita)
-                    previu=1
-                    if tag_predita !='O':
-                        region_pred_count=region_pred_count+1
-                    break
-            if previu==0:
-                region_pred_list.append('O')
+                    lista_erros.append(i)
 
-        # agora o contrario, ver o q previu mas nao era
-
-        for entidade_predita in entidades_preditas:
-            indices_predita = entidade_predita[1]
-            tag_predita = entidade_predita[2]
-            # ver se a entidade prevista existe ou é FP
-            existe=0
-            for entidade_gabarito in entidades_gabarito:
-                indices_gabarito = entidade_gabarito[1]
-                if indices_predita == indices_gabarito:
-                    existe=1
-                    break
-            if existe==0:
-                region_true_list.append('O')
-                region_pred_list.append(tag_predita)
-
-    return region_true_list, region_pred_list
+    return region_true_list, region_pred_list, lista_erros
 
 
 def get_label(data_dir, label_file):
