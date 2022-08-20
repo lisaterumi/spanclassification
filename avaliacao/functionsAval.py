@@ -88,7 +88,8 @@ def predictBERTNER_IO(sentencas, tipo_entidade):
 
     tokenizer = AutoTokenizer.from_pretrained(model)
     config = AutoConfig.from_pretrained(model)
-    idx2tag = config.id2label # label2id
+    idx2tag = config.id2label
+    #idx2tag = config.label2id 
     print('idx2tag:', idx2tag)
     model = AutoModelForTokenClassification.from_pretrained(model)
 
@@ -119,7 +120,7 @@ def predictBERTNER_IO(sentencas, tipo_entidade):
         #print(len(new_tokens))
         #print(len(new_labels))
         for token, label in zip(new_tokens, new_labels):
-            label = idx2tag[str(label)]
+            label = idx2tag[label]
             #label = str(label)
             if label == "O" or label == "X":
                 FinalLabelSentence.append("O")
