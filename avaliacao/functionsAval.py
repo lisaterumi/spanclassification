@@ -477,8 +477,8 @@ def getCombinacaoEntidadesAll(dic_predictions, dicPosTagger, lista_postaggers_en
 
 def gravaArquivoPredict(combinacaoEntidadesAll, tipo='io'):
     numTotalEntidades=0
-    file=r'data/genia.predict'
-    f = open(file, 'w')
+    file=r'data/span.predict'
+    f = open(file, 'w', encoding='utf-8')
     numFrases=0
     for i, combinacaoEntidades in enumerate(combinacaoEntidadesAll):
         #print(dicSentences[i])
@@ -520,13 +520,22 @@ def predictSpan(model):
     save_url = 'predictions.txt'
     numB=0
     with torch.no_grad():
-        for all_input_ids, all_attention_mask, all_token_type_ids, _, indices, _ in loader:
+        for all_input_ids, all_attention_mask, all_token_type_ids, all_tokens in loader:
             numB=numB+1
             #print('vai fazer predicao, numB:', numB)
             #print('len(all_input_ids):', len(all_input_ids))
             #print('len(indices):', len(indices))
             try:
-                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=indices)
+                all_indices = list()
+                labels = list()
+                for listatoken in all_tokens:
+                    indices = list()
+                    for indice in listatoken.list_indices:
+                        indices.append(indice)
+                    all_indices.append(indices)
+                    for label in listatoken.list_labels:
+                        labels.append(label)
+                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=all_indices)
             except RuntimeError:
                 print("all 0 tags, no evaluating this epoch")
 
@@ -557,12 +566,12 @@ def gather_duplicate_indices(a):
 def getCombinacaoEntidadesAll_pred(combinacaoEntidadesAll, pred_region_labels):
     # TODO - mesclar predicoes com combinacaoEntidadesAll
     #print(pred_region_labels[:15])
-    labels = ['O', 'DNA', 'RNA', 'PROTEIN', 'CELL_LINE', 'CELL_TYPE']
+    labels = ['O','Problema','Tratamento','Teste','Anatomia']   
     combinacaoEntidadesAll_pred = list()
     num=0
     news = list()
     for combinacao in combinacaoEntidadesAll:
-        #print(combinacao)
+        print('combinacao:', combinacao)
         if combinacao:
             for ent in combinacao[1]:
                 tag = int(pred_region_labels[num])
@@ -762,5 +771,98 @@ def EntidadeUmaLetra(entidade):
         retorno = 1
     return retorno
 
+def getCombinacaoEntidades(dic_predictions, filtro_postagger, dicPosTagger, lista_postaggers_entidades):
+    num=0
+    erro_corpus=0
+    num_frases_sem_entidade=0
+    lista_erro_corpus=list()
+    combinacaoEntidadesAll = list()
+    combinacaoEntidades = list()
+    pulando_termos_postagger = list()
+    if filtro_postagger:
+        print('Com filtro-postagger')
+    else:
+        print('Sem filtro-postagger')
+    for key, value in dic_predictions.items():
+        num=num+1
+        combinacaoEntidades = list()
+        tokens=value[0].copy()
+        so_tokens = [t[0] for t in tokens]
+        entidades=value[1].copy()
+        for entidade in entidades:
+            erros_entidade = list()
+            texto_entidade=entidade[0].strip()
+            indices = entidade[1]
+            tipo_entidade = entidade[2]
+            frase = so_tokens.copy()
+            inicio=indices[0]
+            fim=indices[-1]
+            frase.insert(inicio, '<e1>')
+            frase.insert(fim+2, '</e1>')
+            if texto_entidade=='-' or texto_entidade=='=' or texto_entidade=='+' or texto_entidade==':' or texto_entidade==',' or texto_entidade=="'" or texto_entidade=='"' or texto_entidade=='.' or texto_entidade==';' or texto_entidade=='/' or texto_entidade=='(' or texto_entidade==')' or texto_entidade=='[' or texto_entidade==']':
+                pass
+            texto_entidade_comparar=texto_entidade.replace('/','').replace(')','').replace('(','').replace(']','').replace('[','').replace(',','').replace('.','').replace(';','').replace('-','').replace('+','').replace("'",'')
+            texto_entidade_comparar = replaceWhiteSpaces(texto_entidade_comparar)
+            texto_frase_comparar = ' '.join(frase[inicio+1:fim+2]).strip().replace('/','').replace(')','').replace('(','').replace(']','').replace('[','').replace(',','').replace('.','').replace(';','').replace('-','').replace('+','').replace("'",'')
+            texto_frase_comparar = replaceWhiteSpaces(texto_frase_comparar)
+            texto_entidade_comparar = texto_entidade_comparar.lower()
+            texto_frase_comparar = texto_frase_comparar.lower()
+            if (texto_entidade_comparar == texto_frase_comparar):
+                combinacaoEntidades.append([' '.join(frase).strip(), tipo_entidade]) # apendando entidades reais
+            else:
+                print('erro, key:', key)
+                erro_corpus=erro_corpus+1
+                erros_entidade.append(indices)
+                lista_erro_corpus.append([' '.join(frase).strip(), tipo_entidade, ' '.join(so_tokens), entidade])
 
+        for entidade in entidades:
+                indices = entidade[1]
+                #print('indices:', indices)
+                if indices in erros_entidade:
+                    continue
+                inicio=indices[0]
+                fim=indices[-1]
+                # agora, fazer a combinacao entre eles.. todas a seguir serão do tipo 'O'           
+                for indice in indices:
+                    for i in range(indice, fim+1):
+                        # ver se nao tem antes
+                        frase = so_tokens.copy()
+                        termo = frase[indice:i+2]
+                        frase.insert(indice, '<e1>')
+                        frase.insert(i+2, '</e1>')
+                        frase_string=' '.join(frase).strip()
+                        devePular = 0
+                        if '. </e1>' in frase_string or ', </e1>' in frase_string  or '; </e1>' in frase_string or '- </e1>' in frase_string  or ': </e1>' in frase_string  or '= </e1>' in frase_string  or '/ </e1>' in frase_string  or '( </e1>' in frase_string  or ') </e1>' in frase_string  or '[ </e1>' in frase_string  or '] </e1>' in frase_string  or ': </e1>' in frase_string or 'and </e1>' in frase_string or 'or </e1>' in frase_string:
+                            devePular=1
+                        if '<e1> .' in frase_string or '<e1> ,' in frase_string  or '<e1> ;' in frase_string or '<e1> -' in frase_string  or '<e1> :' in frase_string  or '<e1> =' in frase_string  or '<e1> /' in frase_string  or '<e1> (' in frase_string  or '<e1> )' in frase_string  or '<e1> [' in frase_string  or '<e1> ]' in frase_string  or '<e1> :' in frase_string  or '<e1> and' in frase_string  or '<e1> or' in frase_string:
+                            devePular=1
+                        if re.search("<e1> [0-9]* </e1>", frase_string):
+                            devePular=1
+                        if filtro_postagger==True:
+                            pos_tagger_termo = tipoPostaggerTokens(termo, dicPosTagger)
+                            if pos_tagger_termo not in lista_postaggers_entidades:
+                                pulando_termos_postagger.append([termo, pos_tagger_termo])
+                                devePular=1
+                
+                        tem_frase = 0
+                        for frase in combinacaoEntidades:
+                            if frase[0] == frase_string:
+                                tem_frase=''
+                                break
+                        if tem_frase==0 and devePular==0:
+                            combinacaoEntidades.append([frase_string, 'O'])
+        # shuffle no combinacaoEntidades
+        if len(combinacaoEntidades)>0:
+            combinacaoEntidadesAll.append([' '.join(so_tokens).strip(), combinacaoEntidades])
+        else:
+            num_frases_sem_entidade = num_frases_sem_entidade+1
+            combinacaoEntidadesAll.append([])
+        combinacaoEntidades = list()
+        if (num % 1000) ==0:
+            print('key:', key)
+
+    print('len(combinacaoEntidadesAll:)',len(combinacaoEntidadesAll))
+    print('len(pulando_termos_postagger):', len(pulando_termos_postagger))
+    
+    return combinacaoEntidadesAll, pulando_termos_postagger
     
