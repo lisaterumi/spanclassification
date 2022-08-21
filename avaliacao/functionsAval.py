@@ -85,6 +85,10 @@ def predictBERTNER_IO(sentencas, tipo_entidade):
         model = 'lisaterumi/portuguese-ner-biobertptclin-anatomia'
     elif tipo_entidade == 'Problema':
         model = 'lisaterumi/portuguese-ner-biobertptclin-problema'
+    elif tipo_entidade == 'all':
+        #model = 'lisaterumi/portuguese-ner-nestedclinbr-biobertpt-all'
+        #model = 'lisaterumi/portuguese-ner-nestedclinbr-biobertpt-clin'
+        model=r'C:\Users\lisat\OneDrive\jupyter notebook\NER-nestedclinbr\all'
 
     tokenizer = AutoTokenizer.from_pretrained(model)
     config = AutoConfig.from_pretrained(model)
@@ -160,7 +164,7 @@ def getDicPredictions(tags, tokens):
             #elif tag!='O': # nova entidade
             else:
                 if entidade_anterior!='O' and len(tokens_entidade)>0: 
-                    entidades.append([tokens_entidade, indices_entidade, entidade_anterior])
+                    entidades.append([' '.join(tokens_entidade), indices_entidade, entidade_anterior])
                 indices_entidade=list()
                 tokens_entidade = list()
                 if tag!='O': 
@@ -230,9 +234,9 @@ def get_label(data_dir, label_file):
 
 
 def getModel():
-    model_url = r"C:\Users\lisat\OneDrive\jupyter notebook\ChunkClassification\model"
+    model_url = r"C:\Users\lisat\OneDrive\jupyter notebook\span-model\model-exp3"
     print("loading model from", model_url)
-    label_lst = get_label(r"C:\Users\lisat\OneDrive\jupyter notebook\ChunkClassification\data", "label.txt")
+    label_lst = get_label(r"C:\Users\lisat\OneDrive\jupyter notebook\spanclassification\preProcessamento", "label.txt")
     num_labels = len(label_lst)
     print('num_labels:', num_labels)
 
@@ -255,61 +259,66 @@ def areConsecutive(arr):
     return True;   
 
 # 1o. encontrar os postaggers das entidades...
-def getDicPosTagger():
-    pathCorpus=r'../PreProcessamento/GENIAcorpus3.02.merged_corrigido.xml'
-    dicPostagger = {}
-    doc = xml.dom.minidom.parse(pathCorpus);
-    sentences = doc.getElementsByTagName("sentence")
-    for sentence in sentences:
-        # ver se tem entidade do interesse
-        cons = sentence.getElementsByTagName("cons")
-        list_w = sentence.getElementsByTagName("w")
-        for i, w in enumerate(list_w):
-            texto = w.firstChild.data.lower()
-            postagger = w.getAttribute("c")
-            if (postagger == '*'):
-                postagger = 'NN'
-            dicPostagger[texto] = postagger
-            for palavra in texto.split('-'):
-                if not palavra in dicPostagger.keys():
-                    dicPostagger[palavra] = postagger
-            for palavra in texto.split('/'):
-                if not palavra in dicPostagger.keys():
-                    dicPostagger[palavra] = postagger
-            if not texto.replace('(','').replace(')','') in dicPostagger.keys():
-                dicPostagger[texto] = postagger
-    #save_obj('dicPostagger', dicPostagger)
-    return dicPostagger
+def getDicPosTagger(dic_sentencesTrainDev):
+    dicPostagger = load_obj('dic_postagger')
+    allFrases = load_obj('allFrases')
+    if dicPostagger==None or allFrases==None:
+        print('Nao foi possivel recuperar obj, gerando dicPosTagger novamente')
+        dicPostagger = {}
+        allFrases=[]
+        for key, value in dic_sentencesTrainDev.items():
+            tokens=value[0]
+            frase = [t[0] for t in tokens]
+            frase = ' '.join(frase)
+            allFrases.append(frase)
+            #print(frase)
+
+        #print(allFrases)
+        doc = nlp_token_class(allFrases)
+        #print(doc)
+        for frase in doc:
+            for d in frase:
+                #print(d)
+                pos = d['entity_group']
+                #print(pos)
+                token=d['word']
+                if pos=='PREP+ART':
+                    pos='ART'
+                if pos=='NPROP':
+                    pos='N'
+                if 'ADV' in pos: # ADV-KS, ADV-KS-REL	
+                    pos='ADV'
+                if 'PRON' in pos: # PRO-KS	, PRO-KS-REL, PROPESS, PROPSUB
+                    pos='PRON'
+                if pos=='VAUX'or pos=='PCP': #participio
+                    pos='V'
+                dicPostagger[token] = pos    
+
+        save_obj('dicPostagger', dicPostagger)
+        save_obj('allFrases', allFrases)
+    return dicPostagger, allFrases
 
 def tipoPostaggerTokens(entidade_token, dicPostagger):
     postagger = ''
     for p in entidade_token:
+        #print('p:', p)
         if p.lower() in dicPostagger.keys():
             postagger = postagger + '-' + dicPostagger.get(p.lower())
-        elif p.lower().replace(',','') in dicPostagger.keys():
-            postagger = postagger + '-' + dicPostagger.get(p.lower().replace(',',''))
-        elif p.lower().replace('(','').replace(')','') in dicPostagger.keys():
-            postagger = postagger + '-' + dicPostagger.get(p.lower().replace('(','').replace(')',''))
         else:
-            for palavra in p.lower().split('/'):
-                if palavra in dicPostagger.keys():
-                    postagger = postagger + '-' + dicPostagger.get(palavra)
-            for palavra in p.lower().split('-'):
-                if palavra in dicPostagger.keys():
-                    postagger = postagger + '-' + dicPostagger.get(palavra)
+            #print('nao tem:', p)
+            # se nao tem, considera N
+            postagger = postagger + '-' + 'N'
     return postagger
 
 
-def getListaPostaggerEntidades(dic_predictions, dicPosTagger):
+def getListaPostaggerEntidades(dic_sentencesTrainDev, dicPosTagger):
     lista_postaggers_entidades = []
-    for key, value in dic_predictions.items():
+    for key, value in dic_sentencesTrainDev.items():
+        #print('key:', key)
         entidades = value[1]
-        #print(entidades)
         for entidade in entidades:
-            pos_tagger=tipoPostaggerTokens(entidade[0], dicPosTagger)
-            #if pos_tagger=='-JJ':
-                #print(entidade)
-                #print(value[0])
+            #print(entidade[0])
+            pos_tagger=tipoPostaggerTokens(entidade[0].split(), dicPosTagger)
             if pos_tagger not in lista_postaggers_entidades:
                 lista_postaggers_entidades.append(pos_tagger)
     return lista_postaggers_entidades
@@ -753,163 +762,5 @@ def EntidadeUmaLetra(entidade):
         retorno = 1
     return retorno
 
-def getCombinacaoEntidadesAllPosProc(dic_predictions, dicPosTagger, lista_postaggers_entidades, filtroPostagger=True):
-    #  filtro (pos-processamento)
-    palavrasDescontinua_underline=['AND_NOT', 'AND/OR', 'AS_WELL_AS', 'AND', 'OR', 'BUT_NOT', 'NEITHER_NOR', 'THAN']
-    num=0
-    numDescontinuas=0
-    erro_corpus=0
-    num_frases_sem_entidade=0
-    lista_erro_corpus=list()
-    combinacaoEntidadesAll = list()
-    combinacaoEntidades = list()
-    pulando_termos_postagger = list()
-    numEntidadesRetiradas=0
-    for key, value in dic_predictions.items():
-        num=num+1
-        combinacaoEntidades = list()
-        #print('key:', key)
-        #print(value)
-        tokens=value[0].copy()
-        so_tokens = [t[0] for t in tokens]
-        entidades=value[1].copy()
-        #print(so_tokens)
-        #print(entidades)
-        for entidade in entidades:
-            erros_entidade = list()
-            #print(entidade[1])
-            texto_entidade=entidade[0]
-            indices = entidade[1]
-            tipo_entidade = entidade[2]
-            if areConsecutive(indices): # ver se não é descontinua
-                #print(entidade[1])
-                #print(frase)
-                frase = so_tokens.copy()
-                inicio=indices[0]
-                fim=indices[-1]
-                frase.insert(inicio, '<e1>')
-                frase.insert(fim+2, '</e1>')
-                if ' '.join(texto_entidade).strip()=='-' or ' '.join(texto_entidade).strip()=='=' or ' '.join(texto_entidade).strip()=='+' or ' '.join(texto_entidade).strip()==':' or ' '.join(texto_entidade).strip()==',' or ' '.join(texto_entidade).strip()=="'" or ' '.join(texto_entidade).strip()=='"' or ' '.join(texto_entidade).strip()=='.' or ' '.join(texto_entidade).strip()==';' or ' '.join(texto_entidade).strip()=='/' or ' '.join(texto_entidade).strip()=='(' or ' '.join(texto_entidade).strip()==')' or ' '.join(texto_entidade).strip()=='[' or ' '.join(texto_entidade).strip()==']'or EntidadeUmaLetra(texto_entidade):
-                    numEntidadesRetiradas=numEntidadesRetiradas+1
-                    pass
-                #print('--texto_entidade--:', texto_entidade)
-                #print('frase:', frase)
-                #print('frase[inicio+1:fim+2]:', frase[inicio+1:fim+2])
-                #print(tokens[indice])
-                # o corpus tem alguns problemas, ex tem entidade descontinua sem o CC
-                # entao aqui, se não bater, não adicionar no arquivo de treinamento
-                # ex frase "The inhibition of c - fos and c - jun expression by IL - 4 in LPS - treated cells was shown to be due to a lower transcription rate of the c - fos and c - jun genes ."
-                #print("texto_entidade:", texto_entidade)
-                #print("frase[inicio:fim]:", frase[inicio+1:fim+2])
-                texto_entidade_comparar=' '.join(texto_entidade).strip().replace('/','').replace(')','').replace('(','').replace(']','').replace('[','').replace(',','').replace('.','').replace(';','').replace('-','').replace('+','').replace("'",'')
-                texto_entidade_comparar = replaceWhiteSpaces(texto_entidade_comparar)
-                texto_frase_comparar = ' '.join(frase[inicio+1:fim+2]).strip().replace('/','').replace(')','').replace('(','').replace(']','').replace('[','').replace(',','').replace('.','').replace(';','').replace('-','').replace('+','').replace("'",'')
-                texto_frase_comparar = replaceWhiteSpaces(texto_frase_comparar)
-                #tem = [palavra.lower() in texto_entidade_comparar for palavra in palavrasDescontinua]
-                #tem = [' '+palavra.lower()+' ' in ' '+texto_entidade_comparar+' ' for palavra in palavrasDescontinua]
-                #texto_frase_comparar2 = texto_frase_comparar.replace('and not', 'and_not').replace('as well as', 'as_well_as').replace('neither nor', 'neither_nor').replace('but not', 'but_not')
-                #print(frase)
-                #print('texto_frase_comparar2.split():', texto_frase_comparar2.split())
-                #print('texto_frase_comparar2.split():', texto_frase_comparar2.split()[0])
-                #tem = [texto_frase_comparar2.split()[-1]==palavra.lower() for palavra in palavrasDescontinua_underline]
-                #tem = [' '+palavra.lower()+' ' in ' '+texto_frase_comparar2+' ' for palavra in palavrasDescontinua_underline]
-                #tem_boolean = True in tem
-                #print([' '.join(frase).strip(), tipo_entidade])
-                #if not tem_boolean:
-                #if 1==2:
-                #    combinacaoEntidades.append([' '.join(frase).strip(), tipo_entidade]) # apendando entidades reais
-                texto_entidade_comparar = texto_entidade_comparar.lower()
-                texto_frase_comparar = texto_frase_comparar.lower()
-                if ((texto_entidade_comparar == texto_frase_comparar) or (texto_entidade_comparar+'s' == texto_frase_comparar) or (texto_entidade_comparar+'es' == texto_frase_comparar) or (texto_entidade_comparar+'ies' == texto_frase_comparar) or (texto_entidade_comparar[:-1]+'ies' == texto_frase_comparar) or (texto_entidade_comparar[:-1] == texto_frase_comparar.replace(' /','/'))):
-                    combinacaoEntidades.append([' '.join(frase).strip(), tipo_entidade]) # apendando entidades reais
-                else:
-                    #print('tem:', tem)
-                    #print('texto_entidade_comparar:', texto_entidade_comparar)
-                    #print('texto_frase_comparar:', texto_frase_comparar)
-                    #print('texto_frase_comparar2.split()[-1]:', texto_frase_comparar2.split()[-1])
-                    #print("' '.join(texto_entidade).strip()):", ' '.join(texto_entidade).strip())
-                    #print("' '.join(frase[inicio:fim].strip():", ' '.join(frase[inicio+1:fim+2]).strip())
-                    erro_corpus=erro_corpus+1
-                    erros_entidade.append(indices)
-                    #print('-----indices erro:----', indices)
-                    lista_erro_corpus.append([' '.join(frase).strip(), tipo_entidade, ' '.join(so_tokens), entidade])
-            else: # agora, qdo são descontinuas
-                numDescontinuas=numDescontinuas+1
-                #print(entidade[1])
-                #frase = so_tokens.copy()
-                #inicio=indices[0]
-                #fim=indices[-1]
-                #frase.insert(inicio, '<e1>')
-                #frase.insert(fim+2, '</e1>')
 
-        for entidade in entidades:
-                indices = entidade[1]
-                #print('indices:', indices)
-                if indices in erros_entidade:
-                    continue
-                inicio=indices[0]
-                fim=indices[-1]
-                # agora, fazer a combinacao entre eles.. todas a seguir serão do tipo 'O'           
-                for indice in indices:
-                    for i in range(indice, fim+1):
-                        # ver se nao tem antes
-                        frase = so_tokens.copy()
-                        termo = frase[indice:i+2]
-                        frase.insert(indice, '<e1>')
-                        #print(i)
-
-                        frase.insert(i+2, '</e1>')
-                        frase_string=' '.join(frase).strip()
-                        #print(frase_string)
-                        #if frase_string not in combinacaoEntidades:
-                        # ver se frase não termina com pontuacao ('.',',',';','-',')','(',']','[','/','"',)
-                        devePular = 0
-                        if '. </e1>' in frase_string or ', </e1>' in frase_string  or '; </e1>' in frase_string or '- </e1>' in frase_string  or ': </e1>' in frase_string  or '= </e1>' in frase_string  or '/ </e1>' in frase_string  or '( </e1>' in frase_string  or ') </e1>' in frase_string  or '[ </e1>' in frase_string  or '] </e1>' in frase_string  or ': </e1>' in frase_string or 'and </e1>' in frase_string or 'or </e1>' in frase_string:
-                            devePular=1
-                        if '<e1> .' in frase_string or '<e1> ,' in frase_string  or '<e1> ;' in frase_string or '<e1> -' in frase_string  or '<e1> :' in frase_string  or '<e1> =' in frase_string  or '<e1> /' in frase_string  or '<e1> (' in frase_string  or '<e1> )' in frase_string  or '<e1> [' in frase_string  or '<e1> ]' in frase_string  or '<e1> :' in frase_string  or '<e1> and' in frase_string  or '<e1> or' in frase_string:
-                            devePular=1
-                        if re.search("<e1> [0-9]* </e1>", frase_string):
-                            devePular=1
-                        if re.search("<e1> . </e1>", frase_string):# só uma letra ou numero
-                            devePular=1
-                        if '</e1> factor' in frase_string or '</e1> receptor' in frase_string or '</e1> site' in frase_string or '</e1> cell line' in frase_string or '</e1> region' in frase_string or '</e1> cell' in frase_string or '</e1> enhancer' in frase_string or '</e1> element' in frase_string or '</e1> protein' in frase_string or '</e1> gene' in frase_string:
-                            devePular=1
-                            #print('aaaaaaaaa:', frase_string)
-                        if (filtroPostagger):
-                            pos_tagger_termo = tipoPostaggerTokens(termo, dicPosTagger)
-                            if pos_tagger_termo not in lista_postaggers_entidades:
-                                pulando_termos_postagger.append([termo, pos_tagger_termo])
-                                devePular=1
-
-                        tem_frase = 0
-                        for frase in combinacaoEntidades:
-                            if frase[0] == frase_string:
-                                tem_frase=''
-                                break
-                        if devePular==1:
-                            numEntidadesRetiradas=numEntidadesRetiradas+1
-                        if tem_frase==0 and devePular==0:
-                            #print('inserindo:', frase_string)
-                            #print('indice:', indice)
-                            combinacaoEntidades.append([frase_string, 'O'])
-        # shuffle no combinacaoEntidades
-        if len(combinacaoEntidades)>0:
-            random.shuffle(combinacaoEntidades)
-            combinacaoEntidadesAll.append([' '.join(so_tokens).strip(), combinacaoEntidades])
-        else:
-            num_frases_sem_entidade = num_frases_sem_entidade+1
-            combinacaoEntidadesAll.append([])
-            #print("key sem entidade", key)
-            #print('len(combinacaoEntidades):', len(combinacaoEntidades))
-            #print(so_tokens)
-        combinacaoEntidades = list()
-        if (num % 1000) ==0:
-        #if (num %3) == 0:
-            print('key:', key)
-            #break
-    print('numDescontinuas:', numDescontinuas)
-    print('erro_corpus:', erro_corpus)
-    print('num_frases_sem_entidade:', num_frases_sem_entidade)
-    print('numEntidadesRetiradas:', numEntidadesRetiradas)
-    return combinacaoEntidadesAll
     
