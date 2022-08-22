@@ -331,9 +331,6 @@ def convert_examples_to_features(
 
             lista_label.append(label)
         list_token_obj.append(Listatokens(list_tokens, indices_e1_sentenca, lista_label))
-        list_tokens=list()
-        indices_e1_sentenca=list()
-        lista_label=list()
 
         if ex_index < 2:
             print("*** Example ***")
@@ -348,6 +345,10 @@ def convert_examples_to_features(
             #print("list_text_a:", list_text_a)
             #print("list_text_a_tokenizado:", list_text_a_tokenizado)
                         
+        list_tokens=list()
+        indices_e1_sentenca=list()
+        lista_label=list()
+
         if numMaxRegioes<len(lista_label):
             numMaxRegioes=len(lista_label)
         

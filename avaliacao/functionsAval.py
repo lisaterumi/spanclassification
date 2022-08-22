@@ -506,13 +506,13 @@ def predictSpan(model):
         bsl_model: trained binary sequence labeling model
         batch_size: batch_size when predicting
     """
-    #print(label_lst)
-    label_lst = get_label(r"C:\Users\lisat\OneDrive\jupyter notebook\ChunkClassification\data", "label.txt")
-
+    label_lst = get_label(r"data", "label.txt")
+    print(label_lst)
+    
     device='cpu'
-    test_set = InputFeatures(model, 200, device='cpu', mode="predict", labels=label_lst)
-    #print('len(test_set):', len(test_set))
-    loader = DataLoader(test_set, batch_size=200, collate_fn=test_set.collate_func)
+    test_set = InputFeatures(model, 500, device='cpu', mode="predict", labels=label_lst)
+    print('len(test_set):', len(test_set))
+    loader = DataLoader(test_set, batch_size=500, collate_fn=test_set.collate_func)
     #print('len(loader):', len(loader))
 
     # data = input_ids, attention_mask, token_type_ids, lista_e1_mask
@@ -547,7 +547,7 @@ def predictSpan(model):
             pred_region_labels = []  # for all tokens are not in-entity
             if len(pred_region_output) > 0:
                 # pred_region_output (n_regions, n_tags)
-                pred_region_labels = torch.argmax(pred_region_output, dim=1).view(-1).to(device)
+                pred_region_labels = torch.argmax(pred_region_output, dim=1).to(device)
                 # (n_regions)
             #print('len(pred_region_labels:)', len(pred_region_labels))
             
@@ -571,9 +571,11 @@ def getCombinacaoEntidadesAll_pred(combinacaoEntidadesAll, pred_region_labels):
     num=0
     news = list()
     for combinacao in combinacaoEntidadesAll:
-        print('combinacao:', combinacao)
+        #print('combinacao:', combinacao)
         if combinacao:
             for ent in combinacao[1]:
+                #print('ent:', ent)
+                #print('num:', num)
                 tag = int(pred_region_labels[num])
                 num=num+1
                 #new = [combinacao[1][0][0], combinacao[1][0][1]]

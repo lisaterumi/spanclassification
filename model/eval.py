@@ -25,9 +25,9 @@ BERT_MODEL ='pucpr/biobertpt-clin'
 MAX_SEQ_LEN = 256
 #MAX_SEQ_LEN = 300
 # COLAB:
-DATA_DIR='./data/'
+#DATA_DIR='./data/'
 # LOCAL
-#DATA_DIR='./model/data/'
+DATA_DIR='./model/data/'
 LABEL_FILE='label.txt'
 HIDDEN_SIZE = 768
 #COLAB
@@ -246,7 +246,8 @@ def predict(model, bert_model, mode, batch_size=BATCH_SIZE):
 def main():
     #COLAB
     #model_url = from_project_root("data/model/best_model.pt")
-    model_url = from_project_root("data/model/")
+    #model_url = from_project_root("data/model/")
+    model_url = from_project_root(r"C:\Users\lisat\OneDrive\jupyter notebook\span-model\model-exp3")
     #LOCAL
     #model_url = from_project_root("./model/")
     print("loading model from", model_url)
@@ -268,7 +269,7 @@ def main():
     #model = BertForChunkClassification.from_pretrained(model_url, hidden_size=HIDDEN_SIZE)
     print('--Eval sem NER---')
     #evaluate(model, BERT_MODEL, "test")
-    evaluateMatriz(model,BERT_MODEL,"test")
+    evaluateMatriz(model,BERT_MODEL,"predict")
     #predict(model, predict_url)
     #predict(model, BERT_MODEL, "test")
     pass

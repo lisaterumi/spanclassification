@@ -22,13 +22,14 @@ from utils.path_util import from_project_root, dirname
 logger = logging.getLogger(__name__)
 
 #COLAB
-DATA_DIR='./data'
+#DATA_DIR='./data'
 #LOCAL
-#DATA_DIR='./model/data'
+DATA_DIR='./model/data'
 LABEL_FILE='label.txt'
 TRAIN_FILE = "span.train"
 DEV_FILE = "span.test"
 TEST_FILE = "span.test"
+PREDICT_FILE = "span.predict"
 
 class InputExample(object):
     """
@@ -142,10 +143,11 @@ class InputFeatures(object):
 class ChunkProcessor(object):
     """Processor for the Semeval data set """
 
-    def __init__(self, data_dir, label_file, train_file, dev_file, test_file):
+    def __init__(self, data_dir, label_file, train_file, dev_file, test_file, predict_file):
         self.train_file = train_file
         self.dev_file = dev_file
         self.test_file = test_file
+        self.predict_file = predict_file
         self.data_dir = data_dir
         self.labels = get_label(data_dir, label_file)
 
@@ -189,7 +191,7 @@ class ChunkProcessor(object):
     def get_examples(self, mode):
         """
         Args:
-            mode: train, dev, test
+            mode: train, dev, test, predict
         """
         file_to_read = None
         if mode == "train":
@@ -198,6 +200,10 @@ class ChunkProcessor(object):
             file_to_read = self.dev_file
         elif mode == "test":
             file_to_read = self.test_file
+        elif mode == "predict":
+            file_to_read = self.predict_file
+
+            
 
         logger.info("LOOKING AT {}".format(os.path.join(self.data_dir, file_to_read)))
         print("LOOKING AT {}".format(os.path.join(self.data_dir, file_to_read)))
@@ -392,7 +398,7 @@ def convert_examples_to_features(
 
 
 def load_and_cache_examples(model_name_or_path, max_seq_len, device, mode):
-    processor = processors['chunk'](DATA_DIR, LABEL_FILE, TRAIN_FILE, DEV_FILE, TEST_FILE)
+    processor = processors['chunk'](DATA_DIR, LABEL_FILE, TRAIN_FILE, DEV_FILE, TEST_FILE, PREDICT_FILE)
 
     # Load data features from cache or dataset file
     '''
@@ -419,8 +425,11 @@ def load_and_cache_examples(model_name_or_path, max_seq_len, device, mode):
         examples = processor.get_examples("dev")
     elif mode == "test":
         examples = processor.get_examples("test")
+    elif mode == "predict":
+        examples = processor.get_examples("predict")
+        
     else:
-        raise Exception("For mode, Only train, dev, test is available")
+        raise Exception("For mode, Only train, dev, test and predict are available")
 
     features = convert_examples_to_features(examples, max_seq_len, model_name_or_path)
     return features
@@ -431,7 +440,8 @@ def main():
     #start_time = time.time()
     print('os.getcwd():', os.getcwd())
     label_lst = get_label(DATA_DIR, LABEL_FILE)
-    test_set = InputFeatures('pucpr/biobertpt-all', 256, device='cpu', mode='test', labels=label_lst)
+    predict_set = InputFeatures('pucpr/biobertpt-all', 256, device='cpu', mode='predict', labels=label_lst)
+    print(len(predict_set))
 
 if __name__ == '__main__':
     main()

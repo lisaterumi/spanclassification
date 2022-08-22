@@ -20,7 +20,7 @@ class BertForChunkClassification(BertPreTrainedModel):
         self.bert = BertModel(config=config)
 
         self.classifier= nn.Sequential(
-            nn.ReLU(),
+            #nn.ReLU(),
             nn.Linear(hidden_size * 3, num_labels),
         )
         
@@ -36,7 +36,7 @@ class BertForChunkClassification(BertPreTrainedModel):
           print('--erro na forward, erro:--', e)
           raise
         sequence_output = outputs[0]
-        sequence_output = self.dropout(sequence_output)
+        #sequence_output = self.dropout(sequence_output)
 
         regions = list()
         for hidden, indices in zip(sequence_output, lista_indices_e1): # para cada frase do batch
