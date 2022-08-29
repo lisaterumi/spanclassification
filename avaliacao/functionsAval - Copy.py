@@ -565,66 +565,6 @@ def predictSpan(model):
     return pred_region_labels
 
 
-def predictSpan2(model, batch_size):
-    """ predict NER result for sentence list
-    Args:
-        model: trained end2end model
-        data_url: url to test dataset for evaluating
-        bsl_model: trained binary sequence labeling model
-        batch_size: batch_size when predicting
-    """
-    label_lst = get_label(r"data", "label.txt")
-    print(label_lst)
-    
-    device='cpu'
-    test_set = InputFeatures(model, batch_size, device='cpu', mode="predict", labels=label_lst)
-    print('len(test_set):', len(test_set))
-    loader = DataLoader(test_set, batch_size=batch_size, collate_fn=test_set.collate_func)
-    #print('len(loader):', len(loader))
-
-    # data = input_ids, attention_mask, token_type_ids, lista_e1_mask
-    model.eval()
-    save_url = 'predictions.txt'
-    numB=0
-    with torch.no_grad():
-        for all_input_ids, all_attention_mask, all_token_type_ids, all_tokens in loader:
-            numB=numB+1
-            #print('vai fazer predicao, numB:', numB)
-            #print('len(all_input_ids):', len(all_input_ids))
-            #print('len(indices):', len(indices))
-            try:
-                all_indices = list()
-                labels = list()
-                for listatoken in all_tokens:
-                    indices = list()
-                    for indice in listatoken.list_indices:
-                        indices.append(indice)
-                    all_indices.append(indices)
-                    for label in listatoken.list_labels:
-                        labels.append(label)
-                pred_region_output = model.forward(all_input_ids, all_attention_mask, all_token_type_ids, lista_indices_e1=all_indices)
-            except RuntimeError:
-                print("all 0 tags, no evaluating this epoch")
-
-            print('len(pred_region_output:)', len(pred_region_output))
-            #print('pred_region_output:', pred_region_output)
-            #try:
-            #    print('pred_region_output.size()', pred_region_output.size())
-            #except:
-            #    print('erro ao imprimir shape do pred_region_output')
-            pred_region_labels = []  # for all tokens are not in-entity
-            if len(pred_region_output) > 0:
-                # pred_region_output (n_regions, n_tags)
-                pred_region_labels = torch.argmax(pred_region_output, dim=1).to(device)
-                # (n_regions)
-            #print('len(pred_region_labels:)', len(pred_region_labels))
-            
-            with open(save_url, 'w', encoding='utf-8', newline='\n') as save_file:
-                for value in pred_region_labels:
-                    save_file.write("{}\n".format(value))
-    #print('numB:', numB)
-    return pred_region_labels
-    
 def gather_duplicate_indices(a):
     _,tags,count = np.unique(a, axis=0, return_inverse=True, return_counts=True)
     sidx = tags.argsort()
@@ -903,8 +843,7 @@ def getCombinacaoEntidades(dic_predictions, filtro_postagger, dicPosTagger, list
                     for i in range(indice, fim+1):
                         # ver se nao tem antes
                         frase = so_tokens.copy()
-                        #termo = frase[indice:i+2]
-                        termo = frase[indice:i+1] # correcao
+                        termo = frase[indice:i+2]
                         frase.insert(indice, '<e1>')
                         frase.insert(i+2, '</e1>')
                         frase_string=' '.join(frase).strip()

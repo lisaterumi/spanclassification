@@ -46,6 +46,7 @@ class BertForChunkClassification(BertPreTrainedModel):
                 end = indice_region[1] +1
                 if start >= 0:
                     regions.append(hidden[start:end]) # tamanho 4(tam regiao em tokens) x 768
+                    # TODO - aki, concatenar com tensor ao inves de lista
 
         region_outputs = []  # all not in-entity tokens, no candidate regions
         if len(regions) > 0:

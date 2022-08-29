@@ -38,10 +38,10 @@ FREEZE_WV = False
 LOG_PER_BATCH = 20
 #COLAB
 #BERT_MODEL ='pucpr/biobertpt-all'
-BERT_MODEL ='pucpr/biobertpt-clin'
+#BERT_MODEL ='pucpr/biobertpt-clin'
 #LOCAL
 #BERT_MODEL_NER ='lisaterumi/genia-biobert-ent'
-#BERT_MODEL ='./model/biobertpt/'
+BERT_MODEL ='./model/biobertpt/'
 #BERT_MODEL_NER ='./model2/'
 #BERT_MODEL ='bert-base-uncased'
 #BERT_MODEL ='bert-base-cased'
@@ -49,9 +49,9 @@ HIDDEN_SIZE = 768
 #MAX_SEQ_LEN = 300
 MAX_SEQ_LEN = 256
 #COLAB
-DATA_DIR='./data'
+#DATA_DIR='./data'
 #LOCAL
-#DATA_DIR='./model/data'
+DATA_DIR='./model/data'
 LABEL_FILE='label.txt'
 RANDOM_SEED = 233
 set_random_seed(RANDOM_SEED)
