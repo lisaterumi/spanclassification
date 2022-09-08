@@ -1059,7 +1059,7 @@ def getCombinacaoEntidadesSentence(dic_predictions, filtro_postagger, dicPosTagg
                         if tem_frase==0 and devePular==0:
                         #print('tem_frase:', tem_frase)
                         #if tem_frase==0:
-                            lista_indices = [i, len(frase_string.split())-1+i]
+                            lista_indices = [indice, len(frase_string.split())-1+indice]
                             lista_indices_proc = [num for num in range(lista_indices[0], lista_indices[1]+1, 1)]
                             combinacaoEntidadesNeg.append([frase_string, ' '.join(frase).strip(), lista_indices_proc, labels['O']])
                         
