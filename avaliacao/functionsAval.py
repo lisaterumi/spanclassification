@@ -74,6 +74,7 @@ def loadSentencesTest():
     return dicSentences_new_test
 
     
+    
 def predictBERTNER_IO(sentencas, tipo_entidade):
 
     model=''
@@ -90,6 +91,59 @@ def predictBERTNER_IO(sentencas, tipo_entidade):
         #model = 'lisaterumi/portuguese-ner-nestedclinbr-biobertpt-clin'
         model=r'C:\Users\lisat\OneDrive\jupyter notebook\NER-nestedclinbr\all'
 
+    tokenizer = AutoTokenizer.from_pretrained(model)
+    config = AutoConfig.from_pretrained(model)
+    idx2tag = config.id2label
+    #idx2tag = config.label2id 
+    print('idx2tag:', idx2tag)
+    model = AutoModelForTokenClassification.from_pretrained(model)
+
+    predictedModel=[]
+    all_tokens=[]
+    
+    for test_sentence in sentencas:
+        #print('test_sentence:', test_sentence)
+        tokenized_sentence = tokenizer.encode(test_sentence)
+        input_ids = torch.tensor([tokenized_sentence])#.cuda()
+        
+        with torch.no_grad():
+            output = model(input_ids)
+        label_indices = np.argmax(output[0].to('cpu').numpy(), axis=2)
+        
+        # join bpe split tokens
+        tokens = tokenizer.convert_ids_to_tokens(input_ids.to('cpu').numpy()[0])
+        new_tokens, new_labels = [], []
+        for token, label_idx in zip(tokens, label_indices[0]):
+            if token.startswith("##"):
+                new_tokens[-1] = new_tokens[-1] + token[2:]
+            else:
+                new_labels.append(label_idx)
+                new_tokens.append(token)
+            
+        FinalLabelSentence = []
+        FinalToken = []
+        #print(len(new_tokens))
+        #print(len(new_labels))
+        for token, label in zip(new_tokens, new_labels):
+            label = idx2tag[label]
+            #label = str(label)
+            if label == "O" or label == "X":
+                FinalLabelSentence.append("O")
+                FinalToken.append(token)
+            else:
+                FinalLabelSentence.append(label)
+                FinalToken.append(token)
+                
+        predictedModel.append(FinalLabelSentence[1:-1]) # delete [SEP] and [CLS]
+        all_tokens.append(FinalToken[1:-1])
+                    
+    return predictedModel, all_tokens
+
+
+def predictBERTNER_IO2(sentencas, pathModel):
+
+    model=pathModel
+   
     tokenizer = AutoTokenizer.from_pretrained(model)
     config = AutoConfig.from_pretrained(model)
     idx2tag = config.id2label
